@@ -1,14 +1,14 @@
 ---
 source_file: "harvester\src\injector\__init__.py"
 type: "code"
-community: "Redis BullMQ"
+community: "Harvester Injector Init"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Redis_BullMQ
+  - community/Harvester_Injector_Init
 ---
 
 # __init__.py
 
-#graphify/code #graphify/EXTRACTED #community/Redis_BullMQ
+#graphify/code #graphify/EXTRACTED #community/Harvester_Injector_Init

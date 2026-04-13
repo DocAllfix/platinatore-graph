@@ -990,7 +990,7 @@
     {
       "id": "g15",
       "type": "group",
-      "label": "Harvester __init__ Modules",
+      "label": "Harvester Test Conftest",
       "x": 2880,
       "y": 1300,
       "width": 600,
@@ -1009,7 +1009,7 @@
     {
       "id": "g16",
       "type": "group",
-      "label": "Harvester Config __init__",
+      "label": "Orphan Node",
       "x": 3840,
       "y": 1300,
       "width": 600,
@@ -1028,7 +1028,7 @@
     {
       "id": "g17",
       "type": "group",
-      "label": "Harvester Test __init__",
+      "label": "Harvester Root Init",
       "x": 4580,
       "y": 1300,
       "width": 600,
@@ -1047,7 +1047,7 @@
     {
       "id": "g18",
       "type": "group",
-      "label": "Orphan Node",
+      "label": "Harvester Collectors Init",
       "x": 0,
       "y": 1780,
       "width": 600,
@@ -1066,7 +1066,7 @@
     {
       "id": "g19",
       "type": "group",
-      "label": "HNSW + RRF Retrieval",
+      "label": "Harvester Config Init",
       "x": 960,
       "y": 1780,
       "width": 600,
@@ -1085,7 +1085,7 @@
     {
       "id": "g20",
       "type": "group",
-      "label": "PostgreSQL pgvector",
+      "label": "Harvester Discovery Init",
       "x": 1920,
       "y": 1780,
       "width": 600,
@@ -1104,7 +1104,7 @@
     {
       "id": "g21",
       "type": "group",
-      "label": "Redis BullMQ",
+      "label": "Harvester Injector Init",
       "x": 2880,
       "y": 1780,
       "width": 600,
@@ -1123,7 +1123,7 @@
     {
       "id": "g22",
       "type": "group",
-      "label": "Gemini LLM",
+      "label": "Harvester Orchestrator Init",
       "x": 3840,
       "y": 1780,
       "width": 600,
@@ -1142,7 +1142,7 @@
     {
       "id": "g23",
       "type": "group",
-      "label": "Google Embedding",
+      "label": "Harvester Transformer Init",
       "x": 4580,
       "y": 1780,
       "width": 600,
@@ -1161,7 +1161,7 @@
     {
       "id": "g24",
       "type": "group",
-      "label": "Scraper Cheerio",
+      "label": "Harvester Tests Init",
       "x": 0,
       "y": 2260,
       "width": 600,

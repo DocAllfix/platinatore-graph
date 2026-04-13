@@ -1,14 +1,14 @@
 ---
 source_file: "harvester\src\transformer\__init__.py"
 type: "code"
-community: "Google Embedding"
+community: "Harvester Transformer Init"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Google_Embedding
+  - community/Harvester_Transformer_Init
 ---
 
 # __init__.py
 
-#graphify/code #graphify/EXTRACTED #community/Google_Embedding
+#graphify/code #graphify/EXTRACTED #community/Harvester_Transformer_Init

@@ -1,14 +1,14 @@
 ---
 source_file: "harvester\src\discovery\__init__.py"
 type: "code"
-community: "PostgreSQL pgvector"
+community: "Harvester Discovery Init"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/PostgreSQL_pgvector
+  - community/Harvester_Discovery_Init
 ---
 
 # __init__.py
 
-#graphify/code #graphify/EXTRACTED #community/PostgreSQL_pgvector
+#graphify/code #graphify/EXTRACTED #community/Harvester_Discovery_Init

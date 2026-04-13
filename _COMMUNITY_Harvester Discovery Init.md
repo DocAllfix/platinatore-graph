@@ -4,17 +4,17 @@ cohesion: 1.00
 members: 1
 ---
 
-# Orphan Node
+# Harvester Discovery Init
 
 **Cohesion:** 1.00 - tightly connected
 **Members:** 1 nodes
 
 ## Members
-- [[test]]
+- [[__init__.py_3]] - code - harvester\src\discovery\__init__.py
 
 ## Live Query (requires Dataview plugin)
 
 ```dataview
-TABLE source_file, type FROM #community/Orphan_Node
+TABLE source_file, type FROM #community/Harvester_Discovery_Init
 SORT file.name ASC
 ```
