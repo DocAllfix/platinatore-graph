@@ -1,12 +1,12 @@
 ---
 source_file: "backend/src/config/env.ts"
 type: "code"
-community: "DB Pool & Query Layer (TS)"
+community: "DB Pool + Express Entry"
 location: "line 91"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/DB_Pool_&_Query_Layer_(TS)
+  - community/DB_Pool_+_Express_Entry
 ---
 
 # Exported env Singleton
@@ -18,4 +18,4 @@ tags:
 - [[ioredis Client Instance]] - `calls` [EXTRACTED]
 - [[loadEnv() Boot-time Validation]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/DB_Pool_&_Query_Layer_(TS)
+#graphify/code #graphify/EXTRACTED #community/DB_Pool_+_Express_Entry

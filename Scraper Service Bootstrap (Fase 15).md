@@ -1,12 +1,12 @@
 ---
 source_file: "scraper/src/index.ts"
 type: "code"
-community: "Environment & API Config"
+community: "Backend Env Config"
 location: "line 1"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Environment_&_API_Config
+  - community/Backend_Env_Config
 ---
 
 # Scraper Service Bootstrap (Fase 15)
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Il Platinatore AI â€” Gaming Guide Chatbot]] - `conceptually_related_to` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Environment_&_API_Config
+#graphify/code #graphify/INFERRED #community/Backend_Env_Config

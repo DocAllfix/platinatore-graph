@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: "code"
-community: "Pydantic Settings (Harvester)"
+community: "Harvester Settings"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Pydantic_Settings_(Harvester)
+  - community/Harvester_Settings
 ---
 
 # BaseSettings
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Settings]] - `inherits` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Pydantic_Settings_(Harvester)
+#graphify/code #graphify/EXTRACTED #community/Harvester_Settings

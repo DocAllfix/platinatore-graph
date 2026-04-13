@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\harvester\src\config\logger.py"
 type: "code"
-community: "Python Logger (Harvester)"
-location: "L22"
+community: "Harvester Logger"
+location: "L28"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Python_Logger_(Harvester)
+  - community/Harvester_Logger
 ---
 
 # get_logger()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[logger.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Python_Logger_(Harvester)
+#graphify/code #graphify/EXTRACTED #community/Harvester_Logger

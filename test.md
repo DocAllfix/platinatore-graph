@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: ""
-community: "Harvester Description"
+community: "Orphan Node"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Harvester_Description
+  - community/Orphan_Node
 ---
 
 # test
 
-#graphify/document #graphify/EXTRACTED #community/Harvester_Description
+#graphify/document #graphify/EXTRACTED #community/Orphan_Node

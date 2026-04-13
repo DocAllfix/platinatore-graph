@@ -1,12 +1,12 @@
 ---
 source_file: "backend\src\config\database.ts"
 type: "code"
-community: "Database Module (TS)"
+community: "DB Client Module (AST)"
 location: "L51"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Database_Module_(TS)
+  - community/DB_Client_Module_(AST)
 ---
 
 # getClient()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[database.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Database_Module_(TS)
+#graphify/code #graphify/EXTRACTED #community/DB_Client_Module_(AST)
