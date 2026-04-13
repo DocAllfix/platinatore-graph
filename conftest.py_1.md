@@ -1,5 +1,5 @@
 ---
-source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\harvester\src\config\settings.py"
+source_file: "harvester\tests\conftest.py"
 type: "code"
 community: "Harvester Settings + Test Scaffold"
 location: "L1"
@@ -9,9 +9,9 @@ tags:
   - community/Harvester_Settings_+_Test_Scaffold
 ---
 
-# settings.py
+# conftest.py
 
 ## Connections
-- [[Settings]] - `contains` [EXTRACTED]
+- [[mock_settings()]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Harvester_Settings_+_Test_Scaffold

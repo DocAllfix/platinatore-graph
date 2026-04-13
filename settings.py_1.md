@@ -1,5 +1,5 @@
 ---
-source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\harvester\src\config\settings.py"
+source_file: "harvester\src\config\settings.py"
 type: "code"
 community: "Harvester Settings + Test Scaffold"
 location: "L1"

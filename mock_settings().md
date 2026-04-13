@@ -1,17 +1,18 @@
 ---
-source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\harvester\src\config\settings.py"
+source_file: "harvester\tests\conftest.py"
 type: "code"
 community: "Harvester Settings + Test Scaffold"
-location: "L1"
+location: "L22"
 tags:
   - graphify/code
   - graphify/EXTRACTED
   - community/Harvester_Settings_+_Test_Scaffold
 ---
 
-# settings.py
+# mock_settings()
 
 ## Connections
-- [[Settings]] - `contains` [EXTRACTED]
+- [[Settings con valori di test, senza connessioni reali a DB o Redis.     Utile per]] - `rationale_for` [EXTRACTED]
+- [[conftest.py_1]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Harvester_Settings_+_Test_Scaffold
