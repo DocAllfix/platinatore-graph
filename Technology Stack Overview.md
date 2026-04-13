@@ -1,12 +1,12 @@
 ---
 source_file: "README.md"
 type: "document"
-community: "Community 1"
+community: "Environment & API Config"
 location: "Stack Tecnologico section"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_1
+  - community/Environment_&_API_Config
 ---
 
 # Technology Stack Overview
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[RAG Pipeline Architecture (Hybrid HNSW + RRF)]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_1
+#graphify/document #graphify/EXTRACTED #community/Environment_&_API_Config

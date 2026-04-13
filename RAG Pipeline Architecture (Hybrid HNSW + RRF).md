@@ -1,12 +1,12 @@
 ---
 source_file: "README.md"
 type: "document"
-community: "Community 1"
+community: "Environment & API Config"
 location: "Architettura RAG section"
 tags:
   - graphify/document
   - graphify/INFERRED
-  - community/Community_1
+  - community/Environment_&_API_Config
 ---
 
 # RAG Pipeline Architecture (Hybrid HNSW + RRF)
@@ -17,4 +17,4 @@ tags:
 - [[RAG Configuration Variables]] - `shares_data_with` [INFERRED]
 - [[Technology Stack Overview]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/INFERRED #community/Community_1
+#graphify/document #graphify/INFERRED #community/Environment_&_API_Config

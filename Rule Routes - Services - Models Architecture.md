@@ -1,12 +1,12 @@
 ---
 source_file: "CLAUDE.md"
 type: "document"
-community: "Community 2"
+community: "Architecture Rules & CLAUDE.md"
 location: "Architettura section"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_2
+  - community/Architecture_Rules_&_CLAUDE.md
 ---
 
 # Rule: Routes -> Services -> Models Architecture
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[CLAUDE.md Project Rules]] - `implements` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_2
+#graphify/document #graphify/EXTRACTED #community/Architecture_Rules_&_CLAUDE.md

@@ -1,12 +1,12 @@
 ---
 source_file: "backend/src/config/database.ts"
 type: "code"
-community: "Community 0"
+community: "DB Pool & Query Layer (TS)"
 location: "line 7"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_0
+  - community/DB_Pool_&_Query_Layer_(TS)
 ---
 
 # PostgreSQL Pool via PgBouncer (port 6432)
@@ -19,4 +19,4 @@ tags:
 - [[getClient() for Multi-statement Transactions]] - `calls` [EXTRACTED]
 - [[query() Wrapper with Logging]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_0
+#graphify/code #graphify/EXTRACTED #community/DB_Pool_&_Query_Layer_(TS)

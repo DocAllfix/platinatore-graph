@@ -1,14 +1,14 @@
 ---
 source_file: "backend\src\utils\logger.ts"
 type: "code"
-community: "Community 9"
+community: "Pino Logger (TS)"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_9
+  - community/Pino_Logger_(TS)
 ---
 
 # logger.ts
 
-#graphify/code #graphify/EXTRACTED #community/Community_9
+#graphify/code #graphify/EXTRACTED #community/Pino_Logger_(TS)

@@ -1,12 +1,12 @@
 ---
 source_file: "backend/scripts/run-migrations.ts"
 type: "code"
-community: "Community 2"
+community: "Architecture Rules & CLAUDE.md"
 location: "function runMigrations"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_2
+  - community/Architecture_Rules_&_CLAUDE.md
 ---
 
 # Migration Runner
@@ -16,4 +16,4 @@ tags:
 - [[PostgreSQL Pool via PgBouncer (port 6432)]] - `semantically_similar_to` [INFERRED]
 - [[_migrations Tracking Table]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_2
+#graphify/code #graphify/EXTRACTED #community/Architecture_Rules_&_CLAUDE.md

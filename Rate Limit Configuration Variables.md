@@ -1,12 +1,12 @@
 ---
 source_file: "backend/src/config/env.ts"
 type: "code"
-community: "Community 1"
+community: "Environment & API Config"
 location: "lines 56-68"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Community_1
+  - community/Environment_&_API_Config
 ---
 
 # Rate Limit Configuration Variables
@@ -16,4 +16,4 @@ tags:
 - [[Trust Proxy Config (AUDIT FIX R6-1)]] - `conceptually_related_to` [INFERRED]
 - [[Zod Environment Schema]] - `implements` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Community_1
+#graphify/code #graphify/INFERRED #community/Environment_&_API_Config

@@ -1,12 +1,12 @@
 ---
 source_file: "backend/src/config/env.ts"
 type: "code"
-community: "Community 1"
+community: "Environment & API Config"
 location: "lines 51-54"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_1
+  - community/Environment_&_API_Config
 ---
 
 # RAG Configuration Variables
@@ -15,4 +15,4 @@ tags:
 - [[RAG Pipeline Architecture (Hybrid HNSW + RRF)]] - `shares_data_with` [INFERRED]
 - [[Zod Environment Schema]] - `implements` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_1
+#graphify/code #graphify/EXTRACTED #community/Environment_&_API_Config

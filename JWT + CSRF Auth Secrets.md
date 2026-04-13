@@ -1,12 +1,12 @@
 ---
 source_file: "backend/src/config/env.ts"
 type: "code"
-community: "Community 1"
+community: "Environment & API Config"
 location: "lines 31-35"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_1
+  - community/Environment_&_API_Config
 ---
 
 # JWT + CSRF Auth Secrets
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Zod Environment Schema]] - `implements` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_1
+#graphify/code #graphify/EXTRACTED #community/Environment_&_API_Config

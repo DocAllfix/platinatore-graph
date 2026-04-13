@@ -1,12 +1,12 @@
 ---
 source_file: "backend/src/config/env.ts"
 type: "code"
-community: "Community 1"
+community: "Environment & API Config"
 location: "function loadEnv"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_1
+  - community/Environment_&_API_Config
 ---
 
 # loadEnv() Boot-time Validation
@@ -15,4 +15,4 @@ tags:
 - [[Exported env Singleton]] - `calls` [EXTRACTED]
 - [[Zod Environment Schema]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_1
+#graphify/code #graphify/EXTRACTED #community/Environment_&_API_Config

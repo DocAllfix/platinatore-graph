@@ -1,12 +1,12 @@
 ---
 source_file: "backend/src/index.ts"
 type: "code"
-community: "Community 0"
+community: "DB Pool & Query Layer (TS)"
 location: "line 14"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_0
+  - community/DB_Pool_&_Query_Layer_(TS)
 ---
 
 # Trust Proxy Config (AUDIT FIX R6-1)
@@ -15,4 +15,4 @@ tags:
 - [[Express Application Entry Point]] - `calls` [EXTRACTED]
 - [[Rate Limit Configuration Variables]] - `conceptually_related_to` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_0
+#graphify/code #graphify/EXTRACTED #community/DB_Pool_&_Query_Layer_(TS)

@@ -1,12 +1,12 @@
 ---
 source_file: "CLAUDE.md"
 type: "document"
-community: "Community 2"
+community: "Architecture Rules & CLAUDE.md"
 location: "Sicurezza section"
 tags:
   - graphify/document
   - graphify/INFERRED
-  - community/Community_2
+  - community/Architecture_Rules_&_CLAUDE.md
 ---
 
 # Rule: Zod Input Validation + Prepared Statements
@@ -15,4 +15,4 @@ tags:
 - [[CLAUDE.md Project Rules]] - `implements` [EXTRACTED]
 - [[Zod Environment Schema]] - `conceptually_related_to` [INFERRED]
 
-#graphify/document #graphify/INFERRED #community/Community_2
+#graphify/document #graphify/INFERRED #community/Architecture_Rules_&_CLAUDE.md

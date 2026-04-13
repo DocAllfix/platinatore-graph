@@ -1,12 +1,12 @@
 ---
 source_file: "backend/src/config/env.ts"
 type: "code"
-community: "Community 1"
+community: "Environment & API Config"
 location: "const envSchema"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_1
+  - community/Environment_&_API_Config
 ---
 
 # Zod Environment Schema
@@ -22,4 +22,4 @@ tags:
 - [[WordPress API Config (WP_API_URL, App Password, Webhook Secret)]] - `implements` [EXTRACTED]
 - [[loadEnv() Boot-time Validation]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_1
+#graphify/code #graphify/EXTRACTED #community/Environment_&_API_Config

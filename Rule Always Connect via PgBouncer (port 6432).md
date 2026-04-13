@@ -1,12 +1,12 @@
 ---
 source_file: "CLAUDE.md"
 type: "document"
-community: "Community 2"
+community: "Architecture Rules & CLAUDE.md"
 location: "Database section"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Community_2
+  - community/Architecture_Rules_&_CLAUDE.md
 ---
 
 # Rule: Always Connect via PgBouncer (port 6432)
@@ -16,4 +16,4 @@ tags:
 - [[Direct PostgreSQL Connection (port 5432)]] - `references` [EXTRACTED]
 - [[PostgreSQL Pool via PgBouncer (port 6432)]] - `implements` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Community_2
+#graphify/document #graphify/EXTRACTED #community/Architecture_Rules_&_CLAUDE.md

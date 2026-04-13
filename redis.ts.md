@@ -1,12 +1,12 @@
 ---
 source_file: "backend\src\config\redis.ts"
 type: "code"
-community: "Community 7"
+community: "Redis Client (TS)"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_7
+  - community/Redis_Client_(TS)
 ---
 
 # redis.ts
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[testRedisConnection()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_7
+#graphify/code #graphify/EXTRACTED #community/Redis_Client_(TS)

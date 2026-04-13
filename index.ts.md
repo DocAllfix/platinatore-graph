@@ -1,14 +1,14 @@
 ---
 source_file: "backend\src\index.ts"
 type: "code"
-community: "Community 8"
+community: "Express Entry Point"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_8
+  - community/Express_Entry_Point
 ---
 
 # index.ts
 
-#graphify/code #graphify/EXTRACTED #community/Community_8
+#graphify/code #graphify/EXTRACTED #community/Express_Entry_Point

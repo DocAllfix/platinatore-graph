@@ -1,12 +1,12 @@
 ---
 source_file: "backend/src/config/database.ts"
 type: "code"
-community: "Community 0"
+community: "DB Pool & Query Layer (TS)"
 location: "function testConnection"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_0
+  - community/DB_Pool_&_Query_Layer_(TS)
 ---
 
 # testConnection() DB Health Check
@@ -15,4 +15,4 @@ tags:
 - [[query() Wrapper with Logging]] - `calls` [EXTRACTED]
 - [[testRedisConnection() Health Check]] - `semantically_similar_to` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_0
+#graphify/code #graphify/EXTRACTED #community/DB_Pool_&_Query_Layer_(TS)

@@ -1,12 +1,12 @@
 ---
 source_file: "README.md"
 type: "document"
-community: "Community 4"
+community: "Environment & API Config"
 location: "Descrizione section"
 tags:
   - graphify/document
   - graphify/INFERRED
-  - community/Community_4
+  - community/Environment_&_API_Config
 ---
 
 # Il Platinatore AI â€” Gaming Guide Chatbot
@@ -15,4 +15,4 @@ tags:
 - [[Scraper Service Bootstrap (Fase 15)]] - `conceptually_related_to` [INFERRED]
 - [[WordPress API Config (WP_API_URL, App Password, Webhook Secret)]] - `references` [INFERRED]
 
-#graphify/document #graphify/INFERRED #community/Community_4
+#graphify/document #graphify/INFERRED #community/Environment_&_API_Config
