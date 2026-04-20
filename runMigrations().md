@@ -1,18 +1,17 @@
 ---
-source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\scripts\run-migrations.ts"
+source_file: "backend\scripts\run-migrations.ts"
 type: "code"
-community: "Migration Runner Script"
+community: "run-migrations.ts"
 location: "L36"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Migration_Runner_Script
+  - community/run-migrations.ts
 ---
 
 # runMigrations()
 
 ## Connections
 - [[run-migrations.ts]] - `contains` [EXTRACTED]
-- [[run-migrations.ts_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Migration_Runner_Script
+#graphify/code #graphify/EXTRACTED #community/run-migrations.ts

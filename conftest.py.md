@@ -1,14 +1,17 @@
 ---
-source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\harvester\tests\conftest.py"
+source_file: "harvester\tests\conftest.py"
 type: "code"
-community: "Harvester Test Conftest"
+community: "BaseSettings"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Harvester_Test_Conftest
+  - community/BaseSettings
 ---
 
 # conftest.py
 
-#graphify/code #graphify/EXTRACTED #community/Harvester_Test_Conftest
+## Connections
+- [[mock_settings()]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/BaseSettings

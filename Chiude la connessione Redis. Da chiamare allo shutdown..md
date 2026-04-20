@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\config\redis_client.py"
 type: "rationale"
-community: "Harvester Redis Client"
+community: "redis_client.py"
 location: "L18"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Harvester_Redis_Client
+  - community/redis_client.py
 ---
 
 # Chiude la connessione Redis. Da chiamare allo shutdown.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[close_redis()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Harvester_Redis_Client
+#graphify/rationale #graphify/EXTRACTED #community/redis_client.py

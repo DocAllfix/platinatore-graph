@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: "code"
-community: "Harvester Settings + Test Scaffold"
+community: "BaseSettings"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Harvester_Settings_+_Test_Scaffold
+  - community/BaseSettings
 ---
 
 # BaseSettings
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Settings]] - `inherits` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Harvester_Settings_+_Test_Scaffold
+#graphify/code #graphify/EXTRACTED #community/BaseSettings

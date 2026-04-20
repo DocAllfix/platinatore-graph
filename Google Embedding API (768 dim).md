@@ -1,18 +1,17 @@
 ---
 source_file: "README.md"
 type: "document"
-community: "README Stack Overview"
-location: "17"
+community: "Project Architecture Overview"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/README_Stack_Overview
+  - community/Project_Architecture_Overview
 ---
 
 # Google Embedding API (768 dim)
 
 ## Connections
-- [[Il Platinatore AI â€” Gaming Guide Chatbot_1]] - `references` [EXTRACTED]
-- [[RAG Pipeline (Hybrid HNSW + RRF)]] - `references` [INFERRED]
+- [[Il Platinatore AI]] - `references` [EXTRACTED]
+- [[Vectorization]] - `calls` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/README_Stack_Overview
+#graphify/document #graphify/EXTRACTED #community/Project_Architecture_Overview

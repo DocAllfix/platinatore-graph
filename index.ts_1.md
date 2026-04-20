@@ -1,14 +1,19 @@
 ---
-source_file: "scraper\src\index.ts"
+source_file: "backend\src\routes\index.ts"
 type: "code"
-community: "Scraper Entry"
+community: "games.routes.ts"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Scraper_Entry
+  - community/games.routes.ts
 ---
 
 # index.ts
 
-#graphify/code #graphify/EXTRACTED #community/Scraper_Entry
+## Connections
+- [[games.routes.ts]] - `imports_from` [EXTRACTED]
+- [[guides.routes.ts]] - `imports_from` [EXTRACTED]
+- [[health.routes.ts]] - `imports_from` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/games.routes.ts

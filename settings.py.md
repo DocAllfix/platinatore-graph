@@ -1,12 +1,12 @@
 ---
-source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\harvester\src\config\settings.py"
+source_file: "harvester\src\config\settings.py"
 type: "code"
-community: "Harvester Settings + Test Scaffold"
+community: "BaseSettings"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Harvester_Settings_+_Test_Scaffold
+  - community/BaseSettings
 ---
 
 # settings.py
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Settings]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Harvester_Settings_+_Test_Scaffold
+#graphify/code #graphify/EXTRACTED #community/BaseSettings

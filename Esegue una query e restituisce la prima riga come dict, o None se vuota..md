@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\config\db.py"
 type: "rationale"
-community: "Harvester DB Pool + Wrappers"
+community: "DB Pool Infrastructure"
 location: "L92"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Harvester_DB_Pool_+_Wrappers
+  - community/DB_Pool_Infrastructure
 ---
 
 # Esegue una query e restituisce la prima riga come dict, o None se vuota.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[fetch_one()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Harvester_DB_Pool_+_Wrappers
+#graphify/rationale #graphify/EXTRACTED #community/DB_Pool_Infrastructure

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\conftest.py"
 type: "rationale"
-community: "Harvester Settings + Test Scaffold"
+community: "BaseSettings"
 location: "L23"
 tags:
   - graphify/rationale
-  - graphify/INFERRED
-  - community/Harvester_Settings_+_Test_Scaffold
+  - graphify/EXTRACTED
+  - community/BaseSettings
 ---
 
 # Settings con valori di test, senza connessioni reali a DB o Redis.     Utile per
@@ -15,4 +15,4 @@ tags:
 - [[Settings]] - `uses` [INFERRED]
 - [[mock_settings()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/INFERRED #community/Harvester_Settings_+_Test_Scaffold
+#graphify/rationale #graphify/EXTRACTED #community/BaseSettings
