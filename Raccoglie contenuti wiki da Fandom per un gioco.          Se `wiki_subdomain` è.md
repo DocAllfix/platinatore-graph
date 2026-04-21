@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\pipeline.py"
 type: "rationale"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L640"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # Raccoglie contenuti wiki da Fandom per un gioco.          Se `wiki_subdomain` è
@@ -28,4 +28,4 @@ tags:
 - [[Upserter]] - `uses` [INFERRED]
 - [[YouTubeCollector]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/INFERRED #community/Injector_Deduplication
+#graphify/rationale #graphify/INFERRED #community/Orchestrator_·_per_guide

@@ -1,12 +1,12 @@
 ---
 source_file: "backend\src\models\embeddings.model.ts"
 type: "code"
-community: "embeddings.model.ts"
+community: "Models · embeddings model"
 location: "L13"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/embeddings.model.ts
+  - community/Models_·_embeddings_model
 ---
 
 # runQuery()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[embeddings.model.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/embeddings.model.ts
+#graphify/code #graphify/EXTRACTED #community/Models_·_embeddings_model

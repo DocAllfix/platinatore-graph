@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\igdb.py"
 type: "rationale"
-community: "IGDB Discovery Scripts"
+community: "Discovery · giochi igdb"
 location: "L450"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/IGDB_Discovery_Scripts
+  - community/Discovery_·_giochi_igdb
 ---
 
 # Scarica tutti i giochi IGDB per le piattaforme e li inserisce nel DB.          P
@@ -15,4 +15,4 @@ tags:
 - [[.discover_all_games()]] - `rationale_for` [EXTRACTED]
 - [[Upserter]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/IGDB_Discovery_Scripts
+#graphify/rationale #graphify/EXTRACTED #community/Discovery_·_giochi_igdb

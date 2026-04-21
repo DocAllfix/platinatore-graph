@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\powerpyx.py"
 type: "code"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L41"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # PowerPyxCollector
@@ -47,4 +47,4 @@ tags:
 - [[game_name estratto correttamente dallo slug URL.]] - `uses` [INFERRED]
 - [[powerpyx.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Injector_Deduplication
+#graphify/code #graphify/INFERRED #community/Orchestrator_·_per_guide

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_injector.py"
 type: "code"
-community: "Injector Integration Tests"
+community: "Test Injector · quality contenuto"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Injector_Integration_Tests
+  - community/Test_Injector_·_quality_contenuto
 ---
 
 # test_injector.py
@@ -20,4 +20,4 @@ tags:
 - [[test_returns_false_on_no_match()]] - `contains` [EXTRACTED]
 - [[test_returns_true_on_hash_match()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Injector_Integration_Tests
+#graphify/code #graphify/EXTRACTED #community/Test_Injector_·_quality_contenuto

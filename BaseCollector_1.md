@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: "code"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # BaseCollector
@@ -26,4 +26,4 @@ tags:
 - [[YouTubeCollector]] - `inherits` [EXTRACTED]
 - [[_StubCollector]] - `inherits` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Injector_Deduplication
+#graphify/code #graphify/EXTRACTED #community/Orchestrator_·_per_guide

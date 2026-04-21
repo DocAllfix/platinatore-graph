@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\youtube.py"
 type: "rationale"
-community: "YouTube Collector"
+community: "Collectors · youtube transcript"
 location: "L108"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/YouTube_Collector
+  - community/Collectors_·_youtube_transcript
 ---
 
 # Fetch con redazione di `key=...` nei log.
@@ -15,4 +15,4 @@ tags:
 - [[.fetch()_2]] - `rationale_for` [EXTRACTED]
 - [[BaseCollector]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/YouTube_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_youtube_transcript

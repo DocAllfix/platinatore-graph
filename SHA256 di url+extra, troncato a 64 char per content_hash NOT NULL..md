@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\scripts\run_trophy_guides_top20.py"
 type: "rationale"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L85"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # SHA256 di url+extra, troncato a 64 char per content_hash NOT NULL.
@@ -19,4 +19,4 @@ tags:
 - [[Upserter]] - `uses` [INFERRED]
 - [[_url_hash()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/INFERRED #community/Injector_Deduplication
+#graphify/rationale #graphify/INFERRED #community/Orchestrator_·_per_guide

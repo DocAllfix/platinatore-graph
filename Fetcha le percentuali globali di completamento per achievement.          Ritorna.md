@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\steam_achievement_fetcher.py"
 type: "rationale"
-community: "PSN/Steam Discovery Scripts"
+community: "Discovery · giochi igdb"
 location: "L97"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/PSN/Steam_Discovery_Scripts
+  - community/Discovery_·_giochi_igdb
 ---
 
 # Fetcha le percentuali globali di completamento per achievement.          Ritorna
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[._fetch_global_percentages()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/PSN/Steam_Discovery_Scripts
+#graphify/rationale #graphify/EXTRACTED #community/Discovery_·_giochi_igdb

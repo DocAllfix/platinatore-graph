@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\chunker.py"
 type: "rationale"
-community: "chunk_content()"
+community: "Injector · chunk chunker"
 location: "L24"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/chunk_content()
+  - community/Injector_·_chunk_chunker
 ---
 
 # Split markdown guide in chunk con prefisso titolo e overlap tra chunk consecutiv
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[chunk_content()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/chunk_content()
+#graphify/rationale #graphify/EXTRACTED #community/Injector_·_chunk_chunker

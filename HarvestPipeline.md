@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\pipeline.py"
 type: "code"
-community: "Orchestrator Pipeline"
+community: "Orchestrator · per guide"
 location: "L39"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Orchestrator_Pipeline
+  - community/Orchestrator_·_per_guide
 ---
 
 # HarvestPipeline
@@ -58,4 +58,4 @@ tags:
 - [[pipeline.py]] - `contains` [EXTRACTED]
 - [[run_seed_batch ritorna dizionario con tutte le statistiche.]] - `uses` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Orchestrator_Pipeline
+#graphify/code #graphify/INFERRED #community/Orchestrator_·_per_guide

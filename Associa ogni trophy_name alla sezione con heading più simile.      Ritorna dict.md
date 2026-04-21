@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\trophy_section_extractor.py"
 type: "rationale"
-community: "Trophy Section Extractor"
+community: "Collectors · trophy extract"
 location: "L255"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Trophy_Section_Extractor
+  - community/Collectors_·_trophy_extract
 ---
 
 # Associa ogni trophy_name alla sezione con heading più simile.      Ritorna dict:
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[match_trophies_to_sections()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Trophy_Section_Extractor
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_trophy_extract

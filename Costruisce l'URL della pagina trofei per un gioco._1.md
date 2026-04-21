@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\truetrophies.py"
 type: "rationale"
-community: "TrueTrophies Collector"
+community: "Collectors · truetrophies per"
 location: "L61"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/TrueTrophies_Collector
+  - community/Collectors_·_truetrophies_per
 ---
 
 # Costruisce l'URL della pagina trofei per un gioco.
@@ -15,4 +15,4 @@ tags:
 - [[.guide_url()_2]] - `rationale_for` [EXTRACTED]
 - [[BaseCollector]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/TrueTrophies_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_truetrophies_per

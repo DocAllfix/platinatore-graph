@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\scripts\run_trophy_guides_top20.py"
 type: "rationale"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # Genera guide per-trofeo (platinum + gold) per i top 20 giochi con trofei PSN.  P
@@ -19,4 +19,4 @@ tags:
 - [[Upserter]] - `uses` [INFERRED]
 - [[run_trophy_guides_top20.py]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/INFERRED #community/Injector_Deduplication
+#graphify/rationale #graphify/INFERRED #community/Orchestrator_·_per_guide

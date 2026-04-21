@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\main.py"
 type: "code"
-community: "Orchestrator Pipeline"
+community: "Orchestrator · main main()"
 location: "L33"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Orchestrator_Pipeline
+  - community/Orchestrator_·_main_main()
 ---
 
 # _parse_args()
@@ -15,4 +15,4 @@ tags:
 - [[main()_8]] - `calls` [EXTRACTED]
 - [[main.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Orchestrator_Pipeline
+#graphify/code #graphify/EXTRACTED #community/Orchestrator_·_main_main()

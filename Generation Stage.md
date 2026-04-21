@@ -1,11 +1,11 @@
 ---
 source_file: "README.md"
 type: "document"
-community: "Project Architecture Overview"
+community: "Readme.Md · stage backend"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Project_Architecture_Overview
+  - community/Readme.Md_·_stage_backend
 ---
 
 # Generation Stage
@@ -14,4 +14,4 @@ tags:
 - [[Google Gemini 2.5 Flash]] - `calls` [EXTRACTED]
 - [[RAG Pipeline]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Project_Architecture_Overview
+#graphify/document #graphify/EXTRACTED #community/Readme.Md_·_stage_backend

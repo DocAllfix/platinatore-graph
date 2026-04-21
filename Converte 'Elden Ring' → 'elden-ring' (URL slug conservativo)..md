@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\pipeline.py"
 type: "rationale"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L988"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # Converte 'Elden Ring' → 'elden-ring' (URL slug conservativo).
@@ -28,4 +28,4 @@ tags:
 - [[YouTubeCollector]] - `uses` [INFERRED]
 - [[_slugify()_3]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/INFERRED #community/Injector_Deduplication
+#graphify/rationale #graphify/INFERRED #community/Orchestrator_·_per_guide

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\reddit.py"
 type: "rationale"
-community: "BaseCollector Interface"
+community: "Collectors · per collector"
 location: "L30"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_per_collector
 ---
 
 # Collector per post Reddit — aggrega titolo + selftext + top commenti.
@@ -15,4 +15,4 @@ tags:
 - [[BaseCollector]] - `uses` [INFERRED]
 - [[RedditCollector]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/BaseCollector_Interface
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_per_collector

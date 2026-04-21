@@ -1,11 +1,11 @@
 ---
 source_file: "README.md"
 type: "document"
-community: "Project Architecture Overview"
+community: "Readme.Md · stage backend"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Project_Architecture_Overview
+  - community/Readme.Md_·_stage_backend
 ---
 
 # Google Gemini 2.5 Flash
@@ -15,4 +15,4 @@ tags:
 - [[Il Platinatore AI]] - `references` [EXTRACTED]
 - [[LLM Transformation]] - `calls` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Project_Architecture_Overview
+#graphify/document #graphify/EXTRACTED #community/Readme.Md_·_stage_backend

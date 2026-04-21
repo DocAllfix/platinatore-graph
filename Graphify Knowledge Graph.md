@@ -1,11 +1,11 @@
 ---
 source_file: "CLAUDE.md"
 type: "document"
-community: "GRAPH_REPORT.md"
+community: "Claude.Md · graph graphify"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GRAPH_REPORT.md
+  - community/Claude.Md_·_graph_graphify
 ---
 
 # Graphify Knowledge Graph
@@ -15,4 +15,4 @@ tags:
 - [[Wiki Index]] - `references` [EXTRACTED]
 - [[graphify.watch._rebuild_code]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GRAPH_REPORT.md
+#graphify/document #graphify/EXTRACTED #community/Claude.Md_·_graph_graphify

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\upserter.py"
 type: "rationale"
-community: "Upserter Transaction Logic"
+community: "Orchestrator · per guide"
 location: "L173"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Upserter_Transaction_Logic
+  - community/Orchestrator_·_per_guide
 ---
 
 # UPSERT atomica di una guida con tracciabilità fonti.          Argomenti `chunks`
@@ -15,4 +15,4 @@ tags:
 - [[.upsert_guide()]] - `rationale_for` [EXTRACTED]
 - [[Deduplicator]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Upserter_Transaction_Logic
+#graphify/rationale #graphify/EXTRACTED #community/Orchestrator_·_per_guide

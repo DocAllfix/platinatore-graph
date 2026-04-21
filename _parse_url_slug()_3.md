@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\psnprofiles.py"
 type: "code"
-community: "PSNProfiles Collector"
+community: "Collectors · per collector"
 location: "L149"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/PSNProfiles_Collector
+  - community/Collectors_·_per_collector
 ---
 
 # _parse_url_slug()
@@ -16,4 +16,4 @@ tags:
 - [[Estrae game_name dall'URL PSNProfiles.      Formati tipici       - guide12345]] - `rationale_for` [EXTRACTED]
 - [[psnprofiles.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/PSNProfiles_Collector
+#graphify/code #graphify/EXTRACTED #community/Collectors_·_per_collector

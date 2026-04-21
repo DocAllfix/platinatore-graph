@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\igdb_seed.py"
 type: "rationale"
-community: "PSN/Steam Discovery Scripts"
+community: "Discovery · giochi igdb"
 location: "L203"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/PSN/Steam_Discovery_Scripts
+  - community/Discovery_·_giochi_igdb
 ---
 
 # Fetcha achievement Steam per giochi con steam_appid senza achievement.
@@ -18,4 +18,4 @@ tags:
 - [[SteamAchievementFetcher]] - `uses` [INFERRED]
 - [[_run_steam_achievements()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/INFERRED #community/PSN/Steam_Discovery_Scripts
+#graphify/rationale #graphify/INFERRED #community/Discovery_·_giochi_igdb

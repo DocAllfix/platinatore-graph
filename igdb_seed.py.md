@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\igdb_seed.py"
 type: "code"
-community: "PSN/Steam Discovery Scripts"
+community: "Discovery · giochi igdb"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/PSN/Steam_Discovery_Scripts
+  - community/Discovery_·_giochi_igdb
 ---
 
 # igdb_seed.py
@@ -19,4 +19,4 @@ tags:
 - [[igdb_seed — pipeline completa IGDB discovery + PSN trofei + Steam achievements.]] - `rationale_for` [EXTRACTED]
 - [[main()_7]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/PSN/Steam_Discovery_Scripts
+#graphify/code #graphify/EXTRACTED #community/Discovery_·_giochi_igdb

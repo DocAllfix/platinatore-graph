@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\pstrophies_org.py"
 type: "rationale"
-community: "PSTrophies Collector"
+community: "Collectors · org per"
 location: "L58"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/PSTrophies_Collector
+  - community/Collectors_·_org_per
 ---
 
 # Estrae titolo e contenuto pulito dall'HTML di PlaystationTrophies.org.
@@ -15,4 +15,4 @@ tags:
 - [[.extract()_7]] - `rationale_for` [EXTRACTED]
 - [[BaseCollector]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/PSTrophies_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_org_per

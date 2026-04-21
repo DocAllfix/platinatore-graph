@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\upserter.py"
 type: "rationale"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L61"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # Gestisce l'INSERT atomico di guida + fonti in una transazione.
@@ -15,4 +15,4 @@ tags:
 - [[Deduplicator]] - `uses` [INFERRED]
 - [[Upserter]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Injector_Deduplication
+#graphify/rationale #graphify/EXTRACTED #community/Orchestrator_·_per_guide

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\seed_loader.py"
 type: "code"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # seed_loader.py
@@ -15,4 +15,4 @@ tags:
 - [[SeedLoader]] - `contains` [EXTRACTED]
 - [[SeedLoader — carica un file JSON seed e popola il catalogo giochi nel DB.  Forma]] - `rationale_for` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Injector_Deduplication
+#graphify/code #graphify/EXTRACTED #community/Orchestrator_·_per_guide

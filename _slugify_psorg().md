@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\pstrophies_org.py"
 type: "code"
-community: "PSTrophies Collector"
+community: "Collectors · org per"
 location: "L37"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/PSTrophies_Collector
+  - community/Collectors_·_org_per
 ---
 
 # _slugify_psorg()
@@ -16,4 +16,4 @@ tags:
 - [[Slug per playstationtrophies.org lowercase + trattini, no caratteri speciali.]] - `rationale_for` [EXTRACTED]
 - [[pstrophies_org.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/PSTrophies_Collector
+#graphify/code #graphify/EXTRACTED #community/Collectors_·_org_per

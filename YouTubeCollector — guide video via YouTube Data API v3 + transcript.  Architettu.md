@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\youtube.py"
 type: "rationale"
-community: "YouTube Collector"
+community: "Collectors · youtube transcript"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/YouTube_Collector
+  - community/Collectors_·_youtube_transcript
 ---
 
 # YouTubeCollector — guide video via YouTube Data API v3 + transcript.  Architettu
@@ -15,4 +15,4 @@ tags:
 - [[BaseCollector]] - `uses` [INFERRED]
 - [[youtube.py]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/YouTube_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_youtube_transcript

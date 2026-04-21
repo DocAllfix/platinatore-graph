@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\reddit.py"
 type: "rationale"
-community: "BaseCollector Interface"
+community: "Collectors · per collector"
 location: "L199"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_per_collector
 ---
 
 # Applica filtri qualità + anonimizza.  None se scartato.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[BaseCollector]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/INFERRED #community/BaseCollector_Interface
+#graphify/rationale #graphify/INFERRED #community/Collectors_·_per_collector

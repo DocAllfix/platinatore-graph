@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_collectors.py"
 type: "rationale"
-community: "Injector Deduplication"
+community: "Collectors · per collector"
 location: "L229"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Collectors_·_per_collector
 ---
 
 # Il rate limiting è ereditato: il client httpx deve essere inizializzato.
@@ -17,4 +17,4 @@ tags:
 - [[PSNProfilesCollector]] - `uses` [INFERRED]
 - [[TrueAchievementsCollector]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/INFERRED #community/Injector_Deduplication
+#graphify/rationale #graphify/INFERRED #community/Collectors_·_per_collector

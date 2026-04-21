@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\transformer\synthesizer.py"
 type: "code"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L41"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # GuideSynthesizer
@@ -59,4 +59,4 @@ tags:
 - [[Wrapper multi-provider per estrazione fatti + sintesi guide.]] - `rationale_for` [EXTRACTED]
 - [[synthesizer.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Injector_Deduplication
+#graphify/code #graphify/INFERRED #community/Orchestrator_·_per_guide

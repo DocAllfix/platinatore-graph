@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\psn_seed.py"
 type: "rationale"
-community: "PSN/Steam Discovery Scripts"
+community: "Discovery · psn per"
 location: "L35"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/PSN/Steam_Discovery_Scripts
+  - community/Discovery_·_psn_per
 ---
 
 # Entry point asincrono. Ritorna 0 su successo, 1 su errore fatale.
@@ -16,4 +16,4 @@ tags:
 - [[PsnTrophyFetcher]] - `uses` [INFERRED]
 - [[_run()_4]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/INFERRED #community/PSN/Steam_Discovery_Scripts
+#graphify/rationale #graphify/INFERRED #community/Discovery_·_psn_per

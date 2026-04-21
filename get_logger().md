@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\config\logger.py"
 type: "code"
-community: "logger.py"
+community: "Config · logger get"
 location: "L29"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/logger.py
+  - community/Config_·_logger_get
 ---
 
 # get_logger()
@@ -15,4 +15,4 @@ tags:
 - [[Restituisce un logger con il campo 'logger' già bindato al nome del modulo.]] - `rationale_for` [EXTRACTED]
 - [[logger.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/logger.py
+#graphify/code #graphify/EXTRACTED #community/Config_·_logger_get

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\trophy_section_extractor.py"
 type: "rationale"
-community: "Trophy Section Extractor"
+community: "Collectors · trophy extract"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Trophy_Section_Extractor
+  - community/Collectors_·_trophy_extract
 ---
 
 # TrophySectionExtractor — estrae sezioni per-trofeo da HTML di guide.  Supporta d
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[trophy_section_extractor.py]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Trophy_Section_Extractor
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_trophy_extract

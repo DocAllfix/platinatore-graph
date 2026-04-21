@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\guide_search.py"
 type: "rationale"
-community: "BaseCollector Interface"
+community: "Collectors · ddg guide"
 location: "L151"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_ddg_guide
 ---
 
 # Fetch diretto a DDG accettando sia 200 che 202.          DDG restituisce 202 com
@@ -15,4 +15,4 @@ tags:
 - [[._ddg_fetch()]] - `rationale_for` [EXTRACTED]
 - [[BaseCollector]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/BaseCollector_Interface
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_ddg_guide

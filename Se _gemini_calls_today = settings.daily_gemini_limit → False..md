@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_transformer.py"
 type: "rationale"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L91"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # Se _gemini_calls_today >= settings.daily_gemini_limit → False.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[GuideSynthesizer]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/INFERRED #community/Injector_Deduplication
+#graphify/rationale #graphify/INFERRED #community/Orchestrator_·_per_guide

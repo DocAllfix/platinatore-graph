@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\truetrophies.py"
 type: "rationale"
-community: "TrueTrophies Collector"
+community: "Collectors · truetrophies per"
 location: "L39"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/TrueTrophies_Collector
+  - community/Collectors_·_truetrophies_per
 ---
 
 # Slug per TrueTrophies: NFKD + lowercase + trattini come separatori.      Esempi:
@@ -15,4 +15,4 @@ tags:
 - [[BaseCollector]] - `uses` [INFERRED]
 - [[_slugify_truetrophies()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/TrueTrophies_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_truetrophies_per

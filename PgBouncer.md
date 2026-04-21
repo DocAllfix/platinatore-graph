@@ -1,11 +1,11 @@
 ---
 source_file: "README.md"
 type: "document"
-community: "Project Architecture Overview"
+community: "Readme.Md · stage backend"
 tags:
   - graphify/document
   - graphify/INFERRED
-  - community/Project_Architecture_Overview
+  - community/Readme.Md_·_stage_backend
 ---
 
 # PgBouncer
@@ -15,4 +15,4 @@ tags:
 - [[PostgreSQL + pgvector]] - `shares_data_with` [INFERRED]
 - [[docker-compose.dev.yml]] - `references` [INFERRED]
 
-#graphify/document #graphify/INFERRED #community/Project_Architecture_Overview
+#graphify/document #graphify/INFERRED #community/Readme.Md_·_stage_backend

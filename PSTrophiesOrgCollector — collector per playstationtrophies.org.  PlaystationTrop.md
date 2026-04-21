@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\pstrophies_org.py"
 type: "rationale"
-community: "PSTrophies Collector"
+community: "Collectors · org per"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/PSTrophies_Collector
+  - community/Collectors_·_org_per
 ---
 
 # PSTrophiesOrgCollector — collector per playstationtrophies.org.  PlaystationTrop
@@ -15,4 +15,4 @@ tags:
 - [[BaseCollector]] - `uses` [INFERRED]
 - [[pstrophies_org.py]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/PSTrophies_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_org_per

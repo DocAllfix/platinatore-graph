@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\scripts\test_single_game.py"
 type: "rationale"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L45"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # Converte una lista float nel literal pgvector '[f1,f2,...]'.      Usato per INSE
@@ -18,4 +18,4 @@ tags:
 - [[Upserter]] - `uses` [INFERRED]
 - [[_vec_to_pg()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/INFERRED #community/Injector_Deduplication
+#graphify/rationale #graphify/INFERRED #community/Orchestrator_·_per_guide

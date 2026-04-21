@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\reddit.py"
 type: "rationale"
-community: "Reddit Collector"
+community: "Collectors · json post"
 location: "L60"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Reddit_Collector
+  - community/Collectors_·_json_post
 ---
 
 # Parsa un payload search.json o comments.json di Reddit.          `html` qui è il
@@ -15,4 +15,4 @@ tags:
 - [[.extract()_8]] - `rationale_for` [EXTRACTED]
 - [[BaseCollector]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Reddit_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_json_post

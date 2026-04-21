@@ -1,0 +1,22 @@
+---
+source_file: "backend\src\services\query.normalizer.ts"
+type: "code"
+community: "Services · query normalizer"
+location: "L1"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Services_·_query_normalizer
+---
+
+# query.normalizer.ts
+
+## Connections
+- [[detectLanguage()]] - `contains` [EXTRACTED]
+- [[extractGame()]] - `contains` [EXTRACTED]
+- [[extractTopicHint()]] - `contains` [EXTRACTED]
+- [[extractTrophy()]] - `contains` [EXTRACTED]
+- [[looksLikeTrophyQuery()]] - `contains` [EXTRACTED]
+- [[normalizeQuery()]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Services_·_query_normalizer

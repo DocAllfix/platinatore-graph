@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\pstrophies_org.py"
 type: "rationale"
-community: "PSTrophies Collector"
+community: "Collectors · org per"
 location: "L38"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/PSTrophies_Collector
+  - community/Collectors_·_org_per
 ---
 
 # Slug per playstationtrophies.org: lowercase + trattini, no caratteri speciali.
@@ -15,4 +15,4 @@ tags:
 - [[BaseCollector]] - `uses` [INFERRED]
 - [[_slugify_psorg()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/PSTrophies_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_org_per

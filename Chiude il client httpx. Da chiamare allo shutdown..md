@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\psn_trophy_fetcher.py"
 type: "rationale"
-community: "PSN/Steam Discovery Scripts"
+community: "Discovery · psn per"
 location: "L428"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/PSN/Steam_Discovery_Scripts
+  - community/Discovery_·_psn_per
 ---
 
 # Chiude il client httpx. Da chiamare allo shutdown.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.close()_2]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/PSN/Steam_Discovery_Scripts
+#graphify/rationale #graphify/EXTRACTED #community/Discovery_·_psn_per

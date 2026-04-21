@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\deduplicator.py"
 type: "code"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L9"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # Deduplicator
@@ -55,4 +55,4 @@ tags:
 - [[Versione TX-scoped di find_or_create_game — stessa logica a 4 step.]] - `uses` [INFERRED]
 - [[deduplicator.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Injector_Deduplication
+#graphify/code #graphify/INFERRED #community/Orchestrator_·_per_guide

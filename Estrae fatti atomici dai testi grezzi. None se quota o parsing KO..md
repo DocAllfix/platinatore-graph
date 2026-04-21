@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\transformer\synthesizer.py"
 type: "rationale"
-community: "Guide Synthesizer"
+community: "Transformer · extract synthesize"
 location: "L154"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Guide_Synthesizer
+  - community/Transformer_·_extract_synthesize
 ---
 
 # Estrae fatti atomici dai testi grezzi. None se quota o parsing KO.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.extract_facts()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Guide_Synthesizer
+#graphify/rationale #graphify/EXTRACTED #community/Transformer_·_extract_synthesize

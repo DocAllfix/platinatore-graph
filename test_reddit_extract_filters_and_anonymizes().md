@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_new_collectors.py"
 type: "code"
-community: "Fextralife/IGN/Reddit Tests"
+community: "Test New Collectors · extract returns"
 location: "L209"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Fextralife/IGN/Reddit_Tests
+  - community/Test_New_Collectors_·_extract_returns
 ---
 
 # test_reddit_extract_filters_and_anonymizes()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[test_new_collectors.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Fextralife/IGN/Reddit_Tests
+#graphify/code #graphify/EXTRACTED #community/Test_New_Collectors_·_extract_returns

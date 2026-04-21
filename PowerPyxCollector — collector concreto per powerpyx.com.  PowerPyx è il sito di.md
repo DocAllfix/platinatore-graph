@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\powerpyx.py"
 type: "rationale"
-community: "BaseCollector Interface"
+community: "Collectors · powerpyx url"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_powerpyx_url
 ---
 
 # PowerPyxCollector — collector concreto per powerpyx.com.  PowerPyx è il sito di
@@ -15,4 +15,4 @@ tags:
 - [[BaseCollector]] - `uses` [INFERRED]
 - [[powerpyx.py]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/BaseCollector_Interface
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_powerpyx_url

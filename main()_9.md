@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\psn_seed.py"
 type: "code"
-community: "PSN/Steam Discovery Scripts"
+community: "Discovery · psn per"
 location: "L141"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/PSN/Steam_Discovery_Scripts
+  - community/Discovery_·_psn_per
 ---
 
 # main()
@@ -15,4 +15,4 @@ tags:
 - [[_run()_4]] - `calls` [EXTRACTED]
 - [[psn_seed.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/PSN/Steam_Discovery_Scripts
+#graphify/code #graphify/EXTRACTED #community/Discovery_·_psn_per

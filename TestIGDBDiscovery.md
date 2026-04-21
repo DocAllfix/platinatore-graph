@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_discovery.py"
 type: "code"
-community: "IGDB Discovery Scripts"
+community: "Discovery · giochi igdb"
 location: "L105"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/IGDB_Discovery_Scripts
+  - community/Discovery_·_giochi_igdb
 ---
 
 # TestIGDBDiscovery
@@ -16,4 +16,4 @@ tags:
 - [[SeedLoader]] - `uses` [INFERRED]
 - [[test_discovery.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/IGDB_Discovery_Scripts
+#graphify/code #graphify/INFERRED #community/Discovery_·_giochi_igdb

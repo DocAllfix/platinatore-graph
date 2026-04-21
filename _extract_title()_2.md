@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\ign.py"
 type: "code"
-community: "ign.py"
+community: "Collectors · ign com"
 location: "L98"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/ign.py
+  - community/Collectors_·_ign_com
 ---
 
 # _extract_title()
@@ -15,4 +15,4 @@ tags:
 - [[.extract()_4]] - `calls` [EXTRACTED]
 - [[ign.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/ign.py
+#graphify/code #graphify/EXTRACTED #community/Collectors_·_ign_com

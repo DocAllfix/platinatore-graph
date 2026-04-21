@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\conftest.py"
 type: "code"
-community: "BaseSettings"
+community: "Conftest · settings basesettings"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/BaseSettings
+  - community/Conftest_·_settings_basesettings
 ---
 
 # conftest.py
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[mock_settings()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/BaseSettings
+#graphify/code #graphify/EXTRACTED #community/Conftest_·_settings_basesettings

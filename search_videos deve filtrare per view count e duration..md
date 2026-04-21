@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_youtube_collector.py"
 type: "rationale"
-community: "YouTube Collector Tests"
+community: "Test Youtube Collector · returns duration"
 location: "L158"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/YouTube_Collector_Tests
+  - community/Test_Youtube_Collector_·_returns_duration
 ---
 
 # search_videos deve filtrare per view count e duration.
@@ -15,4 +15,4 @@ tags:
 - [[YouTubeCollector]] - `uses` [INFERRED]
 - [[test_search_videos_returns_filtered_results()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/YouTube_Collector_Tests
+#graphify/rationale #graphify/EXTRACTED #community/Test_Youtube_Collector_·_returns_duration

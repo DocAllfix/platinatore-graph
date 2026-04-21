@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\trueachievements.py"
 type: "rationale"
-community: "BaseCollector Interface"
+community: "Collectors · per collector"
 location: "L64"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_per_collector
 ---
 
 # Estrae titolo, lista achievement e testo da TrueAchievements.          Ritorna N
@@ -15,4 +15,4 @@ tags:
 - [[.extract()_10]] - `rationale_for` [EXTRACTED]
 - [[BaseCollector]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/BaseCollector_Interface
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_per_collector

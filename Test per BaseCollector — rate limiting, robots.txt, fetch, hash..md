@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_base_collector.py"
 type: "rationale"
-community: "BaseCollector Interface"
+community: "Collectors · per collector"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_per_collector
 ---
 
 # Test per BaseCollector — rate limiting, robots.txt, fetch, hash.
@@ -16,4 +16,4 @@ tags:
 - [[PerHostTokenBucket]] - `uses` [INFERRED]
 - [[test_base_collector.py]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/INFERRED #community/BaseCollector_Interface
+#graphify/rationale #graphify/INFERRED #community/Collectors_·_per_collector

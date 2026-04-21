@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\chunker.py"
 type: "code"
-community: "chunk_content()"
+community: "Injector · chunk chunker"
 location: "L18"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/chunk_content()
+  - community/Injector_·_chunk_chunker
 ---
 
 # chunk_content()
@@ -16,4 +16,4 @@ tags:
 - [[_estimate_tokens()]] - `calls` [EXTRACTED]
 - [[chunker.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/chunk_content()
+#graphify/code #graphify/EXTRACTED #community/Injector_·_chunk_chunker

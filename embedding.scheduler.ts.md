@@ -1,12 +1,12 @@
 ---
 source_file: "backend\src\schedulers\embedding.scheduler.ts"
 type: "code"
-community: "embedding.scheduler.ts"
+community: "Schedulers · embedding scheduler"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/embedding.scheduler.ts
+  - community/Schedulers_·_embedding_scheduler
 ---
 
 # embedding.scheduler.ts
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[startEmbeddingScheduler()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/embedding.scheduler.ts
+#graphify/code #graphify/EXTRACTED #community/Schedulers_·_embedding_scheduler

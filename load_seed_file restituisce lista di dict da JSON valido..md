@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_discovery.py"
 type: "rationale"
-community: "IGDB Discovery Scripts"
+community: "Discovery · giochi igdb"
 location: "L24"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/IGDB_Discovery_Scripts
+  - community/Discovery_·_giochi_igdb
 ---
 
 # load_seed_file restituisce lista di dict da JSON valido.
@@ -16,4 +16,4 @@ tags:
 - [[IGDBDiscovery]] - `uses` [INFERRED]
 - [[SeedLoader]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/INFERRED #community/IGDB_Discovery_Scripts
+#graphify/rationale #graphify/INFERRED #community/Discovery_·_giochi_igdb

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_steam_fetcher.py"
 type: "rationale"
-community: "PSN/Steam Discovery Scripts"
+community: "Discovery · giochi igdb"
 location: "L135"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/PSN/Steam_Discovery_Scripts
+  - community/Discovery_·_giochi_igdb
 ---
 
 # Una lingua che fallisce non blocca le altre.
@@ -15,4 +15,4 @@ tags:
 - [[.test_failed_lang_skipped()]] - `rationale_for` [EXTRACTED]
 - [[SteamAchievementFetcher]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/PSN/Steam_Discovery_Scripts
+#graphify/rationale #graphify/EXTRACTED #community/Discovery_·_giochi_igdb

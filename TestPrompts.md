@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_transformer.py"
 type: "code"
-community: "Transformer Tests"
+community: "Test Transformer · returns transformer"
 location: "L18"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Transformer_Tests
+  - community/Test_Transformer_·_returns_transformer
 ---
 
 # TestPrompts
@@ -17,4 +17,4 @@ tags:
 - [[GuideSynthesizer]] - `uses` [INFERRED]
 - [[test_transformer.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Transformer_Tests
+#graphify/code #graphify/EXTRACTED #community/Test_Transformer_·_returns_transformer

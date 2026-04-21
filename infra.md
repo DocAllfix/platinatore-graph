@@ -1,11 +1,11 @@
 ---
 source_file: "README.md"
 type: "document"
-community: "Project Architecture Overview"
+community: "Readme.Md · stage backend"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Project_Architecture_Overview
+  - community/Readme.Md_·_stage_backend
 ---
 
 # infra/
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Il Platinatore AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Project_Architecture_Overview
+#graphify/document #graphify/EXTRACTED #community/Readme.Md_·_stage_backend

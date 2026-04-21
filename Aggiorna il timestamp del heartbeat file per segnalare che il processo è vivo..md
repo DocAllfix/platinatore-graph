@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\main.py"
 type: "rationale"
-community: "Orchestrator Pipeline"
+community: "Orchestrator · main main()"
 location: "L25"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Orchestrator_Pipeline
+  - community/Orchestrator_·_main_main()
 ---
 
 # Aggiorna il timestamp del heartbeat file per segnalare che il processo è vivo.
@@ -15,4 +15,4 @@ tags:
 - [[HarvestPipeline]] - `uses` [INFERRED]
 - [[touch_heartbeat()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Orchestrator_Pipeline
+#graphify/rationale #graphify/EXTRACTED #community/Orchestrator_·_main_main()

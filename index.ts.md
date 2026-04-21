@@ -1,14 +1,14 @@
 ---
 source_file: "backend\src\index.ts"
 type: "code"
-community: "index.ts"
+community: "Index"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/index.ts
+  - community/Index
 ---
 
 # index.ts
 
-#graphify/code #graphify/EXTRACTED #community/index.ts
+#graphify/code #graphify/EXTRACTED #community/Index

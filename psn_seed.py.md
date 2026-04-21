@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\psn_seed.py"
 type: "code"
-community: "PSN/Steam Discovery Scripts"
+community: "Discovery · psn per"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/PSN/Steam_Discovery_Scripts
+  - community/Discovery_·_psn_per
 ---
 
 # psn_seed.py
@@ -16,4 +16,4 @@ tags:
 - [[main()_9]] - `contains` [EXTRACTED]
 - [[psn_seed — pipeline completa trofei PSN comm_id discovery + fetch multilingua.]] - `rationale_for` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/PSN/Steam_Discovery_Scripts
+#graphify/code #graphify/EXTRACTED #community/Discovery_·_psn_per

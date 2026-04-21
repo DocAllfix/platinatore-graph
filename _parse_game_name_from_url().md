@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\trueachievements.py"
 type: "code"
-community: "BaseCollector Interface"
+community: "Collectors · per collector"
 location: "L133"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_per_collector
 ---
 
 # _parse_game_name_from_url()
@@ -16,4 +16,4 @@ tags:
 - [[Estrae game_name dall'URL TrueAchievements.      Formati tipici       - gamee]] - `rationale_for` [EXTRACTED]
 - [[trueachievements.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/BaseCollector_Interface
+#graphify/code #graphify/EXTRACTED #community/Collectors_·_per_collector

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\igdb.py"
 type: "code"
-community: "IGDB Discovery Scripts"
+community: "Discovery · giochi igdb"
 location: "L63"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/IGDB_Discovery_Scripts
+  - community/Discovery_·_giochi_igdb
 ---
 
 # IGDBDiscovery
@@ -53,4 +53,4 @@ tags:
 - [[igdb_seed — pipeline completa IGDB discovery + PSN trofei + Steam achievements.]] - `uses` [INFERRED]
 - [[load_seed_file restituisce lista di dict da JSON valido.]] - `uses` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/IGDB_Discovery_Scripts
+#graphify/code #graphify/INFERRED #community/Discovery_·_giochi_igdb

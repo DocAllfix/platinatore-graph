@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_pipeline.py"
 type: "code"
-community: "Orchestrator Pipeline"
+community: "Test Pipeline · when returns"
 location: "L12"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Orchestrator_Pipeline
+  - community/Test_Pipeline_·_when_returns
 ---
 
 # _make_pipeline()
@@ -23,4 +23,4 @@ tags:
 - [[test_returns_false_when_quality_below_threshold()]] - `calls` [EXTRACTED]
 - [[test_returns_stats_dict()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Orchestrator_Pipeline
+#graphify/code #graphify/EXTRACTED #community/Test_Pipeline_·_when_returns

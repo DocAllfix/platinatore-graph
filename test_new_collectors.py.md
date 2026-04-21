@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_new_collectors.py"
 type: "code"
-community: "Fextralife/IGN/Reddit Tests"
+community: "Test New Collectors · extract returns"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Fextralife/IGN/Reddit_Tests
+  - community/Test_New_Collectors_·_extract_returns
 ---
 
 # test_new_collectors.py
@@ -24,4 +24,4 @@ tags:
 - [[test_reddit_extract_invalid_json_returns_none()]] - `contains` [EXTRACTED]
 - [[test_reddit_format_for_llm_no_username()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Fextralife/IGN/Reddit_Tests
+#graphify/code #graphify/EXTRACTED #community/Test_New_Collectors_·_extract_returns

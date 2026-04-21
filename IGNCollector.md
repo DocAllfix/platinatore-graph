@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\ign.py"
 type: "code"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L45"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # IGNCollector
@@ -37,4 +37,4 @@ tags:
 - [[Test per i nuovi collector Fextralife, IGN, Reddit.  HTMLJSON tutti inventati,]] - `uses` [INFERRED]
 - [[ign.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Injector_Deduplication
+#graphify/code #graphify/INFERRED #community/Orchestrator_·_per_guide

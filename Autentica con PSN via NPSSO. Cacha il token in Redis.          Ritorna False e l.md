@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\psn_trophy_fetcher.py"
 type: "rationale"
-community: "PSN/Steam Discovery Scripts"
+community: "Discovery · psn per"
 location: "L76"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/PSN/Steam_Discovery_Scripts
+  - community/Discovery_·_psn_per
 ---
 
 # Autentica con PSN via NPSSO. Cacha il token in Redis.          Ritorna False e l
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.authenticate()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/PSN/Steam_Discovery_Scripts
+#graphify/rationale #graphify/EXTRACTED #community/Discovery_·_psn_per

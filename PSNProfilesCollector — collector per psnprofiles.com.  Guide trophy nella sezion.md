@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\psnprofiles.py"
 type: "rationale"
-community: "PSNProfiles Collector"
+community: "Collectors · per collector"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/PSNProfiles_Collector
+  - community/Collectors_·_per_collector
 ---
 
 # PSNProfilesCollector — collector per psnprofiles.com.  Guide trophy nella sezion
@@ -15,4 +15,4 @@ tags:
 - [[BaseCollector]] - `uses` [INFERRED]
 - [[psnprofiles.py]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/PSNProfiles_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_per_collector

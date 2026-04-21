@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\embedder.py"
 type: "code"
-community: "Gemini Embedder"
+community: "Injector · embedder embed"
 location: "L27"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Gemini_Embedder
+  - community/Injector_·_embedder_embed
 ---
 
 # Embedder
@@ -23,4 +23,4 @@ tags:
 - [[Wrapper Gemini embedding con quota e batching automatico.]] - `rationale_for` [EXTRACTED]
 - [[embedder.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Gemini_Embedder
+#graphify/code #graphify/EXTRACTED #community/Injector_·_embedder_embed

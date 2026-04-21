@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_steam_community_collector.py"
 type: "code"
-community: "Steam Community Tests"
+community: "Test Steam Community Collector · extract returns"
 location: "L85"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Steam_Community_Tests
+  - community/Test_Steam_Community_Collector_·_extract_returns
 ---
 
 # _details_payload()
@@ -17,4 +17,4 @@ tags:
 - [[test_extract_valid_guide()]] - `calls` [EXTRACTED]
 - [[test_steam_community_collector.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Steam_Community_Tests
+#graphify/code #graphify/EXTRACTED #community/Test_Steam_Community_Collector_·_extract_returns

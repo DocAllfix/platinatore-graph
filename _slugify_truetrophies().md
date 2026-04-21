@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\truetrophies.py"
 type: "code"
-community: "TrueTrophies Collector"
+community: "Collectors · truetrophies per"
 location: "L38"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/TrueTrophies_Collector
+  - community/Collectors_·_truetrophies_per
 ---
 
 # _slugify_truetrophies()
@@ -16,4 +16,4 @@ tags:
 - [[Slug per TrueTrophies NFKD + lowercase + trattini come separatori.      Esempi]] - `rationale_for` [EXTRACTED]
 - [[truetrophies.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/TrueTrophies_Collector
+#graphify/code #graphify/EXTRACTED #community/Collectors_·_truetrophies_per

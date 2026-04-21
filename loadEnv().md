@@ -1,12 +1,12 @@
 ---
 source_file: "backend\src\config\env.ts"
 type: "code"
-community: "env.ts"
-location: "L66"
+community: "Config · env loadenv()"
+location: "L76"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/env.ts
+  - community/Config_·_env_loadenv()
 ---
 
 # loadEnv()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[env.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/env.ts
+#graphify/code #graphify/EXTRACTED #community/Config_·_env_loadenv()

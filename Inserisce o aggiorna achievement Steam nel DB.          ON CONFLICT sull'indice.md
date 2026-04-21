@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\steam_achievement_fetcher.py"
 type: "rationale"
-community: "PSN/Steam Discovery Scripts"
+community: "Discovery · giochi igdb"
 location: "L197"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/PSN/Steam_Discovery_Scripts
+  - community/Discovery_·_giochi_igdb
 ---
 
 # Inserisce o aggiorna achievement Steam nel DB.          ON CONFLICT sull'indice
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.upsert_achievements()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/PSN/Steam_Discovery_Scripts
+#graphify/rationale #graphify/EXTRACTED #community/Discovery_·_giochi_igdb

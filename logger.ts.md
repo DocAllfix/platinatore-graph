@@ -1,14 +1,14 @@
 ---
 source_file: "backend\src\utils\logger.ts"
 type: "code"
-community: "logger.ts"
+community: "Utils · logger"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/logger.ts
+  - community/Utils_·_logger
 ---
 
 # logger.ts
 
-#graphify/code #graphify/EXTRACTED #community/logger.ts
+#graphify/code #graphify/EXTRACTED #community/Utils_·_logger

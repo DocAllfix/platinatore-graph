@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_transformer.py"
 type: "rationale"
-community: "Transformer Tests"
+community: "Test Transformer · returns transformer"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Transformer_Tests
+  - community/Test_Transformer_·_returns_transformer
 ---
 
 # Test per il modulo Transformer — prompts, quality score, daily limit.  NON chiam
@@ -15,4 +15,4 @@ tags:
 - [[GuideSynthesizer]] - `uses` [INFERRED]
 - [[test_transformer.py]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Transformer_Tests
+#graphify/rationale #graphify/EXTRACTED #community/Test_Transformer_·_returns_transformer

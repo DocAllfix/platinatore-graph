@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\fandom.py"
 type: "code"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L101"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # FandomCollector
@@ -40,4 +40,4 @@ tags:
 - [[Test FandomCollector — tutto mockato, zero rete reale.  Copre HTML stripping, g]] - `uses` [INFERRED]
 - [[fandom.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Injector_Deduplication
+#graphify/code #graphify/INFERRED #community/Orchestrator_·_per_guide

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\upserter.py"
 type: "rationale"
-community: "Upserter Transaction Logic"
+community: "Orchestrator · per guide"
 location: "L27"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Upserter_Transaction_Logic
+  - community/Orchestrator_·_per_guide
 ---
 
 # Lowercase + rimozione accenti base + non-alfanumerici → trattini.
@@ -15,4 +15,4 @@ tags:
 - [[Deduplicator]] - `uses` [INFERRED]
 - [[_slugify()_2]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Upserter_Transaction_Logic
+#graphify/rationale #graphify/EXTRACTED #community/Orchestrator_·_per_guide

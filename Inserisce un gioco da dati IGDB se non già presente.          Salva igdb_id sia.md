@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\igdb.py"
 type: "rationale"
-community: "IGDB Discovery Scripts"
+community: "Discovery · giochi igdb"
 location: "L499"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/IGDB_Discovery_Scripts
+  - community/Discovery_·_giochi_igdb
 ---
 
 # Inserisce un gioco da dati IGDB se non già presente.          Salva igdb_id sia
@@ -15,4 +15,4 @@ tags:
 - [[._ingest_game()]] - `rationale_for` [EXTRACTED]
 - [[Upserter]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/IGDB_Discovery_Scripts
+#graphify/rationale #graphify/EXTRACTED #community/Discovery_·_giochi_igdb

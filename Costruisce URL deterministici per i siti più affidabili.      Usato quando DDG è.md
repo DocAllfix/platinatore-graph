@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\guide_search.py"
 type: "rationale"
-community: "BaseCollector Interface"
+community: "Collectors · ddg guide"
 location: "L275"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_ddg_guide
 ---
 
 # Costruisce URL deterministici per i siti più affidabili.      Usato quando DDG è
@@ -15,4 +15,4 @@ tags:
 - [[BaseCollector]] - `uses` [INFERRED]
 - [[build_fallback_urls()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/BaseCollector_Interface
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_ddg_guide

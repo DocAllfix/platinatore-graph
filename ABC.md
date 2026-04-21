@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: "code"
-community: "BaseCollector Interface"
+community: "Collectors · per collector"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_per_collector
 ---
 
 # ABC
@@ -14,4 +14,4 @@ tags:
 - [[BaseCollector]] - `inherits` [EXTRACTED]
 - [[base.py]] - `imports_from` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/BaseCollector_Interface
+#graphify/code #graphify/EXTRACTED #community/Collectors_·_per_collector

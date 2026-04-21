@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\psn_seed.py"
 type: "rationale"
-community: "PSN/Steam Discovery Scripts"
+community: "Discovery · psn per"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/PSN/Steam_Discovery_Scripts
+  - community/Discovery_·_psn_per
 ---
 
 # psn_seed — pipeline completa trofei PSN: comm_id discovery + fetch multilingua.
@@ -16,4 +16,4 @@ tags:
 - [[PsnTrophyFetcher]] - `uses` [INFERRED]
 - [[psn_seed.py]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/INFERRED #community/PSN/Steam_Discovery_Scripts
+#graphify/rationale #graphify/INFERRED #community/Discovery_·_psn_per

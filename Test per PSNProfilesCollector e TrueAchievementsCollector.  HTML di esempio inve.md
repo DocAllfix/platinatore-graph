@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_collectors.py"
 type: "rationale"
-community: "PSNProfiles/TrueAchievements Tests"
+community: "Collectors · per collector"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/PSNProfiles/TrueAchievements_Tests
+  - community/Collectors_·_per_collector
 ---
 
 # Test per PSNProfilesCollector e TrueAchievementsCollector.  HTML di esempio inve
@@ -17,4 +17,4 @@ tags:
 - [[TrueAchievementsCollector]] - `uses` [INFERRED]
 - [[test_collectors.py]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/INFERRED #community/PSNProfiles/TrueAchievements_Tests
+#graphify/rationale #graphify/INFERRED #community/Collectors_·_per_collector

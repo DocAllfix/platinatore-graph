@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\psnprofiles.py"
 type: "code"
-community: "Injector Deduplication"
+community: "Collectors · per collector"
 location: "L52"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Collectors_·_per_collector
 ---
 
 # PSNProfilesCollector
@@ -64,4 +64,4 @@ tags:
 - [[game_name estratto rimuovendo il prefisso numerico dallo slug.]] - `uses` [INFERRED]
 - [[psnprofiles.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Injector_Deduplication
+#graphify/code #graphify/INFERRED #community/Collectors_·_per_collector

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\base.py"
 type: "code"
-community: "BaseCollector Interface"
+community: "Collectors · per collector"
 location: "L29"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_per_collector
 ---
 
 # PerHostTokenBucket
@@ -40,4 +40,4 @@ tags:
 - [[fetch() ritorna None su timeout.]] - `uses` [INFERRED]
 - [[fetch() ritorna il body HTML su status 200.]] - `uses` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/BaseCollector_Interface
+#graphify/code #graphify/INFERRED #community/Collectors_·_per_collector

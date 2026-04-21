@@ -1,14 +1,14 @@
 ---
 source_file: "harvester\src\orchestrator\__init__.py"
 type: "code"
-community: "__init__.py"
+community: "Orchestrator · init"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/__init__.py
+  - community/Orchestrator_·_init
 ---
 
 # __init__.py
 
-#graphify/code #graphify/EXTRACTED #community/__init__.py
+#graphify/code #graphify/EXTRACTED #community/Orchestrator_·_init

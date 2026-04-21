@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\scripts\run_trophy_guides_top20.py"
 type: "rationale"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L238"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # Cerca tips per un trofeo specifico su r/Trophies (async, no semaphore).
@@ -19,4 +19,4 @@ tags:
 - [[Upserter]] - `uses` [INFERRED]
 - [[_fetch_reddit_trophy_tips()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/INFERRED #community/Injector_Deduplication
+#graphify/rationale #graphify/INFERRED #community/Orchestrator_·_per_guide

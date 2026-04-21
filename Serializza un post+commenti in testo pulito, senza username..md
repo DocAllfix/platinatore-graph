@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\reddit.py"
 type: "rationale"
-community: "BaseCollector Interface"
+community: "Collectors · per collector"
 location: "L168"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_per_collector
 ---
 
 # Serializza un post+commenti in testo pulito, senza username.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[BaseCollector]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/INFERRED #community/BaseCollector_Interface
+#graphify/rationale #graphify/INFERRED #community/Collectors_·_per_collector

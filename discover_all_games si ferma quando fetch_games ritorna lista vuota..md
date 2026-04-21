@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_discovery.py"
 type: "rationale"
-community: "IGDB Discovery Scripts"
+community: "Discovery · giochi igdb"
 location: "L159"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/IGDB_Discovery_Scripts
+  - community/Discovery_·_giochi_igdb
 ---
 
 # discover_all_games si ferma quando fetch_games ritorna lista vuota.
@@ -15,4 +15,4 @@ tags:
 - [[IGDBDiscovery]] - `uses` [INFERRED]
 - [[SeedLoader]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/INFERRED #community/IGDB_Discovery_Scripts
+#graphify/rationale #graphify/INFERRED #community/Discovery_·_giochi_igdb

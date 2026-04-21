@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\youtube.py"
 type: "code"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L93"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # YouTubeCollector
@@ -43,4 +43,4 @@ tags:
 - [[search_videos deve filtrare per view count e duration.]] - `uses` [INFERRED]
 - [[youtube.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Injector_Deduplication
+#graphify/code #graphify/INFERRED #community/Orchestrator_·_per_guide

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\truetrophies.py"
 type: "code"
-community: "TrueTrophies Collector"
+community: "Collectors · truetrophies per"
 location: "L53"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/TrueTrophies_Collector
+  - community/Collectors_·_truetrophies_per
 ---
 
 # TrueTrophiesCollector
@@ -19,4 +19,4 @@ tags:
 - [[Collector per guide trofei su truetrophies.com.]] - `rationale_for` [EXTRACTED]
 - [[truetrophies.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/TrueTrophies_Collector
+#graphify/code #graphify/EXTRACTED #community/Collectors_·_truetrophies_per

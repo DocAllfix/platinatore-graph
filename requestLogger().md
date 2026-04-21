@@ -1,12 +1,12 @@
 ---
 source_file: "backend\src\middleware\requestLogger.ts"
 type: "code"
-community: "requestLogger.ts"
+community: "Middleware · requestlogger requestlogger()"
 location: "L6"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/requestLogger.ts
+  - community/Middleware_·_requestlogger_requestlogger()
 ---
 
 # requestLogger()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[requestLogger.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/requestLogger.ts
+#graphify/code #graphify/EXTRACTED #community/Middleware_·_requestlogger_requestlogger()

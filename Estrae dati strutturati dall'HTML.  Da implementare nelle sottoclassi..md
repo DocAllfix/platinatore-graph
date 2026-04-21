@@ -1,14 +1,14 @@
 ---
 source_file: "harvester\src\collectors\base.py"
 type: "rationale"
-community: "Estrae dati strutturati dall'HTML.  Da i"
+community: "Collectors · estrae dati"
 location: "L251"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Estrae_dati_strutturati_dall'HTML.__Da_i
+  - community/Collectors_·_estrae_dati
 ---
 
 # Estrae dati strutturati dall'HTML.  Da implementare nelle sottoclassi.
 
-#graphify/rationale #graphify/EXTRACTED #community/Estrae_dati_strutturati_dall'HTML.__Da_i
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_estrae_dati

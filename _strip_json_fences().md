@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\transformer\synthesizer.py"
 type: "code"
-community: "Guide Synthesizer"
+community: "Transformer · extract synthesize"
 location: "L341"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Guide_Synthesizer
+  - community/Transformer_·_extract_synthesize
 ---
 
 # _strip_json_fences()
@@ -16,4 +16,4 @@ tags:
 - [[Rimuove eventuali ```json ... ``` fences.      Usa search() invece di match() pe]] - `rationale_for` [EXTRACTED]
 - [[synthesizer.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Guide_Synthesizer
+#graphify/code #graphify/EXTRACTED #community/Transformer_·_extract_synthesize

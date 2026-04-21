@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\fandom.py"
 type: "code"
-community: "BaseCollector Interface"
+community: "Collectors · guide mediawiki"
 location: "L94"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_guide_mediawiki
 ---
 
 # _strip_html()
@@ -16,4 +16,4 @@ tags:
 - [[Rimuove tag HTML e decodifica entità HTML. Normalizza whitespace.]] - `rationale_for` [EXTRACTED]
 - [[fandom.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/BaseCollector_Interface
+#graphify/code #graphify/EXTRACTED #community/Collectors_·_guide_mediawiki

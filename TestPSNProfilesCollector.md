@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_collectors.py"
 type: "code"
-community: "Injector Deduplication"
+community: "Collectors · per collector"
 location: "L130"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Injector_Deduplication
+  - community/Collectors_·_per_collector
 ---
 
 # TestPSNProfilesCollector
@@ -19,4 +19,4 @@ tags:
 - [[TrueAchievementsCollector]] - `uses` [INFERRED]
 - [[test_collectors.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Injector_Deduplication
+#graphify/code #graphify/EXTRACTED #community/Collectors_·_per_collector

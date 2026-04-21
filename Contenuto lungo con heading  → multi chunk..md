@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_injector.py"
 type: "rationale"
-community: "Injector Integration Tests"
+community: "Test Injector · quality contenuto"
 location: "L25"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Injector_Integration_Tests
+  - community/Test_Injector_·_quality_contenuto
 ---
 
 # Contenuto lungo con heading ## → multi chunk.
@@ -15,4 +15,4 @@ tags:
 - [[.test_splits_on_markdown_headings()]] - `rationale_for` [EXTRACTED]
 - [[Deduplicator]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Injector_Integration_Tests
+#graphify/rationale #graphify/EXTRACTED #community/Test_Injector_·_quality_contenuto

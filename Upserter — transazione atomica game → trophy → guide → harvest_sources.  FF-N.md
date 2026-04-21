@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\upserter.py"
 type: "rationale"
-community: "Upserter Transaction Logic"
+community: "Orchestrator · per guide"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Upserter_Transaction_Logic
+  - community/Orchestrator_·_per_guide
 ---
 
 # Upserter — transazione atomica: game → trophy → guide → harvest_sources.  **FF-N
@@ -15,4 +15,4 @@ tags:
 - [[Deduplicator]] - `uses` [INFERRED]
 - [[upserter.py]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Upserter_Transaction_Logic
+#graphify/rationale #graphify/EXTRACTED #community/Orchestrator_·_per_guide

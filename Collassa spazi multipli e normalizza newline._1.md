@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\psnprofiles.py"
 type: "rationale"
-community: "PSNProfiles Collector"
+community: "Collectors · per collector"
 location: "L142"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/PSNProfiles_Collector
+  - community/Collectors_·_per_collector
 ---
 
 # Collassa spazi multipli e normalizza newline.
@@ -15,4 +15,4 @@ tags:
 - [[BaseCollector]] - `uses` [INFERRED]
 - [[_normalize_whitespace()_4]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/PSNProfiles_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_per_collector

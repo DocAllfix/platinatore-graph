@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\powerpyx.py"
 type: "code"
-community: "BaseCollector Interface"
+community: "Collectors · powerpyx url"
 location: "L97"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_powerpyx_url
 ---
 
 # _extract_title()
@@ -15,4 +15,4 @@ tags:
 - [[.extract()_5]] - `calls` [EXTRACTED]
 - [[powerpyx.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/BaseCollector_Interface
+#graphify/code #graphify/EXTRACTED #community/Collectors_·_powerpyx_url

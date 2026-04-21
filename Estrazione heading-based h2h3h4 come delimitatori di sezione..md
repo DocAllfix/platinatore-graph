@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\trophy_section_extractor.py"
 type: "rationale"
-community: "Trophy Section Extractor"
+community: "Collectors · trophy extract"
 location: "L174"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Trophy_Section_Extractor
+  - community/Collectors_·_trophy_extract
 ---
 
 # Estrazione heading-based: h2/h3/h4 come delimitatori di sezione.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_extract_sections_by_headings()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Trophy_Section_Extractor
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_trophy_extract

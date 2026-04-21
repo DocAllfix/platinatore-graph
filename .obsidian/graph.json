@@ -1,563 +1,780 @@
 {
   "colorGroups": [
     {
-      "query": "tag:#community/BaseCollector_Interface",
+      "query": "tag:#community/Collectors_\u00b7_per_collector",
       "color": {
         "a": 1,
         "rgb": 5142951
       }
     },
     {
-      "query": "tag:#community/PSN/Steam_Discovery_Scripts",
+      "query": "tag:#community/Discovery_\u00b7_giochi_igdb",
       "color": {
         "a": 1,
         "rgb": 15896107
       }
     },
     {
-      "query": "tag:#community/Injector_Deduplication",
+      "query": "tag:#community/Orchestrator_\u00b7_per_guide",
       "color": {
         "a": 1,
         "rgb": 14767961
       }
     },
     {
-      "query": "tag:#community/IGDB_Discovery_Scripts",
+      "query": "tag:#community/Discovery_\u00b7_psn_per",
       "color": {
         "a": 1,
         "rgb": 7780274
       }
     },
     {
-      "query": "tag:#community/Orchestrator_Pipeline",
+      "query": "tag:#community/Services_\u00b7_template_circuitbreaker",
       "color": {
         "a": 1,
         "rgb": 5873999
       }
     },
     {
-      "query": "tag:#community/Fandom_Collector_Tests",
+      "query": "tag:#community/Test_Fandom_Collector_\u00b7_returns_infer",
       "color": {
         "a": 1,
         "rgb": 15583560
       }
     },
     {
-      "query": "tag:#community/Project_Architecture_Overview",
+      "query": "tag:#community/Readme.Md_\u00b7_stage_backend",
       "color": {
         "a": 1,
         "rgb": 11565729
       }
     },
     {
-      "query": "tag:#community/YouTube_Collector_Tests",
+      "query": "tag:#community/Test_Youtube_Collector_\u00b7_returns_duration",
       "color": {
         "a": 1,
         "rgb": 16752039
       }
     },
     {
-      "query": "tag:#community/Injector_Integration_Tests",
+      "query": "tag:#community/Test_Injector_\u00b7_quality_contenuto",
       "color": {
         "a": 1,
         "rgb": 10253663
       }
     },
     {
-      "query": "tag:#community/Trophy_Section_Extractor",
+      "query": "tag:#community/Collectors_\u00b7_ddg_guide",
       "color": {
         "a": 1,
         "rgb": 12234924
       }
     },
     {
-      "query": "tag:#community/Steam_Community_Tests",
+      "query": "tag:#community/Collectors_\u00b7_trophy_extract",
       "color": {
         "a": 1,
         "rgb": 5142951
       }
     },
     {
-      "query": "tag:#community/PSNProfiles/TrueAchievements_Tests",
+      "query": "tag:#community/Test_Steam_Community_Collector_\u00b7_extract_returns",
       "color": {
         "a": 1,
         "rgb": 15896107
       }
     },
     {
-      "query": "tag:#community/Backend_Error_Hierarchy",
+      "query": "tag:#community/Utils_\u00b7_constructor()_errors",
       "color": {
         "a": 1,
         "rgb": 14767961
       }
     },
     {
-      "query": "tag:#community/YouTube_Collector",
+      "query": "tag:#community/Collectors_\u00b7_youtube_transcript",
       "color": {
         "a": 1,
         "rgb": 7780274
       }
     },
     {
-      "query": "tag:#community/DB_Pool_Infrastructure",
+      "query": "tag:#community/Config_\u00b7_pool()_restituisce",
       "color": {
         "a": 1,
         "rgb": 5873999
       }
     },
     {
-      "query": "tag:#community/Upserter_Transaction_Logic",
+      "query": "tag:#community/Test_Pipeline_\u00b7_when_returns",
       "color": {
         "a": 1,
         "rgb": 15583560
       }
     },
     {
-      "query": "tag:#community/Guide_Synthesizer",
+      "query": "tag:#community/Transformer_\u00b7_extract_synthesize",
       "color": {
         "a": 1,
         "rgb": 11565729
       }
     },
     {
-      "query": "tag:#community/Single-Game_Test_Pipeline",
+      "query": "tag:#community/Test_Single_Game_\u00b7_insert_embeddings()",
       "color": {
         "a": 1,
         "rgb": 16752039
       }
     },
     {
-      "query": "tag:#community/Reddit_Collector",
+      "query": "tag:#community/Collectors_\u00b7_json_post",
       "color": {
         "a": 1,
         "rgb": 10253663
       }
     },
     {
-      "query": "tag:#community/Trophy_Guides_Discovery_Script",
+      "query": "tag:#community/Run_Trophy_Guides_Top20_\u00b7_trophy_fetch",
       "color": {
         "a": 1,
         "rgb": 12234924
       }
     },
     {
-      "query": "tag:#community/PSTrophies_Collector",
+      "query": "tag:#community/Collectors_\u00b7_exophase_per",
       "color": {
         "a": 1,
         "rgb": 5142951
       }
     },
     {
-      "query": "tag:#community/Exophase_Collector",
+      "query": "tag:#community/Collectors_\u00b7_guide_mediawiki",
       "color": {
         "a": 1,
         "rgb": 15896107
       }
     },
     {
-      "query": "tag:#community/TrueTrophies_Collector",
+      "query": "tag:#community/Collectors_\u00b7_org_per",
       "color": {
         "a": 1,
         "rgb": 14767961
       }
     },
     {
-      "query": "tag:#community/Transformer_Tests",
+      "query": "tag:#community/Collectors_\u00b7_truetrophies_per",
       "color": {
         "a": 1,
         "rgb": 7780274
       }
     },
     {
-      "query": "tag:#community/PSNProfiles_Collector",
+      "query": "tag:#community/Test_Transformer_\u00b7_returns_transformer",
       "color": {
         "a": 1,
         "rgb": 5873999
       }
     },
     {
-      "query": "tag:#community/Fextralife/IGN/Reddit_Tests",
+      "query": "tag:#community/Services_\u00b7_circuitbreaker_constructor()",
       "color": {
         "a": 1,
         "rgb": 15583560
       }
     },
     {
-      "query": "tag:#community/Gemini_Embedder",
+      "query": "tag:#community/Test_New_Collectors_\u00b7_extract_returns",
       "color": {
         "a": 1,
         "rgb": 11565729
       }
     },
     {
-      "query": "tag:#community/PowerPyx_Collector_Tests",
+      "query": "tag:#community/Src_\u00b7_scraping_service",
       "color": {
         "a": 1,
         "rgb": 16752039
       }
     },
     {
-      "query": "tag:#community/Steam_Community_Collector",
+      "query": "tag:#community/Services_\u00b7_prompt_builder",
       "color": {
         "a": 1,
         "rgb": 10253663
       }
     },
     {
-      "query": "tag:#community/Fextralife_Collector",
+      "query": "tag:#community/Collectors_\u00b7_powerpyx_url",
       "color": {
         "a": 1,
         "rgb": 12234924
       }
     },
     {
-      "query": "tag:#community/ign.py",
+      "query": "tag:#community/Injector_\u00b7_embedder_embed",
       "color": {
         "a": 1,
         "rgb": 5142951
       }
     },
     {
-      "query": "tag:#community/BaseSettings",
+      "query": "tag:#community/Test_Powerpyx_Collector_\u00b7_html_content",
       "color": {
         "a": 1,
         "rgb": 15896107
       }
     },
     {
-      "query": "tag:#community/._call_deepseek()",
+      "query": "tag:#community/Collectors_\u00b7_steam_guide",
       "color": {
         "a": 1,
         "rgb": 14767961
       }
     },
     {
-      "query": "tag:#community/logger.py",
+      "query": "tag:#community/Services_\u00b7_query_normalizer",
       "color": {
         "a": 1,
         "rgb": 7780274
       }
     },
     {
-      "query": "tag:#community/redis_client.py",
+      "query": "tag:#community/Collectors_\u00b7_fextralife_wiki",
       "color": {
         "a": 1,
         "rgb": 5873999
       }
     },
     {
-      "query": "tag:#community/chunk_content()",
+      "query": "tag:#community/Collectors_\u00b7_ign_com",
       "color": {
         "a": 1,
         "rgb": 15583560
       }
     },
     {
-      "query": "tag:#community/database.ts",
+      "query": "tag:#community/Routes_\u00b7_routes_games",
       "color": {
         "a": 1,
         "rgb": 11565729
       }
     },
     {
-      "query": "tag:#community/games.routes.ts",
+      "query": "tag:#community/Src_\u00b7_rag_specialized",
       "color": {
         "a": 1,
         "rgb": 16752039
       }
     },
     {
-      "query": "tag:#community/quality.py",
+      "query": "tag:#community/Orchestrator_\u00b7_main_main()",
       "color": {
         "a": 1,
         "rgb": 10253663
       }
     },
     {
-      "query": "tag:#community/GRAPH_REPORT.md",
+      "query": "tag:#community/Conftest_\u00b7_settings_basesettings",
       "color": {
         "a": 1,
         "rgb": 12234924
       }
     },
     {
-      "query": "tag:#community/rateLimiter.ts",
+      "query": "tag:#community/Src_\u00b7_puppeteer_extractor",
       "color": {
         "a": 1,
         "rgb": 5142951
       }
     },
     {
-      "query": "tag:#community/embedding.service.test.ts",
+      "query": "tag:#community/Services_\u00b7_llm_service",
       "color": {
         "a": 1,
         "rgb": 15896107
       }
     },
     {
-      "query": "tag:#community/embedding.worker.ts",
+      "query": "tag:#community/Src_\u00b7_rag_fusion",
       "color": {
         "a": 1,
         "rgb": 14767961
       }
     },
     {
-      "query": "tag:#community/main()",
+      "query": "tag:#community/Src_\u00b7_rag_service",
       "color": {
         "a": 1,
         "rgb": 7780274
       }
     },
     {
-      "query": "tag:#community/Deduplicator_\u2014_evita_upsert_inutili_e_pr",
+      "query": "tag:#community/Src_\u00b7_rag_service",
       "color": {
         "a": 1,
         "rgb": 5873999
       }
     },
     {
-      "query": "tag:#community/run-migrations.ts",
+      "query": "tag:#community/Config_\u00b7_logger_get",
       "color": {
         "a": 1,
         "rgb": 15583560
       }
     },
     {
-      "query": "tag:#community/env.ts",
+      "query": "tag:#community/Config_\u00b7_redis_connessione",
       "color": {
         "a": 1,
         "rgb": 11565729
       }
     },
     {
-      "query": "tag:#community/redis.ts",
+      "query": "tag:#community/Injector_\u00b7_chunk_chunker",
       "color": {
         "a": 1,
         "rgb": 16752039
       }
     },
     {
-      "query": "tag:#community/errorHandler.ts",
+      "query": "tag:#community/Src_\u00b7_source_ranker",
       "color": {
         "a": 1,
         "rgb": 10253663
       }
     },
     {
-      "query": "tag:#community/requestLogger.ts",
+      "query": "tag:#community/Config_\u00b7_database_getclient()",
       "color": {
         "a": 1,
         "rgb": 12234924
       }
     },
     {
-      "query": "tag:#community/validate.ts",
+      "query": "tag:#community/Services_\u00b7_orchestrator_retrieval",
       "color": {
         "a": 1,
         "rgb": 5142951
       }
     },
     {
-      "query": "tag:#community/embeddings.model.ts",
+      "query": "tag:#community/Services_\u00b7_orchestrator_shared",
       "color": {
         "a": 1,
         "rgb": 15896107
       }
     },
     {
-      "query": "tag:#community/games.model.ts",
+      "query": "tag:#community/Transformer_\u00b7_quality_calculate",
       "color": {
         "a": 1,
         "rgb": 14767961
       }
     },
     {
-      "query": "tag:#community/guides.model.ts",
+      "query": "tag:#community/Claude.Md_\u00b7_graph_graphify",
       "color": {
         "a": 1,
         "rgb": 7780274
       }
     },
     {
-      "query": "tag:#community/embedding.queue.ts",
+      "query": "tag:#community/Middleware_\u00b7_ratelimiter_createratelimiter()",
       "color": {
         "a": 1,
         "rgb": 5873999
       }
     },
     {
-      "query": "tag:#community/embedding.scheduler.ts",
+      "query": "tag:#community/Services_\u00b7_embedding_service",
       "color": {
         "a": 1,
         "rgb": 15583560
       }
     },
     {
-      "query": "tag:#community/asyncHandler()",
+      "query": "tag:#community/Services_\u00b7_guide_cache",
       "color": {
         "a": 1,
         "rgb": 11565729
       }
     },
     {
-      "query": "tag:#community/prompts.py",
+      "query": "tag:#community/Services_\u00b7_llm_circuitbreaker",
       "color": {
         "a": 1,
         "rgb": 16752039
       }
     },
     {
-      "query": "tag:#community/vitest.config.ts",
+      "query": "tag:#community/Services_\u00b7_orchestrator_service",
       "color": {
         "a": 1,
         "rgb": 10253663
       }
     },
     {
-      "query": "tag:#community/index.ts",
+      "query": "tag:#community/Workers_\u00b7_embedding_worker",
       "color": {
         "a": 1,
         "rgb": 12234924
       }
     },
     {
-      "query": "tag:#community/queryLog.model.ts",
+      "query": "tag:#community/Generate_Expanded_Seed",
       "color": {
         "a": 1,
         "rgb": 5142951
       }
     },
     {
-      "query": "tag:#community/ratings.model.ts",
+      "query": "tag:#community/Injector_\u00b7_deduplicator_evita",
       "color": {
         "a": 1,
         "rgb": 15896107
       }
     },
     {
-      "query": "tag:#community/systemConfig.model.ts",
+      "query": "tag:#community/Src_\u00b7_robots_fetchrobots()",
       "color": {
         "a": 1,
         "rgb": 14767961
       }
     },
     {
-      "query": "tag:#community/users.model.ts",
+      "query": "tag:#community/Run-Migrations_\u00b7_run-migrations_runmigrations()",
       "color": {
         "a": 1,
         "rgb": 7780274
       }
     },
     {
-      "query": "tag:#community/express.d.ts",
+      "query": "tag:#community/Config_\u00b7_env_loadenv()",
       "color": {
         "a": 1,
         "rgb": 5873999
       }
     },
     {
-      "query": "tag:#community/logger.ts",
+      "query": "tag:#community/Config_\u00b7_redis_testredisconnection()",
       "color": {
         "a": 1,
         "rgb": 15583560
       }
     },
     {
-      "query": "tag:#community/__init__.py",
+      "query": "tag:#community/Middleware_\u00b7_errorhandler_errorhandler()",
       "color": {
         "a": 1,
         "rgb": 11565729
       }
     },
     {
-      "query": "tag:#community/__init__.py",
+      "query": "tag:#community/Middleware_\u00b7_requestlogger_requestlogger()",
       "color": {
         "a": 1,
         "rgb": 16752039
       }
     },
     {
-      "query": "tag:#community/Estrae_dati_strutturati_dall'HTML.__Da_i",
+      "query": "tag:#community/Middleware_\u00b7_validate_validate()",
       "color": {
         "a": 1,
         "rgb": 10253663
       }
     },
     {
-      "query": "tag:#community/__init__.py",
+      "query": "tag:#community/Models_\u00b7_embeddings_model",
       "color": {
         "a": 1,
         "rgb": 12234924
       }
     },
     {
-      "query": "tag:#community/__init__.py",
+      "query": "tag:#community/Models_\u00b7_games_model",
       "color": {
         "a": 1,
         "rgb": 5142951
       }
     },
     {
-      "query": "tag:#community/Normalizza_stringa_per_confronto:_minusc",
+      "query": "tag:#community/Models_\u00b7_guides_model",
       "color": {
         "a": 1,
         "rgb": 15896107
       }
     },
     {
-      "query": "tag:#community/Verifica_se_il_nome_PSN_corrisponde_alla",
+      "query": "tag:#community/Queues_\u00b7_embedding_queue",
       "color": {
         "a": 1,
         "rgb": 14767961
       }
     },
     {
-      "query": "tag:#community/__init__.py",
+      "query": "tag:#community/Schedulers_\u00b7_embedding_scheduler",
       "color": {
         "a": 1,
         "rgb": 7780274
       }
     },
     {
-      "query": "tag:#community/Decide_se_sovrascrivere_una_guida_esiste",
+      "query": "tag:#community/Services_\u00b7_scraper_client",
       "color": {
         "a": 1,
         "rgb": 5873999
       }
     },
     {
-      "query": "tag:#community/__init__.py",
+      "query": "tag:#community/Src_\u00b7_trophylookup_service",
       "color": {
         "a": 1,
         "rgb": 15583560
       }
     },
     {
-      "query": "tag:#community/__init__.py",
+      "query": "tag:#community/Utils_\u00b7_asynchandler()_asynchandler",
       "color": {
         "a": 1,
         "rgb": 11565729
       }
     },
     {
-      "query": "tag:#community/__init__.py",
+      "query": "tag:#community/Transformer_\u00b7_prompts_system",
       "color": {
         "a": 1,
         "rgb": 16752039
       }
     },
     {
-      "query": "tag:#community/__init__.py",
+      "query": "tag:#community/Src_\u00b7_extractwithcheerio()_cheerio",
       "color": {
         "a": 1,
         "rgb": 10253663
       }
     },
     {
-      "query": "tag:#community/index.ts",
+      "query": "tag:#community/Src_\u00b7_extractcontent()_content",
       "color": {
         "a": 1,
         "rgb": 12234924
+      }
+    },
+    {
+      "query": "tag:#community/Src_\u00b7_readability_extractor",
+      "color": {
+        "a": 1,
+        "rgb": 5142951
+      }
+    },
+    {
+      "query": "tag:#community/Vitest.Config_\u00b7_vitest_config",
+      "color": {
+        "a": 1,
+        "rgb": 15896107
+      }
+    },
+    {
+      "query": "tag:#community/Index",
+      "color": {
+        "a": 1,
+        "rgb": 14767961
+      }
+    },
+    {
+      "query": "tag:#community/Models_\u00b7_guiderequesttracker_model",
+      "color": {
+        "a": 1,
+        "rgb": 7780274
+      }
+    },
+    {
+      "query": "tag:#community/Models_\u00b7_querylog_model",
+      "color": {
+        "a": 1,
+        "rgb": 5873999
+      }
+    },
+    {
+      "query": "tag:#community/Models_\u00b7_ratings_model",
+      "color": {
+        "a": 1,
+        "rgb": 15583560
+      }
+    },
+    {
+      "query": "tag:#community/Models_\u00b7_systemconfig_model",
+      "color": {
+        "a": 1,
+        "rgb": 11565729
+      }
+    },
+    {
+      "query": "tag:#community/Models_\u00b7_users_model",
+      "color": {
+        "a": 1,
+        "rgb": 16752039
+      }
+    },
+    {
+      "query": "tag:#community/Services_\u00b7_orchestrator_stream",
+      "color": {
+        "a": 1,
+        "rgb": 10253663
+      }
+    },
+    {
+      "query": "tag:#community/Services_\u00b7_prompt_builder",
+      "color": {
+        "a": 1,
+        "rgb": 12234924
+      }
+    },
+    {
+      "query": "tag:#community/Services_\u00b7_query_normalizer",
+      "color": {
+        "a": 1,
+        "rgb": 5142951
+      }
+    },
+    {
+      "query": "tag:#community/Src_\u00b7_trophylookup_service",
+      "color": {
+        "a": 1,
+        "rgb": 15896107
+      }
+    },
+    {
+      "query": "tag:#community/Types_\u00b7_express",
+      "color": {
+        "a": 1,
+        "rgb": 14767961
+      }
+    },
+    {
+      "query": "tag:#community/Utils_\u00b7_logger",
+      "color": {
+        "a": 1,
+        "rgb": 7780274
+      }
+    },
+    {
+      "query": "tag:#community/Init",
+      "color": {
+        "a": 1,
+        "rgb": 5873999
+      }
+    },
+    {
+      "query": "tag:#community/Init",
+      "color": {
+        "a": 1,
+        "rgb": 15583560
+      }
+    },
+    {
+      "query": "tag:#community/Collectors_\u00b7_estrae_dati",
+      "color": {
+        "a": 1,
+        "rgb": 11565729
+      }
+    },
+    {
+      "query": "tag:#community/Collectors_\u00b7_init",
+      "color": {
+        "a": 1,
+        "rgb": 16752039
+      }
+    },
+    {
+      "query": "tag:#community/Config_\u00b7_init",
+      "color": {
+        "a": 1,
+        "rgb": 10253663
+      }
+    },
+    {
+      "query": "tag:#community/Discovery_\u00b7_normalizza_stringa",
+      "color": {
+        "a": 1,
+        "rgb": 12234924
+      }
+    },
+    {
+      "query": "tag:#community/Discovery_\u00b7_verifica_nome",
+      "color": {
+        "a": 1,
+        "rgb": 5142951
+      }
+    },
+    {
+      "query": "tag:#community/Discovery_\u00b7_init",
+      "color": {
+        "a": 1,
+        "rgb": 15896107
+      }
+    },
+    {
+      "query": "tag:#community/Injector_\u00b7_decide_sovrascrivere",
+      "color": {
+        "a": 1,
+        "rgb": 14767961
+      }
+    },
+    {
+      "query": "tag:#community/Injector_\u00b7_init",
+      "color": {
+        "a": 1,
+        "rgb": 7780274
+      }
+    },
+    {
+      "query": "tag:#community/Orchestrator_\u00b7_init",
+      "color": {
+        "a": 1,
+        "rgb": 5873999
+      }
+    },
+    {
+      "query": "tag:#community/Transformer_\u00b7_init",
+      "color": {
+        "a": 1,
+        "rgb": 15583560
+      }
+    },
+    {
+      "query": "tag:#community/Init",
+      "color": {
+        "a": 1,
+        "rgb": 11565729
+      }
+    },
+    {
+      "query": "tag:#community/Index",
+      "color": {
+        "a": 1,
+        "rgb": 16752039
+      }
+    },
+    {
+      "query": "tag:#community/Src_\u00b7_types",
+      "color": {
+        "a": 1,
+        "rgb": 10253663
+      }
+    },
+    {
+      "query": "tag:#community/Src_\u00b7_env",
+      "color": {
+        "a": 1,
+        "rgb": 12234924
+      }
+    },
+    {
+      "query": "tag:#community/Src_\u00b7_logger",
+      "color": {
+        "a": 1,
+        "rgb": 5142951
       }
     }
   ]

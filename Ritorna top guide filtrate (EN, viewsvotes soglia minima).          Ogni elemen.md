@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\steam_community.py"
 type: "rationale"
-community: "BaseCollector Interface"
+community: "Collectors · per collector"
 location: "L157"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_per_collector
 ---
 
 # Ritorna top guide filtrate (EN, views/votes soglia minima).          Ogni elemen
@@ -15,4 +15,4 @@ tags:
 - [[.discover_guides()]] - `rationale_for` [EXTRACTED]
 - [[BaseCollector]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/BaseCollector_Interface
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_per_collector

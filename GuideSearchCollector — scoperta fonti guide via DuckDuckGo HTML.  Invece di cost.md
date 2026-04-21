@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\guide_search.py"
 type: "rationale"
-community: "BaseCollector Interface"
+community: "Collectors · ddg guide"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_ddg_guide
 ---
 
 # GuideSearchCollector — scoperta fonti guide via DuckDuckGo HTML.  Invece di cost
@@ -15,4 +15,4 @@ tags:
 - [[BaseCollector]] - `uses` [INFERRED]
 - [[guide_search.py]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/BaseCollector_Interface
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_ddg_guide

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\deduplicator.py"
 type: "rationale"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L21"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # Ritorna la guida esistente (id/confidence/quality) se presente, altrimenti None.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.guide_exists()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Injector_Deduplication
+#graphify/rationale #graphify/EXTRACTED #community/Orchestrator_·_per_guide

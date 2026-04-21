@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_psn_fetcher.py"
 type: "code"
-community: "PSN/Steam Discovery Scripts"
+community: "Discovery · psn per"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/PSN/Steam_Discovery_Scripts
+  - community/Discovery_·_psn_per
 ---
 
 # test_psn_fetcher.py
@@ -19,4 +19,4 @@ tags:
 - [[_make_psn_response()]] - `contains` [EXTRACTED]
 - [[_sample_trophy()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/PSN/Steam_Discovery_Scripts
+#graphify/code #graphify/EXTRACTED #community/Discovery_·_psn_per

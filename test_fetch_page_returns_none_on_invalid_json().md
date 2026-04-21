@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_fandom_collector.py"
 type: "code"
-community: "Fandom Collector Tests"
+community: "Test Fandom Collector · returns infer"
 location: "L184"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Fandom_Collector_Tests
+  - community/Test_Fandom_Collector_·_returns_infer
 ---
 
 # test_fetch_page_returns_none_on_invalid_json()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[test_fandom_collector.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Fandom_Collector_Tests
+#graphify/code #graphify/EXTRACTED #community/Test_Fandom_Collector_·_returns_infer

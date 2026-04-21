@@ -1,12 +1,12 @@
 ---
 source_file: "backend\src\utils\errors.ts"
 type: "code"
-community: "Backend Error Hierarchy"
+community: "Utils · constructor() errors"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Backend_Error_Hierarchy
+  - community/Utils_·_constructor()_errors
 ---
 
 # errors.ts
@@ -20,4 +20,4 @@ tags:
 - [[RateLimitError]] - `contains` [EXTRACTED]
 - [[ValidationError]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Backend_Error_Hierarchy
+#graphify/code #graphify/EXTRACTED #community/Utils_·_constructor()_errors

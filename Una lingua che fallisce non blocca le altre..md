@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_psn_fetcher.py"
 type: "rationale"
-community: "PSN/Steam Discovery Scripts"
+community: "Discovery · psn per"
 location: "L132"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/PSN/Steam_Discovery_Scripts
+  - community/Discovery_·_psn_per
 ---
 
 # Una lingua che fallisce non blocca le altre.
@@ -15,4 +15,4 @@ tags:
 - [[.test_failed_language_is_skipped()]] - `rationale_for` [EXTRACTED]
 - [[PsnTrophyFetcher]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/PSN/Steam_Discovery_Scripts
+#graphify/rationale #graphify/EXTRACTED #community/Discovery_·_psn_per

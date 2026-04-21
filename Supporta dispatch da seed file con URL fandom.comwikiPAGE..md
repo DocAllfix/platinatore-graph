@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\fandom.py"
 type: "rationale"
-community: "BaseCollector Interface"
+community: "Collectors · guide mediawiki"
 location: "L198"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_guide_mediawiki
 ---
 
 # Supporta dispatch da seed file con URL fandom.com/wiki/PAGE.
@@ -15,4 +15,4 @@ tags:
 - [[.collect()_1]] - `rationale_for` [EXTRACTED]
 - [[BaseCollector]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/BaseCollector_Interface
+#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_guide_mediawiki

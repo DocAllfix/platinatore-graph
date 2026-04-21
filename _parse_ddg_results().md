@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\guide_search.py"
 type: "code"
-community: "BaseCollector Interface"
+community: "Collectors · ddg guide"
 location: "L296"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_ddg_guide
 ---
 
 # _parse_ddg_results()
@@ -16,4 +16,4 @@ tags:
 - [[Estrae gli URL dai risultati HTML di DuckDuckGo.      DuckDuckGo HTML (html.duck]] - `rationale_for` [EXTRACTED]
 - [[guide_search.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/BaseCollector_Interface
+#graphify/code #graphify/EXTRACTED #community/Collectors_·_ddg_guide

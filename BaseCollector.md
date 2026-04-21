@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\base.py"
 type: "code"
-community: "BaseCollector Interface"
+community: "Collectors · per collector"
 location: "L70"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_per_collector
 ---
 
 # BaseCollector
@@ -175,4 +175,4 @@ tags:
 - [[game_name estratto dallo slug game{slug}.]] - `uses` [INFERRED]
 - [[game_name estratto rimuovendo il prefisso numerico dallo slug.]] - `uses` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/BaseCollector_Interface
+#graphify/code #graphify/INFERRED #community/Collectors_·_per_collector

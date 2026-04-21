@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\chunker.py"
 type: "rationale"
-community: "chunk_content()"
+community: "Injector · chunk chunker"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/chunk_content()
+  - community/Injector_·_chunk_chunker
 ---
 
 # Chunker — split di una guida in chunk da max_tokens con overlap.  Stima token =
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[chunker.py]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/chunk_content()
+#graphify/rationale #graphify/EXTRACTED #community/Injector_·_chunk_chunker

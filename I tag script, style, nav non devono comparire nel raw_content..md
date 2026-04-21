@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_powerpyx_collector.py"
 type: "rationale"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L123"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # I tag script, style, nav non devono comparire nel raw_content.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[PowerPyxCollector]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/INFERRED #community/Injector_Deduplication
+#graphify/rationale #graphify/INFERRED #community/Orchestrator_·_per_guide

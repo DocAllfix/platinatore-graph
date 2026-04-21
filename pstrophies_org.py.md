@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\pstrophies_org.py"
 type: "code"
-community: "PSTrophies Collector"
+community: "Collectors · org per"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/PSTrophies_Collector
+  - community/Collectors_·_org_per
 ---
 
 # pstrophies_org.py
@@ -18,4 +18,4 @@ tags:
 - [[_normalize_whitespace()_5]] - `contains` [EXTRACTED]
 - [[_slugify_psorg()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/PSTrophies_Collector
+#graphify/code #graphify/EXTRACTED #community/Collectors_·_org_per

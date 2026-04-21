@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_injector.py"
 type: "rationale"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L95"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # Stesso URL + stesso hash → True (già processato).
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Deduplicator]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/INFERRED #community/Injector_Deduplication
+#graphify/rationale #graphify/INFERRED #community/Orchestrator_·_per_guide

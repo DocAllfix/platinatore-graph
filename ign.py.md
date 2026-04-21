@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\ign.py"
 type: "code"
-community: "ign.py"
+community: "Collectors · ign com"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/ign.py
+  - community/Collectors_·_ign_com
 ---
 
 # ign.py
@@ -18,4 +18,4 @@ tags:
 - [[_normalize_whitespace()_2]] - `contains` [EXTRACTED]
 - [[_parse_url_slug()_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/ign.py
+#graphify/code #graphify/EXTRACTED #community/Collectors_·_ign_com

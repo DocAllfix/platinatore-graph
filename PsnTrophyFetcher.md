@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\psn_trophy_fetcher.py"
 type: "code"
-community: "PSN/Steam Discovery Scripts"
+community: "Discovery · psn per"
 location: "L63"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/PSN/Steam_Discovery_Scripts
+  - community/Discovery_·_psn_per
 ---
 
 # PsnTrophyFetcher
@@ -47,4 +47,4 @@ tags:
 - [[upsert_trophies() con lista vuota ritorna 0 senza chiamare execute.]] - `uses` [INFERRED]
 - [[upsert_trophies() usa name_en come valore per la colonna name (NOT NULL).]] - `uses` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/PSN/Steam_Discovery_Scripts
+#graphify/code #graphify/INFERRED #community/Discovery_·_psn_per

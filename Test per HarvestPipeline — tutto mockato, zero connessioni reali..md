@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_pipeline.py"
 type: "rationale"
-community: "Orchestrator Pipeline"
+community: "Test Pipeline · when returns"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Orchestrator_Pipeline
+  - community/Test_Pipeline_·_when_returns
 ---
 
 # Test per HarvestPipeline — tutto mockato, zero connessioni reali.
@@ -15,4 +15,4 @@ tags:
 - [[HarvestPipeline]] - `uses` [INFERRED]
 - [[test_pipeline.py]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Orchestrator_Pipeline
+#graphify/rationale #graphify/EXTRACTED #community/Test_Pipeline_·_when_returns

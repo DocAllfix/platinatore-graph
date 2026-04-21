@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\guide_search.py"
 type: "code"
-community: "BaseCollector Interface"
+community: "Collectors · ddg guide"
 location: "L274"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/BaseCollector_Interface
+  - community/Collectors_·_ddg_guide
 ---
 
 # build_fallback_urls()
@@ -16,4 +16,4 @@ tags:
 - [[_slugify()_1]] - `calls` [EXTRACTED]
 - [[guide_search.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/BaseCollector_Interface
+#graphify/code #graphify/EXTRACTED #community/Collectors_·_ddg_guide

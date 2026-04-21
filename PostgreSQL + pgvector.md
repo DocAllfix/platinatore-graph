@@ -1,11 +1,11 @@
 ---
 source_file: "README.md"
 type: "document"
-community: "Project Architecture Overview"
+community: "Readme.Md · stage backend"
 tags:
   - graphify/document
   - graphify/INFERRED
-  - community/Project_Architecture_Overview
+  - community/Readme.Md_·_stage_backend
 ---
 
 # PostgreSQL + pgvector
@@ -19,4 +19,4 @@ tags:
 - [[scriptsmigrate.sh]] - `references` [INFERRED]
 - [[scriptsseed.sh]] - `references` [INFERRED]
 
-#graphify/document #graphify/INFERRED #community/Project_Architecture_Overview
+#graphify/document #graphify/INFERRED #community/Readme.Md_·_stage_backend

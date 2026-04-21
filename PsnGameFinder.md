@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\psn_game_finder.py"
 type: "code"
-community: "PSN/Steam Discovery Scripts"
+community: "Discovery · psn per"
 location: "L45"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/PSN/Steam_Discovery_Scripts
+  - community/Discovery_·_psn_per
 ---
 
 # PsnGameFinder
@@ -31,4 +31,4 @@ tags:
 - [[psn_game_finder.py]] - `contains` [EXTRACTED]
 - [[psn_seed — pipeline completa trofei PSN comm_id discovery + fetch multilingua.]] - `uses` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/PSN/Steam_Discovery_Scripts
+#graphify/code #graphify/INFERRED #community/Discovery_·_psn_per

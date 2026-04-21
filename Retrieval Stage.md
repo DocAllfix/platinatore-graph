@@ -1,11 +1,11 @@
 ---
 source_file: "README.md"
 type: "document"
-community: "Project Architecture Overview"
+community: "Readme.Md · stage backend"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Project_Architecture_Overview
+  - community/Readme.Md_·_stage_backend
 ---
 
 # Retrieval Stage
@@ -17,4 +17,4 @@ tags:
 - [[Rationale Hybrid RAG (vector + FTS + RRF)]] - `rationale_for` [INFERRED]
 - [[Reciprocal Rank Fusion (RRF)]] - `implements` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Project_Architecture_Overview
+#graphify/document #graphify/EXTRACTED #community/Readme.Md_·_stage_backend

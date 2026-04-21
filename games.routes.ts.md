@@ -1,12 +1,12 @@
 ---
 source_file: "backend\src\routes\games.routes.ts"
 type: "code"
-community: "games.routes.ts"
+community: "Routes · routes games"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/games.routes.ts
+  - community/Routes_·_routes_games
 ---
 
 # games.routes.ts
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[index.ts_1]] - `imports_from` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/games.routes.ts
+#graphify/code #graphify/EXTRACTED #community/Routes_·_routes_games

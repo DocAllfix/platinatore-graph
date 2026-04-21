@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_collectors.py"
 type: "rationale"
-community: "PSNProfiles/TrueAchievements Tests"
+community: "Collectors · per collector"
 location: "L330"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/PSNProfiles/TrueAchievements_Tests
+  - community/Collectors_·_per_collector
 ---
 
 # TrueAchievementsCollector deve ereditare da BaseCollector.
@@ -17,4 +17,4 @@ tags:
 - [[PSNProfilesCollector]] - `uses` [INFERRED]
 - [[TrueAchievementsCollector]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/INFERRED #community/PSNProfiles/TrueAchievements_Tests
+#graphify/rationale #graphify/INFERRED #community/Collectors_·_per_collector

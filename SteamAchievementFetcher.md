@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\steam_achievement_fetcher.py"
 type: "code"
-community: "PSN/Steam Discovery Scripts"
+community: "Discovery · giochi igdb"
 location: "L56"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/PSN/Steam_Discovery_Scripts
+  - community/Discovery_·_giochi_igdb
 ---
 
 # SteamAchievementFetcher
@@ -40,4 +40,4 @@ tags:
 - [[upsert_achievements() chiama execute() una volta per achievement.]] - `uses` [INFERRED]
 - [[upsert_achievements() con lista vuota ritorna 0.]] - `uses` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/PSN/Steam_Discovery_Scripts
+#graphify/code #graphify/INFERRED #community/Discovery_·_giochi_igdb

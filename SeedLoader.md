@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\seed_loader.py"
 type: "code"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L26"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # SeedLoader
@@ -49,4 +49,4 @@ tags:
 - [[load_seed_file restituisce lista di dict da JSON valido.]] - `uses` [INFERRED]
 - [[seed_loader.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Injector_Deduplication
+#graphify/code #graphify/INFERRED #community/Orchestrator_·_per_guide

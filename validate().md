@@ -1,12 +1,12 @@
 ---
 source_file: "backend\src\middleware\validate.ts"
 type: "code"
-community: "validate.ts"
+community: "Middleware · validate validate()"
 location: "L6"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/validate.ts
+  - community/Middleware_·_validate_validate()
 ---
 
 # validate()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[validate.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/validate.ts
+#graphify/code #graphify/EXTRACTED #community/Middleware_·_validate_validate()

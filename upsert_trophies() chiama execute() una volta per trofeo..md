@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_psn_fetcher.py"
 type: "rationale"
-community: "PSN/Steam Discovery Scripts"
+community: "Discovery · psn per"
 location: "L166"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/PSN/Steam_Discovery_Scripts
+  - community/Discovery_·_psn_per
 ---
 
 # upsert_trophies() chiama execute() una volta per trofeo.
@@ -15,4 +15,4 @@ tags:
 - [[.test_calls_execute_for_each_trophy()]] - `rationale_for` [EXTRACTED]
 - [[PsnTrophyFetcher]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/PSN/Steam_Discovery_Scripts
+#graphify/rationale #graphify/EXTRACTED #community/Discovery_·_psn_per

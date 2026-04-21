@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_pipeline.py"
 type: "rationale"
-community: "Orchestrator Pipeline"
+community: "Orchestrator · per guide"
 location: "L174"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/Orchestrator_Pipeline
+  - community/Orchestrator_·_per_guide
 ---
 
 # run_seed_batch ritorna dizionario con tutte le statistiche.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[HarvestPipeline]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/INFERRED #community/Orchestrator_Pipeline
+#graphify/rationale #graphify/INFERRED #community/Orchestrator_·_per_guide

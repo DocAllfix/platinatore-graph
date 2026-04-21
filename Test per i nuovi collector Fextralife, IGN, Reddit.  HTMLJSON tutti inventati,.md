@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_new_collectors.py"
 type: "rationale"
-community: "Injector Deduplication"
+community: "Orchestrator · per guide"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/INFERRED
-  - community/Injector_Deduplication
+  - community/Orchestrator_·_per_guide
 ---
 
 # Test per i nuovi collector: Fextralife, IGN, Reddit.  HTML/JSON tutti inventati,
@@ -17,4 +17,4 @@ tags:
 - [[RedditCollector]] - `uses` [INFERRED]
 - [[test_new_collectors.py]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/INFERRED #community/Injector_Deduplication
+#graphify/rationale #graphify/INFERRED #community/Orchestrator_·_per_guide
