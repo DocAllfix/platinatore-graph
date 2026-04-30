@@ -1,14 +1,17 @@
 ---
-source_file: "backend\src\models\users.model.ts"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\users.model.ts"
 type: "code"
-community: "Models · users model"
+community: "Community 127"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Models_·_users_model
+  - community/Community_127
 ---
 
 # users.model.ts
 
-#graphify/code #graphify/EXTRACTED #community/Models_·_users_model
+## Connections
+- [[users.model.test.ts]] - `imports_from` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_127

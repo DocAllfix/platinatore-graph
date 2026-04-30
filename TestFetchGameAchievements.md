@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_steam_fetcher.py"
 type: "code"
-community: "Discovery · giochi igdb"
+community: "Test: Steam Fetcher"
 location: "L53"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Discovery_·_giochi_igdb
+  - community/Test:_Steam_Fetcher
 ---
 
 # TestFetchGameAchievements
@@ -16,7 +16,7 @@ tags:
 - [[.test_failed_lang_skipped()]] - `method` [EXTRACTED]
 - [[.test_multilang_merge()]] - `method` [EXTRACTED]
 - [[.test_parses_single_lang_correctly()]] - `method` [EXTRACTED]
-- [[SteamAchievementFetcher]] - `uses` [INFERRED]
 - [[test_steam_fetcher.py]] - `contains` [EXTRACTED]
+- [[test_steam_fetcher.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Discovery_·_giochi_igdb
+#graphify/code #graphify/EXTRACTED #community/Test:_Steam_Fetcher

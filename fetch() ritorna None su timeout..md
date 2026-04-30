@@ -1,18 +1,14 @@
 ---
 source_file: "harvester\tests\test_base_collector.py"
 type: "rationale"
-community: "Collectors · per collector"
+community: "Community 268"
 location: "L158"
 tags:
   - graphify/rationale
-  - graphify/INFERRED
-  - community/Collectors_·_per_collector
+  - graphify/EXTRACTED
+  - community/Community_268
 ---
 
 # fetch() ritorna None su timeout.
 
-## Connections
-- [[BaseCollector]] - `uses` [INFERRED]
-- [[PerHostTokenBucket]] - `uses` [INFERRED]
-
-#graphify/rationale #graphify/INFERRED #community/Collectors_·_per_collector
+#graphify/rationale #graphify/EXTRACTED #community/Community_268

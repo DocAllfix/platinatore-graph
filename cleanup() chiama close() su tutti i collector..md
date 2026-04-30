@@ -1,17 +1,14 @@
 ---
 source_file: "harvester\tests\test_pipeline.py"
 type: "rationale"
-community: "Orchestrator · per guide"
+community: "Community 297"
 location: "L245"
 tags:
   - graphify/rationale
-  - graphify/INFERRED
-  - community/Orchestrator_·_per_guide
+  - graphify/EXTRACTED
+  - community/Community_297
 ---
 
 # cleanup() chiama close() su tutti i collector.
 
-## Connections
-- [[HarvestPipeline]] - `uses` [INFERRED]
-
-#graphify/rationale #graphify/INFERRED #community/Orchestrator_·_per_guide
+#graphify/rationale #graphify/EXTRACTED #community/Community_297

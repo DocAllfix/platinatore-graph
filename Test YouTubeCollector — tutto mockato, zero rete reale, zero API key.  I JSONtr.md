@@ -1,18 +1,18 @@
 ---
 source_file: "harvester\tests\test_youtube_collector.py"
 type: "rationale"
-community: "Test Youtube Collector · returns duration"
+community: "Test: YouTube Collector"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Test_Youtube_Collector_·_returns_duration
+  - community/Test:_YouTube_Collector
 ---
 
 # Test YouTubeCollector — tutto mockato, zero rete reale, zero API key.  I JSON/tr
 
 ## Connections
-- [[YouTubeCollector]] - `uses` [INFERRED]
 - [[test_youtube_collector.py]] - `rationale_for` [EXTRACTED]
+- [[test_youtube_collector.py_1]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Test_Youtube_Collector_·_returns_duration
+#graphify/rationale #graphify/EXTRACTED #community/Test:_YouTube_Collector

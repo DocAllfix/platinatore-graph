@@ -1,12 +1,12 @@
 ---
-source_file: "backend\src\services\query.normalizer.ts"
+source_file: "il-platinatore-ai\backend\src\services\query.normalizer.ts"
 type: "code"
-community: "Services · query normalizer"
+community: "Community 69"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Services_·_query_normalizer
+  - community/Community_69
 ---
 
 # query.normalizer.ts
@@ -19,4 +19,4 @@ tags:
 - [[looksLikeTrophyQuery()]] - `contains` [EXTRACTED]
 - [[normalizeQuery()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Services_·_query_normalizer
+#graphify/code #graphify/EXTRACTED #community/Community_69

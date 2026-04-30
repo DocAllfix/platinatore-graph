@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\src\collectors\steam_community.py"
 type: "rationale"
-community: "Collectors · steam guide"
+community: "Community 33"
 location: "L319"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Collectors_·_steam_guide
+  - community/Community_33
 ---
 
 # Rimuove BBCode Steam preservando il testo leggibile.
 
 ## Connections
-- [[BaseCollector]] - `uses` [INFERRED]
 - [[_strip_steam_bbcode()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_steam_guide
+#graphify/rationale #graphify/EXTRACTED #community/Community_33

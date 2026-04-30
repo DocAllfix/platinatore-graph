@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\src\collectors\exophase.py"
 type: "rationale"
-community: "Collectors · exophase per"
+community: "Community 36"
 location: "L45"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Collectors_·_exophase_per
+  - community/Community_36
 ---
 
 # Collector per trofei/achievement su exophase.com.
 
 ## Connections
-- [[BaseCollector]] - `uses` [INFERRED]
 - [[ExophaseCollector]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_exophase_per
+#graphify/rationale #graphify/EXTRACTED #community/Community_36

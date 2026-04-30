@@ -1,18 +1,14 @@
 ---
 source_file: "harvester\tests\test_base_collector.py"
 type: "rationale"
-community: "Collectors · per collector"
+community: "Community 265"
 location: "L103"
 tags:
   - graphify/rationale
-  - graphify/INFERRED
-  - community/Collectors_·_per_collector
+  - graphify/EXTRACTED
+  - community/Community_265
 ---
 
 # fetch() ritorna None se il server risponde 403.
 
-## Connections
-- [[BaseCollector]] - `uses` [INFERRED]
-- [[PerHostTokenBucket]] - `uses` [INFERRED]
-
-#graphify/rationale #graphify/INFERRED #community/Collectors_·_per_collector
+#graphify/rationale #graphify/EXTRACTED #community/Community_265

@@ -1,18 +1,18 @@
 ---
 source_file: "harvester\src\collectors\fextralife.py"
 type: "rationale"
-community: "Collectors · fextralife wiki"
+community: "Fextralife Collector"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Collectors_·_fextralife_wiki
+  - community/Fextralife_Collector
 ---
 
 # FextralifeCollector — guide wiki Soulslike/Metroidvania.  Fextralife usa renderi
 
 ## Connections
-- [[BaseCollector]] - `uses` [INFERRED]
 - [[fextralife.py]] - `rationale_for` [EXTRACTED]
+- [[fextralife.py_1]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_fextralife_wiki
+#graphify/rationale #graphify/EXTRACTED #community/Fextralife_Collector

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\config\db.py"
 type: "code"
-community: "Config · pool() restituisce"
+community: "Community 31"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_·_pool()_restituisce
+  - community/Community_31
 ---
 
 # db.py
@@ -20,4 +20,4 @@ tags:
 - [[init_pool()]] - `contains` [EXTRACTED]
 - [[test_connection()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_·_pool()_restituisce
+#graphify/code #graphify/EXTRACTED #community/Community_31

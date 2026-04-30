@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_discovery.py"
 type: "code"
-community: "Discovery · giochi igdb"
+community: "Test: Discovery"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Discovery_·_giochi_igdb
+  - community/Test:_Discovery
 ---
 
 # test_discovery.py
@@ -20,4 +20,4 @@ tags:
 - [[test_fetch_games_returns_list()]] - `contains` [EXTRACTED]
 - [[test_get_token_caches_result()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Discovery_·_giochi_igdb
+#graphify/code #graphify/EXTRACTED #community/Test:_Discovery

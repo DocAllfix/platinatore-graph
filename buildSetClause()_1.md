@@ -1,17 +1,17 @@
 ---
-source_file: "backend\src\models\guides.model.ts"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.ts"
 type: "code"
-community: "Models · guides model"
-location: "L98"
+community: "Community 79"
+location: "L122"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Models_·_guides_model
+  - community/Community_79
 ---
 
 # buildSetClause()
 
 ## Connections
-- [[guides.model.ts]] - `contains` [EXTRACTED]
+- [[guideDrafts.model.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Models_·_guides_model
+#graphify/code #graphify/EXTRACTED #community/Community_79

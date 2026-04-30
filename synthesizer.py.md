@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\transformer\synthesizer.py"
 type: "code"
-community: "Transformer · extract synthesize"
+community: "LLM Synthesizer"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Transformer_·_extract_synthesize
+  - community/LLM_Synthesizer
 ---
 
 # synthesizer.py
@@ -17,4 +17,4 @@ tags:
 - [[_strip_json_fences()]] - `contains` [EXTRACTED]
 - [[_strip_markdown_fences()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Transformer_·_extract_synthesize
+#graphify/code #graphify/EXTRACTED #community/LLM_Synthesizer

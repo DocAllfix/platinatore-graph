@@ -1,20 +1,22 @@
 ---
-source_file: "backend\src\routes\index.ts"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\routes\index.ts"
 type: "code"
-community: "Routes · routes games"
+community: "Auth Routes Helpers"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Routes_·_routes_games
+  - community/Auth_Routes_Helpers
 ---
 
 # index.ts
 
 ## Connections
-- [[games.routes.ts]] - `imports_from` [EXTRACTED]
+- [[auth.routes.ts]] - `imports_from` [EXTRACTED]
+- [[draft.routes.ts]] - `imports_from` [EXTRACTED]
+- [[gameStats.routes.ts]] - `imports_from` [EXTRACTED]
 - [[guide.routes.ts]] - `imports_from` [EXTRACTED]
-- [[guides.routes.ts]] - `imports_from` [EXTRACTED]
-- [[health.routes.ts]] - `imports_from` [EXTRACTED]
+- [[guideRatings.routes.ts]] - `imports_from` [EXTRACTED]
+- [[uploads.routes.ts]] - `imports_from` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Routes_·_routes_games
+#graphify/code #graphify/EXTRACTED #community/Auth_Routes_Helpers

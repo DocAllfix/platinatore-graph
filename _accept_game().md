@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\igdb.py"
 type: "code"
-community: "Discovery · giochi igdb"
+community: "IGDB Discovery"
 location: "L549"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Discovery_·_giochi_igdb
+  - community/IGDB_Discovery
 ---
 
 # _accept_game()
@@ -14,5 +14,6 @@ tags:
 ## Connections
 - [[.discover_popular_and_new()]] - `calls` [EXTRACTED]
 - [[igdb.py]] - `contains` [EXTRACTED]
+- [[igdb.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Discovery_·_giochi_igdb
+#graphify/code #graphify/EXTRACTED #community/IGDB_Discovery

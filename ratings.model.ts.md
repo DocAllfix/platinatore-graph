@@ -1,14 +1,17 @@
 ---
-source_file: "backend\src\models\ratings.model.ts"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\ratings.model.ts"
 type: "code"
-community: "Models · ratings model"
+community: "Community 187"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Models_·_ratings_model
+  - community/Community_187
 ---
 
 # ratings.model.ts
 
-#graphify/code #graphify/EXTRACTED #community/Models_·_ratings_model
+## Connections
+- [[ratings.model.test.ts]] - `imports_from` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_187

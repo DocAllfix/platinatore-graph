@@ -1,17 +1,18 @@
 ---
 source_file: "harvester\tests\test_collectors.py"
 type: "code"
-community: "Collectors · per collector"
+community: "Test: PSN Collectors"
 location: "L168"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_per_collector
+  - community/Test:_PSN_Collectors
 ---
 
 # test_game_name_stripped_from_url()
 
 ## Connections
 - [[test_collectors.py]] - `contains` [EXTRACTED]
+- [[test_collectors.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_per_collector
+#graphify/code #graphify/EXTRACTED #community/Test:_PSN_Collectors

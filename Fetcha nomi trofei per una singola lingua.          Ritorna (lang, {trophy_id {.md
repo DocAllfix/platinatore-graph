@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\psn_trophy_fetcher.py"
 type: "rationale"
-community: "Discovery · psn per"
+community: "PSN Trophy Fetcher"
 location: "L133"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Discovery_·_psn_per
+  - community/PSN_Trophy_Fetcher
 ---
 
 # Fetcha nomi trofei per una singola lingua.          Ritorna (lang, {trophy_id: {
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[._fetch_lang()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Discovery_·_psn_per
+#graphify/rationale #graphify/EXTRACTED #community/PSN_Trophy_Fetcher

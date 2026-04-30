@@ -1,19 +1,26 @@
 ---
-source_file: "harvester\src\orchestrator\main.py"
+source_file: "harvester\scripts\test_single_game.py"
 type: "code"
-community: "Orchestrator · main main()"
-location: "L50"
+community: "Single Game Test Script"
+location: "L255"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Orchestrator_·_main_main()
+  - community/Single_Game_Test_Script
 ---
 
 # main()
 
 ## Connections
-- [[_parse_args()_1]] - `calls` [EXTRACTED]
-- [[main.py]] - `contains` [EXTRACTED]
-- [[touch_heartbeat()]] - `calls` [EXTRACTED]
+- [[step1_init()]] - `calls` [EXTRACTED]
+- [[step2_collect()]] - `calls` [EXTRACTED]
+- [[step3_transform()]] - `calls` [EXTRACTED]
+- [[step4_quality_and_chunk()]] - `calls` [EXTRACTED]
+- [[step5_embed()]] - `calls` [EXTRACTED]
+- [[step6_upsert()]] - `calls` [EXTRACTED]
+- [[step7_insert_embeddings()]] - `calls` [EXTRACTED]
+- [[step8_pgvector_search()]] - `calls` [EXTRACTED]
+- [[test_single_game.py]] - `contains` [EXTRACTED]
+- [[test_single_game.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Orchestrator_·_main_main()
+#graphify/code #graphify/EXTRACTED #community/Single_Game_Test_Script

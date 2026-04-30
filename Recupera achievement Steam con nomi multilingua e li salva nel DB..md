@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\steam_achievement_fetcher.py"
 type: "rationale"
-community: "Discovery · giochi igdb"
+community: "Steam Achievement Fetcher"
 location: "L57"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Discovery_·_giochi_igdb
+  - community/Steam_Achievement_Fetcher
 ---
 
 # Recupera achievement Steam con nomi multilingua e li salva nel DB.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[SteamAchievementFetcher]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Discovery_·_giochi_igdb
+#graphify/rationale #graphify/EXTRACTED #community/Steam_Achievement_Fetcher

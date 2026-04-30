@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\scripts\run_trophy_guides_top20.py"
 type: "code"
-community: "Run Trophy Guides Top20 · trophy fetch"
+community: "Top20 Trophy Guide Script"
 location: "L89"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Run_Trophy_Guides_Top20_·_trophy_fetch
+  - community/Top20_Trophy_Guide_Script
 ---
 
 # _psnprofiles_trophy_url()
@@ -15,5 +15,6 @@ tags:
 - [[_process_trophy()]] - `calls` [EXTRACTED]
 - [[_slugify()]] - `calls` [EXTRACTED]
 - [[run_trophy_guides_top20.py]] - `contains` [EXTRACTED]
+- [[run_trophy_guides_top20.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Run_Trophy_Guides_Top20_·_trophy_fetch
+#graphify/code #graphify/EXTRACTED #community/Top20_Trophy_Guide_Script

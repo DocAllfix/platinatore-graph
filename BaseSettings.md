@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: "code"
-community: "Conftest · settings basesettings"
+community: "Community 112"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Conftest_·_settings_basesettings
+  - community/Community_112
 ---
 
 # BaseSettings
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Settings]] - `inherits` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Conftest_·_settings_basesettings
+#graphify/code #graphify/EXTRACTED #community/Community_112

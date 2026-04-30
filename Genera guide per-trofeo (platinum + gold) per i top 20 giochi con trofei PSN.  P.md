@@ -1,22 +1,18 @@
 ---
 source_file: "harvester\scripts\run_trophy_guides_top20.py"
 type: "rationale"
-community: "Orchestrator · per guide"
+community: "Top20 Trophy Guide Script"
 location: "L1"
 tags:
   - graphify/rationale
-  - graphify/INFERRED
-  - community/Orchestrator_·_per_guide
+  - graphify/EXTRACTED
+  - community/Top20_Trophy_Guide_Script
 ---
 
 # Genera guide per-trofeo (platinum + gold) per i top 20 giochi con trofei PSN.  P
 
 ## Connections
-- [[GuideSearchCollector]] - `uses` [INFERRED]
-- [[GuideSynthesizer]] - `uses` [INFERRED]
-- [[PSNProfilesCollector]] - `uses` [INFERRED]
-- [[RedditCollector]] - `uses` [INFERRED]
-- [[Upserter]] - `uses` [INFERRED]
 - [[run_trophy_guides_top20.py]] - `rationale_for` [EXTRACTED]
+- [[run_trophy_guides_top20.py_1]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/INFERRED #community/Orchestrator_·_per_guide
+#graphify/rationale #graphify/EXTRACTED #community/Top20_Trophy_Guide_Script

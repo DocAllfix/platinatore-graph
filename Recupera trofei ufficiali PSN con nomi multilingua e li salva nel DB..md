@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\psn_trophy_fetcher.py"
 type: "rationale"
-community: "Discovery · psn per"
+community: "PSN Trophy Fetcher"
 location: "L64"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Discovery_·_psn_per
+  - community/PSN_Trophy_Fetcher
 ---
 
 # Recupera trofei ufficiali PSN con nomi multilingua e li salva nel DB.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[PsnTrophyFetcher]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Discovery_·_psn_per
+#graphify/rationale #graphify/EXTRACTED #community/PSN_Trophy_Fetcher

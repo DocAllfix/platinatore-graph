@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\upserter.py"
 type: "code"
-community: "Orchestrator · per guide"
+community: "Injector Upserter"
 location: "L26"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Orchestrator_·_per_guide
+  - community/Injector_Upserter
 ---
 
 # _slugify()
@@ -17,5 +17,6 @@ tags:
 - [[Lowercase + rimozione accenti base + non-alfanumerici → trattini.]] - `rationale_for` [EXTRACTED]
 - [[generate_slug()]] - `calls` [EXTRACTED]
 - [[upserter.py]] - `contains` [EXTRACTED]
+- [[upserter.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Orchestrator_·_per_guide
+#graphify/code #graphify/EXTRACTED #community/Injector_Upserter

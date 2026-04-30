@@ -1,12 +1,12 @@
 ---
-source_file: "backend\src\services\llm.service.ts"
+source_file: "il-platinatore-ai\backend\src\services\llm.service.ts"
 type: "code"
-community: "Services · llm service"
+community: "Community 92"
 location: "L178"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Services_·_llm_service
+  - community/Community_92
 ---
 
 # getBreakerState()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[llm.service.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Services_·_llm_service
+#graphify/code #graphify/EXTRACTED #community/Community_92

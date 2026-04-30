@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\config\logger.py"
 type: "code"
-community: "Config · logger get"
+community: "Community 72"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_·_logger_get
+  - community/Community_72
 ---
 
 # logger.py
@@ -15,4 +15,4 @@ tags:
 - [[get_logger()]] - `contains` [EXTRACTED]
 - [[setup_logging()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_·_logger_get
+#graphify/code #graphify/EXTRACTED #community/Community_72

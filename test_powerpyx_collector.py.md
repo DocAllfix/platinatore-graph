@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_powerpyx_collector.py"
 type: "code"
-community: "Test Powerpyx Collector · html content"
+community: "Community 51"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test_Powerpyx_Collector_·_html_content
+  - community/Community_51
 ---
 
 # test_powerpyx_collector.py
@@ -21,4 +21,4 @@ tags:
 - [[test_script_style_nav_removed()]] - `contains` [EXTRACTED]
 - [[test_valid_html_returns_full_dict()_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test_Powerpyx_Collector_·_html_content
+#graphify/code #graphify/EXTRACTED #community/Community_51

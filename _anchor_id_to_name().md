@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\trophy_section_extractor.py"
 type: "code"
-community: "Collectors · trophy extract"
+community: "Trophy Section Extractor"
 location: "L69"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_trophy_extract
+  - community/Trophy_Section_Extractor
 ---
 
 # _anchor_id_to_name()
@@ -15,5 +15,6 @@ tags:
 - [[Converte un id anchor in un nome leggibile underscoretrattini → spazi, title c]] - `rationale_for` [EXTRACTED]
 - [[_extract_sections_by_anchors()]] - `calls` [EXTRACTED]
 - [[trophy_section_extractor.py]] - `contains` [EXTRACTED]
+- [[trophy_section_extractor.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_trophy_extract
+#graphify/code #graphify/EXTRACTED #community/Trophy_Section_Extractor

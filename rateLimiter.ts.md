@@ -1,12 +1,12 @@
 ---
 source_file: "backend\src\middleware\rateLimiter.ts"
 type: "code"
-community: "Middleware · ratelimiter createratelimiter()"
+community: "Community 114"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Middleware_·_ratelimiter_createratelimiter()
+  - community/Community_114
 ---
 
 # rateLimiter.ts
@@ -15,4 +15,4 @@ tags:
 - [[createRateLimiter()]] - `contains` [EXTRACTED]
 - [[getIdentifier()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Middleware_·_ratelimiter_createratelimiter()
+#graphify/code #graphify/EXTRACTED #community/Community_114

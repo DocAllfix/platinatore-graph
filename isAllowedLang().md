@@ -1,17 +1,18 @@
 ---
-source_file: "il-platinatore-ai\backend\src\services\trophyLookup.service.ts"
+source_file: "backend\src\services\trophyLookup.service.ts"
 type: "code"
-community: "Src · trophylookup service"
+community: "Community 131"
 location: "L12"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Src_·_trophylookup_service
+  - community/Community_131
 ---
 
 # isAllowedLang()
 
 ## Connections
 - [[trophyLookup.service.ts]] - `contains` [EXTRACTED]
+- [[trophyLookup.service.ts_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Src_·_trophylookup_service
+#graphify/code #graphify/EXTRACTED #community/Community_131

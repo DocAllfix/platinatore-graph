@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\deduplicator.py"
 type: "rationale"
-community: "Orchestrator · per guide"
+community: "Community 45"
 location: "L10"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Orchestrator_·_per_guide
+  - community/Community_45
 ---
 
 # Logica di deduplicazione basata su DB lookup.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Deduplicator]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Orchestrator_·_per_guide
+#graphify/rationale #graphify/EXTRACTED #community/Community_45

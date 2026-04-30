@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\src\collectors\exophase.py"
 type: "rationale"
-community: "Collectors · exophase per"
+community: "Community 36"
 location: "L37"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Collectors_·_exophase_per
+  - community/Community_36
 ---
 
 # Slug per Exophase: lowercase + trattini, apostrofi rimossi.
 
 ## Connections
-- [[BaseCollector]] - `uses` [INFERRED]
 - [[_slugify_exophase()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_exophase_per
+#graphify/rationale #graphify/EXTRACTED #community/Community_36

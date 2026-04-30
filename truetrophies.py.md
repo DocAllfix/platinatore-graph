@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\truetrophies.py"
 type: "code"
-community: "Collectors · truetrophies per"
+community: "Fextralife Collector"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_truetrophies_per
+  - community/Fextralife_Collector
 ---
 
 # truetrophies.py
@@ -18,4 +18,4 @@ tags:
 - [[_normalize_whitespace()_7]] - `contains` [EXTRACTED]
 - [[_slugify_truetrophies()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_truetrophies_per
+#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector

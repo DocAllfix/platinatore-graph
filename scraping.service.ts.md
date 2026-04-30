@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\scraper\src\scraping.service.ts"
 type: "code"
-community: "Src · scraping service"
+community: "Community 52"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Src_·_scraping_service
+  - community/Community_52
 ---
 
 # scraping.service.ts
@@ -22,4 +22,4 @@ tags:
 - [[hostOf()]] - `contains` [EXTRACTED]
 - [[scrapeForGuide()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Src_·_scraping_service
+#graphify/code #graphify/EXTRACTED #community/Community_52

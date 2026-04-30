@@ -1,17 +1,21 @@
 ---
-source_file: "backend\src\services\scraper.client.ts"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\scraper.client.ts"
 type: "code"
-community: "Services · scraper client"
-location: "L31"
+community: "Community 53"
+location: "L180"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Services_·_scraper_client
+  - community/Community_53
 ---
 
 # fetchScrapedContext()
 
 ## Connections
+- [[buildCacheKey()]] - `calls` [EXTRACTED]
+- [[callTavily()]] - `calls` [EXTRACTED]
+- [[checkDailyLimit()]] - `calls` [EXTRACTED]
+- [[incrementDailyCount()]] - `calls` [EXTRACTED]
 - [[scraper.client.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Services_·_scraper_client
+#graphify/code #graphify/EXTRACTED #community/Community_53

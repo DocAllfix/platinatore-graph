@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\psnprofiles.py"
 type: "code"
-community: "Collectors · per collector"
+community: "Community 35"
 location: "L124"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_per_collector
+  - community/Community_35
 ---
 
 # _convert_tables_to_text()
@@ -15,5 +15,6 @@ tags:
 - [[.extract()_6]] - `calls` [EXTRACTED]
 - [[Converte tabelle table class=zebra in testo strutturato pipe-delimited.]] - `rationale_for` [EXTRACTED]
 - [[psnprofiles.py]] - `contains` [EXTRACTED]
+- [[psnprofiles.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_per_collector
+#graphify/code #graphify/EXTRACTED #community/Community_35

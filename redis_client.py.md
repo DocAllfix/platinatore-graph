@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\config\redis_client.py"
 type: "code"
-community: "Config · redis connessione"
+community: "Community 73"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_·_redis_connessione
+  - community/Community_73
 ---
 
 # redis_client.py
@@ -15,4 +15,4 @@ tags:
 - [[close_redis()]] - `contains` [EXTRACTED]
 - [[test_redis_connection()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_·_redis_connessione
+#graphify/code #graphify/EXTRACTED #community/Community_73

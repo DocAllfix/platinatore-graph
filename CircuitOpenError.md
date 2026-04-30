@@ -1,18 +1,18 @@
 ---
-source_file: "backend\src\services\llm.circuitBreaker.ts"
+source_file: "backend/src/services/llm.circuitBreaker.ts"
 type: "code"
-community: "Services · circuitbreaker constructor()"
-location: "L21"
+community: "Circuit Breaker + Guide Cache"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Services_·_circuitbreaker_constructor()
+  - community/Circuit_Breaker_+_Guide_Cache
 ---
 
 # CircuitOpenError
 
 ## Connections
-- [[.constructor()]] - `method` [EXTRACTED]
-- [[llm.circuitBreaker.ts]] - `contains` [EXTRACTED]
+- [[CircuitBreaker Vitest suite]] - `references` [EXTRACTED]
+- [[generateGuide (Gemini non-streaming)]] - `references` [EXTRACTED]
+- [[generateGuideStream (Gemini SSE)]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Services_·_circuitbreaker_constructor()
+#graphify/code #graphify/EXTRACTED #community/Circuit_Breaker_+_Guide_Cache

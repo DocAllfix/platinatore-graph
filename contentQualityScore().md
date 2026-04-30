@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\scraper\src\ranker\source.ranker.ts"
 type: "code"
-community: "Src · source ranker"
+community: "Community 91"
 location: "L48"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Src_·_source_ranker
+  - community/Community_91
 ---
 
 # contentQualityScore()
@@ -15,4 +15,4 @@ tags:
 - [[compositeScore()]] - `calls` [EXTRACTED]
 - [[source.ranker.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Src_·_source_ranker
+#graphify/code #graphify/EXTRACTED #community/Community_91

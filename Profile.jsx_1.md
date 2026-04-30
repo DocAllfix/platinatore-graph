@@ -1,0 +1,17 @@
+---
+source_file: "il-platinatore-ai\frontend\src\pages\Profile.jsx"
+type: "code"
+community: "Community 178"
+location: "L1"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_178
+---
+
+# Profile.jsx
+
+## Connections
+- [[Profile()]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_178

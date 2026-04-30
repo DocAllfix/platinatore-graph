@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: "code"
-community: "Orchestrator · per guide"
+community: "Fextralife Collector"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Orchestrator_·_per_guide
+  - community/Fextralife_Collector
 ---
 
 # BaseCollector
@@ -26,4 +26,4 @@ tags:
 - [[YouTubeCollector]] - `inherits` [EXTRACTED]
 - [[_StubCollector]] - `inherits` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Orchestrator_·_per_guide
+#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\main.py"
 type: "code"
-community: "Orchestrator · main main()"
+community: "Community 68"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Orchestrator_·_main_main()
+  - community/Community_68
 ---
 
 # main.py
@@ -14,7 +14,7 @@ tags:
 ## Connections
 - [[Entry point dell'harvester — avvia la pipeline in modalità seed o update.  Non è]] - `rationale_for` [EXTRACTED]
 - [[_parse_args()_1]] - `contains` [EXTRACTED]
-- [[main()_8]] - `contains` [EXTRACTED]
+- [[main()_10]] - `contains` [EXTRACTED]
 - [[touch_heartbeat()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Orchestrator_·_main_main()
+#graphify/code #graphify/EXTRACTED #community/Community_68

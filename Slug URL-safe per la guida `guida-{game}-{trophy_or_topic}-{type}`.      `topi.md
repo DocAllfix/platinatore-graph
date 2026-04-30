@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\src\injector\upserter.py"
 type: "rationale"
-community: "Orchestrator · per guide"
+community: "Injector Upserter"
 location: "L37"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Orchestrator_·_per_guide
+  - community/Injector_Upserter
 ---
 
 # Slug URL-safe per la guida: `guida-{game}-{trophy_or_topic?}-{type}`.      `topi
 
 ## Connections
-- [[Deduplicator]] - `uses` [INFERRED]
 - [[generate_slug()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Orchestrator_·_per_guide
+#graphify/rationale #graphify/EXTRACTED #community/Injector_Upserter

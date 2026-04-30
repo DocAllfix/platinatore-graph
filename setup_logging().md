@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\config\logger.py"
 type: "code"
-community: "Config · logger get"
+community: "Community 72"
 location: "L8"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_·_logger_get
+  - community/Community_72
 ---
 
 # setup_logging()
@@ -14,5 +14,6 @@ tags:
 ## Connections
 - [[Configura structlog JSON in prod, console colorata in dev (DEBUG).]] - `rationale_for` [EXTRACTED]
 - [[logger.py]] - `contains` [EXTRACTED]
+- [[logger.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_·_logger_get
+#graphify/code #graphify/EXTRACTED #community/Community_72

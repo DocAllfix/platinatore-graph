@@ -1,14 +1,14 @@
 ---
 source_file: "harvester\src\injector\__init__.py"
 type: "code"
-community: "Injector · init"
+community: "Community 260"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Injector_·_init
+  - community/Community_260
 ---
 
 # __init__.py
 
-#graphify/code #graphify/EXTRACTED #community/Injector_·_init
+#graphify/code #graphify/EXTRACTED #community/Community_260

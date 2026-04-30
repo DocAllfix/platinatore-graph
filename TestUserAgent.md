@@ -1,20 +1,19 @@
 ---
 source_file: "harvester\tests\test_base_collector.py"
 type: "code"
-community: "Collectors · per collector"
+community: "Test: Base Collector"
 location: "L234"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_per_collector
+  - community/Test:_Base_Collector
 ---
 
 # TestUserAgent
 
 ## Connections
 - [[.test_user_agent_from_settings()]] - `method` [EXTRACTED]
-- [[BaseCollector]] - `uses` [INFERRED]
-- [[PerHostTokenBucket]] - `uses` [INFERRED]
 - [[test_base_collector.py]] - `contains` [EXTRACTED]
+- [[test_base_collector.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_per_collector
+#graphify/code #graphify/EXTRACTED #community/Test:_Base_Collector

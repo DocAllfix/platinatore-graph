@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\scraper\src\extractors\content.extractor.ts"
 type: "code"
-community: "Src · extractcontent() content"
+community: "Community 192"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Src_·_extractcontent()_content
+  - community/Community_192
 ---
 
 # content.extractor.ts
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[extractContent()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Src_·_extractcontent()_content
+#graphify/code #graphify/EXTRACTED #community/Community_192

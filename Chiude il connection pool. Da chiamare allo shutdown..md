@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\config\db.py"
 type: "rationale"
-community: "Config · pool() restituisce"
+community: "Community 31"
 location: "L34"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Config_·_pool()_restituisce
+  - community/Community_31
 ---
 
 # Chiude il connection pool. Da chiamare allo shutdown.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[close_pool()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Config_·_pool()_restituisce
+#graphify/rationale #graphify/EXTRACTED #community/Community_31

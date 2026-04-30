@@ -1,18 +1,18 @@
 ---
-source_file: "harvester\scripts\run_steam_achievements_all.py"
+source_file: "harvester\scripts\run_igdb_full_discovery.py"
 type: "code"
-community: "Discovery · giochi igdb"
-location: "L100"
+community: "Community 111"
+location: "L23"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Discovery_·_giochi_igdb
+  - community/Community_111
 ---
 
 # main()
 
 ## Connections
-- [[_run()_1]] - `calls` [EXTRACTED]
-- [[run_steam_achievements_all.py]] - `contains` [EXTRACTED]
+- [[run_igdb_full_discovery.py]] - `contains` [EXTRACTED]
+- [[run_igdb_full_discovery.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Discovery_·_giochi_igdb
+#graphify/code #graphify/EXTRACTED #community/Community_111

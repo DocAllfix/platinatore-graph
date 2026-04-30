@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\src\collectors\truetrophies.py"
 type: "rationale"
-community: "Collectors · truetrophies per"
+community: "Fextralife Collector"
 location: "L54"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Collectors_·_truetrophies_per
+  - community/Fextralife_Collector
 ---
 
 # Collector per guide trofei su truetrophies.com.
 
 ## Connections
-- [[BaseCollector]] - `uses` [INFERRED]
 - [[TrueTrophiesCollector]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_truetrophies_per
+#graphify/rationale #graphify/EXTRACTED #community/Fextralife_Collector

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\pstrophies_org.py"
 type: "code"
-community: "Collectors · org per"
+community: "Community 37"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_org_per
+  - community/Community_37
 ---
 
 # pstrophies_org.py
@@ -18,4 +18,4 @@ tags:
 - [[_normalize_whitespace()_5]] - `contains` [EXTRACTED]
 - [[_slugify_psorg()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_org_per
+#graphify/code #graphify/EXTRACTED #community/Community_37

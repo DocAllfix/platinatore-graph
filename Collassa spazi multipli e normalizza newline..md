@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\src\collectors\powerpyx.py"
 type: "rationale"
-community: "Collectors · powerpyx url"
+community: "Community 41"
 location: "L108"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Collectors_·_powerpyx_url
+  - community/Community_41
 ---
 
 # Collassa spazi multipli e normalizza newline.
 
 ## Connections
-- [[BaseCollector]] - `uses` [INFERRED]
 - [[_normalize_whitespace()_3]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_powerpyx_url
+#graphify/rationale #graphify/EXTRACTED #community/Community_41

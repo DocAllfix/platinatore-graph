@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\transformer\synthesizer.py"
 type: "rationale"
-community: "Orchestrator · per guide"
+community: "LLM Synthesizer"
 location: "L137"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Orchestrator_·_per_guide
+  - community/LLM_Synthesizer
 ---
 
 # Dispatch al provider configurato.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[._call_llm()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Orchestrator_·_per_guide
+#graphify/rationale #graphify/EXTRACTED #community/LLM_Synthesizer

@@ -1,14 +1,14 @@
 ---
 source_file: "harvester\src\transformer\__init__.py"
 type: "code"
-community: "Transformer · init"
+community: "Community 262"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Transformer_·_init
+  - community/Community_262
 ---
 
 # __init__.py
 
-#graphify/code #graphify/EXTRACTED #community/Transformer_·_init
+#graphify/code #graphify/EXTRACTED #community/Community_262

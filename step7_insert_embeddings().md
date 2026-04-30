@@ -1,19 +1,20 @@
 ---
 source_file: "harvester\scripts\test_single_game.py"
 type: "code"
-community: "Test Single Game · insert embeddings()"
+community: "Single Game Test Script"
 location: "L221"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test_Single_Game_·_insert_embeddings()
+  - community/Single_Game_Test_Script
 ---
 
 # step7_insert_embeddings()
 
 ## Connections
 - [[_insert_embeddings()]] - `calls` [EXTRACTED]
-- [[main()_6]] - `calls` [EXTRACTED]
+- [[main()_8]] - `calls` [EXTRACTED]
 - [[test_single_game.py]] - `contains` [EXTRACTED]
+- [[test_single_game.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test_Single_Game_·_insert_embeddings()
+#graphify/code #graphify/EXTRACTED #community/Single_Game_Test_Script

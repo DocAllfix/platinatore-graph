@@ -1,25 +1,19 @@
 ---
-source_file: "harvester\scripts\test_single_game.py"
+source_file: "harvester\scripts\run_steam_achievements_all.py"
 type: "code"
-community: "Test Single Game · insert embeddings()"
-location: "L255"
+community: "Community 89"
+location: "L100"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test_Single_Game_·_insert_embeddings()
+  - community/Community_89
 ---
 
 # main()
 
 ## Connections
-- [[step1_init()]] - `calls` [EXTRACTED]
-- [[step2_collect()]] - `calls` [EXTRACTED]
-- [[step3_transform()]] - `calls` [EXTRACTED]
-- [[step4_quality_and_chunk()]] - `calls` [EXTRACTED]
-- [[step5_embed()]] - `calls` [EXTRACTED]
-- [[step6_upsert()]] - `calls` [EXTRACTED]
-- [[step7_insert_embeddings()]] - `calls` [EXTRACTED]
-- [[step8_pgvector_search()]] - `calls` [EXTRACTED]
-- [[test_single_game.py]] - `contains` [EXTRACTED]
+- [[_run()_1]] - `calls` [EXTRACTED]
+- [[run_steam_achievements_all.py]] - `contains` [EXTRACTED]
+- [[run_steam_achievements_all.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test_Single_Game_·_insert_embeddings()
+#graphify/code #graphify/EXTRACTED #community/Community_89

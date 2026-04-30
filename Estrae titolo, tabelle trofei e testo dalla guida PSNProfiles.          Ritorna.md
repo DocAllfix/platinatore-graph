@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\src\collectors\psnprofiles.py"
 type: "rationale"
-community: "Collectors · per collector"
+community: "Community 35"
 location: "L60"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Collectors_·_per_collector
+  - community/Community_35
 ---
 
 # Estrae titolo, tabelle trofei e testo dalla guida PSNProfiles.          Ritorna
 
 ## Connections
 - [[.extract()_6]] - `rationale_for` [EXTRACTED]
-- [[BaseCollector]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_per_collector
+#graphify/rationale #graphify/EXTRACTED #community/Community_35

@@ -1,0 +1,21 @@
+---
+source_file: "il-platinatore-ai\harvester\src\collectors\pstrophies_org.py"
+type: "code"
+community: "Community 37"
+location: "L1"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_37
+---
+
+# pstrophies_org.py
+
+## Connections
+- [[PSTrophiesOrgCollector]] - `contains` [EXTRACTED]
+- [[PSTrophiesOrgCollector — collector per playstationtrophies.org.  PlaystationTrop]] - `rationale_for` [EXTRACTED]
+- [[_extract_title()_5]] - `contains` [EXTRACTED]
+- [[_normalize_whitespace()_5]] - `contains` [EXTRACTED]
+- [[_slugify_psorg()]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_37

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\guide_search.py"
 type: "code"
-community: "Collectors · ddg guide"
+community: "Guide Search Collector"
 location: "L117"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_ddg_guide
+  - community/Guide_Search_Collector
 ---
 
 # _is_trusted()
@@ -16,5 +16,6 @@ tags:
 - [[True se l'URL appartiene a un dominio di fiducia.]] - `rationale_for` [EXTRACTED]
 - [[_domain_of()]] - `calls` [EXTRACTED]
 - [[guide_search.py]] - `contains` [EXTRACTED]
+- [[guide_search.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_ddg_guide
+#graphify/code #graphify/EXTRACTED #community/Guide_Search_Collector

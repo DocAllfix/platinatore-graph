@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\base.py"
 type: "code"
-community: "Collectors · per collector"
+community: "Base Collector ABC"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_per_collector
+  - community/Base_Collector_ABC
 ---
 
 # base.py
@@ -19,4 +19,4 @@ tags:
 - [[compute_hash()]] - `contains` [EXTRACTED]
 - [[extract()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_per_collector
+#graphify/code #graphify/EXTRACTED #community/Base_Collector_ABC

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\steam_achievement_fetcher.py"
 type: "rationale"
-community: "Discovery · giochi igdb"
+community: "Steam Achievement Fetcher"
 location: "L398"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Discovery_·_giochi_igdb
+  - community/Steam_Achievement_Fetcher
 ---
 
 # Chiude il client httpx.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.close()_3]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Discovery_·_giochi_igdb
+#graphify/rationale #graphify/EXTRACTED #community/Steam_Achievement_Fetcher

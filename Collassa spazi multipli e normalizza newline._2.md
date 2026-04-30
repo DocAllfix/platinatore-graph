@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\src\collectors\trueachievements.py"
 type: "rationale"
-community: "Collectors · per collector"
+community: "Community 42"
 location: "L126"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Collectors_·_per_collector
+  - community/Community_42
 ---
 
 # Collassa spazi multipli e normalizza newline.
 
 ## Connections
-- [[BaseCollector]] - `uses` [INFERRED]
 - [[_normalize_whitespace()_6]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_per_collector
+#graphify/rationale #graphify/EXTRACTED #community/Community_42

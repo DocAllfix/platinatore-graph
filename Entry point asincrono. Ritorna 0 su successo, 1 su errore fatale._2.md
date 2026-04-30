@@ -1,19 +1,17 @@
 ---
 source_file: "harvester\src\orchestrator\psn_seed.py"
 type: "rationale"
-community: "Discovery · psn per"
+community: "Community 76"
 location: "L35"
 tags:
   - graphify/rationale
-  - graphify/INFERRED
-  - community/Discovery_·_psn_per
+  - graphify/EXTRACTED
+  - community/Community_76
 ---
 
 # Entry point asincrono. Ritorna 0 su successo, 1 su errore fatale.
 
 ## Connections
-- [[PsnGameFinder]] - `uses` [INFERRED]
-- [[PsnTrophyFetcher]] - `uses` [INFERRED]
 - [[_run()_4]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/INFERRED #community/Discovery_·_psn_per
+#graphify/rationale #graphify/EXTRACTED #community/Community_76

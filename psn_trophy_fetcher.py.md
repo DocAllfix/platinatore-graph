@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\psn_trophy_fetcher.py"
 type: "code"
-community: "Discovery · psn per"
+community: "PSN Trophy Fetcher"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Discovery_·_psn_per
+  - community/PSN_Trophy_Fetcher
 ---
 
 # psn_trophy_fetcher.py
@@ -15,4 +15,4 @@ tags:
 - [[PsnTrophyFetcher]] - `contains` [EXTRACTED]
 - [[PsnTrophyFetcher — recupera nomi ufficiali PSN trofei in 10 lingue.  Autenticazi]] - `rationale_for` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Discovery_·_psn_per
+#graphify/code #graphify/EXTRACTED #community/PSN_Trophy_Fetcher

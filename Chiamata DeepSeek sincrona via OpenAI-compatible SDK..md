@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\transformer\synthesizer.py"
 type: "rationale"
-community: "Orchestrator · per guide"
+community: "LLM Synthesizer"
 location: "L93"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Orchestrator_·_per_guide
+  - community/LLM_Synthesizer
 ---
 
 # Chiamata DeepSeek sincrona via OpenAI-compatible SDK.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[._call_deepseek()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Orchestrator_·_per_guide
+#graphify/rationale #graphify/EXTRACTED #community/LLM_Synthesizer

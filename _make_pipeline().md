@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_pipeline.py"
 type: "code"
-community: "Test Pipeline · when returns"
+community: "Community 32"
 location: "L12"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test_Pipeline_·_when_returns
+  - community/Community_32
 ---
 
 # _make_pipeline()
@@ -18,9 +18,10 @@ tags:
 - [[test_exits_gracefully_when_lock_busy()]] - `calls` [EXTRACTED]
 - [[test_guide_type_override_applies()]] - `calls` [EXTRACTED]
 - [[test_pipeline.py]] - `contains` [EXTRACTED]
+- [[test_pipeline.py_1]] - `contains` [EXTRACTED]
 - [[test_returns_false_when_all_collectors_return_none()]] - `calls` [EXTRACTED]
 - [[test_returns_false_when_already_processed()]] - `calls` [EXTRACTED]
 - [[test_returns_false_when_quality_below_threshold()]] - `calls` [EXTRACTED]
 - [[test_returns_stats_dict()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test_Pipeline_·_when_returns
+#graphify/code #graphify/EXTRACTED #community/Community_32

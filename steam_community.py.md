@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\steam_community.py"
 type: "code"
-community: "Collectors · steam guide"
+community: "Community 33"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_steam_guide
+  - community/Community_33
 ---
 
 # steam_community.py
@@ -17,4 +17,4 @@ tags:
 - [[_guide_type_from_tags()]] - `contains` [EXTRACTED]
 - [[_strip_steam_bbcode()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_steam_guide
+#graphify/code #graphify/EXTRACTED #community/Community_33

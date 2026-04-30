@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_collectors.py"
 type: "code"
-community: "Collectors · per collector"
+community: "Test: PSN Collectors"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_per_collector
+  - community/Test:_PSN_Collectors
 ---
 
 # test_collectors.py
@@ -26,4 +26,4 @@ tags:
 - [[test_table_converted_to_text()]] - `contains` [EXTRACTED]
 - [[test_valid_html_returns_full_dict()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_per_collector
+#graphify/code #graphify/EXTRACTED #community/Test:_PSN_Collectors

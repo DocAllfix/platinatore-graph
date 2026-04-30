@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\src\discovery\igdb.py"
 type: "rationale"
-community: "Discovery · giochi igdb"
+community: "IGDB Discovery"
 location: "L606"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Discovery_·_giochi_igdb
+  - community/IGDB_Discovery
 ---
 
 # Inserisce alias per il gioco: titolo completo + slug IGDB.
 
 ## Connections
 - [[._insert_aliases()]] - `rationale_for` [EXTRACTED]
-- [[Upserter]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Discovery_·_giochi_igdb
+#graphify/rationale #graphify/EXTRACTED #community/IGDB_Discovery

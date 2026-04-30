@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\embedder.py"
 type: "rationale"
-community: "Injector · embedder embed"
+community: "Community 50"
 location: "L28"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Injector_·_embedder_embed
+  - community/Community_50
 ---
 
 # Wrapper Gemini embedding con quota e batching automatico.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Embedder]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Injector_·_embedder_embed
+#graphify/rationale #graphify/EXTRACTED #community/Community_50

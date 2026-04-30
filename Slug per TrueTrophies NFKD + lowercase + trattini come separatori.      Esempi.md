@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\src\collectors\truetrophies.py"
 type: "rationale"
-community: "Collectors · truetrophies per"
+community: "Fextralife Collector"
 location: "L39"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Collectors_·_truetrophies_per
+  - community/Fextralife_Collector
 ---
 
 # Slug per TrueTrophies: NFKD + lowercase + trattini come separatori.      Esempi:
 
 ## Connections
-- [[BaseCollector]] - `uses` [INFERRED]
 - [[_slugify_truetrophies()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_truetrophies_per
+#graphify/rationale #graphify/EXTRACTED #community/Fextralife_Collector

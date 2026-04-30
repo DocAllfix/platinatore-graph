@@ -1,18 +1,19 @@
 ---
 source_file: "backend\src\utils\errors.ts"
 type: "code"
-community: "Utils · constructor() errors"
+community: "Community 30"
 location: "L38"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Utils_·_constructor()_errors
+  - community/Community_30
 ---
 
 # RateLimitError
 
 ## Connections
-- [[.constructor()_7]] - `method` [EXTRACTED]
+- [[.constructor()_5]] - `method` [EXTRACTED]
 - [[errors.ts]] - `contains` [EXTRACTED]
+- [[errors.ts_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Utils_·_constructor()_errors
+#graphify/code #graphify/EXTRACTED #community/Community_30

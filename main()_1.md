@@ -1,17 +1,18 @@
 ---
-source_file: "harvester\scripts\run_igdb_discovery.py"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\re-embed-pending.ts"
 type: "code"
-community: "Discovery · giochi igdb"
-location: "L13"
+community: "Community 94"
+location: "L69"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Discovery_·_giochi_igdb
+  - community/Community_94
 ---
 
 # main()
 
 ## Connections
-- [[run_igdb_discovery.py]] - `contains` [EXTRACTED]
+- [[enqueuePendingGuides()]] - `calls` [EXTRACTED]
+- [[re-embed-pending.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Discovery_·_giochi_igdb
+#graphify/code #graphify/EXTRACTED #community/Community_94

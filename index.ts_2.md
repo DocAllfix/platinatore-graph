@@ -1,14 +1,17 @@
 ---
-source_file: "scraper\src\index.ts"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\utils\index.ts"
 type: "code"
-community: "Index"
+community: "Community 181"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Index
+  - community/Community_181
 ---
 
 # index.ts
 
-#graphify/code #graphify/EXTRACTED #community/Index
+## Connections
+- [[createPageUrl()]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_181

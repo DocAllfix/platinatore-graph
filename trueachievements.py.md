@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\trueachievements.py"
 type: "code"
-community: "Collectors · per collector"
+community: "Community 42"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_per_collector
+  - community/Community_42
 ---
 
 # trueachievements.py
@@ -18,4 +18,4 @@ tags:
 - [[_normalize_whitespace()_6]] - `contains` [EXTRACTED]
 - [[_parse_game_name_from_url()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_per_collector
+#graphify/code #graphify/EXTRACTED #community/Community_42

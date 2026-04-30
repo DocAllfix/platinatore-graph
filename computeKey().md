@@ -1,18 +1,18 @@
 ---
-source_file: "backend\src\services\guide.cache.ts"
+source_file: "il-platinatore-ai\backend\src\services\guide.cache.ts"
 type: "code"
-community: "Services · guide cache"
+community: "Community 184"
 location: "L55"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Services_·_guide_cache
+  - community/Community_184
 ---
 
 # computeKey()
 
 ## Connections
 - [[guide.cache.ts]] - `contains` [EXTRACTED]
-- [[slugify()]] - `calls` [EXTRACTED]
+- [[slugify()_1]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Services_·_guide_cache
+#graphify/code #graphify/EXTRACTED #community/Community_184

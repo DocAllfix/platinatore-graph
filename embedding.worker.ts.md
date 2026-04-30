@@ -1,12 +1,12 @@
 ---
 source_file: "backend\src\workers\embedding.worker.ts"
 type: "code"
-community: "Workers · embedding worker"
+community: "Community 95"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Workers_·_embedding_worker
+  - community/Community_95
 ---
 
 # embedding.worker.ts
@@ -15,4 +15,4 @@ tags:
 - [[embeddingProcessor()]] - `contains` [EXTRACTED]
 - [[startEmbeddingWorker()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Workers_·_embedding_worker
+#graphify/code #graphify/EXTRACTED #community/Community_95

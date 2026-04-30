@@ -1,12 +1,12 @@
 ---
-source_file: "backend\src\services\prompt.builder.ts"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\prompt.builder.ts"
 type: "code"
-community: "Services · prompt builder"
-location: "L77"
+community: "Community 44"
+location: "L102"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Services_·_prompt_builder
+  - community/Community_44
 ---
 
 # assembleUserContext()
@@ -19,4 +19,4 @@ tags:
 - [[buildWalkthrough()]] - `calls` [EXTRACTED]
 - [[prompt.builder.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Services_·_prompt_builder
+#graphify/code #graphify/EXTRACTED #community/Community_44

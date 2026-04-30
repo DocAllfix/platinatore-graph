@@ -1,18 +1,18 @@
 ---
-source_file: "backend\src\services\llm.circuitBreaker.ts"
+source_file: "il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts"
 type: "code"
-community: "Services · circuitbreaker constructor()"
+community: "Community 47"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Services_·_circuitbreaker_constructor()
+  - community/Community_47
 ---
 
 # llm.circuitBreaker.ts
 
 ## Connections
 - [[CircuitBreaker]] - `contains` [EXTRACTED]
-- [[CircuitOpenError]] - `contains` [EXTRACTED]
+- [[CircuitOpenError_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Services_·_circuitbreaker_constructor()
+#graphify/code #graphify/EXTRACTED #community/Community_47

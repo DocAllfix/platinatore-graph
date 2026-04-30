@@ -1,18 +1,14 @@
 ---
 source_file: "harvester\tests\test_discovery.py"
 type: "rationale"
-community: "Discovery · giochi igdb"
+community: "Community 287"
 location: "L130"
 tags:
   - graphify/rationale
-  - graphify/INFERRED
-  - community/Discovery_·_giochi_igdb
+  - graphify/EXTRACTED
+  - community/Community_287
 ---
 
 # fetch_games ritorna la lista di giochi parsata dal JSON IGDB.
 
-## Connections
-- [[IGDBDiscovery]] - `uses` [INFERRED]
-- [[SeedLoader]] - `uses` [INFERRED]
-
-#graphify/rationale #graphify/INFERRED #community/Discovery_·_giochi_igdb
+#graphify/rationale #graphify/EXTRACTED #community/Community_287

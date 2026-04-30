@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_transformer.py"
 type: "code"
-community: "Test Transformer · returns transformer"
+community: "Community 39"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test_Transformer_·_returns_transformer
+  - community/Community_39
 ---
 
 # test_transformer.py
@@ -19,4 +19,4 @@ tags:
 - [[test_returns_false_when_limit_reached()]] - `contains` [EXTRACTED]
 - [[test_returns_true_below_limit()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test_Transformer_·_returns_transformer
+#graphify/code #graphify/EXTRACTED #community/Community_39

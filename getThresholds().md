@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\backend\src\services\rag.service.ts"
 type: "code"
-community: "Src · rag service"
+community: "Community 85"
 location: "L84"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Src_·_rag_service
+  - community/Community_85
 ---
 
 # getThresholds()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[rag.service.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Src_·_rag_service
+#graphify/code #graphify/EXTRACTED #community/Community_85

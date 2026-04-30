@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\scripts\run_psn_trophies_all.py"
 type: "code"
-community: "Discovery · psn per"
+community: "Community 49"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Discovery_·_psn_per
+  - community/Community_49
 ---
 
 # run_psn_trophies_all.py
@@ -16,6 +16,6 @@ tags:
 - [[_load_checkpoint()]] - `contains` [EXTRACTED]
 - [[_run()]] - `contains` [EXTRACTED]
 - [[_save_checkpoint()]] - `contains` [EXTRACTED]
-- [[main()_3]] - `contains` [EXTRACTED]
+- [[main()_5]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Discovery_·_psn_per
+#graphify/code #graphify/EXTRACTED #community/Community_49

@@ -1,17 +1,18 @@
 ---
 source_file: "harvester\tests\test_new_collectors.py"
 type: "code"
-community: "Test New Collectors · extract returns"
+community: "Community 38"
 location: "L209"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test_New_Collectors_·_extract_returns
+  - community/Community_38
 ---
 
 # test_reddit_extract_filters_and_anonymizes()
 
 ## Connections
 - [[test_new_collectors.py]] - `contains` [EXTRACTED]
+- [[test_new_collectors.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test_New_Collectors_·_extract_returns
+#graphify/code #graphify/EXTRACTED #community/Community_38

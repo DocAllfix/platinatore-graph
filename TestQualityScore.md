@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_transformer.py"
 type: "code"
-community: "Test Transformer · returns transformer"
+community: "Community 39"
 location: "L70"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test_Transformer_·_returns_transformer
+  - community/Community_39
 ---
 
 # TestQualityScore
@@ -15,7 +15,7 @@ tags:
 - [[.test_complete_guide_scores_above_threshold()]] - `method` [EXTRACTED]
 - [[.test_empty_guide_scores_low()]] - `method` [EXTRACTED]
 - [[.test_returns_float_two_decimals()]] - `method` [EXTRACTED]
-- [[GuideSynthesizer]] - `uses` [INFERRED]
 - [[test_transformer.py]] - `contains` [EXTRACTED]
+- [[test_transformer.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test_Transformer_·_returns_transformer
+#graphify/code #graphify/EXTRACTED #community/Community_39

@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\src\collectors\exophase.py"
 type: "rationale"
-community: "Collectors · exophase per"
+community: "Community 36"
 location: "L52"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Collectors_·_exophase_per
+  - community/Community_36
 ---
 
 # Costruisce l'URL della pagina trofei per un gioco.
 
 ## Connections
 - [[.guide_url()]] - `rationale_for` [EXTRACTED]
-- [[BaseCollector]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_exophase_per
+#graphify/rationale #graphify/EXTRACTED #community/Community_36

@@ -1,12 +1,12 @@
 ---
 source_file: "backend\src\middleware\errorHandler.ts"
 type: "code"
-community: "Middleware · errorhandler errorhandler()"
+community: "Community 119"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Middleware_·_errorhandler_errorhandler()
+  - community/Community_119
 ---
 
 # errorHandler.ts
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[errorHandler()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Middleware_·_errorhandler_errorhandler()
+#graphify/code #graphify/EXTRACTED #community/Community_119

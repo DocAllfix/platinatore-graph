@@ -1,17 +1,14 @@
 ---
 source_file: "harvester\tests\test_powerpyx_collector.py"
 type: "rationale"
-community: "Orchestrator · per guide"
+community: "Community 302"
 location: "L140"
 tags:
   - graphify/rationale
-  - graphify/INFERRED
-  - community/Orchestrator_·_per_guide
+  - graphify/EXTRACTED
+  - community/Community_302
 ---
 
 # Stesso input HTML+URL → stesso content_hash.
 
-## Connections
-- [[PowerPyxCollector]] - `uses` [INFERRED]
-
-#graphify/rationale #graphify/INFERRED #community/Orchestrator_·_per_guide
+#graphify/rationale #graphify/EXTRACTED #community/Community_302

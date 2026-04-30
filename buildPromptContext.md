@@ -1,18 +1,21 @@
 ---
-source_file: "backend/src/services/orchestrator.shared.ts"
+source_file: "il-platinatore-ai/backend/src/services/orchestrator.shared.ts"
 type: "code"
-community: "Services · template circuitbreaker"
+community: "RAG Architecture Concepts"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Services_·_template_circuitbreaker
+  - community/RAG_Architecture_Concepts
 ---
 
 # buildPromptContext
 
 ## Connections
-- [[DB_CANONICAL_LANGUAGE ('en')]] - `references` [EXTRACTED]
-- [[handleGuideRequest (non-streaming 7-step)]] - `calls` [EXTRACTED]
-- [[handleGuideStream (SSE 7-step generator)]] - `calls` [EXTRACTED]
+- [[DB_CANONICAL_LANGUAGE constant (en)]] - `references` [EXTRACTED]
+- [[PSN anchor anti-hallucination pattern]] - `implements` [EXTRACTED]
+- [[buildCacheKeyParams]] - `conceptually_related_to` [INFERRED]
+- [[buildPrompt dispatcher]] - `shares_data_with` [EXTRACTED]
+- [[fetchScrapedContext (Tavily)]] - `shares_data_with` [INFERRED]
+- [[formatPsnOfficial]] - `shares_data_with` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Services_·_template_circuitbreaker
+#graphify/code #graphify/EXTRACTED #community/RAG_Architecture_Concepts

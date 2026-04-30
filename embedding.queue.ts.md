@@ -1,12 +1,12 @@
 ---
 source_file: "backend\src\queues\embedding.queue.ts"
 type: "code"
-community: "Queues · embedding queue"
+community: "Community 128"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Queues_·_embedding_queue
+  - community/Community_128
 ---
 
 # embedding.queue.ts
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[enqueueLiveEmbedding()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Queues_·_embedding_queue
+#graphify/code #graphify/EXTRACTED #community/Community_128

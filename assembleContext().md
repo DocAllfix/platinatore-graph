@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\backend\src\services\rag.fusion.ts"
 type: "code"
-community: "Src · rag fusion"
+community: "Community 83"
 location: "L161"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Src_·_rag_fusion
+  - community/Community_83
 ---
 
 # assembleContext()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[rag.fusion.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Src_·_rag_fusion
+#graphify/code #graphify/EXTRACTED #community/Community_83

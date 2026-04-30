@@ -1,19 +1,14 @@
 ---
 source_file: "harvester\tests\test_collectors.py"
 type: "rationale"
-community: "Collectors · per collector"
+community: "Community 282"
 location: "L278"
 tags:
   - graphify/rationale
-  - graphify/INFERRED
-  - community/Collectors_·_per_collector
+  - graphify/EXTRACTED
+  - community/Community_282
 ---
 
 # game_name estratto dallo slug /game/{slug}/.
 
-## Connections
-- [[BaseCollector]] - `uses` [INFERRED]
-- [[PSNProfilesCollector]] - `uses` [INFERRED]
-- [[TrueAchievementsCollector]] - `uses` [INFERRED]
-
-#graphify/rationale #graphify/INFERRED #community/Collectors_·_per_collector
+#graphify/rationale #graphify/EXTRACTED #community/Community_282

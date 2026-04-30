@@ -1,12 +1,12 @@
 ---
-source_file: "backend\src\config\env.ts"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\config\env.ts"
 type: "code"
-community: "Config · env loadenv()"
+community: "Community 186"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Config_·_env_loadenv()
+  - community/Community_186
 ---
 
 # env.ts
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[loadEnv()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Config_·_env_loadenv()
+#graphify/code #graphify/EXTRACTED #community/Community_186

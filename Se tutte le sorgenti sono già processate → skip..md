@@ -1,17 +1,14 @@
 ---
 source_file: "harvester\tests\test_pipeline.py"
 type: "rationale"
-community: "Orchestrator · per guide"
+community: "Community 294"
 location: "L155"
 tags:
   - graphify/rationale
-  - graphify/INFERRED
-  - community/Orchestrator_·_per_guide
+  - graphify/EXTRACTED
+  - community/Community_294
 ---
 
 # Se tutte le sorgenti sono già processate → skip.
 
-## Connections
-- [[HarvestPipeline]] - `uses` [INFERRED]
-
-#graphify/rationale #graphify/INFERRED #community/Orchestrator_·_per_guide
+#graphify/rationale #graphify/EXTRACTED #community/Community_294

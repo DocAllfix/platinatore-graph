@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\reddit.py"
 type: "code"
-community: "Collectors · json post"
+community: "Reddit Collector"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_json_post
+  - community/Reddit_Collector
 ---
 
 # reddit.py
@@ -18,4 +18,4 @@ tags:
 - [[format_for_llm()]] - `contains` [EXTRACTED]
 - [[matches_url()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_json_post
+#graphify/code #graphify/EXTRACTED #community/Reddit_Collector

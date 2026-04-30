@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\fextralife.py"
 type: "code"
-community: "Collectors · fextralife wiki"
+community: "Fextralife Collector"
 location: "L112"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_fextralife_wiki
+  - community/Fextralife_Collector
 ---
 
 # _parse_url_slug()
@@ -15,5 +15,6 @@ tags:
 - [[.extract()_2]] - `calls` [EXTRACTED]
 - [[Estrae game_name e topic dallo slug Fextralife.      Pattern wiki.fextralife.co]] - `rationale_for` [EXTRACTED]
 - [[fextralife.py]] - `contains` [EXTRACTED]
+- [[fextralife.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_fextralife_wiki
+#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector

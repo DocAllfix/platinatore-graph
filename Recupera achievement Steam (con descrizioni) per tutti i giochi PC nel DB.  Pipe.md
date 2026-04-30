@@ -1,19 +1,18 @@
 ---
 source_file: "harvester\scripts\run_steam_achievements_all.py"
 type: "rationale"
-community: "Discovery · giochi igdb"
+community: "Community 89"
 location: "L1"
 tags:
   - graphify/rationale
-  - graphify/INFERRED
-  - community/Discovery_·_giochi_igdb
+  - graphify/EXTRACTED
+  - community/Community_89
 ---
 
 # Recupera achievement Steam (con descrizioni) per tutti i giochi PC nel DB.  Pipe
 
 ## Connections
-- [[IGDBDiscovery]] - `uses` [INFERRED]
-- [[SteamAchievementFetcher]] - `uses` [INFERRED]
 - [[run_steam_achievements_all.py]] - `rationale_for` [EXTRACTED]
+- [[run_steam_achievements_all.py_1]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/INFERRED #community/Discovery_·_giochi_igdb
+#graphify/rationale #graphify/EXTRACTED #community/Community_89

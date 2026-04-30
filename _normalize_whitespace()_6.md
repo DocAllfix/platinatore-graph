@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\trueachievements.py"
 type: "code"
-community: "Collectors · per collector"
+community: "Community 42"
 location: "L125"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_per_collector
+  - community/Community_42
 ---
 
 # _normalize_whitespace()
@@ -15,5 +15,6 @@ tags:
 - [[.extract()_10]] - `calls` [EXTRACTED]
 - [[Collassa spazi multipli e normalizza newline._2]] - `rationale_for` [EXTRACTED]
 - [[trueachievements.py]] - `contains` [EXTRACTED]
+- [[trueachievements.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_per_collector
+#graphify/code #graphify/EXTRACTED #community/Community_42

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\fextralife.py"
 type: "code"
-community: "Collectors · fextralife wiki"
+community: "Fextralife Collector"
 location: "L105"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_fextralife_wiki
+  - community/Fextralife_Collector
 ---
 
 # _normalize_whitespace()
@@ -14,5 +14,6 @@ tags:
 ## Connections
 - [[.extract()_2]] - `calls` [EXTRACTED]
 - [[fextralife.py]] - `contains` [EXTRACTED]
+- [[fextralife.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_fextralife_wiki
+#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector

@@ -1,13 +1,13 @@
 ---
 type: community
-cohesion: 0.15
-members: 18
+cohesion: 0.19
+members: 19
 ---
 
 # Trophy Section Extractor
 
-**Cohesion:** 0.15 - loosely connected
-**Members:** 18 nodes
+**Cohesion:** 0.19 - loosely connected
+**Members:** 19 nodes
 
 ## Members
 - [[Associa ogni trophy_name alla sezione con heading più simile.      Ritorna dict]] - rationale - harvester\src\collectors\trophy_section_extractor.py
@@ -28,6 +28,7 @@ members: 18
 - [[extract_trophy_sections()]] - code - harvester\src\collectors\trophy_section_extractor.py
 - [[match_trophies_to_sections()]] - code - harvester\src\collectors\trophy_section_extractor.py
 - [[trophy_section_extractor.py]] - code - harvester\src\collectors\trophy_section_extractor.py
+- [[trophy_section_extractor.py_1]] - code - il-platinatore-ai\harvester\src\collectors\trophy_section_extractor.py
 
 ## Live Query (requires Dataview plugin)
 

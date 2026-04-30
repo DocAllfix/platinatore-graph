@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\steam_achievement_fetcher.py"
 type: "rationale"
-community: "Discovery · giochi igdb"
+community: "Steam Achievement Fetcher"
 location: "L69"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Discovery_·_giochi_igdb
+  - community/Steam_Achievement_Fetcher
 ---
 
 # Fetcha lo schema achievement per una lingua.          Ritorna (lang, lista_achie
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[._fetch_schema()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Discovery_·_giochi_igdb
+#graphify/rationale #graphify/EXTRACTED #community/Steam_Achievement_Fetcher

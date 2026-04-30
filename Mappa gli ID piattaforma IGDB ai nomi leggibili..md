@@ -1,17 +1,14 @@
 ---
 source_file: "harvester\src\discovery\igdb.py"
 type: "rationale"
-community: "Orchestrator · per guide"
+community: "Community 255"
 location: "L591"
 tags:
   - graphify/rationale
-  - graphify/INFERRED
-  - community/Orchestrator_·_per_guide
+  - graphify/EXTRACTED
+  - community/Community_255
 ---
 
 # Mappa gli ID piattaforma IGDB ai nomi leggibili.
 
-## Connections
-- [[Upserter]] - `uses` [INFERRED]
-
-#graphify/rationale #graphify/INFERRED #community/Orchestrator_·_per_guide
+#graphify/rationale #graphify/EXTRACTED #community/Community_255

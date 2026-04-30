@@ -1,12 +1,12 @@
 ---
 source_file: "backend\scripts\run-migrations.ts"
 type: "code"
-community: "Run-Migrations · run-migrations runmigrations()"
+community: "Community 117"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Run-Migrations_·_run-migrations_runmigrations()
+  - community/Community_117
 ---
 
 # run-migrations.ts
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[runMigrations()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Run-Migrations_·_run-migrations_runmigrations()
+#graphify/code #graphify/EXTRACTED #community/Community_117

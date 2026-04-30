@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\pipeline.py"
 type: "code"
-community: "Orchestrator · per guide"
+community: "Harvester Pipeline"
 location: "L996"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Orchestrator_·_per_guide
+  - community/Harvester_Pipeline
 ---
 
 # _touch_heartbeat()
@@ -15,5 +15,6 @@ tags:
 - [[.run_seed_batch()]] - `calls` [EXTRACTED]
 - [[Heartbeat file per Docker healthcheck (W-ARCH-2).]] - `rationale_for` [EXTRACTED]
 - [[pipeline.py]] - `contains` [EXTRACTED]
+- [[pipeline.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Orchestrator_·_per_guide
+#graphify/code #graphify/EXTRACTED #community/Harvester_Pipeline

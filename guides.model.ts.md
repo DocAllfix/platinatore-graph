@@ -1,17 +1,17 @@
 ---
 source_file: "backend\src\models\guides.model.ts"
 type: "code"
-community: "Models · guides model"
+community: "Community 125"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Models_·_guides_model
+  - community/Community_125
 ---
 
 # guides.model.ts
 
 ## Connections
-- [[buildSetClause()_1]] - `contains` [EXTRACTED]
+- [[buildSetClause()_2]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Models_·_guides_model
+#graphify/code #graphify/EXTRACTED #community/Community_125

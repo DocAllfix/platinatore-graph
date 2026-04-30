@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\truetrophies.py"
 type: "code"
-community: "Collectors · truetrophies per"
+community: "Fextralife Collector"
 location: "L53"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_truetrophies_per
+  - community/Fextralife_Collector
 ---
 
 # TrueTrophiesCollector
@@ -15,8 +15,8 @@ tags:
 - [[.extract()_11]] - `method` [EXTRACTED]
 - [[.guide_url()_2]] - `method` [EXTRACTED]
 - [[BaseCollector_1]] - `inherits` [EXTRACTED]
-- [[BaseCollector]] - `uses` [INFERRED]
 - [[Collector per guide trofei su truetrophies.com.]] - `rationale_for` [EXTRACTED]
 - [[truetrophies.py]] - `contains` [EXTRACTED]
+- [[truetrophies.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_truetrophies_per
+#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\config\db.py"
 type: "rationale"
-community: "Config · pool() restituisce"
+community: "Community 31"
 location: "L43"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Config_·_pool()_restituisce
+  - community/Community_31
 ---
 
 # Restituisce il pool, inizializzandolo se necessario.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_get_pool()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Config_·_pool()_restituisce
+#graphify/rationale #graphify/EXTRACTED #community/Community_31

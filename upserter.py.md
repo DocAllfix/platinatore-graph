@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\upserter.py"
 type: "code"
-community: "Orchestrator · per guide"
+community: "Injector Upserter"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Orchestrator_·_per_guide
+  - community/Injector_Upserter
 ---
 
 # upserter.py
@@ -18,4 +18,4 @@ tags:
 - [[_slugify()_2]] - `contains` [EXTRACTED]
 - [[generate_slug()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Orchestrator_·_per_guide
+#graphify/code #graphify/EXTRACTED #community/Injector_Upserter

@@ -1,12 +1,12 @@
 ---
-source_file: "backend\src\services\orchestrator.service.ts"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.service.ts"
 type: "code"
-community: "Services · orchestrator service"
-location: "L146"
+community: "Community 62"
+location: "L179"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Services_·_orchestrator_service
+  - community/Community_62
 ---
 
 # tryCacheHit()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[orchestrator.service.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Services_·_orchestrator_service
+#graphify/code #graphify/EXTRACTED #community/Community_62

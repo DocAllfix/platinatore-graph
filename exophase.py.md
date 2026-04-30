@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\exophase.py"
 type: "code"
-community: "Collectors · exophase per"
+community: "Community 36"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_exophase_per
+  - community/Community_36
 ---
 
 # exophase.py
@@ -18,4 +18,4 @@ tags:
 - [[_normalize_whitespace()]] - `contains` [EXTRACTED]
 - [[_slugify_exophase()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_exophase_per
+#graphify/code #graphify/EXTRACTED #community/Community_36

@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\src\collectors\guide_search.py"
 type: "rationale"
-community: "Collectors · ddg guide"
+community: "Guide Search Collector"
 location: "L212"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Collectors_·_ddg_guide
+  - community/Guide_Search_Collector
 ---
 
 # Lancia _QUERY_TEMPLATES sequenzialmente e aggrega i risultati.          Le query
 
 ## Connections
 - [[.search_guide_urls_multi()]] - `rationale_for` [EXTRACTED]
-- [[BaseCollector]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_ddg_guide
+#graphify/rationale #graphify/EXTRACTED #community/Guide_Search_Collector

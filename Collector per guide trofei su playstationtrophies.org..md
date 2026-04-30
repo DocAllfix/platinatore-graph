@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\src\collectors\pstrophies_org.py"
 type: "rationale"
-community: "Collectors · org per"
+community: "Community 37"
 location: "L47"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Collectors_·_org_per
+  - community/Community_37
 ---
 
 # Collector per guide trofei su playstationtrophies.org.
 
 ## Connections
-- [[BaseCollector]] - `uses` [INFERRED]
 - [[PSTrophiesOrgCollector]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_org_per
+#graphify/rationale #graphify/EXTRACTED #community/Community_37

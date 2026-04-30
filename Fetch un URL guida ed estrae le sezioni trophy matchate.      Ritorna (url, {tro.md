@@ -1,22 +1,17 @@
 ---
 source_file: "harvester\scripts\run_trophy_guides_top20.py"
 type: "rationale"
-community: "Orchestrator · per guide"
+community: "Top20 Trophy Guide Script"
 location: "L142"
 tags:
   - graphify/rationale
-  - graphify/INFERRED
-  - community/Orchestrator_·_per_guide
+  - graphify/EXTRACTED
+  - community/Top20_Trophy_Guide_Script
 ---
 
 # Fetch un URL guida ed estrae le sezioni trophy matchate.      Ritorna (url, {tro
 
 ## Connections
-- [[GuideSearchCollector]] - `uses` [INFERRED]
-- [[GuideSynthesizer]] - `uses` [INFERRED]
-- [[PSNProfilesCollector]] - `uses` [INFERRED]
-- [[RedditCollector]] - `uses` [INFERRED]
-- [[Upserter]] - `uses` [INFERRED]
 - [[_fetch_and_extract()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/INFERRED #community/Orchestrator_·_per_guide
+#graphify/rationale #graphify/EXTRACTED #community/Top20_Trophy_Guide_Script

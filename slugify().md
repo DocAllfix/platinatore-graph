@@ -1,18 +1,18 @@
 ---
-source_file: "backend\src\services\guide.cache.ts"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts"
 type: "code"
-community: "Services · guide cache"
-location: "L45"
+community: "Bulk Seed CLI"
+location: "L38"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Services_·_guide_cache
+  - community/Bulk_Seed_CLI
 ---
 
 # slugify()
 
 ## Connections
-- [[computeKey()]] - `calls` [EXTRACTED]
-- [[guide.cache.ts]] - `contains` [EXTRACTED]
+- [[buildSlug()]] - `calls` [EXTRACTED]
+- [[bulk-seed.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Services_·_guide_cache
+#graphify/code #graphify/EXTRACTED #community/Bulk_Seed_CLI

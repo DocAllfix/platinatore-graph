@@ -1,0 +1,20 @@
+---
+source_file: "il-platinatore-ai\harvester\src\discovery\psn_game_finder.py"
+type: "code"
+community: "PSN Game Finder"
+location: "L1"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/PSN_Game_Finder
+---
+
+# psn_game_finder.py
+
+## Connections
+- [[PsnGameFinder]] - `contains` [EXTRACTED]
+- [[PsnGameFinder — scopre il psn_communication_id per ogni gioco del seed.  Usa psn]] - `rationale_for` [EXTRACTED]
+- [[_is_name_match()]] - `contains` [EXTRACTED]
+- [[_normalize()]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/PSN_Game_Finder

@@ -1,18 +1,18 @@
 ---
 source_file: "harvester\tests\test_steam_community_collector.py"
 type: "rationale"
-community: "Test Steam Community Collector · extract returns"
+community: "Test: Steam Community Collector"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Test_Steam_Community_Collector_·_extract_returns
+  - community/Test:_Steam_Community_Collector
 ---
 
 # Test SteamCommunityGuidesCollector — JSON inventato, zero rete reale.
 
 ## Connections
-- [[SteamCommunityGuidesCollector]] - `uses` [INFERRED]
 - [[test_steam_community_collector.py]] - `rationale_for` [EXTRACTED]
+- [[test_steam_community_collector.py_1]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Test_Steam_Community_Collector_·_extract_returns
+#graphify/rationale #graphify/EXTRACTED #community/Test:_Steam_Community_Collector

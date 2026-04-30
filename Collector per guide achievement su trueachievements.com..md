@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\src\collectors\trueachievements.py"
 type: "rationale"
-community: "Collectors · per collector"
+community: "Community 42"
 location: "L57"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Collectors_·_per_collector
+  - community/Community_42
 ---
 
 # Collector per guide achievement su trueachievements.com.
 
 ## Connections
-- [[BaseCollector]] - `uses` [INFERRED]
 - [[TrueAchievementsCollector]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Collectors_·_per_collector
+#graphify/rationale #graphify/EXTRACTED #community/Community_42

@@ -1,14 +1,14 @@
 ---
 source_file: "backend\src\models\systemConfig.model.ts"
 type: "code"
-community: "Models · systemconfig model"
+community: "Community 199"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Models_·_systemconfig_model
+  - community/Community_199
 ---
 
 # systemConfig.model.ts
 
-#graphify/code #graphify/EXTRACTED #community/Models_·_systemconfig_model
+#graphify/code #graphify/EXTRACTED #community/Community_199

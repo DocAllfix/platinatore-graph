@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\steam_community.py"
 type: "code"
-community: "Collectors · steam guide"
+community: "Community 33"
 location: "L318"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_steam_guide
+  - community/Community_33
 ---
 
 # _strip_steam_bbcode()
@@ -15,5 +15,6 @@ tags:
 - [[.extract()_9]] - `calls` [EXTRACTED]
 - [[Rimuove BBCode Steam preservando il testo leggibile.]] - `rationale_for` [EXTRACTED]
 - [[steam_community.py]] - `contains` [EXTRACTED]
+- [[steam_community.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_steam_guide
+#graphify/code #graphify/EXTRACTED #community/Community_33

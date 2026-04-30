@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\scraper\src\utils\robots.ts"
 type: "code"
-community: "Src · robots fetchrobots()"
+community: "Community 183"
 location: "L43"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Src_·_robots_fetchrobots()
+  - community/Community_183
 ---
 
 # isAllowedByRobots()
@@ -15,4 +15,4 @@ tags:
 - [[fetchRobots()]] - `calls` [EXTRACTED]
 - [[robots.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Src_·_robots_fetchrobots()
+#graphify/code #graphify/EXTRACTED #community/Community_183

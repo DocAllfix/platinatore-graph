@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\transformer\synthesizer.py"
 type: "rationale"
-community: "Transformer · extract synthesize"
+community: "LLM Synthesizer"
 location: "L232"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Transformer_·_extract_synthesize
+  - community/LLM_Synthesizer
 ---
 
 # Sintetizza una guida markdown dai fatti. None se quota o formato KO.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.synthesize_guide()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Transformer_·_extract_synthesize
+#graphify/rationale #graphify/EXTRACTED #community/LLM_Synthesizer

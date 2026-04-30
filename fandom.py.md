@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\fandom.py"
 type: "code"
-community: "Collectors · guide mediawiki"
+community: "Fandom Collector"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Collectors_·_guide_mediawiki
+  - community/Fandom_Collector
 ---
 
 # fandom.py
@@ -17,4 +17,4 @@ tags:
 - [[_infer_guide_type()]] - `contains` [EXTRACTED]
 - [[_strip_html()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Collectors_·_guide_mediawiki
+#graphify/code #graphify/EXTRACTED #community/Fandom_Collector

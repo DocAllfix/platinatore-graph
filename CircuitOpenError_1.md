@@ -1,18 +1,18 @@
 ---
-source_file: "backend/src/services/llm.circuitBreaker.ts"
+source_file: "il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts"
 type: "code"
-community: "Services · template circuitbreaker"
+community: "Community 47"
+location: "L21"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Services_·_template_circuitbreaker
+  - community/Community_47
 ---
 
 # CircuitOpenError
 
 ## Connections
-- [[CircuitBreaker Vitest suite]] - `references` [EXTRACTED]
-- [[generateGuide (Gemini non-streaming)]] - `references` [EXTRACTED]
-- [[generateGuideStream (Gemini SSE)]] - `references` [EXTRACTED]
+- [[.constructor()_7]] - `method` [EXTRACTED]
+- [[llm.circuitBreaker.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Services_·_template_circuitbreaker
+#graphify/code #graphify/EXTRACTED #community/Community_47

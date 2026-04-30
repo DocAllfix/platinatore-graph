@@ -1,17 +1,17 @@
 ---
 source_file: "backend/src/services/llm.circuitBreaker.test.ts"
 type: "code"
-community: "Services · template circuitbreaker"
+community: "Circuit Breaker + Guide Cache"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Services_·_template_circuitbreaker
+  - community/Circuit_Breaker_+_Guide_Cache
 ---
 
 # CircuitBreaker Vitest suite
 
 ## Connections
 - [[CircuitBreaker (CLOSEDOPENHALF_OPEN)]] - `references` [EXTRACTED]
-- [[CircuitOpenError_1]] - `references` [EXTRACTED]
+- [[CircuitOpenError]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Services_·_template_circuitbreaker
+#graphify/code #graphify/EXTRACTED #community/Circuit_Breaker_+_Guide_Cache
