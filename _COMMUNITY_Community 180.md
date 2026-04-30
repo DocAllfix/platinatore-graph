@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 180
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[PasswordStrength()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Register.jsx
-- [[Register()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Register.jsx
-- [[Register.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Register.jsx
+- [[About()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\About.jsx
+- [[About.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\About.jsx
 
 ## Live Query (requires Dataview plugin)
 

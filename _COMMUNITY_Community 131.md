@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 131
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[isAllowedLang()]] - code - backend\src\services\trophyLookup.service.ts
-- [[trophyLookup.service.ts]] - code - backend\src\services\trophyLookup.service.ts
-- [[trophyLookup.service.ts_1]] - code - il-platinatore-ai\backend\src\services\trophyLookup.service.ts
+- [[buildSetClause()_2]] - code - backend\src\models\guides.model.ts
+- [[guides.model.ts]] - code - backend\src\models\guides.model.ts
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,14 +1,14 @@
 ---
 source_file: "harvester\tests\test_base_collector.py"
 type: "rationale"
-community: "Community 268"
+community: "Community 270"
 location: "L158"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_268
+  - community/Community_270
 ---
 
 # fetch() ritorna None su timeout.
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_268
+#graphify/rationale #graphify/EXTRACTED #community/Community_270

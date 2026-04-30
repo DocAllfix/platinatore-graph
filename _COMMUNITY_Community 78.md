@@ -10,11 +10,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[buildSetClause()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.ts
-- [[guideDrafts.model.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.test.ts
-- [[guideDrafts.model.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.ts
-- [[makeDraftRow()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.test.ts
-- [[pgResult()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.test.ts
+- [[CheckIcon()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Games.jsx
+- [[DifficultyDots()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Games.jsx
+- [[Games()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Games.jsx
+- [[Games.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Games.jsx
+- [[TargetIcon()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Games.jsx
 
 ## Live Query (requires Dataview plugin)
 

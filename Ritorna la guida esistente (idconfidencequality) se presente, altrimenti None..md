@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\deduplicator.py"
 type: "rationale"
-community: "Community 44"
+community: "Test: Base Collector"
 location: "L21"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_44
+  - community/Test:_Base_Collector
 ---
 
 # Ritorna la guida esistente (id/confidence/quality) se presente, altrimenti None.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.guide_exists()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_44
+#graphify/rationale #graphify/EXTRACTED #community/Test:_Base_Collector

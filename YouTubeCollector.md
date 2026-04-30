@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\youtube.py"
 type: "code"
-community: "YouTube Collector"
+community: "Community 21"
 location: "L93"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/YouTube_Collector
+  - community/Community_21
 ---
 
 # YouTubeCollector
@@ -21,6 +21,5 @@ tags:
 - [[BaseCollector_1]] - `inherits` [EXTRACTED]
 - [[Collector per guide video da YouTube via Data API v3 + transcript.]] - `rationale_for` [EXTRACTED]
 - [[youtube.py]] - `contains` [EXTRACTED]
-- [[youtube.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/YouTube_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_21

@@ -1,11 +1,11 @@
 ---
 source_file: "backend/src/services/llm.service.ts"
 type: "code"
-community: "Circuit Breaker + Guide Cache"
+community: "Community 53"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Circuit_Breaker_+_Guide_Cache
+  - community/Community_53
 ---
 
 # translateGuide (ENâ†’lang via Gemini)
@@ -13,7 +13,6 @@ tags:
 ## Connections
 - [[CircuitBreaker (CLOSEDOPENHALF_OPEN)]] - `shares_data_with` [INFERRED]
 - [[gemini-chat CircuitBreaker instance]] - `calls` [EXTRACTED]
-- [[handleGuideStream (SSE 7-step generator)]] - `calls` [EXTRACTED]
 - [[primaryModel (GoogleGenerativeAI client)]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Circuit_Breaker_+_Guide_Cache
+#graphify/code #graphify/EXTRACTED #community/Community_53

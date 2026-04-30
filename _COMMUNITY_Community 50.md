@@ -1,25 +1,23 @@
 ---
 type: community
-cohesion: 0.36
-members: 10
+cohesion: 0.25
+members: 8
 ---
 
 # Community 50
 
-**Cohesion:** 0.36 - loosely connected
-**Members:** 10 nodes
+**Cohesion:** 0.25 - loosely connected
+**Members:** 8 nodes
 
 ## Members
-- [[Test per PowerPyxCollector — extract, URL slug parsing, pulizia HTML.]] - rationale - harvester\tests\test_powerpyx_collector.py
-- [[TestExtract]] - code - harvester\tests\test_powerpyx_collector.py
-- [[collector()_1]] - code - harvester\tests\test_powerpyx_collector.py
-- [[test_content_hash_deterministic()]] - code - harvester\tests\test_powerpyx_collector.py
-- [[test_empty_content_returns_none()_1]] - code - harvester\tests\test_powerpyx_collector.py
-- [[test_game_name_from_url()_1]] - code - harvester\tests\test_powerpyx_collector.py
-- [[test_powerpyx_collector.py]] - code - harvester\tests\test_powerpyx_collector.py
-- [[test_powerpyx_collector.py_1]] - code - il-platinatore-ai\harvester\tests\test_powerpyx_collector.py
-- [[test_script_style_nav_removed()]] - code - harvester\tests\test_powerpyx_collector.py
-- [[test_valid_html_returns_full_dict()_1]] - code - harvester\tests\test_powerpyx_collector.py
+- [[createRateLimiter()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\rateLimiter.ts
+- [[getIdentifier()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\rateLimiter.ts
+- [[mockReq()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\rateLimiter.test.ts
+- [[mockRes()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\rateLimiter.test.ts
+- [[rateLimiter.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\rateLimiter.test.ts
+- [[rateLimiter.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\rateLimiter.ts
+- [[resolveTier()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\rateLimiter.ts
+- [[tierRateLimiter()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\rateLimiter.ts
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\fandom.py"
 type: "rationale"
-community: "Fandom Collector"
+community: "Community 25"
 location: "L95"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Fandom_Collector
+  - community/Community_25
 ---
 
 # Rimuove tag HTML e decodifica entità HTML. Normalizza whitespace.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_strip_html()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Fandom_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Community_25

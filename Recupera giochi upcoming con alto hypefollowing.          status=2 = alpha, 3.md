@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\igdb.py"
 type: "rationale"
-community: "Harvester Pipeline"
+community: "IGDB Discovery (harvester)"
 location: "L196"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Harvester_Pipeline
+  - community/IGDB_Discovery_(harvester)
 ---
 
 # Recupera giochi upcoming con alto hype/following.          status=2 = "alpha", 3
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.fetch_upcoming()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Harvester_Pipeline
+#graphify/rationale #graphify/EXTRACTED #community/IGDB_Discovery_(harvester)

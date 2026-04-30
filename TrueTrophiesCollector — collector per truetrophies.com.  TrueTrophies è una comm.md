@@ -13,6 +13,5 @@ tags:
 
 ## Connections
 - [[truetrophies.py]] - `rationale_for` [EXTRACTED]
-- [[truetrophies.py_1]] - `rationale_for` [EXTRACTED]
 
 #graphify/rationale #graphify/EXTRACTED #community/Community_37

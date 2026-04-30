@@ -1,21 +1,20 @@
 ---
 type: community
-cohesion: 0.40
-members: 6
+cohesion: 0.70
+members: 5
 ---
 
 # Community 72
 
-**Cohesion:** 0.40 - moderately connected
-**Members:** 6 nodes
+**Cohesion:** 0.70 - tightly connected
+**Members:** 5 nodes
 
 ## Members
-- [[Chiude la connessione Redis. Da chiamare allo shutdown.]] - rationale - harvester\src\config\redis_client.py
-- [[Verifica la connessione Redis con PING.]] - rationale - harvester\src\config\redis_client.py
-- [[close_redis()]] - code - harvester\src\config\redis_client.py
-- [[redis_client.py]] - code - harvester\src\config\redis_client.py
-- [[redis_client.py_1]] - code - il-platinatore-ai\harvester\src\config\redis_client.py
-- [[test_redis_connection()]] - code - harvester\src\config\redis_client.py
+- [[block-navigation.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\block-navigation.js
+- [[goToNext()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\block-navigation.js
+- [[goToPrevious()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\block-navigation.js
+- [[makeCurrent()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\block-navigation.js
+- [[toggleClass()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\block-navigation.js
 
 ## Live Query (requires Dataview plugin)
 

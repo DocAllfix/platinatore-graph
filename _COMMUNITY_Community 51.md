@@ -1,25 +1,23 @@
 ---
 type: community
-cohesion: 0.40
-members: 10
+cohesion: 0.39
+members: 8
 ---
 
 # Community 51
 
-**Cohesion:** 0.40 - moderately connected
-**Members:** 10 nodes
+**Cohesion:** 0.39 - loosely connected
+**Members:** 8 nodes
 
 ## Members
-- [[assembleContext()_1]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[buildQueries()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[cacheKey()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[callSerpApi()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[emptyResult()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[enforceDomainRateLimit()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[fetchHtml()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[hostOf()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[scrapeForGuide()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[scraping.service.ts]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[assertPathSafe()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
+- [[avatar.service.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.test.ts
+- [[avatar.service.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
+- [[detectImageType()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
+- [[ensureAvatarDir()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
+- [[makeUser()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.test.ts
+- [[safeUnlink()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
+- [[uploadAvatar()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
 
 ## Live Query (requires Dataview plugin)
 

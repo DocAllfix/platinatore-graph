@@ -10,13 +10,13 @@ members: 7
 **Members:** 7 nodes
 
 ## Members
-- [[buildCacheKeyParams()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.ts
-- [[buildPromptContext()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.ts
-- [[logAndTrack()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.ts
-- [[makeBundle()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.test.ts
-- [[makeNorm()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.test.ts
-- [[orchestrator.shared.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.test.ts
-- [[orchestrator.shared.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.ts
+- [[MenubarGroup()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
+- [[MenubarMenu()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
+- [[MenubarPortal()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
+- [[MenubarRadioGroup()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
+- [[MenubarShortcut()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
+- [[MenubarSub()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
+- [[menubar.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
 
 ## Live Query (requires Dataview plugin)
 

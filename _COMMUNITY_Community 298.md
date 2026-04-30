@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[HTML valido → dict con tutti i campi richiesti.]] - rationale - harvester\tests\test_powerpyx_collector.py
+- [[Se advisory lock non acquisito → ritorna subito con skipped_reason.]] - rationale - harvester\tests\test_pipeline.py
 
 ## Live Query (requires Dataview plugin)
 

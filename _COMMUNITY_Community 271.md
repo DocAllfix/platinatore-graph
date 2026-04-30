@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[La prima fetch() triggera _load_robots(); le successive no.]] - rationale - harvester\tests\test_base_collector.py
+- [[fetch() ritorna None se robots.txt vieta l'URL.]] - rationale - harvester\tests\test_base_collector.py
 
 ## Live Query (requires Dataview plugin)
 

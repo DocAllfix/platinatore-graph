@@ -1,22 +1,21 @@
 ---
 type: community
-cohesion: 0.48
-members: 7
+cohesion: 0.60
+members: 6
 ---
 
 # Community 66
 
-**Cohesion:** 0.48 - moderately connected
-**Members:** 7 nodes
+**Cohesion:** 0.60 - moderately connected
+**Members:** 6 nodes
 
 ## Members
-- [[generateWeeklyMissions()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useGamification.js
-- [[getWeekKey()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useGamification.js
-- [[load()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useGamification.js
-- [[save()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useGamification.js
-- [[useGamification()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useGamification.js
-- [[useGamification.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useGamification.js
-- [[useGamification.js_1]] - code - il-platinatore-ai\frontend\src\hooks\useGamification.js
+- [[createGuideRating()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
+- [[listGuideRatings()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
+- [[patchMe()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
+- [[stubs.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
+- [[uploadAvatar()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
+- [[warn()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
 
 ## Live Query (requires Dataview plugin)
 

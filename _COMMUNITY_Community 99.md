@@ -1,19 +1,18 @@
 ---
 type: community
 cohesion: 0.67
-members: 4
+members: 3
 ---
 
 # Community 99
 
 **Cohesion:** 0.67 - moderately connected
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[DialogFooter()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\dialog.jsx
-- [[DialogHeader()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\dialog.jsx
-- [[dialog.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\dialog.jsx
-- [[dialog.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\dialog.jsx
+- [[makeUser()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\users.model.test.ts
+- [[users.model.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\users.model.test.ts
+- [[users.model.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\users.model.ts
 
 ## Live Query (requires Dataview plugin)
 

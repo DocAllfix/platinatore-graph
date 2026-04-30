@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\steam_achievement_fetcher.py"
 type: "rationale"
-community: "Steam Achievement Fetcher"
+community: "Community 18"
 location: "L97"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Steam_Achievement_Fetcher
+  - community/Community_18
 ---
 
 # Fetcha le percentuali globali di completamento per achievement.          Ritorna
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[._fetch_global_percentages()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Steam_Achievement_Fetcher
+#graphify/rationale #graphify/EXTRACTED #community/Community_18

@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 181
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[createPageUrl()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\utils\index.ts
-- [[index.ts_2]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\utils\index.ts
-- [[index.ts_4]] - code - il-platinatore-ai\frontend\src\utils\index.ts
+- [[Chat()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Chat.jsx
+- [[Chat.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Chat.jsx
 
 ## Live Query (requires Dataview plugin)
 

@@ -10,10 +10,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[auth.service.test.ts_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\auth.service.test.ts
-- [[cleanupTestUsers()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\auth.service.test.ts
-- [[deleteUserByEmail()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\auth.service.test.ts
-- [[uniqueEmail()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\auth.service.test.ts
+- [[Drawer()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\drawer.jsx
+- [[DrawerFooter()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\drawer.jsx
+- [[DrawerHeader()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\drawer.jsx
+- [[drawer.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\drawer.jsx
 
 ## Live Query (requires Dataview plugin)
 

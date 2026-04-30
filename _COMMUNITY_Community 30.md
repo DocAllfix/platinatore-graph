@@ -1,31 +1,30 @@
 ---
 type: community
-cohesion: 0.17
-members: 16
+cohesion: 0.21
+members: 15
 ---
 
 # Community 30
 
-**Cohesion:** 0.17 - loosely connected
-**Members:** 16 nodes
+**Cohesion:** 0.21 - loosely connected
+**Members:** 15 nodes
 
 ## Members
-- [[.constructor()]] - code - backend\src\utils\errors.ts
-- [[.constructor()_2]] - code - backend\src\utils\errors.ts
-- [[.constructor()_3]] - code - backend\src\utils\errors.ts
-- [[.constructor()_6]] - code - backend\src\utils\errors.ts
-- [[.constructor()_4]] - code - backend\src\utils\errors.ts
-- [[.constructor()_5]] - code - backend\src\utils\errors.ts
-- [[.constructor()_1]] - code - backend\src\utils\errors.ts
-- [[AppError]] - code - backend\src\utils\errors.ts
-- [[AuthenticationError]] - code - backend\src\utils\errors.ts
-- [[ForbiddenError]] - code - backend\src\utils\errors.ts
-- [[InternalError]] - code - backend\src\utils\errors.ts
-- [[NotFoundError]] - code - backend\src\utils\errors.ts
-- [[RateLimitError]] - code - backend\src\utils\errors.ts
-- [[ValidationError]] - code - backend\src\utils\errors.ts
-- [[errors.ts]] - code - backend\src\utils\errors.ts
-- [[errors.ts_1]] - code - il-platinatore-ai\backend\src\utils\errors.ts
+- [[Crea una pipeline con tutti i componenti mockati.]] - rationale - harvester\tests\test_pipeline.py
+- [[Test per HarvestPipeline — tutto mockato, zero connessioni reali.]] - rationale - harvester\tests\test_pipeline.py
+- [[TestCleanup]] - code - harvester\tests\test_pipeline.py
+- [[TestProcessSingleGuide]] - code - harvester\tests\test_pipeline.py
+- [[TestRunSeedBatch]] - code - harvester\tests\test_pipeline.py
+- [[_make_pipeline()]] - code - harvester\tests\test_pipeline.py
+- [[test_calls_upsert_on_success()]] - code - harvester\tests\test_pipeline.py
+- [[test_closes_collector()]] - code - harvester\tests\test_pipeline.py
+- [[test_exits_gracefully_when_lock_busy()]] - code - harvester\tests\test_pipeline.py
+- [[test_guide_type_override_applies()]] - code - harvester\tests\test_pipeline.py
+- [[test_pipeline.py]] - code - harvester\tests\test_pipeline.py
+- [[test_returns_false_when_all_collectors_return_none()]] - code - harvester\tests\test_pipeline.py
+- [[test_returns_false_when_already_processed()]] - code - harvester\tests\test_pipeline.py
+- [[test_returns_false_when_quality_below_threshold()]] - code - harvester\tests\test_pipeline.py
+- [[test_returns_stats_dict()]] - code - harvester\tests\test_pipeline.py
 
 ## Live Query (requires Dataview plugin)
 

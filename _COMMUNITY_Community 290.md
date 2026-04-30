@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Se tutti i collect ritornano None → False.]] - rationale - harvester\tests\test_pipeline.py
+- [[discover_all_games si ferma quando fetch_games ritorna lista vuota.]] - rationale - harvester\tests\test_discovery.py
 
 ## Live Query (requires Dataview plugin)
 

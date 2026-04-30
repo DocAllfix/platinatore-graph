@@ -1,12 +1,12 @@
 ---
-source_file: "il-platinatore-ai\backend\src\services\guide.cache.ts"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\guide.cache.ts"
 type: "code"
-community: "Community 184"
-location: "L45"
+community: "Community 87"
+location: "L66"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_184
+  - community/Community_87
 ---
 
 # slugify()
@@ -15,4 +15,4 @@ tags:
 - [[computeKey()]] - `calls` [EXTRACTED]
 - [[guide.cache.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_184
+#graphify/code #graphify/EXTRACTED #community/Community_87

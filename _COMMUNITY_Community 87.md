@@ -1,20 +1,19 @@
 ---
 type: community
-cohesion: 0.70
-members: 5
+cohesion: 0.67
+members: 4
 ---
 
 # Community 87
 
-**Cohesion:** 0.70 - tightly connected
-**Members:** 5 nodes
+**Cohesion:** 0.67 - moderately connected
+**Members:** 4 nodes
 
 ## Members
-- [[Recupera achievement Steam (con descrizioni) per tutti i giochi PC nel DB.  Pipe]] - rationale - harvester\scripts\run_steam_achievements_all.py
-- [[_run()_1]] - code - harvester\scripts\run_steam_achievements_all.py
-- [[main()_6]] - code - harvester\scripts\run_steam_achievements_all.py
-- [[run_steam_achievements_all.py]] - code - harvester\scripts\run_steam_achievements_all.py
-- [[run_steam_achievements_all.py_1]] - code - il-platinatore-ai\harvester\scripts\run_steam_achievements_all.py
+- [[computeKey()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\guide.cache.ts
+- [[guide.cache.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\guide.cache.test.ts
+- [[guide.cache.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\guide.cache.ts
+- [[slugify()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\guide.cache.ts
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 143
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[ProgressDashboard()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\dashboard\ProgressDashboard.jsx
-- [[ProgressDashboard.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\dashboard\ProgressDashboard.jsx
-- [[ProgressDashboard.jsx_1]] - code - il-platinatore-ai\frontend\src\components\dashboard\ProgressDashboard.jsx
+- [[ChatMessageBubble()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\ChatMessageBubble.jsx
+- [[ChatMessageBubble.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\ChatMessageBubble.jsx
 
 ## Live Query (requires Dataview plugin)
 

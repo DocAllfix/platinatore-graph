@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\igdb.py"
 type: "rationale"
-community: "Harvester Pipeline"
+community: "IGDB Discovery (harvester)"
 location: "L434"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Harvester_Pipeline
+  - community/IGDB_Discovery_(harvester)
 ---
 
 # Recupera giochi IGDB per le piattaforme indicate.          IGDB usa POST con bod
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.fetch_games()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Harvester_Pipeline
+#graphify/rationale #graphify/EXTRACTED #community/IGDB_Discovery_(harvester)

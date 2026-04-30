@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\trophy_section_extractor.py"
 type: "rationale"
-community: "Trophy Section Extractor"
+community: "Community 20"
 location: "L70"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Trophy_Section_Extractor
+  - community/Community_20
 ---
 
 # Converte un id anchor in un nome leggibile: underscore/trattini → spazi, title c
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_anchor_id_to_name()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Trophy_Section_Extractor
+#graphify/rationale #graphify/EXTRACTED #community/Community_20

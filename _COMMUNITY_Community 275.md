@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Contenuto  200 char → None.]] - rationale - harvester\tests\test_collectors.py
+- [[La seconda acquire immediata deve attendere ~3 secondi (rate=0.33).]] - rationale - harvester\tests\test_base_collector.py
 
 ## Live Query (requires Dataview plugin)
 

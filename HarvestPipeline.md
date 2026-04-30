@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\pipeline.py"
 type: "code"
-community: "Test: Base Collector"
+community: "Harvester Pipeline orchestrator"
 location: "L39"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test:_Base_Collector
+  - community/Harvester_Pipeline_orchestrator
 ---
 
 # HarvestPipeline
@@ -28,6 +28,5 @@ tags:
 - [[.run_seed_batch()]] - `method` [EXTRACTED]
 - [[Orchestra la pipeline completa collect → transform → inject.]] - `rationale_for` [EXTRACTED]
 - [[pipeline.py]] - `contains` [EXTRACTED]
-- [[pipeline.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test:_Base_Collector
+#graphify/code #graphify/EXTRACTED #community/Harvester_Pipeline_orchestrator

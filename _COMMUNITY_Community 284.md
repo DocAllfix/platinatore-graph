@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[La lista achievement deve comparire nel raw_content.]] - rationale - harvester\tests\test_collectors.py
+- [[game_name estratto dallo slug game{slug}.]] - rationale - harvester\tests\test_collectors.py
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,19 +1,18 @@
 ---
 type: community
 cohesion: 0.67
-members: 4
+members: 3
 ---
 
 # Community 98
 
 **Cohesion:** 0.67 - moderately connected
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[BreadcrumbEllipsis()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\breadcrumb.jsx
-- [[BreadcrumbSeparator()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\breadcrumb.jsx
-- [[breadcrumb.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\breadcrumb.jsx
-- [[breadcrumb.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\breadcrumb.jsx
+- [[makeRow()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\userGameStats.model.test.ts
+- [[userGameStats.model.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\userGameStats.model.test.ts
+- [[userGameStats.model.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\userGameStats.model.ts
 
 ## Live Query (requires Dataview plugin)
 

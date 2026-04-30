@@ -1,14 +1,14 @@
 ---
 source_file: "harvester\tests\test_powerpyx_collector.py"
 type: "rationale"
-community: "Community 300"
+community: "Community 302"
 location: "L112"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_300
+  - community/Community_302
 ---
 
 # game_name estratto correttamente dallo slug URL.
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_300
+#graphify/rationale #graphify/EXTRACTED #community/Community_302

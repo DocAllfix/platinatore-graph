@@ -1,20 +1,19 @@
 ---
 type: community
-cohesion: 0.40
-members: 5
+cohesion: 0.50
+members: 4
 ---
 
 # Community 90
 
-**Cohesion:** 0.40 - moderately connected
-**Members:** 5 nodes
+**Cohesion:** 0.50 - moderately connected
+**Members:** 4 nodes
 
 ## Members
-- [[embedding.service.test.ts]] - code - backend\src\services\embedding.service.test.ts
-- [[embedding.service.test.ts_1]] - code - il-platinatore-ai\backend\src\services\embedding.service.test.ts
-- [[embedding.service.ts]] - code - backend\src\services\embedding.service.ts
-- [[embedding.service.ts_1]] - code - il-platinatore-ai\backend\src\services\embedding.service.ts
-- [[sha256()_1]] - code - backend\src\services\embedding.service.ts
+- [[makeInputs()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\quality.scorer.test.ts
+- [[quality.scorer.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\quality.scorer.test.ts
+- [[quality.scorer.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\quality.scorer.ts
+- [[scoreGuideContent()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\quality.scorer.ts
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 161
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[carousel.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\carousel.jsx
-- [[carousel.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\carousel.jsx
-- [[useCarousel()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\carousel.jsx
+- [[Footer()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\layout\Footer.jsx
+- [[Footer.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\layout\Footer.jsx
 
 ## Live Query (requires Dataview plugin)
 

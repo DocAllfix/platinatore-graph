@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_psn_fetcher.py"
 type: "code"
-community: "Guide Search Collector"
+community: "Community 7"
 location: "L32"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Guide_Search_Collector
+  - community/Community_7
 ---
 
 # TestAuthenticate
@@ -15,6 +15,5 @@ tags:
 - [[.test_returns_false_when_npsso_empty()]] - `method` [EXTRACTED]
 - [[.test_returns_true_from_redis_cache()]] - `method` [EXTRACTED]
 - [[test_psn_fetcher.py]] - `contains` [EXTRACTED]
-- [[test_psn_fetcher.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Guide_Search_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_7

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\reddit.py"
 type: "code"
-community: "Reddit Collector"
+community: "Community 26"
 location: "L29"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Reddit_Collector
+  - community/Community_26
 ---
 
 # RedditCollector
@@ -20,6 +20,5 @@ tags:
 - [[BaseCollector_1]] - `inherits` [EXTRACTED]
 - [[Collector per post Reddit — aggrega titolo + selftext + top commenti.]] - `rationale_for` [EXTRACTED]
 - [[reddit.py]] - `contains` [EXTRACTED]
-- [[reddit.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Reddit_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_26

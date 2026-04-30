@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[query-client.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\query-client.js
+- [[toggle.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\toggle.jsx
 
 ## Live Query (requires Dataview plugin)
 

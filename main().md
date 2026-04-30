@@ -1,26 +1,19 @@
 ---
-source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\scripts\load-test.ts"
 type: "code"
-community: "Fextralife Collector"
-location: "L177"
+community: "Community 58"
+location: "L209"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Fextralife_Collector
+  - community/Community_58
 ---
 
 # main()
 
 ## Connections
-- [[Checkpoint (resume on .checkpoint.json)]] - `calls` [EXTRACTED]
-- [[bulk-seed.ts]] - `contains` [EXTRACTED]
-- [[clearCheckpoint()]] - `calls` [EXTRACTED]
-- [[enqueuePendingGuides (cursor pagination)]] - `semantically_similar_to` [INFERRED]
-- [[guideRecordSchema (Zod JSONL row)]] - `calls` [EXTRACTED]
+- [[load-test.ts]] - `contains` [EXTRACTED]
 - [[parseArgs()]] - `calls` [EXTRACTED]
-- [[readCheckpoint()]] - `calls` [EXTRACTED]
-- [[seedBatch (batch insert + fail-open)]] - `calls` [EXTRACTED]
-- [[seedBatch()]] - `calls` [EXTRACTED]
-- [[writeCheckpoint()]] - `calls` [EXTRACTED]
+- [[reportResults()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_58

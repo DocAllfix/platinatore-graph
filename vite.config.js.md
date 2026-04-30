@@ -1,14 +1,14 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\vite.config.js"
 type: "code"
-community: "Community 216"
+community: "Community 218"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_216
+  - community/Community_218
 ---
 
 # vite.config.js
 
-#graphify/code #graphify/EXTRACTED #community/Community_216
+#graphify/code #graphify/EXTRACTED #community/Community_218

@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 135
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[ChatBurgerMenu()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\ChatBurgerMenu.jsx
-- [[ChatBurgerMenu.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\ChatBurgerMenu.jsx
-- [[ChatBurgerMenu.jsx_1]] - code - il-platinatore-ai\frontend\src\components\chat\ChatBurgerMenu.jsx
+- [[embedding.service.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\embedding.service.ts
+- [[sha256()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\embedding.service.ts
 
 ## Live Query (requires Dataview plugin)
 

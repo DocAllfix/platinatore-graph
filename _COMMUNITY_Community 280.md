@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[HTML valido con .wiki-article → dict con tutti i campi richiesti.]] - rationale - harvester\tests\test_collectors.py
+- [[La tabella trofei deve comparire nel raw_content come testo pipe-delimited.]] - rationale - harvester\tests\test_collectors.py
 
 ## Live Query (requires Dataview plugin)
 

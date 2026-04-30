@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[logger.ts]] - code - backend\src\utils\logger.ts
+- [[trophyLookup.service.test.ts]] - code - il-platinatore-ai\backend\src\services\trophyLookup.service.test.ts
 
 ## Live Query (requires Dataview plugin)
 

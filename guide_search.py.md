@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\guide_search.py"
 type: "code"
-community: "LLM Synthesizer"
+community: "Community 8"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/LLM_Synthesizer
+  - community/Community_8
 ---
 
 # guide_search.py
@@ -20,4 +20,4 @@ tags:
 - [[_slugify()_1]] - `contains` [EXTRACTED]
 - [[build_fallback_urls()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/LLM_Synthesizer
+#graphify/code #graphify/EXTRACTED #community/Community_8

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\psn_game_finder.py"
 type: "code"
-community: "PSN Game Finder"
+community: "Community 24"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/PSN_Game_Finder
+  - community/Community_24
 ---
 
 # psn_game_finder.py
@@ -17,4 +17,4 @@ tags:
 - [[_is_name_match()]] - `contains` [EXTRACTED]
 - [[_normalize()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/PSN_Game_Finder
+#graphify/code #graphify/EXTRACTED #community/Community_24

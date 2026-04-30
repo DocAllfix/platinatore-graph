@@ -10,8 +10,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[auth.service.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\auth.service.test.ts
-- [[stubUser()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\auth.service.test.ts
+- [[createPageUrl()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\utils\index.ts
+- [[index.ts_2]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\utils\index.ts
 
 ## Live Query (requires Dataview plugin)
 

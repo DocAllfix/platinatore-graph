@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\trophy_section_extractor.py"
 type: "code"
-community: "Trophy Section Extractor"
+community: "Community 20"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Trophy_Section_Extractor
+  - community/Community_20
 ---
 
 # trophy_section_extractor.py
@@ -22,4 +22,4 @@ tags:
 - [[extract_trophy_sections()]] - `contains` [EXTRACTED]
 - [[match_trophies_to_sections()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Trophy_Section_Extractor
+#graphify/code #graphify/EXTRACTED #community/Community_20

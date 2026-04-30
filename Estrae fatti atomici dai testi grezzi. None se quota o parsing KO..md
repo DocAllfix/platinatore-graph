@@ -1,12 +1,12 @@
 ---
-source_file: "harvester\src\transformer\synthesizer.py"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\harvester\src\transformer\synthesizer.py"
 type: "rationale"
-community: "Backend Auth/Security Concepts"
-location: "L154"
+community: "Community 9"
+location: "L158"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Backend_Auth/Security_Concepts
+  - community/Community_9
 ---
 
 # Estrae fatti atomici dai testi grezzi. None se quota o parsing KO.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.extract_facts()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Backend_Auth/Security_Concepts
+#graphify/rationale #graphify/EXTRACTED #community/Community_9

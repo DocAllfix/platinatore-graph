@@ -17,6 +17,5 @@ tags:
 - [[BaseCollector_1]] - `inherits` [EXTRACTED]
 - [[Collector per guide trofei su truetrophies.com.]] - `rationale_for` [EXTRACTED]
 - [[truetrophies.py]] - `contains` [EXTRACTED]
-- [[truetrophies.py_1]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_37

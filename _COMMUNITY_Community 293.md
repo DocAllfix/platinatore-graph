@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[guide_type_override deve sovrascrivere quello del synthesizer.]] - rationale - harvester\tests\test_pipeline.py
+- [[Se quality_score  0.4 → skip.]] - rationale - harvester\tests\test_pipeline.py
 
 ## Live Query (requires Dataview plugin)
 

@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[discover_all_games si ferma quando fetch_games ritorna lista vuota.]] - rationale - harvester\tests\test_discovery.py
+- [[_get_token chiama POST una volta sola se il token è ancora valido.]] - rationale - harvester\tests\test_discovery.py
 
 ## Live Query (requires Dataview plugin)
 

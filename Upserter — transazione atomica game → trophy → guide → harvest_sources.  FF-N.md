@@ -1,18 +1,18 @@
 ---
-source_file: "harvester\src\injector\upserter.py"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\harvester\src\injector\upserter.py"
 type: "rationale"
-community: "Injector Upserter"
+community: "Test: Base Collector"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Injector_Upserter
+  - community/Test:_Base_Collector
 ---
 
 # Upserter — transazione atomica: game → trophy → guide → harvest_sources.  **FF-N
 
 ## Connections
+- [[Deduplicator]] - `uses` [INFERRED]
 - [[upserter.py]] - `rationale_for` [EXTRACTED]
-- [[upserter.py_1]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Injector_Upserter
+#graphify/rationale #graphify/EXTRACTED #community/Test:_Base_Collector

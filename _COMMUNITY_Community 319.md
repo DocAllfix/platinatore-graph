@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[eslint.config.js_1]] - code - il-platinatore-ai\frontend\eslint.config.js
+- [[sort-arrow-sprite.png (coverage table sort UI)]] - image - backend/coverage/sort-arrow-sprite.png
 
 ## Live Query (requires Dataview plugin)
 

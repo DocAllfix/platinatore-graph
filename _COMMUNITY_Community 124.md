@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 124
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[buildSetClause()]] - code - backend\src\models\games.model.ts
-- [[games.model.ts]] - code - backend\src\models\games.model.ts
-- [[games.model.ts_1]] - code - il-platinatore-ai\backend\src\models\games.model.ts
+- [[run-migrations.ts]] - code - backend\scripts\run-migrations.ts
+- [[runMigrations()]] - code - backend\scripts\run-migrations.ts
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,13 +1,13 @@
 ---
 type: community
-cohesion: 0.22
-members: 13
+cohesion: 0.17
+members: 12
 ---
 
 # Community 39
 
-**Cohesion:** 0.22 - loosely connected
-**Members:** 13 nodes
+**Cohesion:** 0.17 - loosely connected
+**Members:** 12 nodes
 
 ## Members
 - [[.test_complete_guide_scores_above_threshold()]] - code - harvester\tests\test_transformer.py
@@ -22,7 +22,6 @@ members: 13
 - [[test_returns_false_when_limit_reached()]] - code - harvester\tests\test_transformer.py
 - [[test_returns_true_below_limit()]] - code - harvester\tests\test_transformer.py
 - [[test_transformer.py]] - code - harvester\tests\test_transformer.py
-- [[test_transformer.py_1]] - code - il-platinatore-ai\harvester\tests\test_transformer.py
 
 ## Live Query (requires Dataview plugin)
 

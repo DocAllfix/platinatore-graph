@@ -1,20 +1,19 @@
 ---
 type: community
-cohesion: 0.60
-members: 5
+cohesion: 0.83
+members: 4
 ---
 
 # Community 86
 
-**Cohesion:** 0.60 - moderately connected
-**Members:** 5 nodes
+**Cohesion:** 0.83 - tightly connected
+**Members:** 4 nodes
 
 ## Members
-- [[Drawer()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\drawer.jsx
-- [[DrawerFooter()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\drawer.jsx
-- [[DrawerHeader()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\drawer.jsx
-- [[drawer.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\drawer.jsx
-- [[drawer.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\drawer.jsx
+- [[auth.csrf.ts]] - code - backend\src\services\auth.csrf.ts
+- [[hmacHex()]] - code - backend\src\services\auth.csrf.ts
+- [[makeCsrfToken()]] - code - backend\src\services\auth.csrf.ts
+- [[verifyCsrfToken()]] - code - backend\src\services\auth.csrf.ts
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\psnprofiles.py"
 type: "rationale"
-community: "RAG Architecture Concepts"
+community: "Community 34"
 location: "L125"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/RAG_Architecture_Concepts
+  - community/Community_34
 ---
 
 # Converte tabelle <table class="zebra"> in testo strutturato pipe-delimited.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_convert_tables_to_text()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/RAG_Architecture_Concepts
+#graphify/rationale #graphify/EXTRACTED #community/Community_34

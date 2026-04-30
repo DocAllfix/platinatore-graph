@@ -1,22 +1,21 @@
 ---
 type: community
-cohesion: 0.48
-members: 7
+cohesion: 0.47
+members: 6
 ---
 
 # Community 65
 
-**Cohesion:** 0.48 - moderately connected
-**Members:** 7 nodes
+**Cohesion:** 0.47 - moderately connected
+**Members:** 6 nodes
 
 ## Members
-- [[Pagination()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
-- [[PaginationEllipsis()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
-- [[PaginationLink()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
-- [[PaginationNext()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
-- [[PaginationPrevious()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
-- [[pagination.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
-- [[pagination.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\pagination.jsx
+- [[rag.specialized.ts]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
+- [[retrieveForTopic()]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
+- [[retrieveForTrophy()]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
+- [[rowToResult()]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
+- [[runTopicQuery()]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
+- [[runTrophyQuery()]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
 
 ## Live Query (requires Dataview plugin)
 

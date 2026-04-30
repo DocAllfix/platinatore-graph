@@ -17,6 +17,5 @@ tags:
 - [[BaseCollector_1]] - `inherits` [EXTRACTED]
 - [[Collector per guide trofei su playstationtrophies.org.]] - `rationale_for` [EXTRACTED]
 - [[pstrophies_org.py]] - `contains` [EXTRACTED]
-- [[pstrophies_org.py_1]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_36

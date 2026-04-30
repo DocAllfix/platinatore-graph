@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Mappa gli ID piattaforma IGDB ai nomi leggibili.]] - rationale - harvester\src\discovery\igdb.py
+- [[__init__.py_3]] - code - harvester\src\config\__init__.py
 
 ## Live Query (requires Dataview plugin)
 

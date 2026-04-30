@@ -1,18 +1,17 @@
 ---
-source_file: "backend\src\models\embeddings.model.ts"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\embeddings.model.ts"
 type: "code"
-community: "Community 123"
-location: "L13"
+community: "Community 97"
+location: "L24"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_123
+  - community/Community_97
 ---
 
 # runQuery()
 
 ## Connections
 - [[embeddings.model.ts]] - `contains` [EXTRACTED]
-- [[embeddings.model.ts_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_123
+#graphify/code #graphify/EXTRACTED #community/Community_97

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\psn_game_finder.py"
 type: "rationale"
-community: "PSN Game Finder"
+community: "Community 24"
 location: "L256"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/PSN_Game_Finder
+  - community/Community_24
 ---
 
 # Async wrapper attorno a _find_comm_id_sync.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.find_comm_id()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/PSN_Game_Finder
+#graphify/rationale #graphify/EXTRACTED #community/Community_24

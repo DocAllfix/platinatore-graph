@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Se quality_score  0.4 → skip.]] - rationale - harvester\tests\test_pipeline.py
+- [[Stesso URL + stesso hash → True (già processato).]] - rationale - harvester\tests\test_injector.py
 
 ## Live Query (requires Dataview plugin)
 

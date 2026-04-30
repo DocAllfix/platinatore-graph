@@ -1,13 +1,13 @@
 ---
 type: community
-cohesion: 0.24
-members: 13
+cohesion: 0.21
+members: 12
 ---
 
 # Community 35
 
-**Cohesion:** 0.24 - loosely connected
-**Members:** 13 nodes
+**Cohesion:** 0.21 - loosely connected
+**Members:** 12 nodes
 
 ## Members
 - [[.extract()]] - code - harvester\src\collectors\exophase.py
@@ -22,7 +22,6 @@ members: 13
 - [[_normalize_whitespace()]] - code - harvester\src\collectors\exophase.py
 - [[_slugify_exophase()]] - code - harvester\src\collectors\exophase.py
 - [[exophase.py]] - code - harvester\src\collectors\exophase.py
-- [[exophase.py_1]] - code - il-platinatore-ai\harvester\src\collectors\exophase.py
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,7 +31,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_RAG Architecture Concepts]]
+- 1 edge to [[_COMMUNITY_Pre-Beta architecture concepts]]
 
 ## Top bridge nodes
-- [[ExophaseCollector]] - degree 6, connects to 1 community
+- [[ExophaseCollector]] - degree 5, connects to 1 community

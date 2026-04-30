@@ -1,26 +1,25 @@
 ---
 type: community
-cohesion: 0.22
-members: 11
+cohesion: 0.29
+members: 10
 ---
 
 # Community 44
 
-**Cohesion:** 0.22 - loosely connected
-**Members:** 11 nodes
+**Cohesion:** 0.29 - loosely connected
+**Members:** 10 nodes
 
 ## Members
-- [[.__init__()_9]] - code - harvester\src\injector\deduplicator.py
-- [[.guide_exists()]] - code - harvester\src\injector\deduplicator.py
-- [[.source_already_processed()]] - code - harvester\src\injector\deduplicator.py
-- [[Deduplicator]] - code - harvester\src\injector\deduplicator.py
-- [[Deduplicator — evita upsert inutili e protegge guide verificate.]] - rationale - harvester\src\injector\deduplicator.py
-- [[Logica di deduplicazione basata su DB lookup.]] - rationale - harvester\src\injector\deduplicator.py
-- [[Ritorna la guida esistente (idconfidencequality) se presente, altrimenti None.]] - rationale - harvester\src\injector\deduplicator.py
-- [[True se esiste harvest_sources con stessa URL e stesso hash (nulla è cambiato).]] - rationale - harvester\src\injector\deduplicator.py
-- [[deduplicator.py]] - code - harvester\src\injector\deduplicator.py
-- [[deduplicator.py_1]] - code - il-platinatore-ai\harvester\src\injector\deduplicator.py
-- [[should_upsert()]] - code - harvester\src\injector\deduplicator.py
+- [[Entry point asincrono. Ritorna 0 su successo, 1 su errore fatale._1]] - rationale - harvester\src\orchestrator\igdb_seed.py
+- [[Esegue PsnGameFinder + PsnTrophyFetcher per giochi senza trofei PSN.      Identi]] - rationale - harvester\src\orchestrator\igdb_seed.py
+- [[Fetcha achievement Steam per giochi con steam_appid senza achievement.]] - rationale - harvester\src\orchestrator\igdb_seed.py
+- [[_parse_args()]] - code - harvester\src\orchestrator\igdb_seed.py
+- [[_run()_3]] - code - harvester\src\orchestrator\igdb_seed.py
+- [[_run_psn_trophies()]] - code - harvester\src\orchestrator\igdb_seed.py
+- [[_run_steam_achievements()]] - code - harvester\src\orchestrator\igdb_seed.py
+- [[igdb_seed — pipeline completa IGDB discovery + PSN trofei + Steam achievements.]] - rationale - harvester\src\orchestrator\igdb_seed.py
+- [[igdb_seed.py]] - code - harvester\src\orchestrator\igdb_seed.py
+- [[main()_10]] - code - harvester\src\orchestrator\igdb_seed.py
 
 ## Live Query (requires Dataview plugin)
 

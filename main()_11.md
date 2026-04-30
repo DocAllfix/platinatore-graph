@@ -1,19 +1,19 @@
 ---
-source_file: "harvester\src\orchestrator\psn_seed.py"
+source_file: "harvester\src\orchestrator\main.py"
 type: "code"
-community: "Community 74"
-location: "L141"
+community: "Community 70"
+location: "L50"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_74
+  - community/Community_70
 ---
 
 # main()
 
 ## Connections
-- [[_run()_4]] - `calls` [EXTRACTED]
-- [[psn_seed.py]] - `contains` [EXTRACTED]
-- [[psn_seed.py_1]] - `contains` [EXTRACTED]
+- [[_parse_args()_1]] - `calls` [EXTRACTED]
+- [[main.py]] - `contains` [EXTRACTED]
+- [[touch_heartbeat()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_74
+#graphify/code #graphify/EXTRACTED #community/Community_70

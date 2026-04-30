@@ -1,22 +1,21 @@
 ---
 type: community
-cohesion: 0.57
-members: 7
+cohesion: 0.33
+members: 6
 ---
 
 # Community 68
 
-**Cohesion:** 0.57 - moderately connected
-**Members:** 7 nodes
+**Cohesion:** 0.33 - loosely connected
+**Members:** 6 nodes
 
 ## Members
-- [[detectLanguage()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
-- [[extractGame()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
-- [[extractTopicHint()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
-- [[extractTrophy()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
-- [[looksLikeTrophyQuery()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
-- [[normalizeQuery()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
-- [[query.normalizer.ts]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
+- [[Pagination()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
+- [[PaginationEllipsis()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
+- [[PaginationLink()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
+- [[PaginationNext()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
+- [[PaginationPrevious()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
+- [[pagination.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
 
 ## Live Query (requires Dataview plugin)
 

@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[query.normalizer.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\query.normalizer.test.ts
+- [[prompt.builder.security.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\prompt.builder.security.test.ts
 
 ## Live Query (requires Dataview plugin)
 

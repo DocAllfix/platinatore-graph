@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 162
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[ContextMenuShortcut()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\context-menu.jsx
-- [[context-menu.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\context-menu.jsx
-- [[context-menu.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\context-menu.jsx
+- [[Navbar()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\layout\Navbar.jsx
+- [[Navbar.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\layout\Navbar.jsx
 
 ## Live Query (requires Dataview plugin)
 

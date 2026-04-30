@@ -1,19 +1,18 @@
 ---
 type: community
-cohesion: 0.67
-members: 4
+cohesion: 1.00
+members: 3
 ---
 
 # Community 100
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 4 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 3 nodes
 
 ## Members
-- [[FormField()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\form.jsx
-- [[form.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\form.jsx
-- [[form.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\form.jsx
-- [[useFormField()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\form.jsx
+- [[embedding.queue.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\queues\embedding.queue.ts
+- [[enqueueLiveEmbedding()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\queues\embedding.queue.ts
+- [[getEmbeddingQueueEvents()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\queues\embedding.queue.ts
 
 ## Live Query (requires Dataview plugin)
 

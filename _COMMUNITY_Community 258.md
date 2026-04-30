@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[__init__.py_4]] - code - harvester\src\discovery\__init__.py
+- [[Normalizza stringa per confronto minuscolo, senza accenti né punteggiatura.]] - rationale - harvester\src\discovery\psn_game_finder.py
 
 ## Live Query (requires Dataview plugin)
 

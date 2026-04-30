@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[guides.routes.ts_1]] - code - il-platinatore-ai\backend\src\routes\guides.routes.ts
+- [[T2.5 — Migration 030 indici composti hot-path]] - document - EXECUTION_TRACKER.md
 
 ## Live Query (requires Dataview plugin)
 

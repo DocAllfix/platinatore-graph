@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_discovery.py"
 type: "code"
-community: "Test: Discovery"
+community: "Community 11"
 location: "L69"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test:_Discovery
+  - community/Community_11
 ---
 
 # TestTopGamesSeedFile
@@ -17,6 +17,5 @@ tags:
 - [[.test_priority_values_are_valid()]] - `method` [EXTRACTED]
 - [[.test_seed_file_exists()]] - `method` [EXTRACTED]
 - [[test_discovery.py]] - `contains` [EXTRACTED]
-- [[test_discovery.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test:_Discovery
+#graphify/code #graphify/EXTRACTED #community/Community_11

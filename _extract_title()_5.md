@@ -14,6 +14,5 @@ tags:
 ## Connections
 - [[.extract()_7]] - `calls` [EXTRACTED]
 - [[pstrophies_org.py]] - `contains` [EXTRACTED]
-- [[pstrophies_org.py_1]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_36

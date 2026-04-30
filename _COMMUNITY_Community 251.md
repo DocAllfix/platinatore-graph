@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Applica filtri qualità + anonimizza.  None se scartato.]] - rationale - harvester\src\collectors\reddit.py
+- [[Estrae dati strutturati dall'HTML.  Da implementare nelle sottoclassi.]] - rationale - harvester\src\collectors\base.py
 
 ## Live Query (requires Dataview plugin)
 

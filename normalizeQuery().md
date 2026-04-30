@@ -1,22 +1,22 @@
 ---
-source_file: "il-platinatore-ai\backend\src\services\query.normalizer.ts"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\query.normalizer.ts"
 type: "code"
-community: "Community 68"
-location: "L200"
+community: "Community 55"
+location: "L290"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_68
+  - community/Community_55
 ---
 
 # normalizeQuery()
 
 ## Connections
 - [[detectLanguage()]] - `calls` [EXTRACTED]
-- [[extractGame()]] - `calls` [EXTRACTED]
+- [[extractGameWithCandidates()]] - `calls` [EXTRACTED]
 - [[extractTopicHint()]] - `calls` [EXTRACTED]
 - [[extractTrophy()]] - `calls` [EXTRACTED]
 - [[looksLikeTrophyQuery()]] - `calls` [EXTRACTED]
 - [[query.normalizer.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_68
+#graphify/code #graphify/EXTRACTED #community/Community_55

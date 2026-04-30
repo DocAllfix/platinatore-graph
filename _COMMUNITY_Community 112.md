@@ -1,19 +1,18 @@
 ---
 type: community
 cohesion: 0.67
-members: 4
+members: 3
 ---
 
 # Community 112
 
 **Cohesion:** 0.67 - moderately connected
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[bundleFromResults()]] - code - il-platinatore-ai\backend\src\services\orchestrator.retrieval.ts
-- [[enrichWithScraping()]] - code - il-platinatore-ai\backend\src\services\orchestrator.retrieval.ts
-- [[orchestrator.retrieval.ts]] - code - il-platinatore-ai\backend\src\services\orchestrator.retrieval.ts
-- [[retrieveContext()]] - code - il-platinatore-ai\backend\src\services\orchestrator.retrieval.ts
+- [[ResizableHandle()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\resizable.jsx
+- [[ResizablePanelGroup()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\resizable.jsx
+- [[resizable.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\resizable.jsx
 
 ## Live Query (requires Dataview plugin)
 

@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[HTML con contenuto  200 char → None.]] - rationale - harvester\tests\test_powerpyx_collector.py
+- [[cleanup() chiama close() su tutti i collector.]] - rationale - harvester\tests\test_pipeline.py
 
 ## Live Query (requires Dataview plugin)
 

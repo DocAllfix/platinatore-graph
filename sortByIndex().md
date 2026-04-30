@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\sorter.js"
 type: "code"
-community: "Community 34"
+community: "Community 31"
 location: "L120"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_34
+  - community/Community_31
 ---
 
 # sortByIndex()
@@ -15,4 +15,4 @@ tags:
 - [[enableUI()]] - `calls` [EXTRACTED]
 - [[sorter.js]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_34
+#graphify/code #graphify/EXTRACTED #community/Community_31

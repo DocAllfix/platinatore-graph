@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\config\db.py"
 type: "rationale"
-community: "Community 31"
+community: "Community 29"
 location: "L67"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_31
+  - community/Community_29
 ---
 
 # Esegue una query e restituisce tutte le righe come lista di dict.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[fetch_all()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_31
+#graphify/rationale #graphify/EXTRACTED #community/Community_29

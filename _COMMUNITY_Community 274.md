@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[HTML valido con guide → dict con tutti i campi richiesti.]] - rationale - harvester\tests\test_collectors.py
+- [[La prima acquire per un host non deve aspettare.]] - rationale - harvester\tests\test_base_collector.py
 
 ## Live Query (requires Dataview plugin)
 

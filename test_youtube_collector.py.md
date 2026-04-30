@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_youtube_collector.py"
 type: "code"
-community: "Test: YouTube Collector"
+community: "Community 13"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test:_YouTube_Collector
+  - community/Community_13
 ---
 
 # test_youtube_collector.py
@@ -33,4 +33,4 @@ tags:
 - [[test_title_from_extra_with_title()]] - `contains` [EXTRACTED]
 - [[yt()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test:_YouTube_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_13

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\youtube.py"
 type: "code"
-community: "YouTube Collector"
+community: "Community 21"
 location: "L397"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/YouTube_Collector
+  - community/Community_21
 ---
 
 # _title_from_extra()
@@ -14,6 +14,5 @@ tags:
 ## Connections
 - [[.extract()_12]] - `calls` [EXTRACTED]
 - [[youtube.py]] - `contains` [EXTRACTED]
-- [[youtube.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/YouTube_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_21

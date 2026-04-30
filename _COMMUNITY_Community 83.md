@@ -1,20 +1,20 @@
 ---
 type: community
-cohesion: 0.40
+cohesion: 0.50
 members: 5
 ---
 
 # Community 83
 
-**Cohesion:** 0.40 - moderately connected
+**Cohesion:** 0.50 - moderately connected
 **Members:** 5 nodes
 
 ## Members
-- [[getThresholds()]] - code - il-platinatore-ai\backend\src\services\rag.service.ts
-- [[mergeResults()]] - code - il-platinatore-ai\backend\src\services\rag.service.ts
-- [[rag.service.ts]] - code - il-platinatore-ai\backend\src\services\rag.service.ts
-- [[runFtsSearch()]] - code - il-platinatore-ai\backend\src\services\rag.service.ts
-- [[runVectorSearch()]] - code - il-platinatore-ai\backend\src\services\rag.service.ts
+- [[compositeScore()]] - code - il-platinatore-ai\scraper\src\ranker\source.ranker.ts
+- [[contentQualityScore()]] - code - il-platinatore-ai\scraper\src\ranker\source.ranker.ts
+- [[getReliabilityScore()]] - code - il-platinatore-ai\scraper\src\ranker\source.ranker.ts
+- [[rankSources()]] - code - il-platinatore-ai\scraper\src\ranker\source.ranker.ts
+- [[source.ranker.ts]] - code - il-platinatore-ai\scraper\src\ranker\source.ranker.ts
 
 ## Live Query (requires Dataview plugin)
 

@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Pipeline completa collect → transform → quality OK → upsert.]] - rationale - harvester\tests\test_pipeline.py
+- [[Se tutti i collect ritornano None → False.]] - rationale - harvester\tests\test_pipeline.py
 
 ## Live Query (requires Dataview plugin)
 

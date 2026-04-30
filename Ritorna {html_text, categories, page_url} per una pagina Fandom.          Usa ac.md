@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\fandom.py"
 type: "rationale"
-community: "Fandom Collector"
+community: "Community 25"
 location: "L144"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Fandom_Collector
+  - community/Community_25
 ---
 
 # Ritorna {html_text, categories, page_url} per una pagina Fandom.          Usa ac
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.fetch_page()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Fandom_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Community_25

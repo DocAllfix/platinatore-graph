@@ -1,14 +1,14 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\tooltip.jsx"
 type: "code"
-community: "Community 245"
+community: "Community 247"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_245
+  - community/Community_247
 ---
 
 # tooltip.jsx
 
-#graphify/code #graphify/EXTRACTED #community/Community_245
+#graphify/code #graphify/EXTRACTED #community/Community_247

@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 129
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[embedding.scheduler.ts]] - code - backend\src\schedulers\embedding.scheduler.ts
-- [[embedding.scheduler.ts_1]] - code - il-platinatore-ai\backend\src\schedulers\embedding.scheduler.ts
-- [[startEmbeddingScheduler()]] - code - backend\src\schedulers\embedding.scheduler.ts
+- [[validate()]] - code - backend\src\middleware\validate.ts
+- [[validate.ts]] - code - backend\src\middleware\validate.ts
 
 ## Live Query (requires Dataview plugin)
 

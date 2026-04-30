@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\tests\test_discovery.py"
 type: "rationale"
-community: "Test: Discovery"
+community: "Community 11"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Test:_Discovery
+  - community/Community_11
 ---
 
 # Test per il modulo Discovery: SeedLoader + IGDBDiscovery — zero HTTP reali.
 
 ## Connections
 - [[test_discovery.py]] - `rationale_for` [EXTRACTED]
-- [[test_discovery.py_1]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Test:_Discovery
+#graphify/rationale #graphify/EXTRACTED #community/Community_11

@@ -18,6 +18,5 @@ tags:
 - [[BaseCollector_1]] - `inherits` [EXTRACTED]
 - [[Collector per Steam Community Guides via API ufficiale.      Uso tipico (dal pip]] - `rationale_for` [EXTRACTED]
 - [[steam_community.py]] - `contains` [EXTRACTED]
-- [[steam_community.py_1]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_33

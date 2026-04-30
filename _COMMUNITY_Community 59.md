@@ -1,22 +1,22 @@
 ---
 type: community
-cohesion: 0.57
+cohesion: 0.38
 members: 7
 ---
 
 # Community 59
 
-**Cohesion:** 0.57 - moderately connected
+**Cohesion:** 0.38 - loosely connected
 **Members:** 7 nodes
 
 ## Members
-- [[auth.service.ts]] - code - backend\src\services\auth.service.ts
-- [[auth.service.ts_1]] - code - il-platinatore-ai\backend\src\services\auth.service.ts
-- [[buildTokenPair()]] - code - backend\src\services\auth.service.ts
-- [[revokeFamily()]] - code - backend\src\services\auth.service.ts
-- [[sha256()]] - code - backend\src\services\auth.service.ts
-- [[toPublicUser()]] - code - backend\src\services\auth.service.ts
-- [[writeRefreshPair()]] - code - backend\src\services\auth.service.ts
+- [[buildGuideSlug()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\ingestion.service.ts
+- [[ingestApprovedDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\ingestion.service.ts
+- [[ingestion.service.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\ingestion.service.test.ts
+- [[ingestion.service.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\ingestion.service.ts
+- [[makeDraft()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\ingestion.service.test.ts
+- [[makeGuideRow()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\ingestion.service.test.ts
+- [[validateDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\ingestion.service.ts
 
 ## Live Query (requires Dataview plugin)
 

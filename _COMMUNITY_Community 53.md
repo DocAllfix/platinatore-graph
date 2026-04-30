@@ -1,24 +1,23 @@
 ---
 type: community
 cohesion: 0.50
-members: 9
+members: 8
 ---
 
 # Community 53
 
 **Cohesion:** 0.50 - moderately connected
-**Members:** 9 nodes
+**Members:** 8 nodes
 
 ## Members
-- [[_clearFromRemoveQueue()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
-- [[addToRemoveQueue()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
-- [[dispatch()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
-- [[genId()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
-- [[reducer()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
-- [[toast()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
-- [[use-toast.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
-- [[use-toast.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
-- [[useToast()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
+- [[CircuitBreaker (CLOSEDOPENHALF_OPEN)]] - code - backend/src/services/llm.circuitBreaker.ts
+- [[CircuitBreaker Vitest suite]] - code - backend/src/services/llm.circuitBreaker.test.ts
+- [[CircuitOpenError]] - code - backend/src/services/llm.circuitBreaker.ts
+- [[gemini-chat CircuitBreaker instance]] - code - backend/src/services/llm.service.ts
+- [[generateGuide (Gemini non-streaming)]] - code - backend/src/services/llm.service.ts
+- [[generateGuideStream (Gemini SSE)]] - code - backend/src/services/llm.service.ts
+- [[primaryModel (GoogleGenerativeAI client)]] - code - backend/src/services/llm.service.ts
+- [[translateGuide (ENâ†’lang via Gemini)]] - code - backend/src/services/llm.service.ts
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\igdb.py"
 type: "rationale"
-community: "Harvester Pipeline"
+community: "IGDB Discovery (harvester)"
 location: "L629"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Harvester_Pipeline
+  - community/IGDB_Discovery_(harvester)
 ---
 
 # Risolve steam_appid per giochi con igdb_id ma senza steam_appid.          Usa l'
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.resolve_steam_appids()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Harvester_Pipeline
+#graphify/rationale #graphify/EXTRACTED #community/IGDB_Discovery_(harvester)

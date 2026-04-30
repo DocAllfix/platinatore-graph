@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\igdb.py"
 type: "code"
-community: "Harvester Pipeline"
+community: "IGDB Discovery (harvester)"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Harvester_Pipeline
+  - community/IGDB_Discovery_(harvester)
 ---
 
 # igdb.py
@@ -17,4 +17,4 @@ tags:
 - [[_accept_game()]] - `contains` [EXTRACTED]
 - [[_map_platform_ids()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Harvester_Pipeline
+#graphify/code #graphify/EXTRACTED #community/IGDB_Discovery_(harvester)

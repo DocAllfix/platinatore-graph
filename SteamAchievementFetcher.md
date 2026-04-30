@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\steam_achievement_fetcher.py"
 type: "code"
-community: "Steam Achievement Fetcher"
+community: "Community 18"
 location: "L56"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Steam_Achievement_Fetcher
+  - community/Community_18
 ---
 
 # SteamAchievementFetcher
@@ -22,6 +22,5 @@ tags:
 - [[.upsert_achievements()]] - `method` [EXTRACTED]
 - [[Recupera achievement Steam con nomi multilingua e li salva nel DB.]] - `rationale_for` [EXTRACTED]
 - [[steam_achievement_fetcher.py]] - `contains` [EXTRACTED]
-- [[steam_achievement_fetcher.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Steam_Achievement_Fetcher
+#graphify/code #graphify/EXTRACTED #community/Community_18

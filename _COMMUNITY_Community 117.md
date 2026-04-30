@@ -10,9 +10,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[run-migrations.ts]] - code - backend\scripts\run-migrations.ts
-- [[run-migrations.ts_1]] - code - il-platinatore-ai\backend\scripts\run-migrations.ts
-- [[runMigrations()]] - code - backend\scripts\run-migrations.ts
+- [[PasswordStrength()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Register.jsx
+- [[Register()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Register.jsx
+- [[Register.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Register.jsx
 
 ## Live Query (requires Dataview plugin)
 

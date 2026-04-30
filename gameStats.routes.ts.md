@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\routes\gameStats.routes.ts"
 type: "code"
-community: "Auth Routes Helpers"
+community: "Community 19"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Auth_Routes_Helpers
+  - community/Community_19
 ---
 
 # gameStats.routes.ts
@@ -15,4 +15,4 @@ tags:
 - [[index.ts_1]] - `imports_from` [EXTRACTED]
 - [[serialize()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Auth_Routes_Helpers
+#graphify/code #graphify/EXTRACTED #community/Community_19

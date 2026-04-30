@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\pipeline.py"
 type: "code"
-community: "Test: Base Collector"
+community: "Harvester Pipeline orchestrator"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test:_Base_Collector
+  - community/Harvester_Pipeline_orchestrator
 ---
 
 # pipeline.py
@@ -17,4 +17,4 @@ tags:
 - [[_slugify()_3]] - `contains` [EXTRACTED]
 - [[_touch_heartbeat()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test:_Base_Collector
+#graphify/code #graphify/EXTRACTED #community/Harvester_Pipeline_orchestrator

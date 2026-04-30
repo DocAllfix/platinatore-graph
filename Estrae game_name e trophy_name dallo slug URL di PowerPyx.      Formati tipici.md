@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\powerpyx.py"
 type: "rationale"
-community: "RAG Architecture Concepts"
+community: "Pre-Beta architecture concepts"
 location: "L119"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/RAG_Architecture_Concepts
+  - community/Pre-Beta_architecture_concepts
 ---
 
 # Estrae game_name e trophy_name dallo slug URL di PowerPyx.      Formati tipici:
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_parse_url_slug()_2]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/RAG_Architecture_Concepts
+#graphify/rationale #graphify/EXTRACTED #community/Pre-Beta_architecture_concepts

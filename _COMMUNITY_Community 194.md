@@ -1,17 +1,16 @@
 ---
 type: community
 cohesion: 1.00
-members: 2
+members: 1
 ---
 
 # Community 194
 
 **Cohesion:** 1.00 - tightly connected
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[300-line cap rule (CLAUDE.md)]] - document - il-platinatore-ai/backend/src/services/orchestrator.shared.ts
-- [[HandleGuideResult interface]] - code - il-platinatore-ai/backend/src/services/orchestrator.shared.ts
+- [[vitest.config.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\vitest.config.ts
 
 ## Live Query (requires Dataview plugin)
 

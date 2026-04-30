@@ -1,20 +1,19 @@
 ---
 type: community
-cohesion: 0.40
-members: 5
+cohesion: 0.50
+members: 4
 ---
 
 # Community 84
 
-**Cohesion:** 0.40 - moderately connected
-**Members:** 5 nodes
+**Cohesion:** 0.50 - moderately connected
+**Members:** 4 nodes
 
 ## Members
-- [[rating.service.test.ts]] - code - backend\src\services\rating.service.test.ts
-- [[rating.service.test.ts_2]] - code - il-platinatore-ai\backend\src\services\rating.service.test.ts
-- [[rating.service.ts]] - code - backend\src\services\rating.service.ts
-- [[rating.service.ts_1]] - code - il-platinatore-ai\backend\src\services\rating.service.ts
-- [[stubGuide()]] - code - backend\src\services\rating.service.test.ts
+- [[database.ts]] - code - backend\src\config\database.ts
+- [[getClient()]] - code - backend\src\config\database.ts
+- [[query()]] - code - backend\src\config\database.ts
+- [[testConnection()]] - code - backend\src\config\database.ts
 
 ## Live Query (requires Dataview plugin)
 

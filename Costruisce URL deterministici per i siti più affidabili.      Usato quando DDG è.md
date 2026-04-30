@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\guide_search.py"
 type: "rationale"
-community: "LLM Synthesizer"
+community: "Community 8"
 location: "L275"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/LLM_Synthesizer
+  - community/Community_8
 ---
 
 # Costruisce URL deterministici per i siti più affidabili.      Usato quando DDG è
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[build_fallback_urls()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/LLM_Synthesizer
+#graphify/rationale #graphify/EXTRACTED #community/Community_8

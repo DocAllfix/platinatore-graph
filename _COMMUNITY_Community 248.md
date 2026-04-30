@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[__init__.py_1]] - code - harvester\src\__init__.py
+- [[query-client.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\query-client.js
 
 ## Live Query (requires Dataview plugin)
 

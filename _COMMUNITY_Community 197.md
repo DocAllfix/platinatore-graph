@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[index.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\index.ts
+- [[GuideRequestTrackerModel.upsertTrophyRequest]] - code - backend/src/models/guideRequestTracker.model.ts
 
 ## Live Query (requires Dataview plugin)
 

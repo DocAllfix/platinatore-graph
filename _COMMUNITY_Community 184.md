@@ -1,18 +1,17 @@
 ---
 type: community
 cohesion: 1.00
-members: 3
+members: 2
 ---
 
 # Community 184
 
 **Cohesion:** 1.00 - tightly connected
-**Members:** 3 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[computeKey()]] - code - il-platinatore-ai\backend\src\services\guide.cache.ts
-- [[guide.cache.ts]] - code - il-platinatore-ai\backend\src\services\guide.cache.ts
-- [[slugify()_1]] - code - il-platinatore-ai\backend\src\services\guide.cache.ts
+- [[Login()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Login.jsx
+- [[Login.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Login.jsx
 
 ## Live Query (requires Dataview plugin)
 

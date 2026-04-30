@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx"
 type: "code"
-community: "Community 53"
+community: "Community 56"
 location: "L23"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_53
+  - community/Community_56
 ---
 
 # addToRemoveQueue()
@@ -14,6 +14,5 @@ tags:
 ## Connections
 - [[reducer()]] - `calls` [EXTRACTED]
 - [[use-toast.jsx]] - `contains` [EXTRACTED]
-- [[use-toast.jsx_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_53
+#graphify/code #graphify/EXTRACTED #community/Community_56

@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Decide se sovrascrivere una guida esistente.          - None → upsert (nuova gui]] - rationale - harvester\src\injector\deduplicator.py
+- [[Verifica se il nome PSN corrisponde alla query di ricerca.          Strategia a]] - rationale - harvester\src\discovery\psn_game_finder.py
 
 ## Live Query (requires Dataview plugin)
 

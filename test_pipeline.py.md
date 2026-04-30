@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_pipeline.py"
 type: "code"
-community: "Community 32"
+community: "Community 30"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_32
+  - community/Community_30
 ---
 
 # test_pipeline.py
@@ -26,4 +26,4 @@ tags:
 - [[test_returns_false_when_quality_below_threshold()]] - `contains` [EXTRACTED]
 - [[test_returns_stats_dict()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_32
+#graphify/code #graphify/EXTRACTED #community/Community_30

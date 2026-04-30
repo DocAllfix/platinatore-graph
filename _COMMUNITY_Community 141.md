@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 141
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[RatingWidget()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\RatingWidget.jsx
-- [[RatingWidget.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\RatingWidget.jsx
-- [[RatingWidget.jsx_1]] - code - il-platinatore-ai\frontend\src\components\chat\RatingWidget.jsx
+- [[ChatBurgerMenu()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\ChatBurgerMenu.jsx
+- [[ChatBurgerMenu.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\ChatBurgerMenu.jsx
 
 ## Live Query (requires Dataview plugin)
 

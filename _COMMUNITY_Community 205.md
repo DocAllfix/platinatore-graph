@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[guide.cache.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\guide.cache.test.ts
+- [[embedding.service.test.ts]] - code - backend\src\services\embedding.service.test.ts
 
 ## Live Query (requires Dataview plugin)
 

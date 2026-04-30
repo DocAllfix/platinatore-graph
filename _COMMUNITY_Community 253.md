@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[__init__.py_3]] - code - harvester\src\config\__init__.py
+- [[Applica filtri qualità + anonimizza.  None se scartato.]] - rationale - harvester\src\collectors\reddit.py
 
 ## Live Query (requires Dataview plugin)
 

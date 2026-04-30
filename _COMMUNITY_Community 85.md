@@ -1,20 +1,19 @@
 ---
 type: community
-cohesion: 0.60
-members: 5
+cohesion: 0.67
+members: 4
 ---
 
 # Community 85
 
-**Cohesion:** 0.60 - moderately connected
-**Members:** 5 nodes
+**Cohesion:** 0.67 - moderately connected
+**Members:** 4 nodes
 
 ## Members
-- [[ChartStyle()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\chart.jsx
-- [[chart.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\chart.jsx
-- [[chart.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\chart.jsx
-- [[getPayloadConfigFromPayload()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\chart.jsx
-- [[useChart()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\chart.jsx
+- [[enqueuePendingGuides()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\re-embed-pending.ts
+- [[main()_2]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\re-embed-pending.ts
+- [[re-embed-pending.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\re-embed-pending.test.ts
+- [[re-embed-pending.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\re-embed-pending.ts
 
 ## Live Query (requires Dataview plugin)
 

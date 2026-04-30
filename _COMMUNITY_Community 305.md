@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[index.ts_3]] - code - scraper\src\index.ts
+- [[Se _gemini_calls_today = settings.daily_gemini_limit → False.]] - rationale - harvester\tests\test_transformer.py
 
 ## Live Query (requires Dataview plugin)
 

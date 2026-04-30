@@ -1,19 +1,18 @@
 ---
 type: community
-cohesion: 0.83
-members: 4
+cohesion: 0.67
+members: 3
 ---
 
 # Community 105
 
-**Cohesion:** 0.83 - tightly connected
-**Members:** 4 nodes
+**Cohesion:** 0.67 - moderately connected
+**Members:** 3 nodes
 
 ## Members
-- [[extractGenericGameName()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\mockGuide.js
-- [[generateMockGuide()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\mockGuide.js
-- [[mockGuide.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\mockGuide.js
-- [[mockGuide.js_1]] - code - il-platinatore-ai\frontend\src\lib\mockGuide.js
+- [[DefaultFallback()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ProtectedRoute.jsx
+- [[ProtectedRoute()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ProtectedRoute.jsx
+- [[ProtectedRoute.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ProtectedRoute.jsx
 
 ## Live Query (requires Dataview plugin)
 

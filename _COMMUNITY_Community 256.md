@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Normalizza stringa per confronto minuscolo, senza accenti né punteggiatura.]] - rationale - harvester\src\discovery\psn_game_finder.py
+- [[Verdetto di ammissibilità per un gioco IGDB.          Ritorna 'ok'  'mobile']] - rationale - harvester\src\discovery\igdb.py
 
 ## Live Query (requires Dataview plugin)
 

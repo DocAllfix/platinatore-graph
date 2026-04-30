@@ -1,14 +1,14 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\vitest.integration.config.ts"
 type: "code"
-community: "Community 196"
+community: "Community 195"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_196
+  - community/Community_195
 ---
 
 # vitest.integration.config.ts
 
-#graphify/code #graphify/EXTRACTED #community/Community_196
+#graphify/code #graphify/EXTRACTED #community/Community_195

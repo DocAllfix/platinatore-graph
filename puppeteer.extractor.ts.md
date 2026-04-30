@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\scraper\src\extractors\puppeteer.extractor.ts"
 type: "code"
-community: "Community 75"
+community: "Community 71"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_75
+  - community/Community_71
 ---
 
 # puppeteer.extractor.ts
@@ -18,4 +18,4 @@ tags:
 - [[initBrowser()]] - `contains` [EXTRACTED]
 - [[releaseSlot()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_75
+#graphify/code #graphify/EXTRACTED #community/Community_71

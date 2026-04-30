@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Serializza un post+commenti in testo pulito, senza username.]] - rationale - harvester\src\collectors\reddit.py
+- [[__init__.py_1]] - code - harvester\src\__init__.py
 
 ## Live Query (requires Dataview plugin)
 

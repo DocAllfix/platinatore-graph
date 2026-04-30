@@ -10,8 +10,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[extractWithReadability()]] - code - il-platinatore-ai\scraper\src\extractors\readability.extractor.ts
-- [[readability.extractor.ts]] - code - il-platinatore-ai\scraper\src\extractors\readability.extractor.ts
+- [[HITL Self-Learning RAG FSM (draft→revision→pending→approved→published)]] - document - ARCHITECTURE.md
+- [[T2.3+T2.4 — cleanup.scheduler (query_log 90d, drafts 30d)]] - document - EXECUTION_TRACKER.md
 
 ## Live Query (requires Dataview plugin)
 

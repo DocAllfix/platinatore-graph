@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[queryLog.model.ts_1]] - code - il-platinatore-ai\backend\src\models\queryLog.model.ts
+- [[logger.ts_1]] - code - il-platinatore-ai\scraper\src\utils\logger.ts
 
 ## Live Query (requires Dataview plugin)
 

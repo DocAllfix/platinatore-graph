@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\reddit.py"
 type: "code"
-community: "Reddit Collector"
+community: "Community 26"
 location: "L167"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Reddit_Collector
+  - community/Community_26
 ---
 
 # format_for_llm()
@@ -14,6 +14,5 @@ tags:
 ## Connections
 - [[.extract()_8]] - `calls` [EXTRACTED]
 - [[reddit.py]] - `contains` [EXTRACTED]
-- [[reddit.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Reddit_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_26

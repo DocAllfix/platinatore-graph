@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 138
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[ChatSidebar()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\ChatSidebar.jsx
-- [[ChatSidebar.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\ChatSidebar.jsx
-- [[ChatSidebar.jsx_1]] - code - il-platinatore-ai\frontend\src\components\chat\ChatSidebar.jsx
+- [[isAllowedLang()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\trophyLookup.service.ts
+- [[trophyLookup.service.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\trophyLookup.service.ts
 
 ## Live Query (requires Dataview plugin)
 

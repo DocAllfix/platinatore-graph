@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\igdb_seed.py"
 type: "code"
-community: "Community 45"
+community: "Community 44"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_45
+  - community/Community_44
 ---
 
 # igdb_seed.py
@@ -17,6 +17,6 @@ tags:
 - [[_run_psn_trophies()]] - `contains` [EXTRACTED]
 - [[_run_steam_achievements()]] - `contains` [EXTRACTED]
 - [[igdb_seed — pipeline completa IGDB discovery + PSN trofei + Steam achievements.]] - `rationale_for` [EXTRACTED]
-- [[main()_9]] - `contains` [EXTRACTED]
+- [[main()_10]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_45
+#graphify/code #graphify/EXTRACTED #community/Community_44

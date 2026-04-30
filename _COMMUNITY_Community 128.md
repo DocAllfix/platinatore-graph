@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 128
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[embedding.queue.ts]] - code - backend\src\queues\embedding.queue.ts
-- [[embedding.queue.ts_1]] - code - il-platinatore-ai\backend\src\queues\embedding.queue.ts
-- [[enqueueLiveEmbedding()]] - code - backend\src\queues\embedding.queue.ts
+- [[requestLogger()]] - code - backend\src\middleware\requestLogger.ts
+- [[requestLogger.ts]] - code - backend\src\middleware\requestLogger.ts
 
 ## Live Query (requires Dataview plugin)
 

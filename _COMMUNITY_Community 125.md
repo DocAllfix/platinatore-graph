@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 125
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[buildSetClause()_2]] - code - backend\src\models\guides.model.ts
-- [[guides.model.ts]] - code - backend\src\models\guides.model.ts
-- [[guides.model.ts_1]] - code - il-platinatore-ai\backend\src\models\guides.model.ts
+- [[env.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\config\env.ts
+- [[loadEnv()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\config\env.ts
 
 ## Live Query (requires Dataview plugin)
 

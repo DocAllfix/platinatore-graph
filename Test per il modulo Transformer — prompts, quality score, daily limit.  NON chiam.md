@@ -13,6 +13,5 @@ tags:
 
 ## Connections
 - [[test_transformer.py]] - `rationale_for` [EXTRACTED]
-- [[test_transformer.py_1]] - `rationale_for` [EXTRACTED]
 
 #graphify/rationale #graphify/EXTRACTED #community/Community_39

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\base.py"
 type: "code"
-community: "Test: PSN Fetcher"
+community: "Community 6"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test:_PSN_Fetcher
+  - community/Community_6
 ---
 
 # base.py
@@ -19,4 +19,4 @@ tags:
 - [[compute_hash()]] - `contains` [EXTRACTED]
 - [[extract()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test:_PSN_Fetcher
+#graphify/code #graphify/EXTRACTED #community/Community_6

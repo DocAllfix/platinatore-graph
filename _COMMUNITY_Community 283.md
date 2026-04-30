@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Script, sidebar, footer, commenti non devono comparire nel testo.]] - rationale - harvester\tests\test_collectors.py
+- [[Contenuto  200 char → None._1]] - rationale - harvester\tests\test_collectors.py
 
 ## Live Query (requires Dataview plugin)
 

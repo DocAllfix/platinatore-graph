@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Login.jsx"
 type: "code"
-community: "Community 190"
+community: "Community 184"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_190
+  - community/Community_184
 ---
 
 # Login.jsx
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Login()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_190
+#graphify/code #graphify/EXTRACTED #community/Community_184

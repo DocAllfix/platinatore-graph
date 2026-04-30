@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Contenuto  200 char → None._1]] - rationale - harvester\tests\test_collectors.py
+- [[Stesso input → stesso content_hash.]] - rationale - harvester\tests\test_collectors.py
 
 ## Live Query (requires Dataview plugin)
 

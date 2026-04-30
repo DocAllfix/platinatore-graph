@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 145
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[ObjectiveCard()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\games\ObjectiveCard.jsx
-- [[ObjectiveCard.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\games\ObjectiveCard.jsx
-- [[ObjectiveCard.jsx_1]] - code - il-platinatore-ai\frontend\src\components\games\ObjectiveCard.jsx
+- [[ErrorReportModal()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\ErrorReportModal.jsx
+- [[ErrorReportModal.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\ErrorReportModal.jsx
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,18 +1,18 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts"
 type: "code"
-community: "Fextralife Collector"
+community: "Community 41"
 location: "L165"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Fextralife_Collector
+  - community/Community_41
 ---
 
 # writeCheckpoint()
 
 ## Connections
 - [[bulk-seed.ts]] - `contains` [EXTRACTED]
-- [[main()]] - `calls` [EXTRACTED]
+- [[main()_1]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_41

@@ -1,18 +1,18 @@
 ---
-source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\scripts\load-test.ts"
 type: "code"
-community: "Fextralife Collector"
-location: "L126"
+community: "Community 58"
+location: "L68"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Fextralife_Collector
+  - community/Community_58
 ---
 
 # parseArgs()
 
 ## Connections
-- [[bulk-seed.ts]] - `contains` [EXTRACTED]
+- [[load-test.ts]] - `contains` [EXTRACTED]
 - [[main()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_58

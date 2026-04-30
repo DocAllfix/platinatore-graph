@@ -1,17 +1,18 @@
 ---
-source_file: "harvester\src\injector\upserter.py"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\harvester\src\injector\upserter.py"
 type: "rationale"
-community: "Injector Upserter"
-location: "L375"
+community: "Test: Base Collector"
+location: "L381"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Injector_Upserter
+  - community/Test:_Base_Collector
 ---
 
 # Versione TX-scoped di find_or_create_game — stessa logica a 4 step.
 
 ## Connections
 - [[._find_or_create_game_tx()]] - `rationale_for` [EXTRACTED]
+- [[Deduplicator]] - `uses` [INFERRED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Injector_Upserter
+#graphify/rationale #graphify/EXTRACTED #community/Test:_Base_Collector

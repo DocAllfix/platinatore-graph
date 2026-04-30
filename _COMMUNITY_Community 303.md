@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Se _gemini_calls_today = settings.daily_gemini_limit → False.]] - rationale - harvester\tests\test_transformer.py
+- [[I tag script, style, nav non devono comparire nel raw_content.]] - rationale - harvester\tests\test_powerpyx_collector.py
 
 ## Live Query (requires Dataview plugin)
 

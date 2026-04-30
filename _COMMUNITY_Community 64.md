@@ -1,22 +1,21 @@
 ---
 type: community
-cohesion: 0.52
-members: 7
+cohesion: 0.40
+members: 6
 ---
 
 # Community 64
 
-**Cohesion:** 0.52 - moderately connected
-**Members:** 7 nodes
+**Cohesion:** 0.40 - moderately connected
+**Members:** 6 nodes
 
 ## Members
-- [[AskAIPopover()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
-- [[GuideRenderer()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
-- [[GuideRenderer.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
-- [[GuideRenderer.jsx_1]] - code - il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
-- [[GuideText()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
-- [[RichInlineText()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
-- [[getGameIcon()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
+- [[getThresholds()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\rag.service.ts
+- [[langToTsConfig()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\rag.service.ts
+- [[mergeResults()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\rag.service.ts
+- [[rag.service.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\rag.service.ts
+- [[runFtsSearch()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\rag.service.ts
+- [[runVectorSearch()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\rag.service.ts
 
 ## Live Query (requires Dataview plugin)
 

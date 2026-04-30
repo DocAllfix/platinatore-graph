@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\fandom.py"
 type: "code"
-community: "Fandom Collector"
+community: "Community 25"
 location: "L101"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Fandom_Collector
+  - community/Community_25
 ---
 
 # FandomCollector
@@ -19,6 +19,5 @@ tags:
 - [[BaseCollector_1]] - `inherits` [EXTRACTED]
 - [[Collector per guide wiki da Fandom via MediaWiki API.]] - `rationale_for` [EXTRACTED]
 - [[fandom.py]] - `contains` [EXTRACTED]
-- [[fandom.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Fandom_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_25

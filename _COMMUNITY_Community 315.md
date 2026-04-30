@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[auth.csrf.test.ts_1]] - code - il-platinatore-ai\backend\src\services\auth.csrf.test.ts
+- [[README.md (root, panoramica progetto)]] - document - README.md
 
 ## Live Query (requires Dataview plugin)
 

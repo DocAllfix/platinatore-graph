@@ -1,18 +1,17 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\games\GameStatsPanel.jsx"
 type: "code"
-community: "Community 144"
+community: "Community 150"
 location: "L13"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_144
+  - community/Community_150
 ---
 
 # GameStatsPanel()
 
 ## Connections
 - [[GameStatsPanel.jsx]] - `contains` [EXTRACTED]
-- [[GameStatsPanel.jsx_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_144
+#graphify/code #graphify/EXTRACTED #community/Community_150

@@ -1,13 +1,13 @@
 ---
 type: community
-cohesion: 0.24
-members: 13
+cohesion: 0.21
+members: 12
 ---
 
 # Community 36
 
-**Cohesion:** 0.24 - loosely connected
-**Members:** 13 nodes
+**Cohesion:** 0.21 - loosely connected
+**Members:** 12 nodes
 
 ## Members
 - [[.extract()_7]] - code - harvester\src\collectors\pstrophies_org.py
@@ -22,7 +22,6 @@ members: 13
 - [[_normalize_whitespace()_5]] - code - harvester\src\collectors\pstrophies_org.py
 - [[_slugify_psorg()]] - code - harvester\src\collectors\pstrophies_org.py
 - [[pstrophies_org.py]] - code - harvester\src\collectors\pstrophies_org.py
-- [[pstrophies_org.py_1]] - code - il-platinatore-ai\harvester\src\collectors\pstrophies_org.py
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,7 +31,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_RAG Architecture Concepts]]
+- 1 edge to [[_COMMUNITY_Pre-Beta architecture concepts]]
 
 ## Top bridge nodes
-- [[PSTrophiesOrgCollector]] - degree 6, connects to 1 community
+- [[PSTrophiesOrgCollector]] - degree 5, connects to 1 community

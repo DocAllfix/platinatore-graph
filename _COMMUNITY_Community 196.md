@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[vitest.integration.config.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\vitest.integration.config.ts
+- [[index.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\index.ts
 
 ## Live Query (requires Dataview plugin)
 

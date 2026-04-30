@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 132
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[asyncHandler()]] - code - backend\src\utils\asyncHandler.ts
-- [[asyncHandler.ts]] - code - backend\src\utils\asyncHandler.ts
-- [[asyncHandler.ts_1]] - code - il-platinatore-ai\backend\src\utils\asyncHandler.ts
+- [[ratings.model.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\ratings.model.test.ts
+- [[ratings.model.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\ratings.model.ts
 
 ## Live Query (requires Dataview plugin)
 

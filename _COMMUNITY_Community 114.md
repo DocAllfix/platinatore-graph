@@ -1,19 +1,18 @@
 ---
 type: community
 cohesion: 0.67
-members: 4
+members: 3
 ---
 
 # Community 114
 
 **Cohesion:** 0.67 - moderately connected
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[DefaultFallback()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ProtectedRoute.jsx
-- [[ProtectedRoute()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ProtectedRoute.jsx
-- [[ProtectedRoute.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ProtectedRoute.jsx
-- [[ProtectedRoute.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ProtectedRoute.jsx
+- [[GamificationContext.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\context\GamificationContext.jsx
+- [[GamificationProvider()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\context\GamificationContext.jsx
+- [[useGamificationContext()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\context\GamificationContext.jsx
 
 ## Live Query (requires Dataview plugin)
 

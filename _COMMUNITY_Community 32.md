@@ -1,31 +1,29 @@
 ---
 type: community
-cohesion: 0.29
-members: 16
+cohesion: 0.23
+members: 14
 ---
 
 # Community 32
 
-**Cohesion:** 0.29 - loosely connected
-**Members:** 16 nodes
+**Cohesion:** 0.23 - loosely connected
+**Members:** 14 nodes
 
 ## Members
-- [[Crea una pipeline con tutti i componenti mockati.]] - rationale - harvester\tests\test_pipeline.py
-- [[Test per HarvestPipeline — tutto mockato, zero connessioni reali.]] - rationale - harvester\tests\test_pipeline.py
-- [[TestCleanup]] - code - harvester\tests\test_pipeline.py
-- [[TestProcessSingleGuide]] - code - harvester\tests\test_pipeline.py
-- [[TestRunSeedBatch]] - code - harvester\tests\test_pipeline.py
-- [[_make_pipeline()]] - code - harvester\tests\test_pipeline.py
-- [[test_calls_upsert_on_success()]] - code - harvester\tests\test_pipeline.py
-- [[test_closes_collector()]] - code - harvester\tests\test_pipeline.py
-- [[test_exits_gracefully_when_lock_busy()]] - code - harvester\tests\test_pipeline.py
-- [[test_guide_type_override_applies()]] - code - harvester\tests\test_pipeline.py
-- [[test_pipeline.py]] - code - harvester\tests\test_pipeline.py
-- [[test_pipeline.py_1]] - code - il-platinatore-ai\harvester\tests\test_pipeline.py
-- [[test_returns_false_when_all_collectors_return_none()]] - code - harvester\tests\test_pipeline.py
-- [[test_returns_false_when_already_processed()]] - code - harvester\tests\test_pipeline.py
-- [[test_returns_false_when_quality_below_threshold()]] - code - harvester\tests\test_pipeline.py
-- [[test_returns_stats_dict()]] - code - harvester\tests\test_pipeline.py
+- [[__clearBetaCache()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\auth.middleware.ts
+- [[auth.middleware.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\auth.middleware.ts
+- [[cookieDomainOrUndef()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\auth.middleware.ts
+- [[csrfProtection()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\auth.middleware.ts
+- [[extractBearer()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\auth.middleware.ts
+- [[getCachedBetaStatus()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\auth.middleware.ts
+- [[isOriginAllowed()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\auth.middleware.ts
+- [[isProd()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\auth.middleware.ts
+- [[optionalAuth()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\auth.middleware.ts
+- [[requireAuth()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\auth.middleware.ts
+- [[requireBetaAccess()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\auth.middleware.ts
+- [[requireTier()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\auth.middleware.ts
+- [[resolveRequestOrigin()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\auth.middleware.ts
+- [[sessionMiddleware()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\auth.middleware.ts
 
 ## Live Query (requires Dataview plugin)
 

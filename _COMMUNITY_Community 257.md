@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Verifica se il nome PSN corrisponde alla query di ricerca.          Strategia a]] - rationale - harvester\src\discovery\psn_game_finder.py
+- [[Mappa gli ID piattaforma IGDB ai nomi leggibili.]] - rationale - harvester\src\discovery\igdb.py
 
 ## Live Query (requires Dataview plugin)
 

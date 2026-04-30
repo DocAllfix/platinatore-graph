@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_base_collector.py"
 type: "code"
-community: "Test: Fandom Collector"
+community: "Fextralife Collector"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test:_Fandom_Collector
+  - community/Fextralife_Collector
 ---
 
 # test_base_collector.py
@@ -34,4 +34,4 @@ tags:
 - [[test_second_acquire_waits()]] - `contains` [EXTRACTED]
 - [[test_waits_correct_time()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test:_Fandom_Collector
+#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector

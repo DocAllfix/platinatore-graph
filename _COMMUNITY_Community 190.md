@@ -10,8 +10,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Login()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Login.jsx
-- [[Login.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Login.jsx
+- [[cheerio.extractor.ts]] - code - il-platinatore-ai\scraper\src\extractors\cheerio.extractor.ts
+- [[extractWithCheerio()]] - code - il-platinatore-ai\scraper\src\extractors\cheerio.extractor.ts
 
 ## Live Query (requires Dataview plugin)
 

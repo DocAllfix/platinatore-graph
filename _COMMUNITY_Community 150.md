@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 150
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[HowItWorks()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\landing\HowItWorks.jsx
-- [[HowItWorks.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\landing\HowItWorks.jsx
-- [[HowItWorks.jsx_1]] - code - il-platinatore-ai\frontend\src\components\landing\HowItWorks.jsx
+- [[GameStatsPanel()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\games\GameStatsPanel.jsx
+- [[GameStatsPanel.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\games\GameStatsPanel.jsx
 
 ## Live Query (requires Dataview plugin)
 

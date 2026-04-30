@@ -1,19 +1,18 @@
 ---
 type: community
-cohesion: 0.50
-members: 4
+cohesion: 0.67
+members: 3
 ---
 
 # Community 110
 
-**Cohesion:** 0.50 - moderately connected
-**Members:** 4 nodes
+**Cohesion:** 0.67 - moderately connected
+**Members:** 3 nodes
 
 ## Members
-- [[Settings con valori di test, senza connessioni reali a DB o Redis.     Utile per]] - rationale - harvester\tests\conftest.py
-- [[conftest.py]] - code - harvester\tests\conftest.py
-- [[conftest.py_1]] - code - il-platinatore-ai\harvester\tests\conftest.py
-- [[mock_settings()]] - code - harvester\tests\conftest.py
+- [[DialogFooter()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\dialog.jsx
+- [[DialogHeader()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\dialog.jsx
+- [[dialog.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\dialog.jsx
 
 ## Live Query (requires Dataview plugin)
 

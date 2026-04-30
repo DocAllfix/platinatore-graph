@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[orchestrator.stream.ts]] - code - il-platinatore-ai\backend\src\services\orchestrator.stream.ts
+- [[frontendREADME.md (UI specs)]] - document - frontend/README.md
 
 ## Live Query (requires Dataview plugin)
 

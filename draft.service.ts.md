@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts"
 type: "code"
-community: "Community 47"
+community: "Community 43"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_47
+  - community/Community_43
 ---
 
 # draft.service.ts
@@ -21,4 +21,4 @@ tags:
 - [[rejectDraft()]] - `contains` [EXTRACTED]
 - [[reviseDraft()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_47
+#graphify/code #graphify/EXTRACTED #community/Community_43

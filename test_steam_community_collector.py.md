@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_steam_community_collector.py"
 type: "code"
-community: "Test: Steam Community Collector"
+community: "Community 22"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test:_Steam_Community_Collector
+  - community/Community_22
 ---
 
 # test_steam_community_collector.py
@@ -30,4 +30,4 @@ tags:
 - [[test_strip_bbcode_img_removes_entirely()]] - `contains` [EXTRACTED]
 - [[test_strip_bbcode_url_keeps_label()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test:_Steam_Community_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_22

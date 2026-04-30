@@ -1,19 +1,18 @@
 ---
 type: community
 cohesion: 0.67
-members: 4
+members: 3
 ---
 
 # Community 111
 
 **Cohesion:** 0.67 - moderately connected
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[createRateLimiter()]] - code - backend\src\middleware\rateLimiter.ts
-- [[getIdentifier()]] - code - backend\src\middleware\rateLimiter.ts
-- [[rateLimiter.ts]] - code - backend\src\middleware\rateLimiter.ts
-- [[rateLimiter.ts_1]] - code - il-platinatore-ai\backend\src\middleware\rateLimiter.ts
+- [[FormField()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\form.jsx
+- [[form.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\form.jsx
+- [[useFormField()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\form.jsx
 
 ## Live Query (requires Dataview plugin)
 

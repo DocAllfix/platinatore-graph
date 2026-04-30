@@ -1,21 +1,20 @@
 ---
 type: community
-cohesion: 0.53
-members: 6
+cohesion: 0.50
+members: 5
 ---
 
 # Community 75
 
-**Cohesion:** 0.53 - moderately connected
-**Members:** 6 nodes
+**Cohesion:** 0.50 - moderately connected
+**Members:** 5 nodes
 
 ## Members
-- [[acquireSlot()]] - code - il-platinatore-ai\scraper\src\extractors\puppeteer.extractor.ts
-- [[closeBrowser()]] - code - il-platinatore-ai\scraper\src\extractors\puppeteer.extractor.ts
-- [[extractWithPuppeteer()]] - code - il-platinatore-ai\scraper\src\extractors\puppeteer.extractor.ts
-- [[initBrowser()]] - code - il-platinatore-ai\scraper\src\extractors\puppeteer.extractor.ts
-- [[puppeteer.extractor.ts]] - code - il-platinatore-ai\scraper\src\extractors\puppeteer.extractor.ts
-- [[releaseSlot()]] - code - il-platinatore-ai\scraper\src\extractors\puppeteer.extractor.ts
+- [[buildPayload()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.ts
+- [[makeDraft()_2]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.test.ts
+- [[notification.service.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.test.ts
+- [[notification.service.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.ts
+- [[notifyNewDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.ts
 
 ## Live Query (requires Dataview plugin)
 

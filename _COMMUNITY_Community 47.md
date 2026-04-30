@@ -1,25 +1,24 @@
 ---
 type: community
 cohesion: 0.31
-members: 10
+members: 9
 ---
 
 # Community 47
 
 **Cohesion:** 0.31 - loosely connected
-**Members:** 10 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[appendConvState()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts
-- [[approveDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts
-- [[createDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts
-- [[draft.service.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.test.ts
-- [[draft.service.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts
-- [[getConvHistory()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts
-- [[getDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts
-- [[makeDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.test.ts
-- [[rejectDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts
-- [[reviseDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts
+- [[Carica checkpoint esistente o restituisce struttura vuota.]] - rationale - harvester\scripts\run_psn_trophies_all.py
+- [[Entry point asincrono. Ritorna 0 su successo, 1 su errore fatale.]] - rationale - harvester\scripts\run_psn_trophies_all.py
+- [[Recupera trofei PSN (con descrizioni) per tutti i giochi PS4PS5 nel DB.  Pipeli]] - rationale - harvester\scripts\run_psn_trophies_all.py
+- [[Salva checkpoint su disco (atomico via tmp file).]] - rationale - harvester\scripts\run_psn_trophies_all.py
+- [[_load_checkpoint()]] - code - harvester\scripts\run_psn_trophies_all.py
+- [[_run()]] - code - harvester\scripts\run_psn_trophies_all.py
+- [[_save_checkpoint()]] - code - harvester\scripts\run_psn_trophies_all.py
+- [[main()_6]] - code - harvester\scripts\run_psn_trophies_all.py
+- [[run_psn_trophies_all.py]] - code - harvester\scripts\run_psn_trophies_all.py
 
 ## Live Query (requires Dataview plugin)
 

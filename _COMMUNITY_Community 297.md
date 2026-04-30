@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[cleanup() chiama close() su tutti i collector.]] - rationale - harvester\tests\test_pipeline.py
+- [[run_seed_batch ritorna dizionario con tutte le statistiche.]] - rationale - harvester\tests\test_pipeline.py
 
 ## Live Query (requires Dataview plugin)
 

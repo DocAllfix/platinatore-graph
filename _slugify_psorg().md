@@ -15,6 +15,5 @@ tags:
 - [[.guide_url()_1]] - `calls` [EXTRACTED]
 - [[Slug per playstationtrophies.org lowercase + trattini, no caratteri speciali.]] - `rationale_for` [EXTRACTED]
 - [[pstrophies_org.py]] - `contains` [EXTRACTED]
-- [[pstrophies_org.py_1]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_36

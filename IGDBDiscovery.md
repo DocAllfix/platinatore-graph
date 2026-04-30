@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\igdb.py"
 type: "code"
-community: "Harvester Pipeline"
+community: "IGDB Discovery (harvester)"
 location: "L63"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Harvester_Pipeline
+  - community/IGDB_Discovery_(harvester)
 ---
 
 # IGDBDiscovery
@@ -30,6 +30,5 @@ tags:
 - [[.resolve_steam_appids()]] - `method` [EXTRACTED]
 - [[Client IGDB per discovery automatica giochi e popolamento catalogo DB.]] - `rationale_for` [EXTRACTED]
 - [[igdb.py]] - `contains` [EXTRACTED]
-- [[igdb.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Harvester_Pipeline
+#graphify/code #graphify/EXTRACTED #community/IGDB_Discovery_(harvester)

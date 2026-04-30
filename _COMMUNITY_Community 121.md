@@ -10,9 +10,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[requestLogger()]] - code - backend\src\middleware\requestLogger.ts
-- [[requestLogger.ts]] - code - backend\src\middleware\requestLogger.ts
-- [[requestLogger.ts_1]] - code - il-platinatore-ai\backend\src\middleware\requestLogger.ts
+- [[BaseSettings]] - code
+- [[Settings]] - code - harvester\src\config\settings.py
+- [[settings.py]] - code - harvester\src\config\settings.py
 
 ## Live Query (requires Dataview plugin)
 

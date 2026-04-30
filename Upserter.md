@@ -1,12 +1,12 @@
 ---
-source_file: "harvester\src\injector\upserter.py"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\harvester\src\injector\upserter.py"
 type: "code"
-community: "Injector Upserter"
-location: "L60"
+community: "Test: Base Collector"
+location: "L66"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Injector_Upserter
+  - community/Test:_Base_Collector
 ---
 
 # Upserter
@@ -18,8 +18,8 @@ tags:
 - [[.find_or_create_game()]] - `method` [EXTRACTED]
 - [[.find_or_create_trophy()]] - `method` [EXTRACTED]
 - [[.upsert_guide()]] - `method` [EXTRACTED]
+- [[Deduplicator]] - `uses` [INFERRED]
 - [[Gestisce l'INSERT atomico di guida + fonti in una transazione.]] - `rationale_for` [EXTRACTED]
 - [[upserter.py]] - `contains` [EXTRACTED]
-- [[upserter.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Injector_Upserter
+#graphify/code #graphify/EXTRACTED #community/Test:_Base_Collector

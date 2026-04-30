@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\guide_search.py"
 type: "rationale"
-community: "LLM Synthesizer"
+community: "Community 8"
 location: "L118"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/LLM_Synthesizer
+  - community/Community_8
 ---
 
 # True se l'URL appartiene a un dominio di fiducia.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_is_trusted()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/LLM_Synthesizer
+#graphify/rationale #graphify/EXTRACTED #community/Community_8

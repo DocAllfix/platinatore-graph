@@ -1,12 +1,12 @@
 ---
-source_file: "harvester\src\injector\upserter.py"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\harvester\src\injector\upserter.py"
 type: "code"
-community: "Injector Upserter"
+community: "Test: Base Collector"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Injector_Upserter
+  - community/Test:_Base_Collector
 ---
 
 # upserter.py
@@ -18,4 +18,4 @@ tags:
 - [[_slugify()_2]] - `contains` [EXTRACTED]
 - [[generate_slug()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Injector_Upserter
+#graphify/code #graphify/EXTRACTED #community/Test:_Base_Collector

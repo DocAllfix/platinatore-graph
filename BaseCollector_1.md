@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: "code"
-community: "RAG Architecture Concepts"
+community: "Pre-Beta architecture concepts"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/RAG_Architecture_Concepts
+  - community/Pre-Beta_architecture_concepts
 ---
 
 # BaseCollector
@@ -26,4 +26,4 @@ tags:
 - [[YouTubeCollector]] - `inherits` [EXTRACTED]
 - [[_StubCollector]] - `inherits` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/RAG_Architecture_Concepts
+#graphify/code #graphify/EXTRACTED #community/Pre-Beta_architecture_concepts

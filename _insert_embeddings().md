@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\scripts\test_single_game.py"
 type: "code"
-community: "Single Game Test Script"
+community: "Community 23"
 location: "L53"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Single_Game_Test_Script
+  - community/Community_23
 ---
 
 # _insert_embeddings()
@@ -16,6 +16,5 @@ tags:
 - [[_vec_to_pg()]] - `calls` [EXTRACTED]
 - [[step7_insert_embeddings()]] - `calls` [EXTRACTED]
 - [[test_single_game.py]] - `contains` [EXTRACTED]
-- [[test_single_game.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Single_Game_Test_Script
+#graphify/code #graphify/EXTRACTED #community/Community_23

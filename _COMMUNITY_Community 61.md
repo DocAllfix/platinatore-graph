@@ -1,22 +1,22 @@
 ---
 type: community
-cohesion: 0.29
+cohesion: 0.33
 members: 7
 ---
 
 # Community 61
 
-**Cohesion:** 0.29 - loosely connected
+**Cohesion:** 0.33 - loosely connected
 **Members:** 7 nodes
 
 ## Members
-- [[bundleEmpty()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.service.test.ts
-- [[bundleRag()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.service.test.ts
-- [[handleGuideRequest()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.service.ts
-- [[orchestrator.service.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.service.test.ts
-- [[orchestrator.service.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.service.ts
-- [[stubNorm()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.service.test.ts
-- [[tryCacheHit()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.service.ts
+- [[clearAuthTokens()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
+- [[client.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
+- [[doRefresh()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
+- [[hasAccessToken()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
+- [[parseOrThrow()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
+- [[request()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
+- [[setAuthTokens()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
 
 ## Live Query (requires Dataview plugin)
 

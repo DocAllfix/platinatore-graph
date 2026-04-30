@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.ts"
 type: "code"
-community: "Community 78"
+community: "Community 73"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_78
+  - community/Community_73
 ---
 
 # guideDrafts.model.ts
@@ -15,4 +15,4 @@ tags:
 - [[buildSetClause()_1]] - `contains` [EXTRACTED]
 - [[guideDrafts.model.test.ts]] - `imports_from` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_78
+#graphify/code #graphify/EXTRACTED #community/Community_73

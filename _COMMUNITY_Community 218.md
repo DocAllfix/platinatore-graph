@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[accordion.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\accordion.jsx
+- [[vite.config.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\vite.config.js
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,19 +1,18 @@
 ---
 type: community
 cohesion: 0.67
-members: 4
+members: 3
 ---
 
 # Community 115
 
 **Cohesion:** 0.67 - moderately connected
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[CommandDialog()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\command.jsx
-- [[CommandShortcut()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\command.jsx
-- [[command.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\command.jsx
-- [[command.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\command.jsx
+- [[AuthProvider()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useAuth.js
+- [[useAuth()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useAuth.js
+- [[useAuth.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useAuth.js
 
 ## Live Query (requires Dataview plugin)
 

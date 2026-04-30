@@ -1,18 +1,17 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\dialog.jsx"
 type: "code"
-community: "Community 99"
+community: "Community 110"
 location: "L49"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_99
+  - community/Community_110
 ---
 
 # DialogHeader()
 
 ## Connections
 - [[dialog.jsx]] - `contains` [EXTRACTED]
-- [[dialog.jsx_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_99
+#graphify/code #graphify/EXTRACTED #community/Community_110

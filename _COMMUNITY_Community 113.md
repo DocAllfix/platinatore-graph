@@ -1,19 +1,18 @@
 ---
 type: community
 cohesion: 0.67
-members: 4
+members: 3
 ---
 
 # Community 113
 
 **Cohesion:** 0.67 - moderately connected
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[embedding.worker.ts]] - code - backend\src\workers\embedding.worker.ts
-- [[embedding.worker.ts_1]] - code - il-platinatore-ai\backend\src\workers\embedding.worker.ts
-- [[embeddingProcessor()]] - code - backend\src\workers\embedding.worker.ts
-- [[startEmbeddingWorker()]] - code - backend\src\workers\embedding.worker.ts
+- [[SheetFooter()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\sheet.jsx
+- [[SheetHeader()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\sheet.jsx
+- [[sheet.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\sheet.jsx
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\fandom.py"
 type: "rationale"
-community: "Fandom Collector"
+community: "Community 25"
 location: "L113"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Fandom_Collector
+  - community/Community_25
 ---
 
 # Cerca pagine nel wiki Fandom e ritorna lista di titoli.          Usa action=quer
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.search_wiki()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Fandom_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Community_25

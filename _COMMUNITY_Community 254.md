@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Verdetto di ammissibilità per un gioco IGDB.          Ritorna 'ok'  'mobile']] - rationale - harvester\src\discovery\igdb.py
+- [[__init__.py_2]] - code - harvester\src\collectors\__init__.py
 
 ## Live Query (requires Dataview plugin)
 

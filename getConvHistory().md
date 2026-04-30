@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts"
 type: "code"
-community: "Community 47"
+community: "Community 43"
 location: "L39"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_47
+  - community/Community_43
 ---
 
 # getConvHistory()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[draft.service.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_47
+#graphify/code #graphify/EXTRACTED #community/Community_43

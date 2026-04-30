@@ -1,20 +1,19 @@
 ---
 type: community
-cohesion: 0.50
-members: 5
+cohesion: 0.67
+members: 4
 ---
 
 # Community 88
 
-**Cohesion:** 0.50 - moderately connected
-**Members:** 5 nodes
+**Cohesion:** 0.67 - moderately connected
+**Members:** 4 nodes
 
 ## Members
-- [[Calcola un quality score in 0.0, 1.0 arrotondato a 2 decimali.]] - rationale - harvester\src\transformer\quality.py
-- [[Quality scoring per guide sintetizzate dal Transformer.  Algoritmo Masterplan]] - rationale - harvester\src\transformer\quality.py
-- [[calculate_quality_score()]] - code - harvester\src\transformer\quality.py
-- [[quality.py]] - code - harvester\src\transformer\quality.py
-- [[quality.py_1]] - code - il-platinatore-ai\harvester\src\transformer\quality.py
+- [[bundleFromResults()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.retrieval.ts
+- [[enrichWithScraping()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.retrieval.ts
+- [[orchestrator.retrieval.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.retrieval.ts
+- [[retrieveContext()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.retrieval.ts
 
 ## Live Query (requires Dataview plugin)
 

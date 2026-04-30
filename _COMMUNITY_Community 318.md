@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[logger.ts_2]] - code - il-platinatore-ai\backend\src\utils\logger.ts
+- [[favicon.png (coverage HTML asset)]] - image - backend/coverage/favicon.png
 
 ## Live Query (requires Dataview plugin)
 

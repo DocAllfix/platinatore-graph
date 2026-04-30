@@ -1,0 +1,41 @@
+---
+type: community
+cohesion: 0.17
+members: 16
+---
+
+# Community 26
+
+**Cohesion:** 0.17 - loosely connected
+**Members:** 16 nodes
+
+## Members
+- [[.__init__()_3]] - code - harvester\src\collectors\reddit.py
+- [[._extract_posts_from_listing()]] - code - harvester\src\collectors\reddit.py
+- [[.extract()_8]] - code - harvester\src\collectors\reddit.py
+- [[.fetch_post_with_comments()]] - code - harvester\src\collectors\reddit.py
+- [[.search_subreddit()]] - code - harvester\src\collectors\reddit.py
+- [[Cerca post in un subreddit.  Ritorna lista di dict filtrati.]] - rationale - harvester\src\collectors\reddit.py
+- [[Collector per post Reddit — aggrega titolo + selftext + top commenti.]] - rationale - harvester\src\collectors\reddit.py
+- [[Estrae post filtrati da un Listing search.json.]] - rationale - harvester\src\collectors\reddit.py
+- [[Fetcha un post + top commenti via comments{id}.json.]] - rationale - harvester\src\collectors\reddit.py
+- [[Parsa un payload search.json o comments.json di Reddit.          `html` qui è il]] - rationale - harvester\src\collectors\reddit.py
+- [[RedditCollector]] - code - harvester\src\collectors\reddit.py
+- [[RedditCollector — community metabuildtips via API JSON pubblica.  Nessuna API]] - rationale - harvester\src\collectors\reddit.py
+- [[_clean_post()]] - code - harvester\src\collectors\reddit.py
+- [[format_for_llm()]] - code - harvester\src\collectors\reddit.py
+- [[matches_url()]] - code - harvester\src\collectors\reddit.py
+- [[reddit.py]] - code - harvester\src\collectors\reddit.py
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Community_26
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Pre-Beta architecture concepts]]
+
+## Top bridge nodes
+- [[RedditCollector]] - degree 8, connects to 1 community

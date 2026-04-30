@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[express.d.ts]] - code - backend\src\types\express.d.ts
+- [[query.normalizer.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\query.normalizer.test.ts
 
 ## Live Query (requires Dataview plugin)
 

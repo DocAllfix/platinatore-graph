@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_psn_fetcher.py"
 type: "rationale"
-community: "Guide Search Collector"
+community: "Community 7"
 location: "L18"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Guide_Search_Collector
+  - community/Community_7
 ---
 
 # Trophy fixture con tutti i campi PSN.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_sample_trophy()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Guide_Search_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Community_7

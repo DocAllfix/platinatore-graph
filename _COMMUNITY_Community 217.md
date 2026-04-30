@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[main.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\main.jsx
+- [[tailwind.config.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\tailwind.config.js
 
 ## Live Query (requires Dataview plugin)
 

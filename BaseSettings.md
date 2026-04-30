@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: "code"
-community: "Community 109"
+community: "Community 121"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_109
+  - community/Community_121
 ---
 
 # BaseSettings
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Settings]] - `inherits` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_109
+#graphify/code #graphify/EXTRACTED #community/Community_121

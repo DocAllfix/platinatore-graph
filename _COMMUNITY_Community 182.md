@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 182
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[System prompt per Gemini estrazione fatti + sintesi guide.  NON modificare senz]] - rationale - harvester\src\transformer\prompts.py
-- [[prompts.py]] - code - harvester\src\transformer\prompts.py
-- [[prompts.py_1]] - code - il-platinatore-ai\harvester\src\transformer\prompts.py
+- [[Community()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Community.jsx
+- [[Community.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Community.jsx
 
 ## Live Query (requires Dataview plugin)
 

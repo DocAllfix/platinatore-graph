@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\youtube.py"
 type: "rationale"
-community: "YouTube Collector"
+community: "Community 21"
 location: "L365"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/YouTube_Collector
+  - community/Community_21
 ---
 
 # Parsa transcript + URL e ritorna dict standard collector.          `extra` opzio
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.extract()_12]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/YouTube_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Community_21

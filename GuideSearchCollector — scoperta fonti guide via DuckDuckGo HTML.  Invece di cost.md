@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\src\collectors\guide_search.py"
 type: "rationale"
-community: "LLM Synthesizer"
+community: "Community 8"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/LLM_Synthesizer
+  - community/Community_8
 ---
 
 # GuideSearchCollector — scoperta fonti guide via DuckDuckGo HTML.  Invece di cost
 
 ## Connections
 - [[guide_search.py]] - `rationale_for` [EXTRACTED]
-- [[guide_search.py_1]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/LLM_Synthesizer
+#graphify/rationale #graphify/EXTRACTED #community/Community_8

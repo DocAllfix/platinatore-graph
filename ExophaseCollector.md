@@ -17,6 +17,5 @@ tags:
 - [[BaseCollector_1]] - `inherits` [EXTRACTED]
 - [[Collector per trofeiachievement su exophase.com.]] - `rationale_for` [EXTRACTED]
 - [[exophase.py]] - `contains` [EXTRACTED]
-- [[exophase.py_1]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_35

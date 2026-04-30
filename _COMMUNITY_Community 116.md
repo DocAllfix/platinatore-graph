@@ -1,19 +1,18 @@
 ---
 type: community
-cohesion: 0.50
-members: 4
+cohesion: 1.00
+members: 3
 ---
 
 # Community 116
 
-**Cohesion:** 0.50 - moderately connected
-**Members:** 4 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 3 nodes
 
 ## Members
-- [[ARCHITECTURE.md — Concept→Implementation Map]] - document - il-platinatore-ai/ARCHITECTURE.md
-- [[Section Phase 18 — Auth]] - document - il-platinatore-ai/ARCHITECTURE.md
-- [[Section Phase 23 — HITL Self-Learning RAG]] - document - il-platinatore-ai/ARCHITECTURE.md
-- [[Section RAG hybrid pipeline (HNSW + RRF)]] - document - il-platinatore-ai/ARCHITECTURE.md
+- [[extractGenericGameName()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\mockGuide.js
+- [[generateMockGuide()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\mockGuide.js
+- [[mockGuide.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\mockGuide.js
 
 ## Live Query (requires Dataview plugin)
 

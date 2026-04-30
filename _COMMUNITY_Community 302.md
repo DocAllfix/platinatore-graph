@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Stesso input HTML+URL → stesso content_hash.]] - rationale - harvester\tests\test_powerpyx_collector.py
+- [[game_name estratto correttamente dallo slug URL.]] - rationale - harvester\tests\test_powerpyx_collector.py
 
 ## Live Query (requires Dataview plugin)
 

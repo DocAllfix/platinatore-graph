@@ -1,12 +1,12 @@
 ---
-source_file: "backend\src\models\games.model.ts"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\games.model.ts"
 type: "code"
-community: "Community 124"
+community: "Community 130"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_124
+  - community/Community_130
 ---
 
 # games.model.ts
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[buildSetClause()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_124
+#graphify/code #graphify/EXTRACTED #community/Community_130

@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[env.ts_1]] - code - il-platinatore-ai\scraper\src\config\env.ts
+- [[index.ts_3]] - code - scraper\src\index.ts
 
 ## Live Query (requires Dataview plugin)
 

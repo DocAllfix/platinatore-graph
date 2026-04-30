@@ -1,18 +1,17 @@
 ---
-source_file: "harvester\scripts\run_igdb_discovery.py"
+source_file: "harvester\scripts\generate_expanded_seed.py"
 type: "code"
-community: "Community 107"
-location: "L13"
+community: "Community 118"
+location: "L146"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_107
+  - community/Community_118
 ---
 
 # main()
 
 ## Connections
-- [[run_igdb_discovery.py]] - `contains` [EXTRACTED]
-- [[run_igdb_discovery.py_1]] - `contains` [EXTRACTED]
+- [[generate_expanded_seed.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_107
+#graphify/code #graphify/EXTRACTED #community/Community_118

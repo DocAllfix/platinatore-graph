@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\psn_game_finder.py"
 type: "code"
-community: "PSN Game Finder"
+community: "Community 24"
 location: "L45"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/PSN_Game_Finder
+  - community/Community_24
 ---
 
 # PsnGameFinder
@@ -20,6 +20,5 @@ tags:
 - [[.populate_all_games()]] - `method` [EXTRACTED]
 - [[Scopre il np_communication_id PSN per ogni gioco e lo salva in DB.]] - `rationale_for` [EXTRACTED]
 - [[psn_game_finder.py]] - `contains` [EXTRACTED]
-- [[psn_game_finder.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/PSN_Game_Finder
+#graphify/code #graphify/EXTRACTED #community/Community_24

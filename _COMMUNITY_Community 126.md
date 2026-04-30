@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 126
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[makeRow()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\userGameStats.model.test.ts
-- [[userGameStats.model.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\userGameStats.model.test.ts
-- [[userGameStats.model.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\userGameStats.model.ts
+- [[redis.ts]] - code - backend\src\config\redis.ts
+- [[testRedisConnection()]] - code - backend\src\config\redis.ts
 
 ## Live Query (requires Dataview plugin)
 

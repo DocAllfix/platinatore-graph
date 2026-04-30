@@ -1,21 +1,21 @@
 ---
 type: community
-cohesion: 0.53
+cohesion: 0.47
 members: 6
 ---
 
 # Community 70
 
-**Cohesion:** 0.53 - moderately connected
+**Cohesion:** 0.47 - moderately connected
 **Members:** 6 nodes
 
 ## Members
-- [[CheckIcon()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Games.jsx
-- [[DifficultyDots()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Games.jsx
-- [[Games()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Games.jsx
-- [[Games.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Games.jsx
-- [[Games.jsx_1]] - code - il-platinatore-ai\frontend\src\pages\Games.jsx
-- [[TargetIcon()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Games.jsx
+- [[Aggiorna il timestamp del heartbeat file per segnalare che il processo è vivo.]] - rationale - harvester\src\orchestrator\main.py
+- [[Entry point dell'harvester — avvia la pipeline in modalità seed o update.  Non è]] - rationale - harvester\src\orchestrator\main.py
+- [[_parse_args()_1]] - code - harvester\src\orchestrator\main.py
+- [[main()_11]] - code - harvester\src\orchestrator\main.py
+- [[main.py]] - code - harvester\src\orchestrator\main.py
+- [[touch_heartbeat()]] - code - harvester\src\orchestrator\main.py
 
 ## Live Query (requires Dataview plugin)
 

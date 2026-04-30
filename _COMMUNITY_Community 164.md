@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 164
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[sidebar.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\sidebar.jsx
-- [[sidebar.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\sidebar.jsx
-- [[useSidebar()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\sidebar.jsx
+- [[ProfileButton()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\layout\ProfileButton.jsx
+- [[ProfileButton.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\layout\ProfileButton.jsx
 
 ## Live Query (requires Dataview plugin)
 

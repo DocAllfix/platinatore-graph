@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[fetch() ritorna None su timeout.]] - rationale - harvester\tests\test_base_collector.py
+- [[fetch() ritorna None se il server risponde 429 (rate limited).]] - rationale - harvester\tests\test_base_collector.py
 
 ## Live Query (requires Dataview plugin)
 

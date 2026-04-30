@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\ign.py"
 type: "code"
-community: "RAG Architecture Concepts"
+community: "Pre-Beta architecture concepts"
 location: "L45"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/RAG_Architecture_Concepts
+  - community/Pre-Beta_architecture_concepts
 ---
 
 # IGNCollector
@@ -16,6 +16,5 @@ tags:
 - [[BaseCollector_1]] - `inherits` [EXTRACTED]
 - [[Collector per wiki IGN (boss, walkthrough, collectible).]] - `rationale_for` [EXTRACTED]
 - [[ign.py]] - `contains` [EXTRACTED]
-- [[ign.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/RAG_Architecture_Concepts
+#graphify/code #graphify/EXTRACTED #community/Pre-Beta_architecture_concepts

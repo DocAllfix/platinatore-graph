@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Pricing.jsx"
 type: "code"
-community: "Community 177"
+community: "Community 185"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_177
+  - community/Community_185
 ---
 
 # Pricing.jsx
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Pricing()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_177
+#graphify/code #graphify/EXTRACTED #community/Community_185

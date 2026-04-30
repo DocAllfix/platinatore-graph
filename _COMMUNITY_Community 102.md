@@ -1,19 +1,18 @@
 ---
 type: community
 cohesion: 0.67
-members: 4
+members: 3
 ---
 
 # Community 102
 
 **Cohesion:** 0.67 - moderately connected
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[SheetFooter()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\sheet.jsx
-- [[SheetHeader()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\sheet.jsx
-- [[sheet.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\sheet.jsx
-- [[sheet.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\sheet.jsx
+- [[rating.service.test.ts]] - code - backend\src\services\rating.service.test.ts
+- [[rating.service.ts]] - code - backend\src\services\rating.service.ts
+- [[stubGuide()]] - code - backend\src\services\rating.service.test.ts
 
 ## Live Query (requires Dataview plugin)
 

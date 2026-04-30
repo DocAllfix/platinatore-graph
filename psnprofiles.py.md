@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\psnprofiles.py"
 type: "code"
-community: "RAG Architecture Concepts"
+community: "Community 34"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/RAG_Architecture_Concepts
+  - community/Community_34
 ---
 
 # psnprofiles.py
@@ -19,4 +19,4 @@ tags:
 - [[_normalize_whitespace()_4]] - `contains` [EXTRACTED]
 - [[_parse_url_slug()_3]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/RAG_Architecture_Concepts
+#graphify/code #graphify/EXTRACTED #community/Community_34

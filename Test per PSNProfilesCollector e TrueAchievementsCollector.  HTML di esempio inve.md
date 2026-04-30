@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\tests\test_collectors.py"
 type: "rationale"
-community: "Test: PSN Collectors"
+community: "Community 10"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Test:_PSN_Collectors
+  - community/Community_10
 ---
 
 # Test per PSNProfilesCollector e TrueAchievementsCollector.  HTML di esempio inve
 
 ## Connections
 - [[test_collectors.py]] - `rationale_for` [EXTRACTED]
-- [[test_collectors.py_1]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Test:_PSN_Collectors
+#graphify/rationale #graphify/EXTRACTED #community/Community_10

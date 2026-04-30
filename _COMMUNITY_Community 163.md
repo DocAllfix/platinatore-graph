@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 163
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[DropdownMenuShortcut()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\dropdown-menu.jsx
-- [[dropdown-menu.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\dropdown-menu.jsx
-- [[dropdown-menu.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\dropdown-menu.jsx
+- [[NotificationBell()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\layout\NotificationBell.jsx
+- [[NotificationBell.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\layout\NotificationBell.jsx
 
 ## Live Query (requires Dataview plugin)
 

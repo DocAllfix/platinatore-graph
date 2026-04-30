@@ -1,21 +1,21 @@
 ---
 type: community
-cohesion: 0.40
+cohesion: 0.53
 members: 6
 ---
 
 # Community 71
 
-**Cohesion:** 0.40 - moderately connected
+**Cohesion:** 0.53 - moderately connected
 **Members:** 6 nodes
 
 ## Members
-- [[Configura structlog JSON in prod, console colorata in dev (DEBUG).]] - rationale - harvester\src\config\logger.py
-- [[Restituisce un logger con il campo 'logger' già bindato al nome del modulo.]] - rationale - harvester\src\config\logger.py
-- [[get_logger()]] - code - harvester\src\config\logger.py
-- [[logger.py]] - code - harvester\src\config\logger.py
-- [[logger.py_1]] - code - il-platinatore-ai\harvester\src\config\logger.py
-- [[setup_logging()]] - code - harvester\src\config\logger.py
+- [[acquireSlot()]] - code - il-platinatore-ai\scraper\src\extractors\puppeteer.extractor.ts
+- [[closeBrowser()]] - code - il-platinatore-ai\scraper\src\extractors\puppeteer.extractor.ts
+- [[extractWithPuppeteer()]] - code - il-platinatore-ai\scraper\src\extractors\puppeteer.extractor.ts
+- [[initBrowser()]] - code - il-platinatore-ai\scraper\src\extractors\puppeteer.extractor.ts
+- [[puppeteer.extractor.ts]] - code - il-platinatore-ai\scraper\src\extractors\puppeteer.extractor.ts
+- [[releaseSlot()]] - code - il-platinatore-ai\scraper\src\extractors\puppeteer.extractor.ts
 
 ## Live Query (requires Dataview plugin)
 

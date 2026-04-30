@@ -1,19 +1,18 @@
 ---
 type: community
 cohesion: 0.67
-members: 4
+members: 3
 ---
 
 # Community 104
 
 **Cohesion:** 0.67 - moderately connected
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[AuthProvider()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useAuth.js
-- [[useAuth()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useAuth.js
-- [[useAuth.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useAuth.js
-- [[useAuth.js_1]] - code - il-platinatore-ai\frontend\src\hooks\useAuth.js
+- [[App()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\App.jsx
+- [[App.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\App.jsx
+- [[AuthenticatedApp()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\App.jsx
 
 ## Live Query (requires Dataview plugin)
 

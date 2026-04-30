@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\guide_search.py"
 type: "code"
-community: "LLM Synthesizer"
+community: "Community 8"
 location: "L117"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/LLM_Synthesizer
+  - community/Community_8
 ---
 
 # _is_trusted()
@@ -16,6 +16,5 @@ tags:
 - [[True se l'URL appartiene a un dominio di fiducia.]] - `rationale_for` [EXTRACTED]
 - [[_domain_of()]] - `calls` [EXTRACTED]
 - [[guide_search.py]] - `contains` [EXTRACTED]
-- [[guide_search.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/LLM_Synthesizer
+#graphify/code #graphify/EXTRACTED #community/Community_8

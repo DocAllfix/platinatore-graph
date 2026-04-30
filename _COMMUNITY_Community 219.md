@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[alert.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\alert.jsx
+- [[main.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\main.jsx
 
 ## Live Query (requires Dataview plugin)
 

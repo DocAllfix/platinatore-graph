@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\powerpyx.py"
 type: "code"
-community: "RAG Architecture Concepts"
+community: "Pre-Beta architecture concepts"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/RAG_Architecture_Concepts
+  - community/Pre-Beta_architecture_concepts
 ---
 
 # powerpyx.py
@@ -18,4 +18,4 @@ tags:
 - [[_normalize_whitespace()_3]] - `contains` [EXTRACTED]
 - [[_parse_url_slug()_2]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/RAG_Architecture_Concepts
+#graphify/code #graphify/EXTRACTED #community/Pre-Beta_architecture_concepts

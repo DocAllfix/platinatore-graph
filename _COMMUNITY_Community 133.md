@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 133
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[App()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\App.jsx
-- [[App.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\App.jsx
-- [[AuthenticatedApp()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\App.jsx
+- [[embedding.scheduler.ts]] - code - backend\src\schedulers\embedding.scheduler.ts
+- [[startEmbeddingScheduler()]] - code - backend\src\schedulers\embedding.scheduler.ts
 
 ## Live Query (requires Dataview plugin)
 

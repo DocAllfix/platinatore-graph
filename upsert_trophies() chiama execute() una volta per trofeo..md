@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_psn_fetcher.py"
 type: "rationale"
-community: "Guide Search Collector"
+community: "Community 7"
 location: "L166"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Guide_Search_Collector
+  - community/Community_7
 ---
 
 # upsert_trophies() chiama execute() una volta per trofeo.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.test_calls_execute_for_each_trophy()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Guide_Search_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Community_7

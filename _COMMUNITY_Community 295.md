@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[run_seed_batch ritorna dizionario con tutte le statistiche.]] - rationale - harvester\tests\test_pipeline.py
+- [[guide_type_override deve sovrascrivere quello del synthesizer.]] - rationale - harvester\tests\test_pipeline.py
 
 ## Live Query (requires Dataview plugin)
 

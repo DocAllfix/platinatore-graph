@@ -10,9 +10,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[errorHandler()]] - code - backend\src\middleware\errorHandler.ts
-- [[errorHandler.ts]] - code - backend\src\middleware\errorHandler.ts
-- [[errorHandler.ts_1]] - code - il-platinatore-ai\backend\src\middleware\errorHandler.ts
+- [[Script espande il catalogo giochi via IGDB, poi fetch trophy PSN.]] - rationale - harvester\scripts\run_igdb_discovery.py
+- [[main()_4]] - code - harvester\scripts\run_igdb_discovery.py
+- [[run_igdb_discovery.py]] - code - harvester\scripts\run_igdb_discovery.py
 
 ## Live Query (requires Dataview plugin)
 

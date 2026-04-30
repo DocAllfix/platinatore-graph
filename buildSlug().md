@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts"
 type: "code"
-community: "Fextralife Collector"
+community: "Community 41"
 location: "L48"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Fextralife_Collector
+  - community/Community_41
 ---
 
 # buildSlug()
@@ -16,4 +16,4 @@ tags:
 - [[seedBatch()]] - `calls` [EXTRACTED]
 - [[slugify()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_41

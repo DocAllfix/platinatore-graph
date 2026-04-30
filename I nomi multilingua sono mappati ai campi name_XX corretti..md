@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_psn_fetcher.py"
 type: "rationale"
-community: "Guide Search Collector"
+community: "Community 7"
 location: "L90"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Guide_Search_Collector
+  - community/Community_7
 ---
 
 # I nomi multilingua sono mappati ai campi name_XX corretti.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.test_multilang_fields_mapped_correctly()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Guide_Search_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Community_7

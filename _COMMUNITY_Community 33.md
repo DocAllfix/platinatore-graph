@@ -1,13 +1,13 @@
 ---
 type: community
-cohesion: 0.19
-members: 15
+cohesion: 0.18
+members: 14
 ---
 
 # Community 33
 
-**Cohesion:** 0.19 - loosely connected
-**Members:** 15 nodes
+**Cohesion:** 0.18 - loosely connected
+**Members:** 14 nodes
 
 ## Members
 - [[.discover_guides()]] - code - harvester\src\collectors\steam_community.py
@@ -24,7 +24,6 @@ members: 15
 - [[_guide_type_from_tags()]] - code - harvester\src\collectors\steam_community.py
 - [[_strip_steam_bbcode()]] - code - harvester\src\collectors\steam_community.py
 - [[steam_community.py]] - code - harvester\src\collectors\steam_community.py
-- [[steam_community.py_1]] - code - il-platinatore-ai\harvester\src\collectors\steam_community.py
 
 ## Live Query (requires Dataview plugin)
 
@@ -34,7 +33,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_RAG Architecture Concepts]]
+- 1 edge to [[_COMMUNITY_Pre-Beta architecture concepts]]
 
 ## Top bridge nodes
-- [[SteamCommunityGuidesCollector]] - degree 7, connects to 1 community
+- [[SteamCommunityGuidesCollector]] - degree 6, connects to 1 community

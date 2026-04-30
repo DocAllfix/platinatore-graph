@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[fetch_games ritorna la lista di giochi parsata dal JSON IGDB.]] - rationale - harvester\tests\test_discovery.py
+- [[Stesso input → stesso content_hash._1]] - rationale - harvester\tests\test_collectors.py
 
 ## Live Query (requires Dataview plugin)
 

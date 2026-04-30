@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\psn_game_finder.py"
 type: "rationale"
-community: "PSN Game Finder"
+community: "Community 24"
 location: "L60"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/PSN_Game_Finder
+  - community/Community_24
 ---
 
 # Mappa il prefisso del title_id alla piattaforma psnawp.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[._get_platform()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/PSN_Game_Finder
+#graphify/rationale #graphify/EXTRACTED #community/Community_24

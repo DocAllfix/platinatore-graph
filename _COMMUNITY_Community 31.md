@@ -1,31 +1,29 @@
 ---
 type: community
-cohesion: 0.23
-members: 16
+cohesion: 0.27
+members: 14
 ---
 
 # Community 31
 
-**Cohesion:** 0.23 - loosely connected
-**Members:** 16 nodes
+**Cohesion:** 0.27 - loosely connected
+**Members:** 14 nodes
 
 ## Members
-- [[Apre il connection pool. Da chiamare all'avvio dell'orchestratore.]] - rationale - harvester\src\config\db.py
-- [[Chiude il connection pool. Da chiamare allo shutdown.]] - rationale - harvester\src\config\db.py
-- [[Esegue una query e restituisce la prima riga come dict, o None se vuota.]] - rationale - harvester\src\config\db.py
-- [[Esegue una query e restituisce tutte le righe come lista di dict.]] - rationale - harvester\src\config\db.py
-- [[Esegue una query senza risultati (INSERT, UPDATE, DELETE).]] - rationale - harvester\src\config\db.py
-- [[Restituisce il pool, inizializzandolo se necessario.]] - rationale - harvester\src\config\db.py
-- [[Verifica la connessione al DB con SELECT NOW(). Logga il risultato.]] - rationale - harvester\src\config\db.py
-- [[_get_pool()]] - code - harvester\src\config\db.py
-- [[close_pool()]] - code - harvester\src\config\db.py
-- [[db.py]] - code - harvester\src\config\db.py
-- [[db.py_1]] - code - il-platinatore-ai\harvester\src\config\db.py
-- [[execute()]] - code - harvester\src\config\db.py
-- [[fetch_all()]] - code - harvester\src\config\db.py
-- [[fetch_one()]] - code - harvester\src\config\db.py
-- [[init_pool()]] - code - harvester\src\config\db.py
-- [[test_connection()]] - code - harvester\src\config\db.py
+- [[addSearchBox()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\sorter.js
+- [[addSortIndicators()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\sorter.js
+- [[enableUI()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\sorter.js
+- [[getNthColumn()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\sorter.js
+- [[getTable()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\sorter.js
+- [[getTableBody()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\sorter.js
+- [[getTableHeader()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\sorter.js
+- [[loadColumns()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\sorter.js
+- [[loadData()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\sorter.js
+- [[loadRowData()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\sorter.js
+- [[onFilterInput()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\sorter.js
+- [[removeSortIndicators()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\sorter.js
+- [[sortByIndex()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\sorter.js
+- [[sorter.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\sorter.js
 
 ## Live Query (requires Dataview plugin)
 

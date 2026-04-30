@@ -1,20 +1,20 @@
 ---
 type: community
-cohesion: 0.80
+cohesion: 0.40
 members: 5
 ---
 
 # Community 79
 
-**Cohesion:** 0.80 - tightly connected
+**Cohesion:** 0.40 - moderately connected
 **Members:** 5 nodes
 
 ## Members
-- [[auth.csrf.ts]] - code - backend\src\services\auth.csrf.ts
-- [[auth.csrf.ts_1]] - code - il-platinatore-ai\backend\src\services\auth.csrf.ts
-- [[hmacHex()]] - code - backend\src\services\auth.csrf.ts
-- [[makeCsrfToken()]] - code - backend\src\services\auth.csrf.ts
-- [[verifyCsrfToken()]] - code - backend\src\services\auth.csrf.ts
+- [[Configura structlog JSON in prod, console colorata in dev (DEBUG).]] - rationale - harvester\src\config\logger.py
+- [[Restituisce un logger con il campo 'logger' già bindato al nome del modulo.]] - rationale - harvester\src\config\logger.py
+- [[get_logger()]] - code - harvester\src\config\logger.py
+- [[logger.py]] - code - harvester\src\config\logger.py
+- [[setup_logging()]] - code - harvester\src\config\logger.py
 
 ## Live Query (requires Dataview plugin)
 

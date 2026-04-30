@@ -1,19 +1,19 @@
 ---
 type: community
-cohesion: 0.67
+cohesion: 0.50
 members: 4
 ---
 
 # Community 96
 
-**Cohesion:** 0.67 - moderately connected
+**Cohesion:** 0.50 - moderately connected
 **Members:** 4 nodes
 
 ## Members
-- [[GuideChecklist()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideChecklist.jsx
-- [[GuideChecklist.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideChecklist.jsx
-- [[GuideChecklist.jsx_1]] - code - il-platinatore-ai\frontend\src\components\chat\GuideChecklist.jsx
-- [[parseSteps()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideChecklist.jsx
+- [[Calcola un quality score in 0.0, 1.0 arrotondato a 2 decimali.]] - rationale - harvester\src\transformer\quality.py
+- [[Quality scoring per guide sintetizzate dal Transformer.  Algoritmo Masterplan]] - rationale - harvester\src\transformer\quality.py
+- [[calculate_quality_score()]] - code - harvester\src\transformer\quality.py
+- [[quality.py]] - code - harvester\src\transformer\quality.py
 
 ## Live Query (requires Dataview plugin)
 

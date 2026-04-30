@@ -1,18 +1,17 @@
 ---
 type: community
 cohesion: 1.00
-members: 3
+members: 2
 ---
 
 # Community 183
 
 **Cohesion:** 1.00 - tightly connected
-**Members:** 3 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[fetchRobots()]] - code - il-platinatore-ai\scraper\src\utils\robots.ts
-- [[isAllowedByRobots()]] - code - il-platinatore-ai\scraper\src\utils\robots.ts
-- [[robots.ts]] - code - il-platinatore-ai\scraper\src\utils\robots.ts
+- [[Landing()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Landing.jsx
+- [[Landing.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Landing.jsx
 
 ## Live Query (requires Dataview plugin)
 

@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[_get_token chiama POST una volta sola se il token è ancora valido.]] - rationale - harvester\tests\test_discovery.py
+- [[La lista achievement deve comparire nel raw_content.]] - rationale - harvester\tests\test_collectors.py
 
 ## Live Query (requires Dataview plugin)
 

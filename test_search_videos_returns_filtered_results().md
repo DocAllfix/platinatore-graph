@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_youtube_collector.py"
 type: "code"
-community: "Test: YouTube Collector"
+community: "Community 13"
 location: "L157"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test:_YouTube_Collector
+  - community/Community_13
 ---
 
 # test_search_videos_returns_filtered_results()
@@ -14,6 +14,5 @@ tags:
 ## Connections
 - [[search_videos deve filtrare per view count e duration.]] - `rationale_for` [EXTRACTED]
 - [[test_youtube_collector.py]] - `contains` [EXTRACTED]
-- [[test_youtube_collector.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test:_YouTube_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_13

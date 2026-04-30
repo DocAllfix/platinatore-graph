@@ -1,14 +1,14 @@
 ---
 source_file: "harvester\src\collectors\__init__.py"
 type: "code"
-community: "Community 252"
+community: "Community 254"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_252
+  - community/Community_254
 ---
 
 # __init__.py
 
-#graphify/code #graphify/EXTRACTED #community/Community_252
+#graphify/code #graphify/EXTRACTED #community/Community_254

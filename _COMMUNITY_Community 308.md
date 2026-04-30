@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[logger.ts_1]] - code - il-platinatore-ai\scraper\src\utils\logger.ts
+- [[types.ts]] - code - il-platinatore-ai\scraper\src\types.ts
 
 ## Live Query (requires Dataview plugin)
 

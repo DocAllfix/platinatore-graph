@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_psn_fetcher.py"
 type: "code"
-community: "Guide Search Collector"
+community: "Community 7"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Guide_Search_Collector
+  - community/Community_7
 ---
 
 # test_psn_fetcher.py
@@ -19,4 +19,4 @@ tags:
 - [[_make_psn_response()]] - `contains` [EXTRACTED]
 - [[_sample_trophy()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Guide_Search_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_7

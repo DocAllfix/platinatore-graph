@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\psn_trophy_fetcher.py"
 type: "rationale"
-community: "PSN Trophy Fetcher"
+community: "Community 17"
 location: "L392"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/PSN_Trophy_Fetcher
+  - community/Community_17
 ---
 
 # Fetch + store per un singolo gioco. Entry point ad alto livello.          Richie
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.fetch_and_store_for_game()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/PSN_Trophy_Fetcher
+#graphify/rationale #graphify/EXTRACTED #community/Community_17

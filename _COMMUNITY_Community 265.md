@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[fetch() ritorna None se il server risponde 403.]] - rationale - harvester\tests\test_base_collector.py
+- [[Se l'ultima richiesta è recente, _respect_delay aspetta la differenza.]] - rationale - harvester\tests\test_base_collector.py
 
 ## Live Query (requires Dataview plugin)
 

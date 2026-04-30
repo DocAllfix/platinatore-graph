@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\fandom.py"
 type: "rationale"
-community: "Fandom Collector"
+community: "Community 25"
 location: "L102"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Fandom_Collector
+  - community/Community_25
 ---
 
 # Collector per guide wiki da Fandom via MediaWiki API.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[FandomCollector]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Fandom_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Community_25

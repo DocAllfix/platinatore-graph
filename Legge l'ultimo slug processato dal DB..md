@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\pipeline.py"
 type: "rationale"
-community: "Test: Base Collector"
+community: "Harvester Pipeline orchestrator"
 location: "L909"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Test:_Base_Collector
+  - community/Harvester_Pipeline_orchestrator
 ---
 
 # Legge l'ultimo slug processato dal DB.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[._get_last_processed_slug()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Test:_Base_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Harvester_Pipeline_orchestrator

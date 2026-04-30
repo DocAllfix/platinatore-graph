@@ -14,6 +14,5 @@ tags:
 ## Connections
 - [[.extract()_11]] - `calls` [EXTRACTED]
 - [[truetrophies.py]] - `contains` [EXTRACTED]
-- [[truetrophies.py_1]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_37

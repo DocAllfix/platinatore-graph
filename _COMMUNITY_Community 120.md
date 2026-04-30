@@ -10,9 +10,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[mockReq()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\rateLimiter.test.ts
-- [[mockRes()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\rateLimiter.test.ts
-- [[rateLimiter.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\rateLimiter.test.ts
+- [[Script discovery massiva giochi PS5+PS4 via IGDB fetch_games paginato.  Strateg]] - rationale - harvester\scripts\run_igdb_full_discovery.py
+- [[main()_5]] - code - harvester\scripts\run_igdb_full_discovery.py
+- [[run_igdb_full_discovery.py]] - code - harvester\scripts\run_igdb_full_discovery.py
 
 ## Live Query (requires Dataview plugin)
 

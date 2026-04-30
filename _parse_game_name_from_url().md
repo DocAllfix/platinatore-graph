@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\trueachievements.py"
 type: "code"
-community: "Community 41"
+community: "Pre-Beta architecture concepts"
 location: "L133"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_41
+  - community/Pre-Beta_architecture_concepts
 ---
 
 # _parse_game_name_from_url()
@@ -15,6 +15,5 @@ tags:
 - [[.extract()_10]] - `calls` [EXTRACTED]
 - [[Estrae game_name dall'URL TrueAchievements.      Formati tipici       - gamee]] - `rationale_for` [EXTRACTED]
 - [[trueachievements.py]] - `contains` [EXTRACTED]
-- [[trueachievements.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_41
+#graphify/code #graphify/EXTRACTED #community/Pre-Beta_architecture_concepts

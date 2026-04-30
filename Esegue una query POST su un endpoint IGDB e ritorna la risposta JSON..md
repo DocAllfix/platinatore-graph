@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\igdb.py"
 type: "rationale"
-community: "Harvester Pipeline"
+community: "IGDB Discovery (harvester)"
 location: "L107"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Harvester_Pipeline
+  - community/IGDB_Discovery_(harvester)
 ---
 
 # Esegue una query POST su un endpoint IGDB e ritorna la risposta JSON.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[._query()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Harvester_Pipeline
+#graphify/rationale #graphify/EXTRACTED #community/IGDB_Discovery_(harvester)

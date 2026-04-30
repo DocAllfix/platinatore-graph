@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\psn_trophy_fetcher.py"
 type: "code"
-community: "PSN Trophy Fetcher"
+community: "Community 17"
 location: "L63"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/PSN_Trophy_Fetcher
+  - community/Community_17
 ---
 
 # PsnTrophyFetcher
@@ -22,6 +22,5 @@ tags:
 - [[.upsert_trophies()]] - `method` [EXTRACTED]
 - [[Recupera trofei ufficiali PSN con nomi multilingua e li salva nel DB.]] - `rationale_for` [EXTRACTED]
 - [[psn_trophy_fetcher.py]] - `contains` [EXTRACTED]
-- [[psn_trophy_fetcher.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/PSN_Trophy_Fetcher
+#graphify/code #graphify/EXTRACTED #community/Community_17

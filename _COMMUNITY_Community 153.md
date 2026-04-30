@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 153
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[AppLayout()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\layout\AppLayout.jsx
-- [[AppLayout.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\layout\AppLayout.jsx
-- [[AppLayout.jsx_1]] - code - il-platinatore-ai\frontend\src\components\layout\AppLayout.jsx
+- [[GamificationPopup()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\gamification\GamificationPopup.jsx
+- [[GamificationPopup.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\gamification\GamificationPopup.jsx
 
 ## Live Query (requires Dataview plugin)
 

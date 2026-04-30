@@ -16,6 +16,5 @@ tags:
 - [[.test_empty_guide_scores_low()]] - `method` [EXTRACTED]
 - [[.test_returns_float_two_decimals()]] - `method` [EXTRACTED]
 - [[test_transformer.py]] - `contains` [EXTRACTED]
-- [[test_transformer.py_1]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_39

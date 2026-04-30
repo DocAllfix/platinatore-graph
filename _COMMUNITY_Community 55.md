@@ -1,24 +1,23 @@
 ---
 type: community
-cohesion: 0.31
-members: 9
+cohesion: 0.50
+members: 8
 ---
 
 # Community 55
 
-**Cohesion:** 0.31 - loosely connected
-**Members:** 9 nodes
+**Cohesion:** 0.50 - moderately connected
+**Members:** 8 nodes
 
 ## Members
-- [[Multer memoryStorage + magic-bytes pipeline]] - code - il-platinatore-ai/backend/src/routes/uploads.routes.ts
-- [[Phase 21.x — Avatar uploads + game stats]] - code - il-platinatore-ai/backend/src/routes/index.ts
-- [[assertPathSafe (path traversal defense)]] - code - il-platinatore-ai/backend/src/services/avatar.service.ts
-- [[avatarLimiter (1024h per user)]] - code - il-platinatore-ai/backend/src/routes/uploads.routes.ts
-- [[detectImageType (PNGJPEGWEBP magic bytes)]] - code - il-platinatore-ai/backend/src/services/avatar.service.ts
-- [[guideRatingsRouter (GET apiguide-ratings)]] - code - il-platinatore-ai/backend/src/routes/guideRatings.routes.ts
-- [[rootRouter (Express mount table)]] - code - il-platinatore-ai/backend/src/routes/index.ts
-- [[uploadAvatar service (8-step pipeline)]] - code - il-platinatore-ai/backend/src/services/avatar.service.ts
-- [[uploadsRouter (POST apiuploadsavatar)]] - code - il-platinatore-ai/backend/src/routes/uploads.routes.ts
+- [[detectLanguage()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\query.normalizer.ts
+- [[extractGame()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\query.normalizer.ts
+- [[extractGameWithCandidates()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\query.normalizer.ts
+- [[extractTopicHint()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\query.normalizer.ts
+- [[extractTrophy()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\query.normalizer.ts
+- [[looksLikeTrophyQuery()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\query.normalizer.ts
+- [[normalizeQuery()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\query.normalizer.ts
+- [[query.normalizer.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\query.normalizer.ts
 
 ## Live Query (requires Dataview plugin)
 

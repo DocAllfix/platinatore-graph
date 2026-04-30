@@ -1,20 +1,20 @@
 ---
 type: community
-cohesion: 0.50
+cohesion: 0.40
 members: 5
 ---
 
 # Community 80
 
-**Cohesion:** 0.50 - moderately connected
+**Cohesion:** 0.40 - moderately connected
 **Members:** 5 nodes
 
 ## Members
-- [[buildPayload()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.ts
-- [[makeDraft()_2]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.test.ts
-- [[notification.service.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.test.ts
-- [[notification.service.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.ts
-- [[notifyNewDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.ts
+- [[Chiude la connessione Redis. Da chiamare allo shutdown.]] - rationale - harvester\src\config\redis_client.py
+- [[Verifica la connessione Redis con PING.]] - rationale - harvester\src\config\redis_client.py
+- [[close_redis()]] - code - harvester\src\config\redis_client.py
+- [[redis_client.py]] - code - harvester\src\config\redis_client.py
+- [[test_redis_connection()]] - code - harvester\src\config\redis_client.py
 
 ## Live Query (requires Dataview plugin)
 

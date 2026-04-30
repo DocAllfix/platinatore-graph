@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[postcss.config.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\postcss.config.js
+- [[rating.service.test.ts_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\rating.service.test.ts
 
 ## Live Query (requires Dataview plugin)
 

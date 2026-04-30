@@ -1,26 +1,18 @@
 ---
-source_file: "harvester\scripts\test_single_game.py"
+source_file: "harvester\scripts\run_trophy_guides_top20.py"
 type: "code"
-community: "Single Game Test Script"
-location: "L255"
+community: "Community 14"
+location: "L676"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Single_Game_Test_Script
+  - community/Community_14
 ---
 
 # main()
 
 ## Connections
-- [[step1_init()]] - `calls` [EXTRACTED]
-- [[step2_collect()]] - `calls` [EXTRACTED]
-- [[step3_transform()]] - `calls` [EXTRACTED]
-- [[step4_quality_and_chunk()]] - `calls` [EXTRACTED]
-- [[step5_embed()]] - `calls` [EXTRACTED]
-- [[step6_upsert()]] - `calls` [EXTRACTED]
-- [[step7_insert_embeddings()]] - `calls` [EXTRACTED]
-- [[step8_pgvector_search()]] - `calls` [EXTRACTED]
-- [[test_single_game.py]] - `contains` [EXTRACTED]
-- [[test_single_game.py_1]] - `contains` [EXTRACTED]
+- [[_run()_2]] - `calls` [EXTRACTED]
+- [[run_trophy_guides_top20.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Single_Game_Test_Script
+#graphify/code #graphify/EXTRACTED #community/Community_14

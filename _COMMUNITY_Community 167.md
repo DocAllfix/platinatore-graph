@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 167
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[Toaster()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\toaster.jsx
-- [[toaster.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\toaster.jsx
-- [[toaster.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\toaster.jsx
+- [[carousel.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\carousel.jsx
+- [[useCarousel()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\carousel.jsx
 
 ## Live Query (requires Dataview plugin)
 

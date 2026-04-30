@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[guideRequestTracker.model.ts]] - code - il-platinatore-ai\backend\src\models\guideRequestTracker.model.ts
+- [[env.ts_1]] - code - il-platinatore-ai\scraper\src\config\env.ts
 
 ## Live Query (requires Dataview plugin)
 

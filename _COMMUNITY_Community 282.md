@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[game_name estratto dallo slug game{slug}.]] - rationale - harvester\tests\test_collectors.py
+- [[HTML valido con .wiki-article → dict con tutti i campi richiesti.]] - rationale - harvester\tests\test_collectors.py
 
 ## Live Query (requires Dataview plugin)
 

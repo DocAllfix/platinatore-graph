@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\scripts\test_single_game.py"
 type: "rationale"
-community: "Single Game Test Script"
+community: "Community 23"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Single_Game_Test_Script
+  - community/Community_23
 ---
 
 # End-to-end pipeline test — UN singolo gioco reale.  Valida l'intera pipeline: co
 
 ## Connections
 - [[test_single_game.py]] - `rationale_for` [EXTRACTED]
-- [[test_single_game.py_1]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Single_Game_Test_Script
+#graphify/rationale #graphify/EXTRACTED #community/Community_23

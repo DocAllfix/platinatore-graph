@@ -1,19 +1,18 @@
 ---
 type: community
 cohesion: 0.67
-members: 4
+members: 3
 ---
 
 # Community 101
 
 **Cohesion:** 0.67 - moderately connected
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[ResizableHandle()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\resizable.jsx
-- [[ResizablePanelGroup()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\resizable.jsx
-- [[resizable.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\resizable.jsx
-- [[resizable.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\resizable.jsx
+- [[ctx()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\llm.service.test.ts
+- [[llm.service.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\llm.service.test.ts
+- [[stubResponse()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\llm.service.test.ts
 
 ## Live Query (requires Dataview plugin)
 

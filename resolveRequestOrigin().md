@@ -1,19 +1,18 @@
 ---
-source_file: "backend\src\middleware\auth.middleware.ts"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\middleware\auth.middleware.ts"
 type: "code"
-community: "Community 40"
-location: "L129"
+community: "Community 32"
+location: "L192"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_40
+  - community/Community_32
 ---
 
 # resolveRequestOrigin()
 
 ## Connections
 - [[auth.middleware.ts]] - `contains` [EXTRACTED]
-- [[auth.middleware.ts_1]] - `contains` [EXTRACTED]
 - [[csrfProtection()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_40
+#graphify/code #graphify/EXTRACTED #community/Community_32

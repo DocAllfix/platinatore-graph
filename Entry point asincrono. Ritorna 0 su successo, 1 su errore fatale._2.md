@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\psn_seed.py"
 type: "rationale"
-community: "Community 74"
+community: "Community 82"
 location: "L35"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_74
+  - community/Community_82
 ---
 
 # Entry point asincrono. Ritorna 0 su successo, 1 su errore fatale.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_run()_4]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_74
+#graphify/rationale #graphify/EXTRACTED #community/Community_82

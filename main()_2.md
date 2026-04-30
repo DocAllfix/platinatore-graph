@@ -1,18 +1,18 @@
 ---
-source_file: "harvester\scripts\generate_expanded_seed.py"
+source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\re-embed-pending.ts"
 type: "code"
-community: "Community 106"
-location: "L146"
+community: "Community 85"
+location: "L69"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_106
+  - community/Community_85
 ---
 
 # main()
 
 ## Connections
-- [[generate_expanded_seed.py]] - `contains` [EXTRACTED]
-- [[generate_expanded_seed.py_1]] - `contains` [EXTRACTED]
+- [[enqueuePendingGuides()]] - `calls` [EXTRACTED]
+- [[re-embed-pending.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_106
+#graphify/code #graphify/EXTRACTED #community/Community_85

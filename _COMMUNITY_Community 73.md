@@ -1,21 +1,20 @@
 ---
 type: community
-cohesion: 0.53
-members: 6
+cohesion: 0.40
+members: 5
 ---
 
 # Community 73
 
-**Cohesion:** 0.53 - moderately connected
-**Members:** 6 nodes
+**Cohesion:** 0.40 - moderately connected
+**Members:** 5 nodes
 
 ## Members
-- [[Chunker — split di una guida in chunk da max_tokens con overlap.  Stima token =]] - rationale - harvester\src\injector\chunker.py
-- [[Split markdown guide in chunk con prefisso titolo e overlap tra chunk consecutiv]] - rationale - harvester\src\injector\chunker.py
-- [[_estimate_tokens()]] - code - harvester\src\injector\chunker.py
-- [[chunk_content()]] - code - harvester\src\injector\chunker.py
-- [[chunker.py]] - code - harvester\src\injector\chunker.py
-- [[chunker.py_1]] - code - il-platinatore-ai\harvester\src\injector\chunker.py
+- [[buildSetClause()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.ts
+- [[guideDrafts.model.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.test.ts
+- [[guideDrafts.model.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.ts
+- [[makeDraftRow()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.test.ts
+- [[pgResult()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.test.ts
 
 ## Live Query (requires Dataview plugin)
 

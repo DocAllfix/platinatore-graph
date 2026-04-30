@@ -1,20 +1,20 @@
 ---
 type: community
-cohesion: 0.40
+cohesion: 0.50
 members: 5
 ---
 
 # Community 81
 
-**Cohesion:** 0.40 - moderately connected
+**Cohesion:** 0.50 - moderately connected
 **Members:** 5 nodes
 
 ## Members
-- [[applyRankingBoost()]] - code - il-platinatore-ai\backend\src\services\rag.fusion.ts
-- [[assembleContext()]] - code - il-platinatore-ai\backend\src\services\rag.fusion.ts
-- [[classifyMatch()]] - code - il-platinatore-ai\backend\src\services\rag.fusion.ts
-- [[rag.fusion.ts]] - code - il-platinatore-ai\backend\src\services\rag.fusion.ts
-- [[reciprocalRankFusion()]] - code - il-platinatore-ai\backend\src\services\rag.fusion.ts
+- [[Chunker — split di una guida in chunk da max_tokens con overlap.  Stima token =]] - rationale - harvester\src\injector\chunker.py
+- [[Split markdown guide in chunk con prefisso titolo e overlap tra chunk consecutiv]] - rationale - harvester\src\injector\chunker.py
+- [[_estimate_tokens()]] - code - harvester\src\injector\chunker.py
+- [[chunk_content()]] - code - harvester\src\injector\chunker.py
+- [[chunker.py]] - code - harvester\src\injector\chunker.py
 
 ## Live Query (requires Dataview plugin)
 

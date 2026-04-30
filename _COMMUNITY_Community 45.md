@@ -1,26 +1,25 @@
 ---
 type: community
-cohesion: 0.35
-members: 11
+cohesion: 0.40
+members: 10
 ---
 
 # Community 45
 
-**Cohesion:** 0.35 - loosely connected
-**Members:** 11 nodes
+**Cohesion:** 0.40 - moderately connected
+**Members:** 10 nodes
 
 ## Members
-- [[Entry point asincrono. Ritorna 0 su successo, 1 su errore fatale._1]] - rationale - harvester\src\orchestrator\igdb_seed.py
-- [[Esegue PsnGameFinder + PsnTrophyFetcher per giochi senza trofei PSN.      Identi]] - rationale - harvester\src\orchestrator\igdb_seed.py
-- [[Fetcha achievement Steam per giochi con steam_appid senza achievement.]] - rationale - harvester\src\orchestrator\igdb_seed.py
-- [[_parse_args()]] - code - harvester\src\orchestrator\igdb_seed.py
-- [[_run()_3]] - code - harvester\src\orchestrator\igdb_seed.py
-- [[_run_psn_trophies()]] - code - harvester\src\orchestrator\igdb_seed.py
-- [[_run_steam_achievements()]] - code - harvester\src\orchestrator\igdb_seed.py
-- [[igdb_seed — pipeline completa IGDB discovery + PSN trofei + Steam achievements.]] - rationale - harvester\src\orchestrator\igdb_seed.py
-- [[igdb_seed.py]] - code - harvester\src\orchestrator\igdb_seed.py
-- [[igdb_seed.py_1]] - code - il-platinatore-ai\harvester\src\orchestrator\igdb_seed.py
-- [[main()_9]] - code - harvester\src\orchestrator\igdb_seed.py
+- [[assembleContext()_1]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[buildQueries()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[cacheKey()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[callSerpApi()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[emptyResult()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[enforceDomainRateLimit()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[fetchHtml()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[hostOf()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[scrapeForGuide()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[scraping.service.ts]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
 
 ## Live Query (requires Dataview plugin)
 

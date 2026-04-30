@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[eslint.config.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\eslint.config.js
+- [[setup.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\setup.ts
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_psn_fetcher.py"
 type: "rationale"
-community: "Guide Search Collector"
+community: "Community 7"
 location: "L197"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Guide_Search_Collector
+  - community/Community_7
 ---
 
 # upsert_trophies() con lista vuota ritorna 0 senza chiamare execute.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.test_empty_list_returns_zero()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Guide_Search_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Community_7

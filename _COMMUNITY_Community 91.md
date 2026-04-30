@@ -1,20 +1,19 @@
 ---
 type: community
-cohesion: 0.40
-members: 5
+cohesion: 0.50
+members: 4
 ---
 
 # Community 91
 
-**Cohesion:** 0.40 - moderately connected
-**Members:** 5 nodes
+**Cohesion:** 0.50 - moderately connected
+**Members:** 4 nodes
 
 ## Members
-- [[generateGuide()]] - code - il-platinatore-ai\backend\src\services\llm.service.ts
-- [[getBreakerState()]] - code - il-platinatore-ai\backend\src\services\llm.service.ts
-- [[llm.service.ts]] - code - il-platinatore-ai\backend\src\services\llm.service.ts
-- [[previewPrompt()]] - code - il-platinatore-ai\backend\src\services\llm.service.ts
-- [[translateGuide()]] - code - il-platinatore-ai\backend\src\services\llm.service.ts
+- [[auth.service.test.ts_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\auth.service.test.ts
+- [[cleanupTestUsers()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\auth.service.test.ts
+- [[deleteUserByEmail()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\auth.service.test.ts
+- [[uniqueEmail()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\auth.service.test.ts
 
 ## Live Query (requires Dataview plugin)
 

@@ -10,14 +10,14 @@ members: 8
 **Members:** 8 nodes
 
 ## Members
-- [[assertPathSafe()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
-- [[avatar.service.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.test.ts
-- [[avatar.service.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
-- [[detectImageType()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
-- [[ensureAvatarDir()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
-- [[makeUser()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.test.ts
-- [[safeUnlink()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
-- [[uploadAvatar()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
+- [[_clearFromRemoveQueue()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
+- [[addToRemoveQueue()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
+- [[dispatch()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
+- [[genId()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
+- [[reducer()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
+- [[toast()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
+- [[use-toast.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
+- [[useToast()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
 
 ## Live Query (requires Dataview plugin)
 

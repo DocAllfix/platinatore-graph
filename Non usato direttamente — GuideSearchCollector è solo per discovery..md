@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\guide_search.py"
 type: "rationale"
-community: "LLM Synthesizer"
+community: "Community 8"
 location: "L259"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/LLM_Synthesizer
+  - community/Community_8
 ---
 
 # Non usato direttamente — GuideSearchCollector è solo per discovery.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.extract()_3]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/LLM_Synthesizer
+#graphify/rationale #graphify/EXTRACTED #community/Community_8

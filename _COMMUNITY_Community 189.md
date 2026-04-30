@@ -10,8 +10,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Chat()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Chat.jsx
-- [[Chat.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Chat.jsx
+- [[System prompt per Gemini estrazione fatti + sintesi guide.  NON modificare senz]] - rationale - harvester\src\transformer\prompts.py
+- [[prompts.py]] - code - harvester\src\transformer\prompts.py
 
 ## Live Query (requires Dataview plugin)
 

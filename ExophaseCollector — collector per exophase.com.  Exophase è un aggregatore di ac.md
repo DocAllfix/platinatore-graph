@@ -13,6 +13,5 @@ tags:
 
 ## Connections
 - [[exophase.py]] - `rationale_for` [EXTRACTED]
-- [[exophase.py_1]] - `rationale_for` [EXTRACTED]
 
 #graphify/rationale #graphify/EXTRACTED #community/Community_35

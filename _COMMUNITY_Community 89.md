@@ -1,20 +1,19 @@
 ---
 type: community
-cohesion: 0.50
-members: 5
+cohesion: 0.67
+members: 4
 ---
 
 # Community 89
 
-**Cohesion:** 0.50 - moderately connected
-**Members:** 5 nodes
+**Cohesion:** 0.67 - moderately connected
+**Members:** 4 nodes
 
 ## Members
-- [[compositeScore()]] - code - il-platinatore-ai\scraper\src\ranker\source.ranker.ts
-- [[contentQualityScore()]] - code - il-platinatore-ai\scraper\src\ranker\source.ranker.ts
-- [[getReliabilityScore()]] - code - il-platinatore-ai\scraper\src\ranker\source.ranker.ts
-- [[rankSources()]] - code - il-platinatore-ai\scraper\src\ranker\source.ranker.ts
-- [[source.ranker.ts]] - code - il-platinatore-ai\scraper\src\ranker\source.ranker.ts
+- [[extractPsnTrophyIds()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\psn.validator.ts
+- [[psn.validator.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\psn.validator.test.ts
+- [[psn.validator.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\psn.validator.ts
+- [[validatePsnTrophyIdsInContent()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\psn.validator.ts
 
 ## Live Query (requires Dataview plugin)
 

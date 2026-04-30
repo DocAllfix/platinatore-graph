@@ -10,8 +10,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[cheerio.extractor.ts]] - code - il-platinatore-ai\scraper\src\extractors\cheerio.extractor.ts
-- [[extractWithCheerio()]] - code - il-platinatore-ai\scraper\src\extractors\cheerio.extractor.ts
+- [[content.extractor.ts]] - code - il-platinatore-ai\scraper\src\extractors\content.extractor.ts
+- [[extractContent()]] - code - il-platinatore-ai\scraper\src\extractors\content.extractor.ts
 
 ## Live Query (requires Dataview plugin)
 

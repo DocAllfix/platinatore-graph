@@ -13,6 +13,5 @@ tags:
 
 ## Connections
 - [[test_new_collectors.py]] - `contains` [EXTRACTED]
-- [[test_new_collectors.py_1]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_38

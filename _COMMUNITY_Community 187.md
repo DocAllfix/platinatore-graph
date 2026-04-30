@@ -10,8 +10,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[ratings.model.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\ratings.model.test.ts
-- [[ratings.model.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\ratings.model.ts
+- [[ProfileSettings()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\ProfileSettings.jsx
+- [[ProfileSettings.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\ProfileSettings.jsx
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\transformer\prompts.py"
 type: "code"
-community: "Community 182"
+community: "Community 189"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_182
+  - community/Community_189
 ---
 
 # prompts.py
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[System prompt per Gemini estrazione fatti + sintesi guide.  NON modificare senz]] - `rationale_for` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_182
+#graphify/code #graphify/EXTRACTED #community/Community_189

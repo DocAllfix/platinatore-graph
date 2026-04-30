@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\utils\index.ts"
 type: "code"
-community: "Community 181"
+community: "Community 188"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_181
+  - community/Community_188
 ---
 
 # index.ts
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[createPageUrl()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_181
+#graphify/code #graphify/EXTRACTED #community/Community_188

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\trophy_section_extractor.py"
 type: "code"
-community: "Trophy Section Extractor"
+community: "Community 20"
 location: "L100"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Trophy_Section_Extractor
+  - community/Community_20
 ---
 
 # _extract_sections_by_anchors()
@@ -17,6 +17,5 @@ tags:
 - [[_is_trophy_anchor()]] - `calls` [EXTRACTED]
 - [[extract_trophy_sections()]] - `calls` [EXTRACTED]
 - [[trophy_section_extractor.py]] - `contains` [EXTRACTED]
-- [[trophy_section_extractor.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Trophy_Section_Extractor
+#graphify/code #graphify/EXTRACTED #community/Community_20

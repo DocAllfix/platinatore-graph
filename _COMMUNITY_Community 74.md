@@ -1,21 +1,20 @@
 ---
 type: community
-cohesion: 0.53
-members: 6
+cohesion: 0.40
+members: 5
 ---
 
 # Community 74
 
-**Cohesion:** 0.53 - moderately connected
-**Members:** 6 nodes
+**Cohesion:** 0.40 - moderately connected
+**Members:** 5 nodes
 
 ## Members
-- [[Entry point asincrono. Ritorna 0 su successo, 1 su errore fatale._2]] - rationale - harvester\src\orchestrator\psn_seed.py
-- [[_run()_4]] - code - harvester\src\orchestrator\psn_seed.py
-- [[main()_11]] - code - harvester\src\orchestrator\psn_seed.py
-- [[psn_seed — pipeline completa trofei PSN comm_id discovery + fetch multilingua.]] - rationale - harvester\src\orchestrator\psn_seed.py
-- [[psn_seed.py]] - code - harvester\src\orchestrator\psn_seed.py
-- [[psn_seed.py_1]] - code - il-platinatore-ai\harvester\src\orchestrator\psn_seed.py
+- [[cleanup.scheduler.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\schedulers\cleanup.scheduler.test.ts
+- [[cleanup.scheduler.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\schedulers\cleanup.scheduler.ts
+- [[deleteOldQueryLog()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\schedulers\cleanup.scheduler.ts
+- [[deleteOldTerminalDrafts()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\schedulers\cleanup.scheduler.ts
+- [[startCleanupScheduler()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\schedulers\cleanup.scheduler.ts
 
 ## Live Query (requires Dataview plugin)
 

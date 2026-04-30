@@ -1,23 +1,23 @@
 ---
 type: community
-cohesion: 0.46
+cohesion: 0.29
 members: 8
 ---
 
 # Community 57
 
-**Cohesion:** 0.46 - moderately connected
+**Cohesion:** 0.29 - loosely connected
 **Members:** 8 nodes
 
 ## Members
-- [[clearAuthTokens()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
-- [[client.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
-- [[client.js_1]] - code - il-platinatore-ai\frontend\src\api\client.js
-- [[doRefresh()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
-- [[hasAccessToken()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
-- [[parseOrThrow()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
-- [[request()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
-- [[setAuthTokens()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
+- [[.load_seed_file()]] - code - harvester\src\discovery\seed_loader.py
+- [[.seed_database()]] - code - harvester\src\discovery\seed_loader.py
+- [[Legge e valida un file JSON seed. Ritorna la lista di giochi.]] - rationale - harvester\src\discovery\seed_loader.py
+- [[Legge file JSON seed e upserta giochi nel DB con alias.]] - rationale - harvester\src\discovery\seed_loader.py
+- [[SeedLoader]] - code - harvester\src\discovery\seed_loader.py
+- [[SeedLoader — carica un file JSON seed e popola il catalogo giochi nel DB.  Forma]] - rationale - harvester\src\discovery\seed_loader.py
+- [[Upserta tutti i giochi del seed file nel DB.          Per ogni gioco         -]] - rationale - harvester\src\discovery\seed_loader.py
+- [[seed_loader.py]] - code - harvester\src\discovery\seed_loader.py
 
 ## Live Query (requires Dataview plugin)
 

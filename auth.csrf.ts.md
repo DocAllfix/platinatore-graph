@@ -1,12 +1,12 @@
 ---
 source_file: "backend\src\services\auth.csrf.ts"
 type: "code"
-community: "Community 79"
+community: "Community 86"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_79
+  - community/Community_86
 ---
 
 # auth.csrf.ts
@@ -16,4 +16,4 @@ tags:
 - [[makeCsrfToken()]] - `contains` [EXTRACTED]
 - [[verifyCsrfToken()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_79
+#graphify/code #graphify/EXTRACTED #community/Community_86

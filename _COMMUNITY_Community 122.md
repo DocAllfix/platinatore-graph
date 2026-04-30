@@ -10,9 +10,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[validate()]] - code - backend\src\middleware\validate.ts
-- [[validate.ts]] - code - backend\src\middleware\validate.ts
-- [[validate.ts_1]] - code - il-platinatore-ai\backend\src\middleware\validate.ts
+- [[Settings con valori di test, senza connessioni reali a DB o Redis.     Utile per]] - rationale - harvester\tests\conftest.py
+- [[conftest.py]] - code - harvester\tests\conftest.py
+- [[mock_settings()]] - code - harvester\tests\conftest.py
 
 ## Live Query (requires Dataview plugin)
 

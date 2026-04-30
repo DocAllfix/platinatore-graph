@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\base.py"
 type: "rationale"
-community: "Test: PSN Fetcher"
+community: "Community 6"
 location: "L177"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Test:_PSN_Fetcher
+  - community/Community_6
 ---
 
 # Scarica una pagina rispettando rate limit globale e per-host.          Ritorna i
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.fetch()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Test:_PSN_Fetcher
+#graphify/rationale #graphify/EXTRACTED #community/Community_6

@@ -1,14 +1,14 @@
 ---
 source_file: "harvester\src\discovery\igdb.py"
 type: "rationale"
-community: "Community 255"
+community: "Community 257"
 location: "L591"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_255
+  - community/Community_257
 ---
 
 # Mappa gli ID piattaforma IGDB ai nomi leggibili.
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_255
+#graphify/rationale #graphify/EXTRACTED #community/Community_257

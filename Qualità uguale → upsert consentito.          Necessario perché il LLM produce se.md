@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_injector.py"
 type: "rationale"
-community: "Test: Injector"
+community: "Community 15"
 location: "L82"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Test:_Injector
+  - community/Community_15
 ---
 
 # Qualità uguale → upsert consentito.          Necessario perché il LLM produce se
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.test_equal_quality_does_upsert()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Test:_Injector
+#graphify/rationale #graphify/EXTRACTED #community/Community_15

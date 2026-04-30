@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\scripts\test_single_game.py"
 type: "rationale"
-community: "Single Game Test Script"
+community: "Community 23"
 location: "L45"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Single_Game_Test_Script
+  - community/Community_23
 ---
 
 # Converte una lista float nel literal pgvector '[f1,f2,...]'.      Usato per INSE
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_vec_to_pg()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Single_Game_Test_Script
+#graphify/rationale #graphify/EXTRACTED #community/Community_23

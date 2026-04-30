@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[fetch() ritorna None se il server risponde 429 (rate limited).]] - rationale - harvester\tests\test_base_collector.py
+- [[La prima richiesta (last_request_time=0) non deve attendere.]] - rationale - harvester\tests\test_base_collector.py
 
 ## Live Query (requires Dataview plugin)
 

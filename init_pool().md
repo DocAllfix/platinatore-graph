@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\config\db.py"
 type: "code"
-community: "Community 31"
+community: "Community 29"
 location: "L18"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_31
+  - community/Community_29
 ---
 
 # init_pool()
@@ -15,6 +15,5 @@ tags:
 - [[Apre il connection pool. Da chiamare all'avvio dell'orchestratore.]] - `rationale_for` [EXTRACTED]
 - [[_get_pool()]] - `calls` [EXTRACTED]
 - [[db.py]] - `contains` [EXTRACTED]
-- [[db.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_31
+#graphify/code #graphify/EXTRACTED #community/Community_29

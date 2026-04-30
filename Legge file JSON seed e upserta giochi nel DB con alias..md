@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\seed_loader.py"
 type: "rationale"
-community: "Community 54"
+community: "Community 57"
 location: "L27"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_54
+  - community/Community_57
 ---
 
 # Legge file JSON seed e upserta giochi nel DB con alias.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[SeedLoader]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_54
+#graphify/rationale #graphify/EXTRACTED #community/Community_57

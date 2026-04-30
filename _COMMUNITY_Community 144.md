@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 144
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[GameStatsPanel()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\games\GameStatsPanel.jsx
-- [[GameStatsPanel.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\games\GameStatsPanel.jsx
-- [[GameStatsPanel.jsx_1]] - code - il-platinatore-ai\frontend\src\components\games\GameStatsPanel.jsx
+- [[ChatSidebar()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\ChatSidebar.jsx
+- [[ChatSidebar.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\ChatSidebar.jsx
 
 ## Live Query (requires Dataview plugin)
 

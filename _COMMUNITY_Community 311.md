@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[systemConfig.model.ts_1]] - code - il-platinatore-ai\backend\src\models\systemConfig.model.ts
+- [[T1.7 — statement_timeout 5s su query RAG]] - document - EXECUTION_TRACKER.md
 
 ## Live Query (requires Dataview plugin)
 

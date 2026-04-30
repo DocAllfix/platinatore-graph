@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\seed_loader.py"
 type: "code"
-community: "Community 54"
+community: "Community 57"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_54
+  - community/Community_57
 ---
 
 # seed_loader.py
@@ -15,4 +15,4 @@ tags:
 - [[SeedLoader]] - `contains` [EXTRACTED]
 - [[SeedLoader — carica un file JSON seed e popola il catalogo giochi nel DB.  Forma]] - `rationale_for` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_54
+#graphify/code #graphify/EXTRACTED #community/Community_57

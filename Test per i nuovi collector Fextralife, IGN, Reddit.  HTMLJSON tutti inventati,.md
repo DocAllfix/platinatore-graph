@@ -13,6 +13,5 @@ tags:
 
 ## Connections
 - [[test_new_collectors.py]] - `rationale_for` [EXTRACTED]
-- [[test_new_collectors.py_1]] - `rationale_for` [EXTRACTED]
 
 #graphify/rationale #graphify/EXTRACTED #community/Community_38

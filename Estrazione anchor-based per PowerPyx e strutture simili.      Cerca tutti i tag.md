@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\trophy_section_extractor.py"
 type: "rationale"
-community: "Trophy Section Extractor"
+community: "Community 20"
 location: "L101"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Trophy_Section_Extractor
+  - community/Community_20
 ---
 
 # Estrazione anchor-based per PowerPyx e strutture simili.      Cerca tutti i tag
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_extract_sections_by_anchors()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Trophy_Section_Extractor
+#graphify/rationale #graphify/EXTRACTED #community/Community_20

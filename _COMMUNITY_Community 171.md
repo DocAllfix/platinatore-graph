@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 171
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[useSearchHistory()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useSearchHistory.js
-- [[useSearchHistory.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useSearchHistory.js
-- [[useSearchHistory.js_1]] - code - il-platinatore-ai\frontend\src\hooks\useSearchHistory.js
+- [[Skeleton()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\skeleton.jsx
+- [[skeleton.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\skeleton.jsx
 
 ## Live Query (requires Dataview plugin)
 

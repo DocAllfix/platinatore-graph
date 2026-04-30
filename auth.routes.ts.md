@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\routes\auth.routes.ts"
 type: "code"
-community: "Auth Routes Helpers"
+community: "Community 19"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Auth_Routes_Helpers
+  - community/Community_19
 ---
 
 # auth.routes.ts
@@ -21,4 +21,4 @@ tags:
 - [[serializeUser()]] - `contains` [EXTRACTED]
 - [[setRefreshCookie()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Auth_Routes_Helpers
+#graphify/code #graphify/EXTRACTED #community/Community_19

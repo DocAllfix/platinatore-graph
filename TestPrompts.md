@@ -15,6 +15,5 @@ tags:
 - [[.test_fact_extraction_mentions_json_array()]] - `method` [EXTRACTED]
 - [[.test_synthesis_mentions_platinatore_and_english()]] - `method` [EXTRACTED]
 - [[test_transformer.py]] - `contains` [EXTRACTED]
-- [[test_transformer.py_1]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_39

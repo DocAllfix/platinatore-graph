@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[vite.config.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\vite.config.js
+- [[postcss.config.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\postcss.config.js
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,19 +1,18 @@
 ---
-source_file: "harvester\scripts\run_trophy_guides_top20.py"
+source_file: "harvester\scripts\run_steam_achievements_all.py"
 type: "code"
-community: "Top20 Trophy Guide Script"
-location: "L676"
+community: "Community 95"
+location: "L100"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Top20_Trophy_Guide_Script
+  - community/Community_95
 ---
 
 # main()
 
 ## Connections
-- [[_run()_2]] - `calls` [EXTRACTED]
-- [[run_trophy_guides_top20.py]] - `contains` [EXTRACTED]
-- [[run_trophy_guides_top20.py_1]] - `contains` [EXTRACTED]
+- [[_run()_1]] - `calls` [EXTRACTED]
+- [[run_steam_achievements_all.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Top20_Trophy_Guide_Script
+#graphify/code #graphify/EXTRACTED #community/Community_95

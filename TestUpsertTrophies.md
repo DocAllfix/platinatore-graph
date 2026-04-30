@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_psn_fetcher.py"
 type: "code"
-community: "Guide Search Collector"
+community: "Community 7"
 location: "L164"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Guide_Search_Collector
+  - community/Community_7
 ---
 
 # TestUpsertTrophies
@@ -16,6 +16,5 @@ tags:
 - [[.test_empty_list_returns_zero()]] - `method` [EXTRACTED]
 - [[.test_upsert_uses_name_en_as_name()]] - `method` [EXTRACTED]
 - [[test_psn_fetcher.py]] - `contains` [EXTRACTED]
-- [[test_psn_fetcher.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Guide_Search_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_7

@@ -15,6 +15,5 @@ tags:
 - [[.guide_url()]] - `calls` [EXTRACTED]
 - [[Slug per Exophase lowercase + trattini, apostrofi rimossi.]] - `rationale_for` [EXTRACTED]
 - [[exophase.py]] - `contains` [EXTRACTED]
-- [[exophase.py_1]] - `contains` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Community_35

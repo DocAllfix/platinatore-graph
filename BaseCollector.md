@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\base.py"
 type: "code"
-community: "Test: PSN Fetcher"
+community: "Community 6"
 location: "L70"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test:_PSN_Fetcher
+  - community/Community_6
 ---
 
 # BaseCollector
@@ -22,6 +22,5 @@ tags:
 - [[ABC]] - `inherits` [EXTRACTED]
 - [[Classe astratta da cui ereditano tutti i collector.      Sottoclassi DEVONO defi]] - `rationale_for` [EXTRACTED]
 - [[base.py]] - `contains` [EXTRACTED]
-- [[base.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test:_PSN_Fetcher
+#graphify/code #graphify/EXTRACTED #community/Community_6

@@ -1,27 +1,26 @@
 ---
 type: community
-cohesion: 0.41
-members: 12
+cohesion: 0.35
+members: 11
 ---
 
 # Community 40
 
-**Cohesion:** 0.41 - moderately connected
-**Members:** 12 nodes
+**Cohesion:** 0.35 - loosely connected
+**Members:** 11 nodes
 
 ## Members
-- [[auth.middleware.ts]] - code - backend\src\middleware\auth.middleware.ts
-- [[auth.middleware.ts_1]] - code - il-platinatore-ai\backend\src\middleware\auth.middleware.ts
-- [[cookieDomainOrUndef()]] - code - backend\src\middleware\auth.middleware.ts
-- [[csrfProtection()]] - code - backend\src\middleware\auth.middleware.ts
-- [[extractBearer()]] - code - backend\src\middleware\auth.middleware.ts
-- [[isOriginAllowed()]] - code - backend\src\middleware\auth.middleware.ts
-- [[isProd()]] - code - backend\src\middleware\auth.middleware.ts
-- [[optionalAuth()]] - code - backend\src\middleware\auth.middleware.ts
-- [[requireAuth()]] - code - backend\src\middleware\auth.middleware.ts
-- [[requireTier()]] - code - backend\src\middleware\auth.middleware.ts
-- [[resolveRequestOrigin()]] - code - backend\src\middleware\auth.middleware.ts
-- [[sessionMiddleware()]] - code - backend\src\middleware\auth.middleware.ts
+- [[B()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[D()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[Q()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[a()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[c()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[g()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[i()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[k()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[o()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[prettify.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[y()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 173
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[cn()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\utils.js
-- [[utils.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\utils.js
-- [[utils.js_1]] - code - il-platinatore-ai\frontend\src\lib\utils.js
+- [[Toaster()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\toaster.jsx
+- [[toaster.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\toaster.jsx
 
 ## Live Query (requires Dataview plugin)
 

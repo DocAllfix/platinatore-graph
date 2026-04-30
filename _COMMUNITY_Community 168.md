@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 168
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[use-mobile.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\use-mobile.jsx
-- [[use-mobile.jsx_1]] - code - il-platinatore-ai\frontend\src\hooks\use-mobile.jsx
-- [[useIsMobile()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\use-mobile.jsx
+- [[ContextMenuShortcut()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\context-menu.jsx
+- [[context-menu.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\context-menu.jsx
 
 ## Live Query (requires Dataview plugin)
 

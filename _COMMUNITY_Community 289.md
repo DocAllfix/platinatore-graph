@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Stesso URL + stesso hash → True (già processato).]] - rationale - harvester\tests\test_injector.py
+- [[fetch_games ritorna la lista di giochi parsata dal JSON IGDB.]] - rationale - harvester\tests\test_discovery.py
 
 ## Live Query (requires Dataview plugin)
 

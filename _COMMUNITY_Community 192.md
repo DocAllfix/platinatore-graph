@@ -10,8 +10,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[content.extractor.ts]] - code - il-platinatore-ai\scraper\src\extractors\content.extractor.ts
-- [[extractContent()]] - code - il-platinatore-ai\scraper\src\extractors\content.extractor.ts
+- [[extractWithReadability()]] - code - il-platinatore-ai\scraper\src\extractors\readability.extractor.ts
+- [[readability.extractor.ts]] - code - il-platinatore-ai\scraper\src\extractors\readability.extractor.ts
 
 ## Live Query (requires Dataview plugin)
 

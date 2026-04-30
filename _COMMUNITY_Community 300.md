@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[game_name estratto correttamente dallo slug URL.]] - rationale - harvester\tests\test_powerpyx_collector.py
+- [[HTML valido → dict con tutti i campi richiesti.]] - rationale - harvester\tests\test_powerpyx_collector.py
 
 ## Live Query (requires Dataview plugin)
 

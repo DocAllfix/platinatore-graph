@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\igdb_seed.py"
 type: "rationale"
-community: "Community 45"
+community: "Community 44"
 location: "L39"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_45
+  - community/Community_44
 ---
 
 # Entry point asincrono. Ritorna 0 su successo, 1 su errore fatale.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_run()_3]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_45
+#graphify/rationale #graphify/EXTRACTED #community/Community_44

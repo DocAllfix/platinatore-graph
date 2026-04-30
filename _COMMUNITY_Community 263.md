@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Se l'ultima richiesta è recente, _respect_delay aspetta la differenza.]] - rationale - harvester\tests\test_base_collector.py
+- [[__init__.py_6]] - code - harvester\src\orchestrator\__init__.py
 
 ## Live Query (requires Dataview plugin)
 

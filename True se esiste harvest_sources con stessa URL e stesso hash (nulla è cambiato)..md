@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\deduplicator.py"
 type: "rationale"
-community: "Community 44"
+community: "Test: Base Collector"
 location: "L52"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_44
+  - community/Test:_Base_Collector
 ---
 
 # True se esiste harvest_sources con stessa URL e stesso hash (nulla è cambiato).
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.source_already_processed()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_44
+#graphify/rationale #graphify/EXTRACTED #community/Test:_Base_Collector

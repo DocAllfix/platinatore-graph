@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\config\redis_client.py"
 type: "rationale"
-community: "Community 72"
+community: "Community 80"
 location: "L24"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_72
+  - community/Community_80
 ---
 
 # Verifica la connessione Redis con PING.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[test_redis_connection()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_72
+#graphify/rationale #graphify/EXTRACTED #community/Community_80

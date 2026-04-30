@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[La tabella trofei deve comparire nel raw_content come testo pipe-delimited.]] - rationale - harvester\tests\test_collectors.py
+- [[game_name estratto rimuovendo il prefisso numerico dallo slug.]] - rationale - harvester\tests\test_collectors.py
 
 ## Live Query (requires Dataview plugin)
 

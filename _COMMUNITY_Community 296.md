@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Se advisory lock non acquisito → ritorna subito con skipped_reason.]] - rationale - harvester\tests\test_pipeline.py
+- [[Se tutte le sorgenti sono già processate → skip.]] - rationale - harvester\tests\test_pipeline.py
 
 ## Live Query (requires Dataview plugin)
 

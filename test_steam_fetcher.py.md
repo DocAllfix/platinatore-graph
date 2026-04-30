@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_steam_fetcher.py"
 type: "code"
-community: "Test: Steam Fetcher"
+community: "Community 12"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test:_Steam_Fetcher
+  - community/Community_12
 ---
 
 # test_steam_fetcher.py
@@ -19,4 +19,4 @@ tags:
 - [[_make_schema_response()]] - `contains` [EXTRACTED]
 - [[_sample_achievement()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test:_Steam_Fetcher
+#graphify/code #graphify/EXTRACTED #community/Community_12

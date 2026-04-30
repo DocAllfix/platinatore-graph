@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[__init__.py]] - code - harvester\scripts\__init__.py
+- [[tooltip.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\tooltip.jsx
 
 ## Live Query (requires Dataview plugin)
 

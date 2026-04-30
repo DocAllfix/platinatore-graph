@@ -10,8 +10,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[env.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\config\env.ts
-- [[loadEnv()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\config\env.ts
+- [[Profile()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Profile.jsx
+- [[Profile.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Profile.jsx
 
 ## Live Query (requires Dataview plugin)
 

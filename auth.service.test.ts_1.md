@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\auth.service.test.ts"
 type: "code"
-community: "Community 94"
+community: "Community 91"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_94
+  - community/Community_91
 ---
 
 # auth.service.test.ts
@@ -16,4 +16,4 @@ tags:
 - [[deleteUserByEmail()]] - `contains` [EXTRACTED]
 - [[uniqueEmail()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_94
+#graphify/code #graphify/EXTRACTED #community/Community_91

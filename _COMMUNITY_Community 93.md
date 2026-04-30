@@ -1,19 +1,19 @@
 ---
 type: community
-cohesion: 0.67
+cohesion: 0.50
 members: 4
 ---
 
 # Community 93
 
-**Cohesion:** 0.67 - moderately connected
+**Cohesion:** 0.50 - moderately connected
 **Members:** 4 nodes
 
 ## Members
-- [[enqueuePendingGuides()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\re-embed-pending.ts
-- [[main()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\re-embed-pending.ts
-- [[re-embed-pending.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\re-embed-pending.test.ts
-- [[re-embed-pending.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\re-embed-pending.ts
+- [[ChartStyle()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\chart.jsx
+- [[chart.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\chart.jsx
+- [[getPayloadConfigFromPayload()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\chart.jsx
+- [[useChart()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\chart.jsx
 
 ## Live Query (requires Dataview plugin)
 

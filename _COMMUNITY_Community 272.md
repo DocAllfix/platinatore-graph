@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[La prima acquire per un host non deve aspettare.]] - rationale - harvester\tests\test_base_collector.py
+- [[_is_allowed ritorna True se robots.txt non è stato caricato (fail-open).]] - rationale - harvester\tests\test_base_collector.py
 
 ## Live Query (requires Dataview plugin)
 

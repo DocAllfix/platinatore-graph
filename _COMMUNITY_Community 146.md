@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 146
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[TrophyHelpPopover()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\games\TrophyHelpPopover.jsx
-- [[TrophyHelpPopover.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\games\TrophyHelpPopover.jsx
-- [[TrophyHelpPopover.jsx_1]] - code - il-platinatore-ai\frontend\src\components\games\TrophyHelpPopover.jsx
+- [[LoadingIndicator()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\LoadingIndicator.jsx
+- [[LoadingIndicator.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\LoadingIndicator.jsx
 
 ## Live Query (requires Dataview plugin)
 

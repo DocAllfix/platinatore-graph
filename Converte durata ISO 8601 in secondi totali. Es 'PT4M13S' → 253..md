@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\youtube.py"
 type: "rationale"
-community: "YouTube Collector"
+community: "Community 21"
 location: "L85"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/YouTube_Collector
+  - community/Community_21
 ---
 
 # Converte durata ISO 8601 in secondi totali. Es: 'PT4M13S' → 253.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_parse_duration()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/YouTube_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Community_21

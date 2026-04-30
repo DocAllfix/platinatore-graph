@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts"
 type: "code"
-community: "Community 56"
+community: "Community 51"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_56
+  - community/Community_51
 ---
 
 # avatar.service.ts
@@ -19,4 +19,4 @@ tags:
 - [[safeUnlink()]] - `contains` [EXTRACTED]
 - [[uploadAvatar()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_56
+#graphify/code #graphify/EXTRACTED #community/Community_51

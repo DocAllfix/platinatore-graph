@@ -10,9 +10,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[redis.ts]] - code - backend\src\config\redis.ts
-- [[redis.ts_1]] - code - il-platinatore-ai\backend\src\config\redis.ts
-- [[testRedisConnection()]] - code - backend\src\config\redis.ts
+- [[Genera expanded_seed.json dai giochi PS5PS4 più rilevanti nel DB.  Criteri prio]] - rationale - harvester\scripts\generate_expanded_seed.py
+- [[generate_expanded_seed.py]] - code - harvester\scripts\generate_expanded_seed.py
+- [[main()_3]] - code - harvester\scripts\generate_expanded_seed.py
 
 ## Live Query (requires Dataview plugin)
 

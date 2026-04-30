@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 185
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[llm.circuitBreaker.test.ts]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.test.ts
-- [[makeBreaker()]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.test.ts
-- [[makeClock()]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.test.ts
+- [[Pricing()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Pricing.jsx
+- [[Pricing.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Pricing.jsx
 
 ## Live Query (requires Dataview plugin)
 

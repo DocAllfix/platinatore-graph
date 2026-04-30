@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 154
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[ChatLayout()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\layout\ChatLayout.jsx
-- [[ChatLayout.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\layout\ChatLayout.jsx
-- [[ChatLayout.jsx_1]] - code - il-platinatore-ai\frontend\src\components\layout\ChatLayout.jsx
+- [[XPBar()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\gamification\XPBar.jsx
+- [[XPBar.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\gamification\XPBar.jsx
 
 ## Live Query (requires Dataview plugin)
 

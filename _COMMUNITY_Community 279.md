@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Stesso input → stesso content_hash.]] - rationale - harvester\tests\test_collectors.py
+- [[Script, style, sidebar, footer, commenti non devono comparire nel testo.]] - rationale - harvester\tests\test_collectors.py
 
 ## Live Query (requires Dataview plugin)
 

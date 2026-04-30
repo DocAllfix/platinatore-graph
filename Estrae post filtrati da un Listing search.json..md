@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\reddit.py"
 type: "rationale"
-community: "Reddit Collector"
+community: "Community 26"
 location: "L183"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Reddit_Collector
+  - community/Community_26
 ---
 
 # Estrae post filtrati da un Listing search.json.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[._extract_posts_from_listing()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Reddit_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Community_26

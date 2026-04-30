@@ -1,20 +1,25 @@
 ---
-source_file: "harvester\src\orchestrator\igdb_seed.py"
+source_file: "harvester\scripts\test_single_game.py"
 type: "code"
-community: "Community 45"
-location: "L223"
+community: "Community 23"
+location: "L255"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_45
+  - community/Community_23
 ---
 
 # main()
 
 ## Connections
-- [[_parse_args()]] - `calls` [EXTRACTED]
-- [[_run()_3]] - `calls` [EXTRACTED]
-- [[igdb_seed.py]] - `contains` [EXTRACTED]
-- [[igdb_seed.py_1]] - `contains` [EXTRACTED]
+- [[step1_init()]] - `calls` [EXTRACTED]
+- [[step2_collect()]] - `calls` [EXTRACTED]
+- [[step3_transform()]] - `calls` [EXTRACTED]
+- [[step4_quality_and_chunk()]] - `calls` [EXTRACTED]
+- [[step5_embed()]] - `calls` [EXTRACTED]
+- [[step6_upsert()]] - `calls` [EXTRACTED]
+- [[step7_insert_embeddings()]] - `calls` [EXTRACTED]
+- [[step8_pgvector_search()]] - `calls` [EXTRACTED]
+- [[test_single_game.py]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_45
+#graphify/code #graphify/EXTRACTED #community/Community_23

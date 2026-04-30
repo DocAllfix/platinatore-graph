@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 130
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[ctx()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\llm.service.test.ts
-- [[llm.service.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\llm.service.test.ts
-- [[stubResponse()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\llm.service.test.ts
+- [[buildSetClause()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\games.model.ts
+- [[games.model.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\games.model.ts
 
 ## Live Query (requires Dataview plugin)
 

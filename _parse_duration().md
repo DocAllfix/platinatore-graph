@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\youtube.py"
 type: "code"
-community: "YouTube Collector"
+community: "Community 21"
 location: "L84"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/YouTube_Collector
+  - community/Community_21
 ---
 
 # _parse_duration()
@@ -15,6 +15,5 @@ tags:
 - [[.search_videos()]] - `calls` [EXTRACTED]
 - [[Converte durata ISO 8601 in secondi totali. Es 'PT4M13S' → 253.]] - `rationale_for` [EXTRACTED]
 - [[youtube.py]] - `contains` [EXTRACTED]
-- [[youtube.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/YouTube_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_21

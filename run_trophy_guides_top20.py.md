@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\scripts\run_trophy_guides_top20.py"
 type: "code"
-community: "Top20 Trophy Guide Script"
+community: "Community 14"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Top20_Trophy_Guide_Script
+  - community/Community_14
 ---
 
 # run_trophy_guides_top20.py
@@ -23,6 +23,6 @@ tags:
 - [[_run()_2]] - `contains` [EXTRACTED]
 - [[_slugify()]] - `contains` [EXTRACTED]
 - [[_url_hash()]] - `contains` [EXTRACTED]
-- [[main()_7]] - `contains` [EXTRACTED]
+- [[main()_8]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Top20_Trophy_Guide_Script
+#graphify/code #graphify/EXTRACTED #community/Community_14

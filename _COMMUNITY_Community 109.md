@@ -1,19 +1,18 @@
 ---
 type: community
-cohesion: 0.50
-members: 4
+cohesion: 0.67
+members: 3
 ---
 
 # Community 109
 
-**Cohesion:** 0.50 - moderately connected
-**Members:** 4 nodes
+**Cohesion:** 0.67 - moderately connected
+**Members:** 3 nodes
 
 ## Members
-- [[BaseSettings]] - code
-- [[Settings]] - code - harvester\src\config\settings.py
-- [[settings.py]] - code - harvester\src\config\settings.py
-- [[settings.py_1]] - code - il-platinatore-ai\harvester\src\config\settings.py
+- [[CommandDialog()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\command.jsx
+- [[CommandShortcut()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\command.jsx
+- [[command.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\command.jsx
 
 ## Live Query (requires Dataview plugin)
 

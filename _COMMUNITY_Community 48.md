@@ -1,25 +1,24 @@
 ---
 type: community
-cohesion: 0.36
-members: 10
+cohesion: 0.25
+members: 9
 ---
 
 # Community 48
 
-**Cohesion:** 0.36 - loosely connected
-**Members:** 10 nodes
+**Cohesion:** 0.25 - loosely connected
+**Members:** 9 nodes
 
 ## Members
-- [[Carica checkpoint esistente o restituisce struttura vuota.]] - rationale - harvester\scripts\run_psn_trophies_all.py
-- [[Entry point asincrono. Ritorna 0 su successo, 1 su errore fatale.]] - rationale - harvester\scripts\run_psn_trophies_all.py
-- [[Recupera trofei PSN (con descrizioni) per tutti i giochi PS4PS5 nel DB.  Pipeli]] - rationale - harvester\scripts\run_psn_trophies_all.py
-- [[Salva checkpoint su disco (atomico via tmp file).]] - rationale - harvester\scripts\run_psn_trophies_all.py
-- [[_load_checkpoint()]] - code - harvester\scripts\run_psn_trophies_all.py
-- [[_run()]] - code - harvester\scripts\run_psn_trophies_all.py
-- [[_save_checkpoint()]] - code - harvester\scripts\run_psn_trophies_all.py
-- [[main()_5]] - code - harvester\scripts\run_psn_trophies_all.py
-- [[run_psn_trophies_all.py]] - code - harvester\scripts\run_psn_trophies_all.py
-- [[run_psn_trophies_all.py_1]] - code - il-platinatore-ai\harvester\scripts\run_psn_trophies_all.py
+- [[.__init__()_10]] - code - harvester\src\injector\embedder.py
+- [[._check_daily_limit()]] - code - harvester\src\injector\embedder.py
+- [[._embed_sync()]] - code - harvester\src\injector\embedder.py
+- [[.embed_batch()]] - code - harvester\src\injector\embedder.py
+- [[Embedder]] - code - harvester\src\injector\embedder.py
+- [[Embedder — wrapper Gemini text-embedding-004 con batching e quota giornaliera.]] - rationale - harvester\src\injector\embedder.py
+- [[Embedding in batch (max 100call).  Splitta in sotto-batch se necessario.]] - rationale - harvester\src\injector\embedder.py
+- [[Wrapper Gemini embedding con quota e batching automatico.]] - rationale - harvester\src\injector\embedder.py
+- [[embedder.py]] - code - harvester\src\injector\embedder.py
 
 ## Live Query (requires Dataview plugin)
 

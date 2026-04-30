@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\conftest.py"
 type: "code"
-community: "Community 110"
+community: "Community 122"
 location: "L22"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_110
+  - community/Community_122
 ---
 
 # mock_settings()
@@ -14,6 +14,5 @@ tags:
 ## Connections
 - [[Settings con valori di test, senza connessioni reali a DB o Redis.     Utile per]] - `rationale_for` [EXTRACTED]
 - [[conftest.py]] - `contains` [EXTRACTED]
-- [[conftest.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_110
+#graphify/code #graphify/EXTRACTED #community/Community_122

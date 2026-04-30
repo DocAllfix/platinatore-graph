@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\pipeline.py"
 type: "rationale"
-community: "Test: Base Collector"
+community: "Harvester Pipeline orchestrator"
 location: "L953"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Test:_Base_Collector
+  - community/Harvester_Pipeline_orchestrator
 ---
 
 # Seleziona il collector corretto in base al dominio dell'URL.          Usa match
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[._get_collector_for_url()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Test:_Base_Collector
+#graphify/rationale #graphify/EXTRACTED #community/Harvester_Pipeline_orchestrator

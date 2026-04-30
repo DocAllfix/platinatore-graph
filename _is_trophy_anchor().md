@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\trophy_section_extractor.py"
 type: "code"
-community: "Trophy Section Extractor"
+community: "Community 20"
 location: "L75"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Trophy_Section_Extractor
+  - community/Community_20
 ---
 
 # _is_trophy_anchor()
@@ -15,6 +15,5 @@ tags:
 - [[True se il tag a id=... ha un id che assomiglia a un nome di trofeo.      Cr]] - `rationale_for` [EXTRACTED]
 - [[_extract_sections_by_anchors()]] - `calls` [EXTRACTED]
 - [[trophy_section_extractor.py]] - `contains` [EXTRACTED]
-- [[trophy_section_extractor.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Trophy_Section_Extractor
+#graphify/code #graphify/EXTRACTED #community/Community_20

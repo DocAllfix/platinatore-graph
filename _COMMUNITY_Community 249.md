@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Estrae dati strutturati dall'HTML.  Da implementare nelle sottoclassi.]] - rationale - harvester\src\collectors\base.py
+- [[__init__.py]] - code - harvester\scripts\__init__.py
 
 ## Live Query (requires Dataview plugin)
 

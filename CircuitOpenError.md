@@ -1,11 +1,11 @@
 ---
 source_file: "backend/src/services/llm.circuitBreaker.ts"
 type: "code"
-community: "Circuit Breaker + Guide Cache"
+community: "Community 53"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Circuit_Breaker_+_Guide_Cache
+  - community/Community_53
 ---
 
 # CircuitOpenError
@@ -15,4 +15,4 @@ tags:
 - [[generateGuide (Gemini non-streaming)]] - `references` [EXTRACTED]
 - [[generateGuideStream (Gemini SSE)]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Circuit_Breaker_+_Guide_Cache
+#graphify/code #graphify/EXTRACTED #community/Community_53

@@ -13,6 +13,5 @@ tags:
 
 ## Connections
 - [[steam_community.py]] - `rationale_for` [EXTRACTED]
-- [[steam_community.py_1]] - `rationale_for` [EXTRACTED]
 
 #graphify/rationale #graphify/EXTRACTED #community/Community_33

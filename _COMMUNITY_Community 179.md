@@ -1,18 +1,17 @@
 ---
 type: community
-cohesion: 0.67
-members: 3
+cohesion: 1.00
+members: 2
 ---
 
 # Community 179
 
-**Cohesion:** 0.67 - moderately connected
-**Members:** 3 nodes
+**Cohesion:** 1.00 - tightly connected
+**Members:** 2 nodes
 
 ## Members
-- [[ProfileSettings()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\ProfileSettings.jsx
-- [[ProfileSettings.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\ProfileSettings.jsx
-- [[ProfileSettings.jsx_1]] - code - il-platinatore-ai\frontend\src\pages\ProfileSettings.jsx
+- [[cn()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\utils.js
+- [[utils.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\utils.js
 
 ## Live Query (requires Dataview plugin)
 

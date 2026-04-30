@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[La seconda acquire immediata deve attendere ~3 secondi (rate=0.33).]] - rationale - harvester\tests\test_base_collector.py
+- [[La prima fetch() triggera _load_robots(); le successive no.]] - rationale - harvester\tests\test_base_collector.py
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,18 +1,17 @@
 ---
 source_file: "harvester\src\injector\deduplicator.py"
 type: "code"
-community: "Community 44"
+community: "Test: Base Collector"
 location: "L63"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_44
+  - community/Test:_Base_Collector
 ---
 
 # should_upsert()
 
 ## Connections
 - [[deduplicator.py]] - `contains` [EXTRACTED]
-- [[deduplicator.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_44
+#graphify/code #graphify/EXTRACTED #community/Test:_Base_Collector

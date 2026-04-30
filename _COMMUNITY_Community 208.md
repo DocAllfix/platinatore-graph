@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[trophyLookup.service.test.ts]] - code - il-platinatore-ai\backend\src\services\trophyLookup.service.test.ts
+- [[prompt.builder.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\prompt.builder.test.ts
 
 ## Live Query (requires Dataview plugin)
 

@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[fetch() ritorna None se robots.txt vieta l'URL.]] - rationale - harvester\tests\test_base_collector.py
+- [[fetch() ritorna il body HTML su status 200.]] - rationale - harvester\tests\test_base_collector.py
 
 ## Live Query (requires Dataview plugin)
 

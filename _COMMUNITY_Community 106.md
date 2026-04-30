@@ -1,19 +1,18 @@
 ---
 type: community
 cohesion: 0.67
-members: 4
+members: 3
 ---
 
 # Community 106
 
 **Cohesion:** 0.67 - moderately connected
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Genera expanded_seed.json dai giochi PS5PS4 più rilevanti nel DB.  Criteri prio]] - rationale - harvester\scripts\generate_expanded_seed.py
-- [[generate_expanded_seed.py]] - code - harvester\scripts\generate_expanded_seed.py
-- [[generate_expanded_seed.py_1]] - code - il-platinatore-ai\harvester\scripts\generate_expanded_seed.py
-- [[main()_2]] - code - harvester\scripts\generate_expanded_seed.py
+- [[GuideChecklist()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideChecklist.jsx
+- [[GuideChecklist.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideChecklist.jsx
+- [[parseSteps()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideChecklist.jsx
 
 ## Live Query (requires Dataview plugin)
 

@@ -10,7 +10,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[__init__.py_8]] - code - harvester\tests\__init__.py
+- [[Stesso input HTML+URL → stesso content_hash.]] - rationale - harvester\tests\test_powerpyx_collector.py
 
 ## Live Query (requires Dataview plugin)
 

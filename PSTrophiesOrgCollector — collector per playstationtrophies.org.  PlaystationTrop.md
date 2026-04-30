@@ -13,6 +13,5 @@ tags:
 
 ## Connections
 - [[pstrophies_org.py]] - `rationale_for` [EXTRACTED]
-- [[pstrophies_org.py_1]] - `rationale_for` [EXTRACTED]
 
 #graphify/rationale #graphify/EXTRACTED #community/Community_36

@@ -1,27 +1,26 @@
 ---
 type: community
-cohesion: 0.27
-members: 12
+cohesion: 0.33
+members: 11
 ---
 
 # Community 41
 
-**Cohesion:** 0.27 - loosely connected
-**Members:** 12 nodes
+**Cohesion:** 0.33 - loosely connected
+**Members:** 11 nodes
 
 ## Members
-- [[.extract()_10]] - code - harvester\src\collectors\trueachievements.py
-- [[Collassa spazi multipli e normalizza newline._2]] - rationale - harvester\src\collectors\trueachievements.py
-- [[Collector per guide achievement su trueachievements.com.]] - rationale - harvester\src\collectors\trueachievements.py
-- [[Estrae game_name dall'URL TrueAchievements.      Formati tipici       - gamee]] - rationale - harvester\src\collectors\trueachievements.py
-- [[Estrae titolo, lista achievement e testo da TrueAchievements.          Ritorna N]] - rationale - harvester\src\collectors\trueachievements.py
-- [[TrueAchievementsCollector]] - code - harvester\src\collectors\trueachievements.py
-- [[TrueAchievementsCollector — collector per trueachievements.com.  Guide achieveme]] - rationale - harvester\src\collectors\trueachievements.py
-- [[_extract_title()_6]] - code - harvester\src\collectors\trueachievements.py
-- [[_normalize_whitespace()_6]] - code - harvester\src\collectors\trueachievements.py
-- [[_parse_game_name_from_url()]] - code - harvester\src\collectors\trueachievements.py
-- [[trueachievements.py]] - code - harvester\src\collectors\trueachievements.py
-- [[trueachievements.py_1]] - code - il-platinatore-ai\harvester\src\collectors\trueachievements.py
+- [[buildSlug()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[bulk-seed.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.test.ts
+- [[bulk-seed.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[clearCheckpoint()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[insertGuideOrSkip()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[main()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[parseArgs()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[readCheckpoint()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[seedBatch()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[slugify()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[writeCheckpoint()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,9 +28,3 @@ members: 12
 TABLE source_file, type FROM #community/Community_41
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_RAG Architecture Concepts]]
-
-## Top bridge nodes
-- [[TrueAchievementsCollector]] - degree 5, connects to 1 community
