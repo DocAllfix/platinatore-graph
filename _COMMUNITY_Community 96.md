@@ -1,19 +1,19 @@
 ---
 type: community
-cohesion: 0.50
+cohesion: 0.67
 members: 4
 ---
 
 # Community 96
 
-**Cohesion:** 0.50 - moderately connected
+**Cohesion:** 0.67 - moderately connected
 **Members:** 4 nodes
 
 ## Members
-- [[auth.service.test.ts_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\auth.service.test.ts
-- [[cleanupTestUsers()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\auth.service.test.ts
-- [[deleteUserByEmail()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\auth.service.test.ts
-- [[uniqueEmail()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\auth.service.test.ts
+- [[GuideChecklist()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideChecklist.jsx
+- [[GuideChecklist.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideChecklist.jsx
+- [[GuideChecklist.jsx_1]] - code - il-platinatore-ai\frontend\src\components\chat\GuideChecklist.jsx
+- [[parseSteps()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideChecklist.jsx
 
 ## Live Query (requires Dataview plugin)
 

@@ -10,13 +10,13 @@ members: 7
 **Members:** 7 nodes
 
 ## Members
-- [[Pagination()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
-- [[PaginationEllipsis()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
-- [[PaginationLink()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
-- [[PaginationNext()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
-- [[PaginationPrevious()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
-- [[pagination.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
-- [[pagination.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\pagination.jsx
+- [[generateWeeklyMissions()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useGamification.js
+- [[getWeekKey()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useGamification.js
+- [[load()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useGamification.js
+- [[save()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useGamification.js
+- [[useGamification()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useGamification.js
+- [[useGamification.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useGamification.js
+- [[useGamification.js_1]] - code - il-platinatore-ai\frontend\src\hooks\useGamification.js
 
 ## Live Query (requires Dataview plugin)
 

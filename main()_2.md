@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\scripts\generate_expanded_seed.py"
 type: "code"
-community: "Community 109"
+community: "Community 106"
 location: "L146"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_109
+  - community/Community_106
 ---
 
 # main()
@@ -15,4 +15,4 @@ tags:
 - [[generate_expanded_seed.py]] - `contains` [EXTRACTED]
 - [[generate_expanded_seed.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_109
+#graphify/code #graphify/EXTRACTED #community/Community_106

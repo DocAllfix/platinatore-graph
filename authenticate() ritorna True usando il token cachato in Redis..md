@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_psn_fetcher.py"
 type: "rationale"
-community: "Test: PSN Fetcher"
+community: "Guide Search Collector"
 location: "L46"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Test:_PSN_Fetcher
+  - community/Guide_Search_Collector
 ---
 
 # authenticate() ritorna True usando il token cachato in Redis.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.test_returns_true_from_redis_cache()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Test:_PSN_Fetcher
+#graphify/rationale #graphify/EXTRACTED #community/Guide_Search_Collector

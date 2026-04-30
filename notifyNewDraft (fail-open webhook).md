@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/src/services/notification.service.ts"
 type: "code"
-community: "Bulk Seed CLI"
+community: "Fextralife Collector"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Bulk_Seed_CLI
+  - community/Fextralife_Collector
 ---
 
 # notifyNewDraft (fail-open webhook)
@@ -14,4 +14,4 @@ tags:
 - [[Fail-open pattern (degrade graceful)]] - `implements` [EXTRACTED]
 - [[createDraft (HITL + Redis convo)]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Bulk_Seed_CLI
+#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector

@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\frontend\src\components\ui\drawer.jsx"
 type: "code"
-community: "Community 88"
+community: "Community 86"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_88
+  - community/Community_86
 ---
 
 # drawer.jsx
@@ -16,4 +16,4 @@ tags:
 - [[DrawerFooter()]] - `contains` [EXTRACTED]
 - [[DrawerHeader()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_88
+#graphify/code #graphify/EXTRACTED #community/Community_86

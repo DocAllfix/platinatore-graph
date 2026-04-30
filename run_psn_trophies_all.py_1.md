@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\harvester\scripts\run_psn_trophies_all.py"
 type: "code"
-community: "Community 49"
+community: "Community 48"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_49
+  - community/Community_48
 ---
 
 # run_psn_trophies_all.py
@@ -18,4 +18,4 @@ tags:
 - [[_save_checkpoint()]] - `contains` [EXTRACTED]
 - [[main()_5]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_49
+#graphify/code #graphify/EXTRACTED #community/Community_48

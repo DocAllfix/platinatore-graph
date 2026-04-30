@@ -1,21 +1,20 @@
 ---
 type: community
-cohesion: 0.53
-members: 6
+cohesion: 0.70
+members: 5
 ---
 
 # Community 76
 
-**Cohesion:** 0.53 - moderately connected
-**Members:** 6 nodes
+**Cohesion:** 0.70 - tightly connected
+**Members:** 5 nodes
 
 ## Members
-- [[Entry point asincrono. Ritorna 0 su successo, 1 su errore fatale._2]] - rationale - harvester\src\orchestrator\psn_seed.py
-- [[_run()_4]] - code - harvester\src\orchestrator\psn_seed.py
-- [[main()_11]] - code - harvester\src\orchestrator\psn_seed.py
-- [[psn_seed — pipeline completa trofei PSN comm_id discovery + fetch multilingua.]] - rationale - harvester\src\orchestrator\psn_seed.py
-- [[psn_seed.py]] - code - harvester\src\orchestrator\psn_seed.py
-- [[psn_seed.py_1]] - code - il-platinatore-ai\harvester\src\orchestrator\psn_seed.py
+- [[block-navigation.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\block-navigation.js
+- [[goToNext()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\block-navigation.js
+- [[goToPrevious()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\block-navigation.js
+- [[makeCurrent()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\block-navigation.js
+- [[toggleClass()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\block-navigation.js
 
 ## Live Query (requires Dataview plugin)
 

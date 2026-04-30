@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\backend\src\services\rating.service.test.ts"
 type: "code"
-community: "Community 86"
+community: "Community 84"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_86
+  - community/Community_84
 ---
 
 # rating.service.test.ts
@@ -15,4 +15,4 @@ tags:
 - [[rating.service.ts_1]] - `imports_from` [EXTRACTED]
 - [[stubGuide()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_86
+#graphify/code #graphify/EXTRACTED #community/Community_84

@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideChecklist.jsx"
 type: "code"
-community: "Community 99"
+community: "Community 96"
 location: "L16"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_99
+  - community/Community_96
 ---
 
 # GuideChecklist()
@@ -15,4 +15,4 @@ tags:
 - [[GuideChecklist.jsx]] - `contains` [EXTRACTED]
 - [[GuideChecklist.jsx_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_99
+#graphify/code #graphify/EXTRACTED #community/Community_96

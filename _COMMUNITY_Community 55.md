@@ -1,24 +1,24 @@
 ---
 type: community
-cohesion: 0.28
+cohesion: 0.31
 members: 9
 ---
 
 # Community 55
 
-**Cohesion:** 0.28 - loosely connected
+**Cohesion:** 0.31 - loosely connected
 **Members:** 9 nodes
 
 ## Members
-- [[.load_seed_file()]] - code - harvester\src\discovery\seed_loader.py
-- [[.seed_database()]] - code - harvester\src\discovery\seed_loader.py
-- [[Legge e valida un file JSON seed. Ritorna la lista di giochi.]] - rationale - harvester\src\discovery\seed_loader.py
-- [[Legge file JSON seed e upserta giochi nel DB con alias.]] - rationale - harvester\src\discovery\seed_loader.py
-- [[SeedLoader]] - code - harvester\src\discovery\seed_loader.py
-- [[SeedLoader — carica un file JSON seed e popola il catalogo giochi nel DB.  Forma]] - rationale - harvester\src\discovery\seed_loader.py
-- [[Upserta tutti i giochi del seed file nel DB.          Per ogni gioco         -]] - rationale - harvester\src\discovery\seed_loader.py
-- [[seed_loader.py]] - code - harvester\src\discovery\seed_loader.py
-- [[seed_loader.py_1]] - code - il-platinatore-ai\harvester\src\discovery\seed_loader.py
+- [[Multer memoryStorage + magic-bytes pipeline]] - code - il-platinatore-ai/backend/src/routes/uploads.routes.ts
+- [[Phase 21.x — Avatar uploads + game stats]] - code - il-platinatore-ai/backend/src/routes/index.ts
+- [[assertPathSafe (path traversal defense)]] - code - il-platinatore-ai/backend/src/services/avatar.service.ts
+- [[avatarLimiter (1024h per user)]] - code - il-platinatore-ai/backend/src/routes/uploads.routes.ts
+- [[detectImageType (PNGJPEGWEBP magic bytes)]] - code - il-platinatore-ai/backend/src/services/avatar.service.ts
+- [[guideRatingsRouter (GET apiguide-ratings)]] - code - il-platinatore-ai/backend/src/routes/guideRatings.routes.ts
+- [[rootRouter (Express mount table)]] - code - il-platinatore-ai/backend/src/routes/index.ts
+- [[uploadAvatar service (8-step pipeline)]] - code - il-platinatore-ai/backend/src/services/avatar.service.ts
+- [[uploadsRouter (POST apiuploadsavatar)]] - code - il-platinatore-ai/backend/src/routes/uploads.routes.ts
 
 ## Live Query (requires Dataview plugin)
 

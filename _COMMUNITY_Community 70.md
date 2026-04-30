@@ -1,21 +1,21 @@
 ---
 type: community
-cohesion: 0.47
+cohesion: 0.53
 members: 6
 ---
 
 # Community 70
 
-**Cohesion:** 0.47 - moderately connected
+**Cohesion:** 0.53 - moderately connected
 **Members:** 6 nodes
 
 ## Members
-- [[rag.specialized.ts]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
-- [[retrieveForTopic()]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
-- [[retrieveForTrophy()]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
-- [[rowToResult()]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
-- [[runTopicQuery()]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
-- [[runTrophyQuery()]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
+- [[CheckIcon()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Games.jsx
+- [[DifficultyDots()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Games.jsx
+- [[Games()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Games.jsx
+- [[Games.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Games.jsx
+- [[Games.jsx_1]] - code - il-platinatore-ai\frontend\src\pages\Games.jsx
+- [[TargetIcon()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\pages\Games.jsx
 
 ## Live Query (requires Dataview plugin)
 

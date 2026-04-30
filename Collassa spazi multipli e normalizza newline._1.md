@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\psnprofiles.py"
 type: "rationale"
-community: "Community 35"
+community: "RAG Architecture Concepts"
 location: "L142"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_35
+  - community/RAG_Architecture_Concepts
 ---
 
 # Collassa spazi multipli e normalizza newline.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_normalize_whitespace()_4]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_35
+#graphify/rationale #graphify/EXTRACTED #community/RAG_Architecture_Concepts

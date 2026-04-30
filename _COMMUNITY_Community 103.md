@@ -10,10 +10,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[DialogFooter()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\dialog.jsx
-- [[DialogHeader()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\dialog.jsx
-- [[dialog.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\dialog.jsx
-- [[dialog.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\dialog.jsx
+- [[GamificationContext.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\context\GamificationContext.jsx
+- [[GamificationContext.jsx_1]] - code - il-platinatore-ai\frontend\src\context\GamificationContext.jsx
+- [[GamificationProvider()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\context\GamificationContext.jsx
+- [[useGamificationContext()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\context\GamificationContext.jsx
 
 ## Live Query (requires Dataview plugin)
 

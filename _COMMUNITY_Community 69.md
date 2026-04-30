@@ -1,22 +1,21 @@
 ---
 type: community
-cohesion: 0.57
-members: 7
+cohesion: 0.47
+members: 6
 ---
 
 # Community 69
 
-**Cohesion:** 0.57 - moderately connected
-**Members:** 7 nodes
+**Cohesion:** 0.47 - moderately connected
+**Members:** 6 nodes
 
 ## Members
-- [[detectLanguage()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
-- [[extractGame()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
-- [[extractTopicHint()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
-- [[extractTrophy()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
-- [[looksLikeTrophyQuery()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
-- [[normalizeQuery()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
-- [[query.normalizer.ts]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
+- [[rag.specialized.ts]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
+- [[retrieveForTopic()]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
+- [[retrieveForTrophy()]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
+- [[rowToResult()]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
+- [[runTopicQuery()]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
+- [[runTrophyQuery()]] - code - il-platinatore-ai\backend\src\services\rag.specialized.ts
 
 ## Live Query (requires Dataview plugin)
 

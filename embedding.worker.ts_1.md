@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\backend\src\workers\embedding.worker.ts"
 type: "code"
-community: "Community 95"
+community: "Community 113"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_95
+  - community/Community_113
 ---
 
 # embedding.worker.ts
@@ -15,4 +15,4 @@ tags:
 - [[embeddingProcessor()]] - `contains` [EXTRACTED]
 - [[startEmbeddingWorker()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_95
+#graphify/code #graphify/EXTRACTED #community/Community_113

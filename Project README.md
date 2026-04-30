@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/README.md"
 type: "document"
-community: "RAG Architecture Concepts"
+community: "IGDB Discovery"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/RAG_Architecture_Concepts
+  - community/IGDB_Discovery
 ---
 
 # Project README
@@ -16,4 +16,4 @@ tags:
 - [[RAG hybrid pipeline (HNSW + RRF)]] - `cites` [EXTRACTED]
 - [[il-platinatore-ai CLAUDE.md (graphify rules)]] - `rationale_for` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/RAG_Architecture_Concepts
+#graphify/document #graphify/EXTRACTED #community/IGDB_Discovery

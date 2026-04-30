@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/frontend/src/pages/Register.jsx"
 type: "code"
-community: "RAG Architecture Concepts"
+community: "IGDB Discovery"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/RAG_Architecture_Concepts
+  - community/IGDB_Discovery
 ---
 
 # PasswordStrength component
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Register page]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/RAG_Architecture_Concepts
+#graphify/code #graphify/EXTRACTED #community/IGDB_Discovery

@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/src/services/ingestion.service.ts"
 type: "code"
-community: "Bulk Seed CLI"
+community: "Fextralife Collector"
 tags:
   - graphify/code
-  - graphify/EXTRACTED
-  - community/Bulk_Seed_CLI
+  - graphify/INFERRED
+  - community/Fextralife_Collector
 ---
 
 # validateDraft (5-layer validation)
@@ -14,4 +14,4 @@ tags:
 - [[ingestApprovedDraft (publish pipeline)]] - `calls` [EXTRACTED]
 - [[reviseDraft (LLM iter, MAX=5)]] - `semantically_similar_to` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Bulk_Seed_CLI
+#graphify/code #graphify/INFERRED #community/Fextralife_Collector

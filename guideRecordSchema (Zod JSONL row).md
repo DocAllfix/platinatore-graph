@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/src/scripts/bulk-seed.ts"
 type: "code"
-community: "Bulk Seed CLI"
+community: "Fextralife Collector"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Bulk_Seed_CLI
+  - community/Fextralife_Collector
 ---
 
 # guideRecordSchema (Zod JSONL row)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[main()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Bulk_Seed_CLI
+#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector

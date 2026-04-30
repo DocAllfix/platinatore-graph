@@ -1,19 +1,19 @@
 ---
 type: community
-cohesion: 0.50
+cohesion: 0.67
 members: 4
 ---
 
 # Community 113
 
-**Cohesion:** 0.50 - moderately connected
+**Cohesion:** 0.67 - moderately connected
 **Members:** 4 nodes
 
 ## Members
-- [[Settings con valori di test, senza connessioni reali a DB o Redis.     Utile per]] - rationale - harvester\tests\conftest.py
-- [[conftest.py]] - code - harvester\tests\conftest.py
-- [[conftest.py_1]] - code - il-platinatore-ai\harvester\tests\conftest.py
-- [[mock_settings()]] - code - harvester\tests\conftest.py
+- [[embedding.worker.ts]] - code - backend\src\workers\embedding.worker.ts
+- [[embedding.worker.ts_1]] - code - il-platinatore-ai\backend\src\workers\embedding.worker.ts
+- [[embeddingProcessor()]] - code - backend\src\workers\embedding.worker.ts
+- [[startEmbeddingWorker()]] - code - backend\src\workers\embedding.worker.ts
 
 ## Live Query (requires Dataview plugin)
 

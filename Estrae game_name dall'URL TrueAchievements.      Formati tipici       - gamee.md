@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\trueachievements.py"
 type: "rationale"
-community: "Community 42"
+community: "Community 41"
 location: "L134"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_42
+  - community/Community_41
 ---
 
 # Estrae game_name dall'URL TrueAchievements.      Formati tipici:       - /game/e
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_parse_game_name_from_url()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_42
+#graphify/rationale #graphify/EXTRACTED #community/Community_41

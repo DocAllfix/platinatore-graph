@@ -1,20 +1,20 @@
 ---
 type: community
-cohesion: 0.50
+cohesion: 0.40
 members: 5
 ---
 
 # Community 90
 
-**Cohesion:** 0.50 - moderately connected
+**Cohesion:** 0.40 - moderately connected
 **Members:** 5 nodes
 
 ## Members
-- [[Calcola un quality score in 0.0, 1.0 arrotondato a 2 decimali.]] - rationale - harvester\src\transformer\quality.py
-- [[Quality scoring per guide sintetizzate dal Transformer.  Algoritmo Masterplan]] - rationale - harvester\src\transformer\quality.py
-- [[calculate_quality_score()]] - code - harvester\src\transformer\quality.py
-- [[quality.py]] - code - harvester\src\transformer\quality.py
-- [[quality.py_1]] - code - il-platinatore-ai\harvester\src\transformer\quality.py
+- [[embedding.service.test.ts]] - code - backend\src\services\embedding.service.test.ts
+- [[embedding.service.test.ts_1]] - code - il-platinatore-ai\backend\src\services\embedding.service.test.ts
+- [[embedding.service.ts]] - code - backend\src\services\embedding.service.ts
+- [[embedding.service.ts_1]] - code - il-platinatore-ai\backend\src\services\embedding.service.ts
+- [[sha256()_1]] - code - backend\src\services\embedding.service.ts
 
 ## Live Query (requires Dataview plugin)
 

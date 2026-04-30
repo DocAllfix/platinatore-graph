@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\transformer\synthesizer.py"
 type: "rationale"
-community: "LLM Synthesizer"
+community: "Backend Auth/Security Concepts"
 location: "L42"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/LLM_Synthesizer
+  - community/Backend_Auth/Security_Concepts
 ---
 
 # Wrapper multi-provider per estrazione fatti + sintesi guide.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[GuideSynthesizer]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/LLM_Synthesizer
+#graphify/rationale #graphify/EXTRACTED #community/Backend_Auth/Security_Concepts

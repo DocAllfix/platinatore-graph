@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\frontend\src\hooks\useAuth.js"
 type: "code"
-community: "Community 107"
+community: "Community 104"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_107
+  - community/Community_104
 ---
 
 # useAuth.js
@@ -15,4 +15,4 @@ tags:
 - [[AuthProvider()]] - `contains` [EXTRACTED]
 - [[useAuth()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_107
+#graphify/code #graphify/EXTRACTED #community/Community_104

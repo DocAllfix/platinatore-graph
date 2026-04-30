@@ -1,20 +1,20 @@
 ---
 type: community
-cohesion: 0.40
+cohesion: 0.80
 members: 5
 ---
 
 # Community 79
 
-**Cohesion:** 0.40 - moderately connected
+**Cohesion:** 0.80 - tightly connected
 **Members:** 5 nodes
 
 ## Members
-- [[buildSetClause()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.ts
-- [[guideDrafts.model.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.test.ts
-- [[guideDrafts.model.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.ts
-- [[makeDraftRow()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.test.ts
-- [[pgResult()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.test.ts
+- [[auth.csrf.ts]] - code - backend\src\services\auth.csrf.ts
+- [[auth.csrf.ts_1]] - code - il-platinatore-ai\backend\src\services\auth.csrf.ts
+- [[hmacHex()]] - code - backend\src\services\auth.csrf.ts
+- [[makeCsrfToken()]] - code - backend\src\services\auth.csrf.ts
+- [[verifyCsrfToken()]] - code - backend\src\services\auth.csrf.ts
 
 ## Live Query (requires Dataview plugin)
 

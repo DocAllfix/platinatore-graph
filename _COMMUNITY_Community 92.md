@@ -10,11 +10,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[generateGuide()]] - code - il-platinatore-ai\backend\src\services\llm.service.ts
-- [[getBreakerState()]] - code - il-platinatore-ai\backend\src\services\llm.service.ts
-- [[llm.service.ts]] - code - il-platinatore-ai\backend\src\services\llm.service.ts
-- [[previewPrompt()]] - code - il-platinatore-ai\backend\src\services\llm.service.ts
-- [[translateGuide()]] - code - il-platinatore-ai\backend\src\services\llm.service.ts
+- [[AuthService integration tests]] - code - il-platinatore-ai/backend/tests/integration/auth.service.test.ts
+- [[Integration setup() create test DB]] - code - il-platinatore-ai/backend/tests/integration/setup.ts
+- [[Rating auto-promotion =3.5 avg & =3 votes]] - document - il-platinatore-ai/backend/tests/integration/rating.service.test.ts
+- [[RatingService integration tests (promotion)]] - code - il-platinatore-ai/backend/tests/integration/rating.service.test.ts
+- [[Refresh token rotation + reuse detection]] - document - il-platinatore-ai/backend/tests/integration/auth.service.test.ts
 
 ## Live Query (requires Dataview plugin)
 

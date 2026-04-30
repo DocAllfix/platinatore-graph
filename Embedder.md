@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\embedder.py"
 type: "code"
-community: "Community 50"
+community: "Community 49"
 location: "L27"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_50
+  - community/Community_49
 ---
 
 # Embedder
@@ -20,4 +20,4 @@ tags:
 - [[embedder.py]] - `contains` [EXTRACTED]
 - [[embedder.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_50
+#graphify/code #graphify/EXTRACTED #community/Community_49

@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: "code"
-community: "Base Collector ABC"
+community: "Test: PSN Fetcher"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Base_Collector_ABC
+  - community/Test:_PSN_Fetcher
 ---
 
 # ABC
@@ -15,4 +15,4 @@ tags:
 - [[base.py]] - `imports_from` [EXTRACTED]
 - [[base.py_1]] - `imports_from` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Base_Collector_ABC
+#graphify/code #graphify/EXTRACTED #community/Test:_PSN_Fetcher

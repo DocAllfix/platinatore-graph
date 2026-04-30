@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\injector\deduplicator.py"
 type: "code"
-community: "Community 45"
+community: "Community 44"
 location: "L9"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_45
+  - community/Community_44
 ---
 
 # Deduplicator
@@ -19,4 +19,4 @@ tags:
 - [[deduplicator.py]] - `contains` [EXTRACTED]
 - [[deduplicator.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_45
+#graphify/code #graphify/EXTRACTED #community/Community_44

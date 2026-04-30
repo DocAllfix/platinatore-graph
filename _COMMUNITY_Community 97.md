@@ -1,19 +1,19 @@
 ---
 type: community
-cohesion: 0.83
+cohesion: 0.67
 members: 4
 ---
 
 # Community 97
 
-**Cohesion:** 0.83 - tightly connected
+**Cohesion:** 0.67 - moderately connected
 **Members:** 4 nodes
 
 ## Members
-- [[setup()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\setup.ts
-- [[setup.ts_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\setup.ts
-- [[teardown()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\setup.ts
-- [[terminateTestDbConnections()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\tests\integration\setup.ts
+- [[AlertDialogFooter()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\alert-dialog.jsx
+- [[AlertDialogHeader()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\alert-dialog.jsx
+- [[alert-dialog.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\alert-dialog.jsx
+- [[alert-dialog.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\alert-dialog.jsx
 
 ## Live Query (requires Dataview plugin)
 

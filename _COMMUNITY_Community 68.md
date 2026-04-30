@@ -1,22 +1,22 @@
 ---
 type: community
-cohesion: 0.52
+cohesion: 0.57
 members: 7
 ---
 
 # Community 68
 
-**Cohesion:** 0.52 - moderately connected
+**Cohesion:** 0.57 - moderately connected
 **Members:** 7 nodes
 
 ## Members
-- [[Aggiorna il timestamp del heartbeat file per segnalare che il processo è vivo.]] - rationale - harvester\src\orchestrator\main.py
-- [[Entry point dell'harvester — avvia la pipeline in modalità seed o update.  Non è]] - rationale - harvester\src\orchestrator\main.py
-- [[_parse_args()_1]] - code - harvester\src\orchestrator\main.py
-- [[main()_10]] - code - harvester\src\orchestrator\main.py
-- [[main.py]] - code - harvester\src\orchestrator\main.py
-- [[main.py_1]] - code - il-platinatore-ai\harvester\src\orchestrator\main.py
-- [[touch_heartbeat()]] - code - harvester\src\orchestrator\main.py
+- [[detectLanguage()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
+- [[extractGame()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
+- [[extractTopicHint()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
+- [[extractTrophy()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
+- [[looksLikeTrophyQuery()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
+- [[normalizeQuery()]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
+- [[query.normalizer.ts]] - code - il-platinatore-ai\backend\src\services\query.normalizer.ts
 
 ## Live Query (requires Dataview plugin)
 

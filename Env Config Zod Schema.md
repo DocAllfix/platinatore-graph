@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/src/config/env.ts"
 type: "code"
-community: "Backend Auth/Security Concepts"
+community: "Base Collector ABC"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Backend_Auth/Security_Concepts
+  - community/Base_Collector_ABC
 ---
 
 # Env Config Zod Schema
@@ -17,4 +17,4 @@ tags:
 - [[Vitest Unit Test Config]] - `references` [EXTRACTED]
 - [[Zod Strict Schema Validation]] - `implements` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Backend_Auth/Security_Concepts
+#graphify/code #graphify/EXTRACTED #community/Base_Collector_ABC

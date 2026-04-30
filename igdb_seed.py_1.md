@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\harvester\src\orchestrator\igdb_seed.py"
 type: "code"
-community: "Community 46"
+community: "Community 45"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_46
+  - community/Community_45
 ---
 
 # igdb_seed.py
@@ -19,4 +19,4 @@ tags:
 - [[igdb_seed — pipeline completa IGDB discovery + PSN trofei + Steam achievements.]] - `rationale_for` [EXTRACTED]
 - [[main()_9]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_46
+#graphify/code #graphify/EXTRACTED #community/Community_45

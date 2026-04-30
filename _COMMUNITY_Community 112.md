@@ -1,19 +1,19 @@
 ---
 type: community
-cohesion: 0.50
+cohesion: 0.67
 members: 4
 ---
 
 # Community 112
 
-**Cohesion:** 0.50 - moderately connected
+**Cohesion:** 0.67 - moderately connected
 **Members:** 4 nodes
 
 ## Members
-- [[BaseSettings]] - code
-- [[Settings]] - code - harvester\src\config\settings.py
-- [[settings.py]] - code - harvester\src\config\settings.py
-- [[settings.py_1]] - code - il-platinatore-ai\harvester\src\config\settings.py
+- [[bundleFromResults()]] - code - il-platinatore-ai\backend\src\services\orchestrator.retrieval.ts
+- [[enrichWithScraping()]] - code - il-platinatore-ai\backend\src\services\orchestrator.retrieval.ts
+- [[orchestrator.retrieval.ts]] - code - il-platinatore-ai\backend\src\services\orchestrator.retrieval.ts
+- [[retrieveContext()]] - code - il-platinatore-ai\backend\src\services\orchestrator.retrieval.ts
 
 ## Live Query (requires Dataview plugin)
 

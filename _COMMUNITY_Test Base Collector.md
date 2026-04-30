@@ -1,47 +1,51 @@
 ---
 type: community
-cohesion: 0.10
-members: 32
+cohesion: 0.08
+members: 36
 ---
 
 # Test: Base Collector
 
-**Cohesion:** 0.10 - loosely connected
-**Members:** 32 nodes
+**Cohesion:** 0.08 - loosely connected
+**Members:** 36 nodes
 
 ## Members
-- [[.extract()_13]] - code - harvester\tests\test_base_collector.py
-- [[.test_deterministic()]] - code - harvester\tests\test_base_collector.py
-- [[.test_different_input_different_hash()]] - code - harvester\tests\test_base_collector.py
-- [[.test_hex_format()]] - code - harvester\tests\test_base_collector.py
-- [[.test_user_agent_from_settings()]] - code - harvester\tests\test_base_collector.py
-- [[Il client httpx usa lo User-Agent configurato in settings.]] - rationale - harvester\tests\test_base_collector.py
-- [[Input diversi producono hash diversi.]] - rationale - harvester\tests\test_base_collector.py
-- [[L'hash è una stringa esadecimale di 64 caratteri (SHA-256).]] - rationale - harvester\tests\test_base_collector.py
-- [[Lo stesso input produce sempre lo stesso hash.]] - rationale - harvester\tests\test_base_collector.py
-- [[Test per BaseCollector — rate limiting, robots.txt, fetch, hash.]] - rationale - harvester\tests\test_base_collector.py
-- [[TestComputeHash]] - code - harvester\tests\test_base_collector.py
-- [[TestFetch]] - code - harvester\tests\test_base_collector.py
-- [[TestPerHostTokenBucket]] - code - harvester\tests\test_base_collector.py
-- [[TestRespectDelay]] - code - harvester\tests\test_base_collector.py
-- [[TestRobotsTxt]] - code - harvester\tests\test_base_collector.py
-- [[TestUserAgent]] - code - harvester\tests\test_base_collector.py
-- [[_StubCollector]] - code - harvester\tests\test_base_collector.py
-- [[collector()]] - code - harvester\tests\test_base_collector.py
-- [[semaphore()]] - code - harvester\tests\test_base_collector.py
-- [[test_allowed_when_no_robots()]] - code - harvester\tests\test_base_collector.py
-- [[test_base_collector.py]] - code - harvester\tests\test_base_collector.py
-- [[test_base_collector.py_1]] - code - il-platinatore-ai\harvester\tests\test_base_collector.py
-- [[test_first_acquire_no_wait()]] - code - harvester\tests\test_base_collector.py
-- [[test_lazy_load_robots_on_first_fetch()]] - code - harvester\tests\test_base_collector.py
-- [[test_no_wait_first_request()]] - code - harvester\tests\test_base_collector.py
-- [[test_returns_html_on_200()]] - code - harvester\tests\test_base_collector.py
-- [[test_returns_none_on_403()]] - code - harvester\tests\test_base_collector.py
-- [[test_returns_none_on_429()]] - code - harvester\tests\test_base_collector.py
-- [[test_returns_none_on_timeout()]] - code - harvester\tests\test_base_collector.py
-- [[test_returns_none_when_disallowed()]] - code - harvester\tests\test_base_collector.py
-- [[test_second_acquire_waits()]] - code - harvester\tests\test_base_collector.py
-- [[test_waits_correct_time()]] - code - harvester\tests\test_base_collector.py
+- [[.__init__()_12]] - code - harvester\src\orchestrator\pipeline.py
+- [[._get_collector_for_url()]] - code - harvester\src\orchestrator\pipeline.py
+- [[._get_last_processed_slug()]] - code - harvester\src\orchestrator\pipeline.py
+- [[._inject_synthetic()]] - code - harvester\src\orchestrator\pipeline.py
+- [[._reset_progress()]] - code - harvester\src\orchestrator\pipeline.py
+- [[._save_progress()]] - code - harvester\src\orchestrator\pipeline.py
+- [[.cleanup()]] - code - harvester\src\orchestrator\pipeline.py
+- [[.process_boss_guides()]] - code - harvester\src\orchestrator\pipeline.py
+- [[.process_fandom_content()]] - code - harvester\src\orchestrator\pipeline.py
+- [[.process_single_guide()]] - code - harvester\src\orchestrator\pipeline.py
+- [[.process_steam_community_guides()]] - code - harvester\src\orchestrator\pipeline.py
+- [[.process_with_reddit()]] - code - harvester\src\orchestrator\pipeline.py
+- [[.process_youtube_guides()]] - code - harvester\src\orchestrator\pipeline.py
+- [[.run_seed_batch()]] - code - harvester\src\orchestrator\pipeline.py
+- [[Arricchisce guide con community tips da Reddit.          Per ogni query (default]] - rationale - harvester\src\orchestrator\pipeline.py
+- [[Chiude tutti i client HTTP.]] - rationale - harvester\src\orchestrator\pipeline.py
+- [[Converte 'Elden Ring' → 'elden-ring' (URL slug conservativo).]] - rationale - harvester\src\orchestrator\pipeline.py
+- [[Discovery + collect di Steam Community Guides per un gioco.          Richiede `g]] - rationale - harvester\src\orchestrator\pipeline.py
+- [[Discovery + inject di guide video YouTube per un gioco.          Per ogni query]] - rationale - harvester\src\orchestrator\pipeline.py
+- [[Genera guide boss per un gioco usando Fextralife + IGN.          Se boss_names è]] - rationale - harvester\src\orchestrator\pipeline.py
+- [[HarvestPipeline]] - code - harvester\src\orchestrator\pipeline.py
+- [[HarvestPipeline — orchestratore che connette collector → transformer → injector.]] - rationale - harvester\src\orchestrator\pipeline.py
+- [[Heartbeat file per Docker healthcheck (W-ARCH-2).]] - rationale - harvester\src\orchestrator\pipeline.py
+- [[Inietta un contenuto già raccolto (bypass collect step).          Include dedup]] - rationale - harvester\src\orchestrator\pipeline.py
+- [[Legge l'ultimo slug processato dal DB.]] - rationale - harvester\src\orchestrator\pipeline.py
+- [[Orchestra la pipeline completa collect → transform → inject.]] - rationale - harvester\src\orchestrator\pipeline.py
+- [[Processa tutti i giochi del seed file con advisory lock singleton.          Rito]] - rationale - harvester\src\orchestrator\pipeline.py
+- [[Processa una singola guida end-to-end. Ritorna True se iniettata.]] - rationale - harvester\src\orchestrator\pipeline.py
+- [[Raccoglie contenuti wiki da Fandom per un gioco.          Se `wiki_subdomain` è]] - rationale - harvester\src\orchestrator\pipeline.py
+- [[Resetta il progresso dopo un batch completato con successo.]] - rationale - harvester\src\orchestrator\pipeline.py
+- [[Salva il progresso corrente nel DB.]] - rationale - harvester\src\orchestrator\pipeline.py
+- [[Seleziona il collector corretto in base al dominio dell'URL.          Usa match]] - rationale - harvester\src\orchestrator\pipeline.py
+- [[_slugify()_3]] - code - harvester\src\orchestrator\pipeline.py
+- [[_touch_heartbeat()]] - code - harvester\src\orchestrator\pipeline.py
+- [[pipeline.py]] - code - harvester\src\orchestrator\pipeline.py
+- [[pipeline.py_1]] - code - il-platinatore-ai\harvester\src\orchestrator\pipeline.py
 
 ## Live Query (requires Dataview plugin)
 
@@ -49,9 +53,3 @@ members: 32
 TABLE source_file, type FROM #community/Test:_Base_Collector
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Fextralife Collector]]
-
-## Top bridge nodes
-- [[_StubCollector]] - degree 5, connects to 1 community

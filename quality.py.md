@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\transformer\quality.py"
 type: "code"
-community: "Community 90"
+community: "Community 88"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_90
+  - community/Community_88
 ---
 
 # quality.py
@@ -15,4 +15,4 @@ tags:
 - [[Quality scoring per guide sintetizzate dal Transformer.  Algoritmo Masterplan]] - `rationale_for` [EXTRACTED]
 - [[calculate_quality_score()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_90
+#graphify/code #graphify/EXTRACTED #community/Community_88

@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/src/services/prompt.builder.ts"
 type: "code"
-community: "RAG Architecture Concepts"
+community: "IGDB Discovery"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/RAG_Architecture_Concepts
+  - community/IGDB_Discovery
 ---
 
 # buildCollectible template
@@ -15,4 +15,4 @@ tags:
 - [[assembleUserContext]] - `calls` [EXTRACTED]
 - [[buildPrompt dispatcher]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/RAG_Architecture_Concepts
+#graphify/code #graphify/EXTRACTED #community/IGDB_Discovery

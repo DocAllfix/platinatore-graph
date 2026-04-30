@@ -1,54 +1,62 @@
 ---
 type: community
 cohesion: 0.07
-members: 39
+members: 47
 ---
 
 # RAG Architecture Concepts
 
 **Cohesion:** 0.07 - loosely connected
-**Members:** 39 nodes
+**Members:** 47 nodes
 
 ## Members
-- [[Chat page (SSE streaming)]] - code - il-platinatore-ai/frontend/src/pages/Chat.jsx
-- [[Chat.handleSend (api.guideStream)]] - code - il-platinatore-ai/frontend/src/pages/Chat.jsx
-- [[DB canonically English (harvester rule)]] - document - il-platinatore-ai/backend/src/services/orchestrator.shared.ts
-- [[DB_CANONICAL_LANGUAGE constant (en)]] - code - il-platinatore-ai/backend/src/services/orchestrator.shared.ts
-- [[Frontend App.jsx router]] - code - il-platinatore-ai/frontend/src/App.jsx
-- [[Frontend README (Vite+React)]] - document - il-platinatore-ai/frontend/README.md
-- [[GuideType taxonomy (5 fissi migration 004)]] - document - il-platinatore-ai/backend/src/services/prompt.builder.ts
-- [[Harvester README]] - document - il-platinatore-ai/harvester/README.md
-- [[Login page]] - code - il-platinatore-ai/frontend/src/pages/Login.jsx
-- [[PSN anchor anti-hallucination pattern]] - document - il-platinatore-ai/backend/src/services/prompt.builder.ts
-- [[PasswordStrength component]] - code - il-platinatore-ai/frontend/src/pages/Register.jsx
-- [[Project README]] - document - il-platinatore-ai/README.md
-- [[Prompt injection sanitization defense]] - document - il-platinatore-ai/backend/src/services/prompt.builder.ts
-- [[RAG hybrid pipeline (HNSW + RRF)]] - document - il-platinatore-ai/README.md
-- [[Register page]] - code - il-platinatore-ai/frontend/src/pages/Register.jsx
-- [[SSE streaming chat UX (chunked bubble)]] - document - il-platinatore-ai/frontend/src/pages/Chat.jsx
-- [[SYSTEM_CORE invariants prompt fence]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
-- [[TRUSTED_DOMAINS allowlist]] - code - il-platinatore-ai/backend/src/services/scraper.client.ts
-- [[Tavily daily request cap (Redis incr)]] - document - il-platinatore-ai/backend/src/services/scraper.client.ts
-- [[Vitest setup ioredis-mock]] - code - il-platinatore-ai/backend/tests/setup.ts
-- [[assembleUserContext]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
-- [[buildCacheKeyParams]] - code - il-platinatore-ai/backend/src/services/orchestrator.shared.ts
-- [[buildChallenge template]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
-- [[buildCollectible template]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
-- [[buildPlatinum template]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
-- [[buildPrompt dispatcher]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
-- [[buildPromptContext]] - code - il-platinatore-ai/backend/src/services/orchestrator.shared.ts
-- [[buildTrophy template]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
-- [[buildWalkthrough template]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
-- [[callTavily]] - code - il-platinatore-ai/backend/src/services/scraper.client.ts
-- [[checkDailyLimit (Redis daily cap)]] - code - il-platinatore-ai/backend/src/services/scraper.client.ts
-- [[fetchScrapedContext (Tavily)]] - code - il-platinatore-ai/backend/src/services/scraper.client.ts
-- [[formatPsnAnchor]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
-- [[formatPsnOfficial]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
-- [[il-platinatore-ai CLAUDE.md (graphify rules)]] - document - il-platinatore-ai/CLAUDE.md
-- [[isTrusted domain check]] - code - il-platinatore-ai/backend/src/services/scraper.client.ts
-- [[logAndTrack]] - code - il-platinatore-ai/backend/src/services/orchestrator.shared.ts
-- [[reliabilityScore]] - code - il-platinatore-ai/backend/src/services/scraper.client.ts
-- [[sanitizeUserQuery (anti-injection)]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
+- [[.extract()_2]] - code - harvester\src\collectors\fextralife.py
+- [[.extract()_4]] - code - harvester\src\collectors\ign.py
+- [[.extract()_5]] - code - harvester\src\collectors\powerpyx.py
+- [[.extract()_6]] - code - harvester\src\collectors\psnprofiles.py
+- [[BaseCollector_1]] - code
+- [[Collassa spazi multipli e normalizza newline.]] - rationale - harvester\src\collectors\powerpyx.py
+- [[Collassa spazi multipli e normalizza newline._1]] - rationale - harvester\src\collectors\psnprofiles.py
+- [[Collector per guide trofei su powerpyx.com.]] - rationale - harvester\src\collectors\powerpyx.py
+- [[Collector per guide trofei su psnprofiles.com.]] - rationale - harvester\src\collectors\psnprofiles.py
+- [[Collector per wiki IGN (boss, walkthrough, collectible).]] - rationale - harvester\src\collectors\ign.py
+- [[Collector per wiki.fextralife.com (boss, build, lore).]] - rationale - harvester\src\collectors\fextralife.py
+- [[Converte tabelle table class=zebra in testo strutturato pipe-delimited.]] - rationale - harvester\src\collectors\psnprofiles.py
+- [[Estrae game_name dall'URL PSNProfiles.      Formati tipici       - guide12345]] - rationale - harvester\src\collectors\psnprofiles.py
+- [[Estrae game_name e topic da URL ign.comwikis{game}{topic}.]] - rationale - harvester\src\collectors\ign.py
+- [[Estrae game_name e topic dallo slug Fextralife.      Pattern wiki.fextralife.co]] - rationale - harvester\src\collectors\fextralife.py
+- [[Estrae game_name e trophy_name dallo slug URL di PowerPyx.      Formati tipici]] - rationale - harvester\src\collectors\powerpyx.py
+- [[Estrae titolo, contenuto pulito e metadati dall'HTML di PowerPyx.          Ritor]] - rationale - harvester\src\collectors\powerpyx.py
+- [[Estrae titolo, tabelle trofei e testo dalla guida PSNProfiles.          Ritorna]] - rationale - harvester\src\collectors\psnprofiles.py
+- [[FextralifeCollector]] - code - harvester\src\collectors\fextralife.py
+- [[FextralifeCollector — guide wiki SoulslikeMetroidvania.  Fextralife usa renderi]] - rationale - harvester\src\collectors\fextralife.py
+- [[IGNCollector]] - code - harvester\src\collectors\ign.py
+- [[IGNCollector — guide wiki professionali su ign.com.  Pattern URL ign.comwikis]] - rationale - harvester\src\collectors\ign.py
+- [[PSNProfilesCollector]] - code - harvester\src\collectors\psnprofiles.py
+- [[PSNProfilesCollector — collector per psnprofiles.com.  Guide trophy nella sezion]] - rationale - harvester\src\collectors\psnprofiles.py
+- [[PowerPyxCollector]] - code - harvester\src\collectors\powerpyx.py
+- [[PowerPyxCollector — collector concreto per powerpyx.com.  PowerPyx è il sito di]] - rationale - harvester\src\collectors\powerpyx.py
+- [[_convert_tables_to_text()]] - code - harvester\src\collectors\psnprofiles.py
+- [[_extract_title()_1]] - code - harvester\src\collectors\fextralife.py
+- [[_extract_title()_2]] - code - harvester\src\collectors\ign.py
+- [[_extract_title()_3]] - code - harvester\src\collectors\powerpyx.py
+- [[_extract_title()_4]] - code - harvester\src\collectors\psnprofiles.py
+- [[_normalize_whitespace()_1]] - code - harvester\src\collectors\fextralife.py
+- [[_normalize_whitespace()_2]] - code - harvester\src\collectors\ign.py
+- [[_normalize_whitespace()_3]] - code - harvester\src\collectors\powerpyx.py
+- [[_normalize_whitespace()_4]] - code - harvester\src\collectors\psnprofiles.py
+- [[_parse_url_slug()]] - code - harvester\src\collectors\fextralife.py
+- [[_parse_url_slug()_1]] - code - harvester\src\collectors\ign.py
+- [[_parse_url_slug()_2]] - code - harvester\src\collectors\powerpyx.py
+- [[_parse_url_slug()_3]] - code - harvester\src\collectors\psnprofiles.py
+- [[fextralife.py]] - code - harvester\src\collectors\fextralife.py
+- [[fextralife.py_1]] - code - il-platinatore-ai\harvester\src\collectors\fextralife.py
+- [[ign.py]] - code - harvester\src\collectors\ign.py
+- [[ign.py_1]] - code - il-platinatore-ai\harvester\src\collectors\ign.py
+- [[powerpyx.py]] - code - harvester\src\collectors\powerpyx.py
+- [[powerpyx.py_1]] - code - il-platinatore-ai\harvester\src\collectors\powerpyx.py
+- [[psnprofiles.py]] - code - harvester\src\collectors\psnprofiles.py
+- [[psnprofiles.py_1]] - code - il-platinatore-ai\harvester\src\collectors\psnprofiles.py
 
 ## Live Query (requires Dataview plugin)
 
@@ -56,3 +64,18 @@ members: 39
 TABLE source_file, type FROM #community/RAG_Architecture_Concepts
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Community 35]]
+- 1 edge to [[_COMMUNITY_Fandom Collector]]
+- 1 edge to [[_COMMUNITY_LLM Synthesizer]]
+- 1 edge to [[_COMMUNITY_Community 36]]
+- 1 edge to [[_COMMUNITY_Reddit Collector]]
+- 1 edge to [[_COMMUNITY_Community 33]]
+- 1 edge to [[_COMMUNITY_Community 41]]
+- 1 edge to [[_COMMUNITY_Community 37]]
+- 1 edge to [[_COMMUNITY_YouTube Collector]]
+- 1 edge to [[_COMMUNITY_Test Fandom Collector]]
+
+## Top bridge nodes
+- [[BaseCollector_1]] - degree 14, connects to 10 communities

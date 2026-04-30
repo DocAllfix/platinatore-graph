@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\pipeline.py"
 type: "rationale"
-community: "Harvester Pipeline"
+community: "Test: Base Collector"
 location: "L427"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Harvester_Pipeline
+  - community/Test:_Base_Collector
 ---
 
 # Discovery + collect di Steam Community Guides per un gioco.          Richiede `g
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.process_steam_community_guides()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Harvester_Pipeline
+#graphify/rationale #graphify/EXTRACTED #community/Test:_Base_Collector

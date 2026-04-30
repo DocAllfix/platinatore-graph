@@ -1,24 +1,24 @@
 ---
 type: community
-cohesion: 0.50
+cohesion: 0.28
 members: 9
 ---
 
 # Community 54
 
-**Cohesion:** 0.50 - moderately connected
+**Cohesion:** 0.28 - loosely connected
 **Members:** 9 nodes
 
 ## Members
-- [[_clearFromRemoveQueue()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
-- [[addToRemoveQueue()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
-- [[dispatch()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
-- [[genId()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
-- [[reducer()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
-- [[toast()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
-- [[use-toast.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
-- [[use-toast.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
-- [[useToast()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx
+- [[.load_seed_file()]] - code - harvester\src\discovery\seed_loader.py
+- [[.seed_database()]] - code - harvester\src\discovery\seed_loader.py
+- [[Legge e valida un file JSON seed. Ritorna la lista di giochi.]] - rationale - harvester\src\discovery\seed_loader.py
+- [[Legge file JSON seed e upserta giochi nel DB con alias.]] - rationale - harvester\src\discovery\seed_loader.py
+- [[SeedLoader]] - code - harvester\src\discovery\seed_loader.py
+- [[SeedLoader — carica un file JSON seed e popola il catalogo giochi nel DB.  Forma]] - rationale - harvester\src\discovery\seed_loader.py
+- [[Upserta tutti i giochi del seed file nel DB.          Per ogni gioco         -]] - rationale - harvester\src\discovery\seed_loader.py
+- [[seed_loader.py]] - code - harvester\src\discovery\seed_loader.py
+- [[seed_loader.py_1]] - code - il-platinatore-ai\harvester\src\discovery\seed_loader.py
 
 ## Live Query (requires Dataview plugin)
 

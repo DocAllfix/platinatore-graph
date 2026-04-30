@@ -1,27 +1,26 @@
 ---
 type: community
-cohesion: 0.27
-members: 12
+cohesion: 0.35
+members: 11
 ---
 
 # Community 42
 
-**Cohesion:** 0.27 - loosely connected
-**Members:** 12 nodes
+**Cohesion:** 0.35 - loosely connected
+**Members:** 11 nodes
 
 ## Members
-- [[.extract()_10]] - code - harvester\src\collectors\trueachievements.py
-- [[Collassa spazi multipli e normalizza newline._2]] - rationale - harvester\src\collectors\trueachievements.py
-- [[Collector per guide achievement su trueachievements.com.]] - rationale - harvester\src\collectors\trueachievements.py
-- [[Estrae game_name dall'URL TrueAchievements.      Formati tipici       - gamee]] - rationale - harvester\src\collectors\trueachievements.py
-- [[Estrae titolo, lista achievement e testo da TrueAchievements.          Ritorna N]] - rationale - harvester\src\collectors\trueachievements.py
-- [[TrueAchievementsCollector]] - code - harvester\src\collectors\trueachievements.py
-- [[TrueAchievementsCollector — collector per trueachievements.com.  Guide achieveme]] - rationale - harvester\src\collectors\trueachievements.py
-- [[_extract_title()_6]] - code - harvester\src\collectors\trueachievements.py
-- [[_normalize_whitespace()_6]] - code - harvester\src\collectors\trueachievements.py
-- [[_parse_game_name_from_url()]] - code - harvester\src\collectors\trueachievements.py
-- [[trueachievements.py]] - code - harvester\src\collectors\trueachievements.py
-- [[trueachievements.py_1]] - code - il-platinatore-ai\harvester\src\collectors\trueachievements.py
+- [[B()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[D()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[Q()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[a()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[c()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[g()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[i()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[k()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[o()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[prettify.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[y()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,9 +28,3 @@ members: 12
 TABLE source_file, type FROM #community/Community_42
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Fextralife Collector]]
-
-## Top bridge nodes
-- [[TrueAchievementsCollector]] - degree 5, connects to 1 community

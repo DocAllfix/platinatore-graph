@@ -1,41 +1,42 @@
 ---
 type: community
-cohesion: 0.10
-members: 26
+cohesion: 0.11
+members: 27
 ---
 
 # Test: PSN Fetcher
 
-**Cohesion:** 0.10 - loosely connected
-**Members:** 26 nodes
+**Cohesion:** 0.11 - loosely connected
+**Members:** 27 nodes
 
 ## Members
-- [[.test_calls_execute_for_each_trophy()]] - code - harvester\tests\test_psn_fetcher.py
-- [[.test_empty_list_returns_zero()]] - code - harvester\tests\test_psn_fetcher.py
-- [[.test_failed_language_is_skipped()]] - code - harvester\tests\test_psn_fetcher.py
-- [[.test_multilang_fields_mapped_correctly()]] - code - harvester\tests\test_psn_fetcher.py
-- [[.test_parses_response_correctly()]] - code - harvester\tests\test_psn_fetcher.py
-- [[.test_returns_false_when_npsso_empty()]] - code - harvester\tests\test_psn_fetcher.py
-- [[.test_returns_true_from_redis_cache()]] - code - harvester\tests\test_psn_fetcher.py
-- [[.test_upsert_uses_name_en_as_name()]] - code - harvester\tests\test_psn_fetcher.py
-- [[Crea una mock httpx.Response con la struttura PSN Trophy API.]] - rationale - harvester\tests\test_psn_fetcher.py
-- [[I nomi multilingua sono mappati ai campi name_XX corretti.]] - rationale - harvester\tests\test_psn_fetcher.py
-- [[Test per PsnTrophyFetcher — tutto mockato, zero chiamate PSN reali.]] - rationale - harvester\tests\test_psn_fetcher.py
-- [[TestAuthenticate]] - code - harvester\tests\test_psn_fetcher.py
-- [[TestFetchGameTrophies]] - code - harvester\tests\test_psn_fetcher.py
-- [[TestUpsertTrophies]] - code - harvester\tests\test_psn_fetcher.py
-- [[Trophy fixture con tutti i campi PSN.]] - rationale - harvester\tests\test_psn_fetcher.py
-- [[Una lingua che fallisce non blocca le altre.]] - rationale - harvester\tests\test_psn_fetcher.py
-- [[_make_psn_response()]] - code - harvester\tests\test_psn_fetcher.py
-- [[_sample_trophy()]] - code - harvester\tests\test_psn_fetcher.py
-- [[authenticate() ritorna False e logga warning se PSN_NPSSO è vuoto.]] - rationale - harvester\tests\test_psn_fetcher.py
-- [[authenticate() ritorna True usando il token cachato in Redis.]] - rationale - harvester\tests\test_psn_fetcher.py
-- [[fetch_game_trophies() parsa la risposta PSN e mergia le 10 lingue.]] - rationale - harvester\tests\test_psn_fetcher.py
-- [[test_psn_fetcher.py]] - code - harvester\tests\test_psn_fetcher.py
-- [[test_psn_fetcher.py_1]] - code - il-platinatore-ai\harvester\tests\test_psn_fetcher.py
-- [[upsert_trophies() chiama execute() una volta per trofeo.]] - rationale - harvester\tests\test_psn_fetcher.py
-- [[upsert_trophies() con lista vuota ritorna 0 senza chiamare execute.]] - rationale - harvester\tests\test_psn_fetcher.py
-- [[upsert_trophies() usa name_en come valore per la colonna name (NOT NULL).]] - rationale - harvester\tests\test_psn_fetcher.py
+- [[.__init__()_1]] - code - harvester\src\collectors\base.py
+- [[.__init__()]] - code - harvester\src\collectors\base.py
+- [[._is_allowed()]] - code - harvester\src\collectors\base.py
+- [[._load_robots()]] - code - harvester\src\collectors\base.py
+- [[._respect_delay()]] - code - harvester\src\collectors\base.py
+- [[.acquire()]] - code - harvester\src\collectors\base.py
+- [[.close()]] - code - harvester\src\collectors\base.py
+- [[.collect()]] - code - harvester\src\collectors\base.py
+- [[.fetch()]] - code - harvester\src\collectors\base.py
+- [[ABC]] - code
+- [[Aspetta almeno settings.scrape_delay_seconds tra richieste allo stesso dominio.]] - rationale - harvester\src\collectors\base.py
+- [[Attende fino a quando un token è disponibile per host.]] - rationale - harvester\src\collectors\base.py
+- [[BaseCollector]] - code - harvester\src\collectors\base.py
+- [[BaseCollector — classe astratta per tutti i collector dell'Infinite Ingestion En]] - rationale - harvester\src\collectors\base.py
+- [[Calcola SHA-256 di text e ritorna l'hash esadecimale.]] - rationale - harvester\src\collectors\base.py
+- [[Chiude il client httpx.]] - rationale - harvester\src\collectors\base.py
+- [[Classe astratta da cui ereditano tutti i collector.      Sottoclassi DEVONO defi]] - rationale - harvester\src\collectors\base.py
+- [[PerHostTokenBucket]] - code - harvester\src\collectors\base.py
+- [[Pipeline completa fetch → extract.  Ritorna i dati strutturati o None.]] - rationale - harvester\src\collectors\base.py
+- [[Rate limiter per-host con algoritmo token bucket.      rate = 0.33 → max 1 richi]] - rationale - harvester\src\collectors\base.py
+- [[Scarica e parsa robots.txt del dominio.  Fail-open se non raggiungibile.]] - rationale - harvester\src\collectors\base.py
+- [[Scarica una pagina rispettando rate limit globale e per-host.          Ritorna i]] - rationale - harvester\src\collectors\base.py
+- [[Verifica se url è permesso da robots.txt.  Fail-open se non caricato.]] - rationale - harvester\src\collectors\base.py
+- [[base.py]] - code - harvester\src\collectors\base.py
+- [[base.py_1]] - code - il-platinatore-ai\harvester\src\collectors\base.py
+- [[compute_hash()]] - code - harvester\src\collectors\base.py
+- [[extract()]] - code - harvester\src\collectors\base.py
 
 ## Live Query (requires Dataview plugin)
 

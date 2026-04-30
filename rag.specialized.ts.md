@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\backend\src\services\rag.specialized.ts"
 type: "code"
-community: "Community 70"
+community: "Community 69"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_70
+  - community/Community_69
 ---
 
 # rag.specialized.ts
@@ -18,4 +18,4 @@ tags:
 - [[runTopicQuery()]] - `contains` [EXTRACTED]
 - [[runTrophyQuery()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_70
+#graphify/code #graphify/EXTRACTED #community/Community_69

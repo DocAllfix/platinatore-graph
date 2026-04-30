@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\base.py"
 type: "code"
-community: "Base Collector ABC"
+community: "Test: PSN Fetcher"
 location: "L29"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Base_Collector_ABC
+  - community/Test:_PSN_Fetcher
 ---
 
 # PerHostTokenBucket
@@ -18,4 +18,4 @@ tags:
 - [[base.py]] - `contains` [EXTRACTED]
 - [[base.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Base_Collector_ABC
+#graphify/code #graphify/EXTRACTED #community/Test:_PSN_Fetcher

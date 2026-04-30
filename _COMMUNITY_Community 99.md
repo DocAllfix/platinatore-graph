@@ -10,10 +10,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[GuideChecklist()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideChecklist.jsx
-- [[GuideChecklist.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideChecklist.jsx
-- [[GuideChecklist.jsx_1]] - code - il-platinatore-ai\frontend\src\components\chat\GuideChecklist.jsx
-- [[parseSteps()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideChecklist.jsx
+- [[DialogFooter()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\dialog.jsx
+- [[DialogHeader()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\dialog.jsx
+- [[dialog.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\dialog.jsx
+- [[dialog.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\dialog.jsx
 
 ## Live Query (requires Dataview plugin)
 

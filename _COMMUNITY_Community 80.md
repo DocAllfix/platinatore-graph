@@ -1,20 +1,20 @@
 ---
 type: community
-cohesion: 0.80
+cohesion: 0.50
 members: 5
 ---
 
 # Community 80
 
-**Cohesion:** 0.80 - tightly connected
+**Cohesion:** 0.50 - moderately connected
 **Members:** 5 nodes
 
 ## Members
-- [[auth.csrf.ts]] - code - backend\src\services\auth.csrf.ts
-- [[auth.csrf.ts_1]] - code - il-platinatore-ai\backend\src\services\auth.csrf.ts
-- [[hmacHex()]] - code - backend\src\services\auth.csrf.ts
-- [[makeCsrfToken()]] - code - backend\src\services\auth.csrf.ts
-- [[verifyCsrfToken()]] - code - backend\src\services\auth.csrf.ts
+- [[buildPayload()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.ts
+- [[makeDraft()_2]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.test.ts
+- [[notification.service.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.test.ts
+- [[notification.service.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.ts
+- [[notifyNewDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.ts
 
 ## Live Query (requires Dataview plugin)
 

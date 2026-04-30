@@ -1,20 +1,20 @@
 ---
 type: community
-cohesion: 0.70
+cohesion: 0.60
 members: 5
 ---
 
 # Community 77
 
-**Cohesion:** 0.70 - tightly connected
+**Cohesion:** 0.60 - moderately connected
 **Members:** 5 nodes
 
 ## Members
-- [[block-navigation.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\block-navigation.js
-- [[goToNext()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\block-navigation.js
-- [[goToPrevious()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\block-navigation.js
-- [[makeCurrent()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\block-navigation.js
-- [[toggleClass()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\block-navigation.js
+- [[database.ts]] - code - backend\src\config\database.ts
+- [[database.ts_1]] - code - il-platinatore-ai\backend\src\config\database.ts
+- [[getClient()]] - code - backend\src\config\database.ts
+- [[query()]] - code - backend\src\config\database.ts
+- [[testConnection()]] - code - backend\src\config\database.ts
 
 ## Live Query (requires Dataview plugin)
 

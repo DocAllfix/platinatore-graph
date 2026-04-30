@@ -10,10 +10,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[BreadcrumbEllipsis()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\breadcrumb.jsx
-- [[BreadcrumbSeparator()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\breadcrumb.jsx
-- [[breadcrumb.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\breadcrumb.jsx
-- [[breadcrumb.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\breadcrumb.jsx
+- [[ResizableHandle()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\resizable.jsx
+- [[ResizablePanelGroup()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\resizable.jsx
+- [[resizable.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\resizable.jsx
+- [[resizable.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\resizable.jsx
 
 ## Live Query (requires Dataview plugin)
 

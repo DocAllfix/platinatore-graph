@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\harvester\tests\test_psn_fetcher.py"
 type: "code"
-community: "Test: PSN Fetcher"
+community: "Guide Search Collector"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test:_PSN_Fetcher
+  - community/Guide_Search_Collector
 ---
 
 # test_psn_fetcher.py
@@ -19,4 +19,4 @@ tags:
 - [[_make_psn_response()]] - `contains` [EXTRACTED]
 - [[_sample_trophy()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test:_PSN_Fetcher
+#graphify/code #graphify/EXTRACTED #community/Guide_Search_Collector

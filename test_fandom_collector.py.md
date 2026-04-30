@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_fandom_collector.py"
 type: "code"
-community: "Test: Fandom Collector"
+community: "Bulk Seed CLI"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Test:_Fandom_Collector
+  - community/Bulk_Seed_CLI
 ---
 
 # test_fandom_collector.py
@@ -41,4 +41,4 @@ tags:
 - [[test_strip_html_empty()]] - `contains` [EXTRACTED]
 - [[test_strip_html_removes_tags()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Test:_Fandom_Collector
+#graphify/code #graphify/EXTRACTED #community/Bulk_Seed_CLI

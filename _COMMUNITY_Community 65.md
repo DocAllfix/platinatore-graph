@@ -1,22 +1,22 @@
 ---
 type: community
-cohesion: 0.52
+cohesion: 0.48
 members: 7
 ---
 
 # Community 65
 
-**Cohesion:** 0.52 - moderately connected
+**Cohesion:** 0.48 - moderately connected
 **Members:** 7 nodes
 
 ## Members
-- [[AskAIPopover()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
-- [[GuideRenderer()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
-- [[GuideRenderer.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
-- [[GuideRenderer.jsx_1]] - code - il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
-- [[GuideText()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
-- [[RichInlineText()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
-- [[getGameIcon()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
+- [[Pagination()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
+- [[PaginationEllipsis()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
+- [[PaginationLink()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
+- [[PaginationNext()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
+- [[PaginationPrevious()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
+- [[pagination.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\pagination.jsx
+- [[pagination.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\pagination.jsx
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\base.py"
 type: "rationale"
-community: "Base Collector ABC"
+community: "Test: PSN Fetcher"
 location: "L30"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Base_Collector_ABC
+  - community/Test:_PSN_Fetcher
 ---
 
 # Rate limiter per-host con algoritmo token bucket.      rate = 0.33 → max 1 richi
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[PerHostTokenBucket]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Base_Collector_ABC
+#graphify/rationale #graphify/EXTRACTED #community/Test:_PSN_Fetcher

@@ -10,10 +10,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[ResizableHandle()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\resizable.jsx
-- [[ResizablePanelGroup()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\resizable.jsx
-- [[resizable.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\resizable.jsx
-- [[resizable.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\resizable.jsx
+- [[AuthProvider()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useAuth.js
+- [[useAuth()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useAuth.js
+- [[useAuth.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useAuth.js
+- [[useAuth.js_1]] - code - il-platinatore-ai\frontend\src\hooks\useAuth.js
 
 ## Live Query (requires Dataview plugin)
 

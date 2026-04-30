@@ -1,26 +1,26 @@
 ---
 type: community
-cohesion: 0.35
+cohesion: 0.33
 members: 11
 ---
 
 # Community 43
 
-**Cohesion:** 0.35 - loosely connected
+**Cohesion:** 0.33 - loosely connected
 **Members:** 11 nodes
 
 ## Members
-- [[B()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
-- [[D()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
-- [[Q()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
-- [[a()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
-- [[c()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
-- [[g()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
-- [[i()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
-- [[k()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
-- [[o()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
-- [[prettify.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
-- [[y()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js
+- [[assembleUserContext()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\prompt.builder.ts
+- [[buildChallenge()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\prompt.builder.ts
+- [[buildCollectible()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\prompt.builder.ts
+- [[buildPlatinum()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\prompt.builder.ts
+- [[buildPrompt()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\prompt.builder.ts
+- [[buildTrophy()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\prompt.builder.ts
+- [[buildWalkthrough()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\prompt.builder.ts
+- [[formatPsnAnchor()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\prompt.builder.ts
+- [[formatPsnOfficial()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\prompt.builder.ts
+- [[prompt.builder.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\prompt.builder.ts
+- [[sanitizeUserQuery()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\prompt.builder.ts
 
 ## Live Query (requires Dataview plugin)
 

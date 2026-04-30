@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\exophase.py"
 type: "rationale"
-community: "Community 36"
+community: "Community 35"
 location: "L56"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_36
+  - community/Community_35
 ---
 
 # Estrae trofei e descrizioni dall'HTML di Exophase.          Ritorna None se la p
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.extract()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_36
+#graphify/rationale #graphify/EXTRACTED #community/Community_35

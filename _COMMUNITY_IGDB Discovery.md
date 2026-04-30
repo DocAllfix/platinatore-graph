@@ -1,53 +1,54 @@
 ---
 type: community
-cohesion: 0.08
-members: 38
+cohesion: 0.07
+members: 39
 ---
 
 # IGDB Discovery
 
-**Cohesion:** 0.08 - loosely connected
-**Members:** 38 nodes
+**Cohesion:** 0.07 - loosely connected
+**Members:** 39 nodes
 
 ## Members
-- [[.__init__()_5]] - code - harvester\src\discovery\igdb.py
-- [[._get_token()]] - code - harvester\src\discovery\igdb.py
-- [[._ingest_game()]] - code - harvester\src\discovery\igdb.py
-- [[._insert_aliases()]] - code - harvester\src\discovery\igdb.py
-- [[._query()]] - code - harvester\src\discovery\igdb.py
-- [[.check_released_upcoming()]] - code - harvester\src\discovery\igdb.py
-- [[.close()_1]] - code - harvester\src\discovery\igdb.py
-- [[.discover_all_games()]] - code - harvester\src\discovery\igdb.py
-- [[.discover_popular_and_new()]] - code - harvester\src\discovery\igdb.py
-- [[.discover_upcoming()]] - code - harvester\src\discovery\igdb.py
-- [[.fetch_game_details()]] - code - harvester\src\discovery\igdb.py
-- [[.fetch_games()]] - code - harvester\src\discovery\igdb.py
-- [[.fetch_new_releases()]] - code - harvester\src\discovery\igdb.py
-- [[.fetch_popular()]] - code - harvester\src\discovery\igdb.py
-- [[.fetch_upcoming()]] - code - harvester\src\discovery\igdb.py
-- [[.resolve_steam_appids()]] - code - harvester\src\discovery\igdb.py
-- [[Chiude il client httpx._1]] - rationale - harvester\src\discovery\igdb.py
-- [[Client IGDB per discovery automatica giochi e popolamento catalogo DB.]] - rationale - harvester\src\discovery\igdb.py
-- [[Controlla se giochi in upcoming_games sono stati rilasciati.          Per ogni u]] - rationale - harvester\src\discovery\igdb.py
-- [[Esegue una query POST su un endpoint IGDB e ritorna la risposta JSON.]] - rationale - harvester\src\discovery\igdb.py
-- [[IGDBDiscovery]] - code - harvester\src\discovery\igdb.py
-- [[IGDBDiscovery — popola il catalogo giochi via IGDB API v4.  Autenticazione Twit]] - rationale - harvester\src\discovery\igdb.py
-- [[Inserisce alias per il gioco titolo completo + slug IGDB.]] - rationale - harvester\src\discovery\igdb.py
-- [[Inserisce un gioco da dati IGDB se non già presente.          Salva igdb_id sia]] - rationale - harvester\src\discovery\igdb.py
-- [[Recupera giochi IGDB per le piattaforme indicate.          IGDB usa POST con bod]] - rationale - harvester\src\discovery\igdb.py
-- [[Recupera giochi upcoming con alto hypefollowing.          status=2 = alpha, 3]] - rationale - harvester\src\discovery\igdb.py
-- [[Recupera giochi usciti negli ultimi N giorni per piattaforma.          Usa l'end]] - rationale - harvester\src\discovery\igdb.py
-- [[Recupera i dettagli dei giochi per una lista di IGDB IDs.]] - rationale - harvester\src\discovery\igdb.py
-- [[Recupera i giochi più giocati via popularity_primitives.          popularity_typ]] - rationale - harvester\src\discovery\igdb.py
-- [[Risolve steam_appid per giochi con igdb_id ma senza steam_appid.          Usa l']] - rationale - harvester\src\discovery\igdb.py
-- [[Ritorna il token Twitch OAuth, richiedendolorinnovandolo se scaduto.]] - rationale - harvester\src\discovery\igdb.py
-- [[Scarica tutti i giochi IGDB per le piattaforme e li inserisce nel DB.          P]] - rationale - harvester\src\discovery\igdb.py
-- [[Scopre giochi popolari e nuove uscite, li inserisce in games.          Ritorna s]] - rationale - harvester\src\discovery\igdb.py
-- [[Scopre giochi upcoming e li salva in upcoming_games.          Non li mette in ga]] - rationale - harvester\src\discovery\igdb.py
-- [[_accept_game()]] - code - harvester\src\discovery\igdb.py
-- [[_map_platform_ids()]] - code - harvester\src\discovery\igdb.py
-- [[igdb.py]] - code - harvester\src\discovery\igdb.py
-- [[igdb.py_1]] - code - il-platinatore-ai\harvester\src\discovery\igdb.py
+- [[Chat page (SSE streaming)]] - code - il-platinatore-ai/frontend/src/pages/Chat.jsx
+- [[Chat.handleSend (api.guideStream)]] - code - il-platinatore-ai/frontend/src/pages/Chat.jsx
+- [[Frontend App.jsx router]] - code - il-platinatore-ai/frontend/src/App.jsx
+- [[Frontend README (Vite+React)]] - document - il-platinatore-ai/frontend/README.md
+- [[GuideType taxonomy (5 fissi migration 004)]] - document - il-platinatore-ai/backend/src/services/prompt.builder.ts
+- [[Harvester README]] - document - il-platinatore-ai/harvester/README.md
+- [[Login page]] - code - il-platinatore-ai/frontend/src/pages/Login.jsx
+- [[PSN anchor anti-hallucination pattern]] - document - il-platinatore-ai/backend/src/services/prompt.builder.ts
+- [[PasswordStrength component]] - code - il-platinatore-ai/frontend/src/pages/Register.jsx
+- [[Project README]] - document - il-platinatore-ai/README.md
+- [[Prompt injection sanitization defense]] - document - il-platinatore-ai/backend/src/services/prompt.builder.ts
+- [[RAG hybrid pipeline (HNSW + RRF)]] - document - il-platinatore-ai/README.md
+- [[Register page]] - code - il-platinatore-ai/frontend/src/pages/Register.jsx
+- [[SSE streaming chat UX (chunked bubble)]] - document - il-platinatore-ai/frontend/src/pages/Chat.jsx
+- [[SYSTEM_CORE invariants prompt fence]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
+- [[Section GuideType taxonomy (5 fissi)]] - document - il-platinatore-ai/ARCHITECTURE.md
+- [[Section PSN anchor anti-hallucination]] - document - il-platinatore-ai/ARCHITECTURE.md
+- [[Section Prompt injection sanitization]] - document - il-platinatore-ai/ARCHITECTURE.md
+- [[Section Tavily daily request cap]] - document - il-platinatore-ai/ARCHITECTURE.md
+- [[TRUSTED_DOMAINS allowlist]] - code - il-platinatore-ai/backend/src/services/scraper.client.ts
+- [[Tavily daily request cap (Redis incr)]] - document - il-platinatore-ai/backend/src/services/scraper.client.ts
+- [[Vitest setup ioredis-mock]] - code - il-platinatore-ai/backend/tests/setup.ts
+- [[assembleUserContext]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
+- [[buildChallenge template]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
+- [[buildCollectible template]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
+- [[buildPlatinum template]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
+- [[buildPrompt dispatcher]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
+- [[buildPromptContext]] - code - il-platinatore-ai/backend/src/services/orchestrator.shared.ts
+- [[buildTrophy template]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
+- [[buildWalkthrough template]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
+- [[callTavily]] - code - il-platinatore-ai/backend/src/services/scraper.client.ts
+- [[checkDailyLimit (Redis daily cap)]] - code - il-platinatore-ai/backend/src/services/scraper.client.ts
+- [[fetchScrapedContext (Tavily)]] - code - il-platinatore-ai/backend/src/services/scraper.client.ts
+- [[formatPsnAnchor]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
+- [[formatPsnOfficial]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
+- [[il-platinatore-ai CLAUDE.md (graphify rules)]] - document - il-platinatore-ai/CLAUDE.md
+- [[isTrusted domain check]] - code - il-platinatore-ai/backend/src/services/scraper.client.ts
+- [[reliabilityScore]] - code - il-platinatore-ai/backend/src/services/scraper.client.ts
+- [[sanitizeUserQuery (anti-injection)]] - code - il-platinatore-ai/backend/src/services/prompt.builder.ts
 
 ## Live Query (requires Dataview plugin)
 
@@ -55,3 +56,9 @@ members: 38
 TABLE source_file, type FROM #community/IGDB_Discovery
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 2 edges to [[_COMMUNITY_Fextralife Collector]]
+
+## Top bridge nodes
+- [[buildPromptContext]] - degree 7, connects to 1 community

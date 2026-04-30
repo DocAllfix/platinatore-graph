@@ -1,39 +1,39 @@
 ---
 type: community
-cohesion: 0.11
+cohesion: 0.12
 members: 24
 ---
 
 # Backend Auth/Security Concepts
 
-**Cohesion:** 0.11 - loosely connected
+**Cohesion:** 0.12 - loosely connected
 **Members:** 24 nodes
 
 ## Members
-- [[Auth Routes]] - code - il-platinatore-ai/backend/src/routes/auth.routes.ts
-- [[Draft FSM (draft-revision-pending-approved-published)]] - code - il-platinatore-ai/backend/src/models/guideDrafts.model.ts
-- [[Draft Routes]] - code - il-platinatore-ai/backend/src/routes/draft.routes.ts
-- [[Env Config Zod Schema]] - code - il-platinatore-ai/backend/src/config/env.ts
-- [[Express App Bootstrap (index.ts)]] - code - il-platinatore-ai/backend/src/index.ts
-- [[GameStats Routes]] - code - il-platinatore-ai/backend/src/routes/gameStats.routes.ts
-- [[Guide Routes (RAG)]] - code - il-platinatore-ai/backend/src/routes/guide.routes.ts
-- [[GuideDrafts Model]] - code - il-platinatore-ai/backend/src/models/guideDrafts.model.ts
-- [[GuideDrafts Model Tests]] - code - il-platinatore-ai/backend/src/models/guideDrafts.model.test.ts
-- [[IDOR Guard via WHERE user_id]] - code - il-platinatore-ai/backend/src/models/userGameStats.model.ts
-- [[JWT + CSRF + Refresh Token Pair]] - code - il-platinatore-ai/backend/src/routes/auth.routes.ts
-- [[PgBouncer Connection (port 6432)]] - code - il-platinatore-ai/backend/src/config/env.ts
-- [[RateLimiter Tests]] - code - il-platinatore-ai/backend/src/middleware/rateLimiter.test.ts
-- [[Ratings Model]] - code - il-platinatore-ai/backend/src/models/ratings.model.ts
-- [[Ratings Model Tests]] - code - il-platinatore-ai/backend/src/models/ratings.model.test.ts
-- [[Redis Lua Sliding Window Rate Limit]] - code - il-platinatore-ai/backend/src/middleware/rateLimiter.test.ts
-- [[SSE Dual Response (cache HIT JSON  MISS SSE)]] - code - il-platinatore-ai/backend/src/routes/guide.routes.ts
-- [[UserGameStats Model]] - code - il-platinatore-ai/backend/src/models/userGameStats.model.ts
-- [[UserGameStats Model Tests]] - code - il-platinatore-ai/backend/src/models/userGameStats.model.test.ts
-- [[Users Model]] - code - il-platinatore-ai/backend/src/models/users.model.ts
-- [[Users Model Tests]] - code - il-platinatore-ai/backend/src/models/users.model.test.ts
-- [[Vitest Integration Test Config]] - code - il-platinatore-ai/backend/vitest.integration.config.ts
-- [[Vitest Unit Test Config]] - code - il-platinatore-ai/backend/vitest.config.ts
-- [[Zod Strict Schema Validation]] - code - il-platinatore-ai/backend/src/config/env.ts
+- [[.__init__()_13]] - code - harvester\src\transformer\synthesizer.py
+- [[._call_deepseek()]] - code - harvester\src\transformer\synthesizer.py
+- [[._call_gemini()]] - code - harvester\src\transformer\synthesizer.py
+- [[._call_llm()]] - code - harvester\src\transformer\synthesizer.py
+- [[._check_daily_limit()_1]] - code - harvester\src\transformer\synthesizer.py
+- [[.extract_facts()]] - code - harvester\src\transformer\synthesizer.py
+- [[.synthesize_guide()]] - code - harvester\src\transformer\synthesizer.py
+- [[.transform()]] - code - harvester\src\transformer\synthesizer.py
+- [[Chiamata DeepSeek sincrona via OpenAI-compatible SDK.]] - rationale - harvester\src\transformer\synthesizer.py
+- [[Chiamata Gemini sincrona via google-genai SDK.]] - rationale - harvester\src\transformer\synthesizer.py
+- [[Dispatch al provider configurato.]] - rationale - harvester\src\transformer\synthesizer.py
+- [[Estrae fatti atomici dai testi grezzi. None se quota o parsing KO.]] - rationale - harvester\src\transformer\synthesizer.py
+- [[GuideSynthesizer]] - code - harvester\src\transformer\synthesizer.py
+- [[GuideSynthesizer — pipeline multi-provider extract_facts → synthesize_guide.  P]] - rationale - harvester\src\transformer\synthesizer.py
+- [[Pipeline completa extract_facts → synthesize_guide.]] - rationale - harvester\src\transformer\synthesizer.py
+- [[Reset del contatore se cambia giorno; False se limite superato.]] - rationale - harvester\src\transformer\synthesizer.py
+- [[Rimuove eventuali ```json ... ``` fences.      Usa search() invece di match() pe]] - rationale - harvester\src\transformer\synthesizer.py
+- [[Rimuove eventuali ```markdown ... ``` fences dal testo sintetizzato.]] - rationale - harvester\src\transformer\synthesizer.py
+- [[Sintetizza una guida markdown dai fatti. None se quota o formato KO.]] - rationale - harvester\src\transformer\synthesizer.py
+- [[Wrapper multi-provider per estrazione fatti + sintesi guide.]] - rationale - harvester\src\transformer\synthesizer.py
+- [[_strip_json_fences()]] - code - harvester\src\transformer\synthesizer.py
+- [[_strip_markdown_fences()]] - code - harvester\src\transformer\synthesizer.py
+- [[synthesizer.py]] - code - harvester\src\transformer\synthesizer.py
+- [[synthesizer.py_1]] - code - il-platinatore-ai\harvester\src\transformer\synthesizer.py
 
 ## Live Query (requires Dataview plugin)
 

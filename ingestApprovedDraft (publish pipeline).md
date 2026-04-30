@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/src/services/ingestion.service.ts"
 type: "code"
-community: "Bulk Seed CLI"
+community: "Fextralife Collector"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Bulk_Seed_CLI
+  - community/Fextralife_Collector
 ---
 
 # ingestApprovedDraft (publish pipeline)
@@ -17,4 +17,4 @@ tags:
 - [[enqueuePendingGuides (cursor pagination)]] - `shares_data_with` [INFERRED]
 - [[validateDraft (5-layer validation)]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Bulk_Seed_CLI
+#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector

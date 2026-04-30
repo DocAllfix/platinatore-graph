@@ -1,44 +1,45 @@
 ---
 type: community
-cohesion: 0.10
-members: 29
+cohesion: 0.13
+members: 30
 ---
 
 # Bulk Seed CLI
 
-**Cohesion:** 0.10 - loosely connected
-**Members:** 29 nodes
+**Cohesion:** 0.13 - loosely connected
+**Members:** 30 nodes
 
 ## Members
-- [[Checkpoint (resume on .checkpoint.json)]] - code - il-platinatore-ai/backend/src/scripts/bulk-seed.ts
-- [[Fail-open pattern (degrade graceful)]] - code - il-platinatore-ai/backend/src/services/orchestrator.service.ts
-- [[Idempotency via ON CONFLICT DO NOTHING]] - code - il-platinatore-ai/backend/src/scripts/bulk-seed.ts
-- [[Phase 23 — HITL Self-Learning RAG]] - code - il-platinatore-ai/backend/src/services/draft.service.ts
-- [[appendConvStategetConvHistory (Redis TTL)]] - code - il-platinatore-ai/backend/src/services/draft.service.ts
-- [[approveDraft]] - code - il-platinatore-ai/backend/src/services/draft.service.ts
-- [[buildGuideSlug (slug + UUID8 suffix)]] - code - il-platinatore-ai/backend/src/services/ingestion.service.ts
-- [[buildSlug()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
-- [[bulk-seed.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.test.ts
-- [[bulk-seed.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
-- [[clearCheckpoint()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
-- [[createDraft (HITL + Redis convo)]] - code - il-platinatore-ai/backend/src/services/draft.service.ts
-- [[enqueuePendingGuides (cursor pagination)]] - code - il-platinatore-ai/backend/src/scripts/re-embed-pending.ts
-- [[guideRecordSchema (Zod JSONL row)]] - code - il-platinatore-ai/backend/src/scripts/bulk-seed.ts
-- [[handleGuideRequest (8-step pipeline)]] - code - il-platinatore-ai/backend/src/services/orchestrator.service.ts
-- [[ingestApprovedDraft (publish pipeline)]] - code - il-platinatore-ai/backend/src/services/ingestion.service.ts
-- [[insertGuideOrSkip (ON CONFLICT slug)]] - code - il-platinatore-ai/backend/src/scripts/bulk-seed.ts
-- [[insertGuideOrSkip()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
-- [[main()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
-- [[notifyNewDraft (fail-open webhook)]] - code - il-platinatore-ai/backend/src/services/notification.service.ts
-- [[parseArgs()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
-- [[readCheckpoint()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
-- [[reviseDraft (LLM iter, MAX=5)]] - code - il-platinatore-ai/backend/src/services/draft.service.ts
-- [[seedBatch (batch insert + fail-open)]] - code - il-platinatore-ai/backend/src/scripts/bulk-seed.ts
-- [[seedBatch()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
-- [[slugify()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
-- [[tryCacheHit (SSE precheck)]] - code - il-platinatore-ai/backend/src/services/orchestrator.service.ts
-- [[validateDraft (5-layer validation)]] - code - il-platinatore-ai/backend/src/services/ingestion.service.ts
-- [[writeCheckpoint()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[Test FandomCollector — tutto mockato, zero rete reale.  Copre HTML stripping, g]] - rationale - harvester\tests\test_fandom_collector.py
+- [[fandom()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_collect_fetch_page_failure_returns_none()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_collect_invalid_url_returns_none()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_collect_valid_url()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_extract_empty_returns_none()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_extract_too_short_returns_none()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_extract_topic_none_when_no_title()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_extract_valid()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_fandom_collector.py]] - code - harvester\tests\test_fandom_collector.py
+- [[test_fandom_collector.py_1]] - code - il-platinatore-ai\harvester\tests\test_fandom_collector.py
+- [[test_fetch_page_returns_data()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_fetch_page_returns_none_on_api_error()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_fetch_page_returns_none_on_fetch_failure()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_fetch_page_returns_none_on_invalid_json()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_infer_guide_type_boss_from_category()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_infer_guide_type_boss_from_title()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_infer_guide_type_build_from_category()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_infer_guide_type_collectible_from_category()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_infer_guide_type_default_when_no_match()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_infer_guide_type_lore_from_category()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_infer_guide_type_trophy_from_category()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_infer_guide_type_walkthrough_from_title()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_search_wiki_returns_empty_on_failure()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_search_wiki_returns_empty_on_invalid_json()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_search_wiki_returns_titles()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_strip_html_collapses_whitespace()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_strip_html_decodes_entities()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_strip_html_empty()]] - code - harvester\tests\test_fandom_collector.py
+- [[test_strip_html_removes_tags()]] - code - harvester\tests\test_fandom_collector.py
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\harvester\src\discovery\igdb.py"
 type: "code"
-community: "IGDB Discovery"
+community: "Harvester Pipeline"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/IGDB_Discovery
+  - community/Harvester_Pipeline
 ---
 
 # igdb.py
@@ -17,4 +17,4 @@ tags:
 - [[_accept_game()]] - `contains` [EXTRACTED]
 - [[_map_platform_ids()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/IGDB_Discovery
+#graphify/code #graphify/EXTRACTED #community/Harvester_Pipeline

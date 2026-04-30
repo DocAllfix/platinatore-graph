@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/README.md"
 type: "document"
-community: "RAG Architecture Concepts"
+community: "IGDB Discovery"
 tags:
   - graphify/document
   - graphify/INFERRED
-  - community/RAG_Architecture_Concepts
+  - community/IGDB_Discovery
 ---
 
 # RAG hybrid pipeline (HNSW + RRF)
@@ -15,4 +15,4 @@ tags:
 - [[buildPrompt dispatcher]] - `rationale_for` [INFERRED]
 - [[fetchScrapedContext (Tavily)]] - `rationale_for` [INFERRED]
 
-#graphify/document #graphify/INFERRED #community/RAG_Architecture_Concepts
+#graphify/document #graphify/INFERRED #community/IGDB_Discovery

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\psnprofiles.py"
 type: "rationale"
-community: "Community 35"
+community: "RAG Architecture Concepts"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_35
+  - community/RAG_Architecture_Concepts
 ---
 
 # PSNProfilesCollector — collector per psnprofiles.com.  Guide trophy nella sezion
@@ -15,4 +15,4 @@ tags:
 - [[psnprofiles.py]] - `rationale_for` [EXTRACTED]
 - [[psnprofiles.py_1]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_35
+#graphify/rationale #graphify/EXTRACTED #community/RAG_Architecture_Concepts

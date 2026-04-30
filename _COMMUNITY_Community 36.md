@@ -10,19 +10,19 @@ members: 13
 **Members:** 13 nodes
 
 ## Members
-- [[.extract()]] - code - harvester\src\collectors\exophase.py
-- [[.guide_url()]] - code - harvester\src\collectors\exophase.py
-- [[Collector per trofeiachievement su exophase.com.]] - rationale - harvester\src\collectors\exophase.py
-- [[Costruisce l'URL della pagina trofei per un gioco.]] - rationale - harvester\src\collectors\exophase.py
-- [[Estrae trofei e descrizioni dall'HTML di Exophase.          Ritorna None se la p]] - rationale - harvester\src\collectors\exophase.py
-- [[ExophaseCollector]] - code - harvester\src\collectors\exophase.py
-- [[ExophaseCollector — collector per exophase.com.  Exophase è un aggregatore di ac]] - rationale - harvester\src\collectors\exophase.py
-- [[Slug per Exophase lowercase + trattini, apostrofi rimossi.]] - rationale - harvester\src\collectors\exophase.py
-- [[_extract_title()]] - code - harvester\src\collectors\exophase.py
-- [[_normalize_whitespace()]] - code - harvester\src\collectors\exophase.py
-- [[_slugify_exophase()]] - code - harvester\src\collectors\exophase.py
-- [[exophase.py]] - code - harvester\src\collectors\exophase.py
-- [[exophase.py_1]] - code - il-platinatore-ai\harvester\src\collectors\exophase.py
+- [[.extract()_7]] - code - harvester\src\collectors\pstrophies_org.py
+- [[.guide_url()_1]] - code - harvester\src\collectors\pstrophies_org.py
+- [[Collector per guide trofei su playstationtrophies.org.]] - rationale - harvester\src\collectors\pstrophies_org.py
+- [[Costruisce l'URL della guida per un gioco.]] - rationale - harvester\src\collectors\pstrophies_org.py
+- [[Estrae titolo e contenuto pulito dall'HTML di PlaystationTrophies.org.]] - rationale - harvester\src\collectors\pstrophies_org.py
+- [[PSTrophiesOrgCollector]] - code - harvester\src\collectors\pstrophies_org.py
+- [[PSTrophiesOrgCollector — collector per playstationtrophies.org.  PlaystationTrop]] - rationale - harvester\src\collectors\pstrophies_org.py
+- [[Slug per playstationtrophies.org lowercase + trattini, no caratteri speciali.]] - rationale - harvester\src\collectors\pstrophies_org.py
+- [[_extract_title()_5]] - code - harvester\src\collectors\pstrophies_org.py
+- [[_normalize_whitespace()_5]] - code - harvester\src\collectors\pstrophies_org.py
+- [[_slugify_psorg()]] - code - harvester\src\collectors\pstrophies_org.py
+- [[pstrophies_org.py]] - code - harvester\src\collectors\pstrophies_org.py
+- [[pstrophies_org.py_1]] - code - il-platinatore-ai\harvester\src\collectors\pstrophies_org.py
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,7 +32,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Fextralife Collector]]
+- 1 edge to [[_COMMUNITY_RAG Architecture Concepts]]
 
 ## Top bridge nodes
-- [[ExophaseCollector]] - degree 6, connects to 1 community
+- [[PSTrophiesOrgCollector]] - degree 6, connects to 1 community

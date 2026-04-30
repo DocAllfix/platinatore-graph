@@ -1,20 +1,20 @@
 ---
 type: community
-cohesion: 0.40
+cohesion: 0.60
 members: 5
 ---
 
 # Community 85
 
-**Cohesion:** 0.40 - moderately connected
+**Cohesion:** 0.60 - moderately connected
 **Members:** 5 nodes
 
 ## Members
-- [[getThresholds()]] - code - il-platinatore-ai\backend\src\services\rag.service.ts
-- [[mergeResults()]] - code - il-platinatore-ai\backend\src\services\rag.service.ts
-- [[rag.service.ts]] - code - il-platinatore-ai\backend\src\services\rag.service.ts
-- [[runFtsSearch()]] - code - il-platinatore-ai\backend\src\services\rag.service.ts
-- [[runVectorSearch()]] - code - il-platinatore-ai\backend\src\services\rag.service.ts
+- [[ChartStyle()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\chart.jsx
+- [[chart.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\chart.jsx
+- [[chart.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\chart.jsx
+- [[getPayloadConfigFromPayload()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\chart.jsx
+- [[useChart()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\chart.jsx
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\backend\src\config\database.ts"
 type: "code"
-community: "Community 78"
+community: "Community 77"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_78
+  - community/Community_77
 ---
 
 # database.ts
@@ -16,4 +16,4 @@ tags:
 - [[query()]] - `contains` [EXTRACTED]
 - [[testConnection()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_78
+#graphify/code #graphify/EXTRACTED #community/Community_77

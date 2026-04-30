@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\pipeline.py"
 type: "rationale"
-community: "Harvester Pipeline"
+community: "Test: Base Collector"
 location: "L640"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Harvester_Pipeline
+  - community/Test:_Base_Collector
 ---
 
 # Raccoglie contenuti wiki da Fandom per un gioco.          Se `wiki_subdomain` è
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.process_fandom_content()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Harvester_Pipeline
+#graphify/rationale #graphify/EXTRACTED #community/Test:_Base_Collector

@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\scraper.client.ts"
 type: "code"
-community: "Community 53"
+community: "Community 52"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_53
+  - community/Community_52
 ---
 
 # scraper.client.ts
@@ -21,4 +21,4 @@ tags:
 - [[isTrusted()]] - `contains` [EXTRACTED]
 - [[reliabilityScore()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_53
+#graphify/code #graphify/EXTRACTED #community/Community_52

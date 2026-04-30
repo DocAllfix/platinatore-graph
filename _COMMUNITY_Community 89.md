@@ -1,20 +1,20 @@
 ---
 type: community
-cohesion: 0.70
+cohesion: 0.50
 members: 5
 ---
 
 # Community 89
 
-**Cohesion:** 0.70 - tightly connected
+**Cohesion:** 0.50 - moderately connected
 **Members:** 5 nodes
 
 ## Members
-- [[Recupera achievement Steam (con descrizioni) per tutti i giochi PC nel DB.  Pipe]] - rationale - harvester\scripts\run_steam_achievements_all.py
-- [[_run()_1]] - code - harvester\scripts\run_steam_achievements_all.py
-- [[main()_6]] - code - harvester\scripts\run_steam_achievements_all.py
-- [[run_steam_achievements_all.py]] - code - harvester\scripts\run_steam_achievements_all.py
-- [[run_steam_achievements_all.py_1]] - code - il-platinatore-ai\harvester\scripts\run_steam_achievements_all.py
+- [[compositeScore()]] - code - il-platinatore-ai\scraper\src\ranker\source.ranker.ts
+- [[contentQualityScore()]] - code - il-platinatore-ai\scraper\src\ranker\source.ranker.ts
+- [[getReliabilityScore()]] - code - il-platinatore-ai\scraper\src\ranker\source.ranker.ts
+- [[rankSources()]] - code - il-platinatore-ai\scraper\src\ranker\source.ranker.ts
+- [[source.ranker.ts]] - code - il-platinatore-ai\scraper\src\ranker\source.ranker.ts
 
 ## Live Query (requires Dataview plugin)
 

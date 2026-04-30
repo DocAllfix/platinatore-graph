@@ -1,20 +1,19 @@
 ---
 type: community
-cohesion: 0.40
-members: 5
+cohesion: 0.67
+members: 4
 ---
 
 # Community 93
 
-**Cohesion:** 0.40 - moderately connected
-**Members:** 5 nodes
+**Cohesion:** 0.67 - moderately connected
+**Members:** 4 nodes
 
 ## Members
-- [[AuthService integration tests]] - code - il-platinatore-ai/backend/tests/integration/auth.service.test.ts
-- [[Integration setup() create test DB]] - code - il-platinatore-ai/backend/tests/integration/setup.ts
-- [[Rating auto-promotion =3.5 avg & =3 votes]] - document - il-platinatore-ai/backend/tests/integration/rating.service.test.ts
-- [[RatingService integration tests (promotion)]] - code - il-platinatore-ai/backend/tests/integration/rating.service.test.ts
-- [[Refresh token rotation + reuse detection]] - document - il-platinatore-ai/backend/tests/integration/auth.service.test.ts
+- [[enqueuePendingGuides()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\re-embed-pending.ts
+- [[main()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\re-embed-pending.ts
+- [[re-embed-pending.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\re-embed-pending.test.ts
+- [[re-embed-pending.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\re-embed-pending.ts
 
 ## Live Query (requires Dataview plugin)
 

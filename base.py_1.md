@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\harvester\src\collectors\base.py"
 type: "code"
-community: "Base Collector ABC"
+community: "Test: PSN Fetcher"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Base_Collector_ABC
+  - community/Test:_PSN_Fetcher
 ---
 
 # base.py
@@ -19,4 +19,4 @@ tags:
 - [[compute_hash()]] - `contains` [EXTRACTED]
 - [[extract()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Base_Collector_ABC
+#graphify/code #graphify/EXTRACTED #community/Test:_PSN_Fetcher

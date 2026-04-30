@@ -10,12 +10,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Configura structlog JSON in prod, console colorata in dev (DEBUG).]] - rationale - harvester\src\config\logger.py
-- [[Restituisce un logger con il campo 'logger' già bindato al nome del modulo.]] - rationale - harvester\src\config\logger.py
-- [[get_logger()]] - code - harvester\src\config\logger.py
-- [[logger.py]] - code - harvester\src\config\logger.py
-- [[logger.py_1]] - code - il-platinatore-ai\harvester\src\config\logger.py
-- [[setup_logging()]] - code - harvester\src\config\logger.py
+- [[Chiude la connessione Redis. Da chiamare allo shutdown.]] - rationale - harvester\src\config\redis_client.py
+- [[Verifica la connessione Redis con PING.]] - rationale - harvester\src\config\redis_client.py
+- [[close_redis()]] - code - harvester\src\config\redis_client.py
+- [[redis_client.py]] - code - harvester\src\config\redis_client.py
+- [[redis_client.py_1]] - code - il-platinatore-ai\harvester\src\config\redis_client.py
+- [[test_redis_connection()]] - code - harvester\src\config\redis_client.py
 
 ## Live Query (requires Dataview plugin)
 

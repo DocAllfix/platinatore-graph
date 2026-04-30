@@ -1,19 +1,19 @@
 ---
 type: community
-cohesion: 0.67
+cohesion: 0.83
 members: 4
 ---
 
 # Community 105
 
-**Cohesion:** 0.67 - moderately connected
+**Cohesion:** 0.83 - tightly connected
 **Members:** 4 nodes
 
 ## Members
-- [[SheetFooter()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\sheet.jsx
-- [[SheetHeader()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\sheet.jsx
-- [[sheet.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\sheet.jsx
-- [[sheet.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\sheet.jsx
+- [[extractGenericGameName()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\mockGuide.js
+- [[generateMockGuide()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\mockGuide.js
+- [[mockGuide.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\mockGuide.js
+- [[mockGuide.js_1]] - code - il-platinatore-ai\frontend\src\lib\mockGuide.js
 
 ## Live Query (requires Dataview plugin)
 

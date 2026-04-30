@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\frontend\src\api\stubs.js"
 type: "code"
-community: "Community 64"
+community: "Community 63"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_64
+  - community/Community_63
 ---
 
 # stubs.js
@@ -18,4 +18,4 @@ tags:
 - [[uploadAvatar()_1]] - `contains` [EXTRACTED]
 - [[warn()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_64
+#graphify/code #graphify/EXTRACTED #community/Community_63

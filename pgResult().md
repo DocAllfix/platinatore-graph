@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\models\guideDrafts.model.test.ts"
 type: "code"
-community: "Community 79"
+community: "Community 78"
 location: "L60"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_79
+  - community/Community_78
 ---
 
 # pgResult()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[guideDrafts.model.test.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_79
+#graphify/code #graphify/EXTRACTED #community/Community_78

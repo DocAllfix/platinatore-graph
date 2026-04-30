@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/src/routes/uploads.routes.ts"
 type: "code"
-community: "Community 56"
+community: "Community 55"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_56
+  - community/Community_55
 ---
 
 # avatarLimiter (10/24h per user)
@@ -14,4 +14,4 @@ tags:
 - [[uploadAvatar service (8-step pipeline)]] - `rationale_for` [INFERRED]
 - [[uploadsRouter (POST apiuploadsavatar)]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_56
+#graphify/code #graphify/EXTRACTED #community/Community_55

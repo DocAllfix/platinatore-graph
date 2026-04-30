@@ -10,11 +10,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[embedding.service.test.ts]] - code - backend\src\services\embedding.service.test.ts
-- [[embedding.service.test.ts_1]] - code - il-platinatore-ai\backend\src\services\embedding.service.test.ts
-- [[embedding.service.ts]] - code - backend\src\services\embedding.service.ts
-- [[embedding.service.ts_1]] - code - il-platinatore-ai\backend\src\services\embedding.service.ts
-- [[sha256()_1]] - code - backend\src\services\embedding.service.ts
+- [[applyRankingBoost()]] - code - il-platinatore-ai\backend\src\services\rag.fusion.ts
+- [[assembleContext()]] - code - il-platinatore-ai\backend\src\services\rag.fusion.ts
+- [[classifyMatch()]] - code - il-platinatore-ai\backend\src\services\rag.fusion.ts
+- [[rag.fusion.ts]] - code - il-platinatore-ai\backend\src\services\rag.fusion.ts
+- [[reciprocalRankFusion()]] - code - il-platinatore-ai\backend\src\services\rag.fusion.ts
 
 ## Live Query (requires Dataview plugin)
 

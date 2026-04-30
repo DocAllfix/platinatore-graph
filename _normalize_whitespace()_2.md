@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\ign.py"
 type: "code"
-community: "Fextralife Collector"
+community: "RAG Architecture Concepts"
 location: "L108"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Fextralife_Collector
+  - community/RAG_Architecture_Concepts
 ---
 
 # _normalize_whitespace()
@@ -16,4 +16,4 @@ tags:
 - [[ign.py]] - `contains` [EXTRACTED]
 - [[ign.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector
+#graphify/code #graphify/EXTRACTED #community/RAG_Architecture_Concepts

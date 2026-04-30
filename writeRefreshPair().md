@@ -1,12 +1,12 @@
 ---
 source_file: "backend\src\services\auth.service.ts"
 type: "code"
-community: "Community 60"
+community: "Community 59"
 location: "L83"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_60
+  - community/Community_59
 ---
 
 # writeRefreshPair()
@@ -17,4 +17,4 @@ tags:
 - [[buildTokenPair()]] - `calls` [EXTRACTED]
 - [[sha256()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_60
+#graphify/code #graphify/EXTRACTED #community/Community_59

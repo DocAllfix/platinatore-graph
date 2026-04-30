@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\ingestion.service.ts"
 type: "code"
-community: "Community 61"
+community: "Community 60"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_61
+  - community/Community_60
 ---
 
 # ingestion.service.ts
@@ -17,4 +17,4 @@ tags:
 - [[ingestion.service.test.ts]] - `imports_from` [EXTRACTED]
 - [[validateDraft()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_61
+#graphify/code #graphify/EXTRACTED #community/Community_60

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\transformer\synthesizer.py"
 type: "code"
-community: "LLM Synthesizer"
+community: "Backend Auth/Security Concepts"
 location: "L41"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/LLM_Synthesizer
+  - community/Backend_Auth/Security_Concepts
 ---
 
 # GuideSynthesizer
@@ -24,4 +24,4 @@ tags:
 - [[synthesizer.py]] - `contains` [EXTRACTED]
 - [[synthesizer.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/LLM_Synthesizer
+#graphify/code #graphify/EXTRACTED #community/Backend_Auth/Security_Concepts

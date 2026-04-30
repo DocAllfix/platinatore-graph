@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\igdb_seed.py"
 type: "code"
-community: "Community 46"
+community: "Community 45"
 location: "L213"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_46
+  - community/Community_45
 ---
 
 # _parse_args()
@@ -16,4 +16,4 @@ tags:
 - [[igdb_seed.py_1]] - `contains` [EXTRACTED]
 - [[main()_9]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_46
+#graphify/code #graphify/EXTRACTED #community/Community_45

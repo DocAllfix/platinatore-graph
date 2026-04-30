@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\frontend\src\components\ui\pagination.jsx"
 type: "code"
-community: "Community 66"
+community: "Community 65"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_66
+  - community/Community_65
 ---
 
 # pagination.jsx
@@ -18,4 +18,4 @@ tags:
 - [[PaginationNext()]] - `contains` [EXTRACTED]
 - [[PaginationPrevious()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_66
+#graphify/code #graphify/EXTRACTED #community/Community_65

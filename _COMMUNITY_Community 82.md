@@ -1,20 +1,20 @@
 ---
 type: community
-cohesion: 0.50
+cohesion: 0.40
 members: 5
 ---
 
 # Community 82
 
-**Cohesion:** 0.50 - moderately connected
+**Cohesion:** 0.40 - moderately connected
 **Members:** 5 nodes
 
 ## Members
-- [[buildPayload()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.ts
-- [[makeDraft()_2]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.test.ts
-- [[notification.service.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.test.ts
-- [[notification.service.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.ts
-- [[notifyNewDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\notification.service.ts
+- [[buildResult()]] - code - il-platinatore-ai\backend\src\services\rag.service.test.ts
+- [[f()]] - code - il-platinatore-ai\backend\src\services\rag.service.test.ts
+- [[r()]] - code - il-platinatore-ai\backend\src\services\rag.service.test.ts
+- [[rag.service.test.ts]] - code - il-platinatore-ai\backend\src\services\rag.service.test.ts
+- [[v()]] - code - il-platinatore-ai\backend\src\services\rag.service.test.ts
 
 ## Live Query (requires Dataview plugin)
 

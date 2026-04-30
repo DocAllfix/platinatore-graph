@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\use-toast.jsx"
 type: "code"
-community: "Community 54"
+community: "Community 53"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_54
+  - community/Community_53
 ---
 
 # use-toast.jsx
@@ -20,4 +20,4 @@ tags:
 - [[toast()]] - `contains` [EXTRACTED]
 - [[useToast()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_54
+#graphify/code #graphify/EXTRACTED #community/Community_53

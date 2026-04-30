@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/src/services/orchestrator.shared.ts"
 type: "code"
-community: "RAG Architecture Concepts"
+community: "Fextralife Collector"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/RAG_Architecture_Concepts
+  - community/Fextralife_Collector
 ---
 
 # buildCacheKeyParams
@@ -14,4 +14,4 @@ tags:
 - [[buildPromptContext]] - `conceptually_related_to` [INFERRED]
 - [[logAndTrack]] - `shares_data_with` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/RAG_Architecture_Concepts
+#graphify/code #graphify/INFERRED #community/Fextralife_Collector

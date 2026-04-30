@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\psnprofiles.py"
 type: "rationale"
-community: "Community 35"
+community: "RAG Architecture Concepts"
 location: "L60"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_35
+  - community/RAG_Architecture_Concepts
 ---
 
 # Estrae titolo, tabelle trofei e testo dalla guida PSNProfiles.          Ritorna
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.extract()_6]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_35
+#graphify/rationale #graphify/EXTRACTED #community/RAG_Architecture_Concepts

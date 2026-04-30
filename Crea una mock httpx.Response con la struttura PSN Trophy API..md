@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_psn_fetcher.py"
 type: "rationale"
-community: "Test: PSN Fetcher"
+community: "Guide Search Collector"
 location: "L10"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Test:_PSN_Fetcher
+  - community/Guide_Search_Collector
 ---
 
 # Crea una mock httpx.Response con la struttura PSN Trophy API.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_make_psn_response()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Test:_PSN_Fetcher
+#graphify/rationale #graphify/EXTRACTED #community/Guide_Search_Collector

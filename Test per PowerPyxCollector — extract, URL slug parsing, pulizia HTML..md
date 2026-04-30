@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_powerpyx_collector.py"
 type: "rationale"
-community: "Community 51"
+community: "Community 50"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_51
+  - community/Community_50
 ---
 
 # Test per PowerPyxCollector — extract, URL slug parsing, pulizia HTML.
@@ -15,4 +15,4 @@ tags:
 - [[test_powerpyx_collector.py]] - `rationale_for` [EXTRACTED]
 - [[test_powerpyx_collector.py_1]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_51
+#graphify/rationale #graphify/EXTRACTED #community/Community_50

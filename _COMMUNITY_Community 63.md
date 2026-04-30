@@ -1,22 +1,22 @@
 ---
 type: community
-cohesion: 0.29
+cohesion: 0.67
 members: 7
 ---
 
 # Community 63
 
-**Cohesion:** 0.29 - loosely connected
+**Cohesion:** 0.67 - moderately connected
 **Members:** 7 nodes
 
 ## Members
-- [[buildCacheKeyParams()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.ts
-- [[buildPromptContext()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.ts
-- [[logAndTrack()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.ts
-- [[makeBundle()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.test.ts
-- [[makeNorm()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.test.ts
-- [[orchestrator.shared.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.test.ts
-- [[orchestrator.shared.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.ts
+- [[createGuideRating()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
+- [[listGuideRatings()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
+- [[patchMe()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
+- [[stubs.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
+- [[stubs.js_1]] - code - il-platinatore-ai\frontend\src\api\stubs.js
+- [[uploadAvatar()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
+- [[warn()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
 
 ## Live Query (requires Dataview plugin)
 

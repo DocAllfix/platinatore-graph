@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/src/services/ingestion.service.ts"
 type: "code"
-community: "Bulk Seed CLI"
+community: "Fextralife Collector"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Bulk_Seed_CLI
+  - community/Fextralife_Collector
 ---
 
 # buildGuideSlug (slug + UUID8 suffix)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[ingestApprovedDraft (publish pipeline)]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Bulk_Seed_CLI
+#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector

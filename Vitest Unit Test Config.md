@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/vitest.config.ts"
 type: "code"
-community: "Backend Auth/Security Concepts"
+community: "Base Collector ABC"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Backend_Auth/Security_Concepts
+  - community/Base_Collector_ABC
 ---
 
 # Vitest Unit Test Config
@@ -14,4 +14,4 @@ tags:
 - [[Env Config Zod Schema]] - `references` [EXTRACTED]
 - [[Vitest Integration Test Config]] - `semantically_similar_to` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Backend_Auth/Security_Concepts
+#graphify/code #graphify/EXTRACTED #community/Base_Collector_ABC

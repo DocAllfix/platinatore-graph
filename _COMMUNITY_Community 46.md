@@ -1,26 +1,26 @@
 ---
 type: community
-cohesion: 0.35
+cohesion: 0.25
 members: 11
 ---
 
 # Community 46
 
-**Cohesion:** 0.35 - loosely connected
+**Cohesion:** 0.25 - loosely connected
 **Members:** 11 nodes
 
 ## Members
-- [[Entry point asincrono. Ritorna 0 su successo, 1 su errore fatale._1]] - rationale - harvester\src\orchestrator\igdb_seed.py
-- [[Esegue PsnGameFinder + PsnTrophyFetcher per giochi senza trofei PSN.      Identi]] - rationale - harvester\src\orchestrator\igdb_seed.py
-- [[Fetcha achievement Steam per giochi con steam_appid senza achievement.]] - rationale - harvester\src\orchestrator\igdb_seed.py
-- [[_parse_args()]] - code - harvester\src\orchestrator\igdb_seed.py
-- [[_run()_3]] - code - harvester\src\orchestrator\igdb_seed.py
-- [[_run_psn_trophies()]] - code - harvester\src\orchestrator\igdb_seed.py
-- [[_run_steam_achievements()]] - code - harvester\src\orchestrator\igdb_seed.py
-- [[igdb_seed — pipeline completa IGDB discovery + PSN trofei + Steam achievements.]] - rationale - harvester\src\orchestrator\igdb_seed.py
-- [[igdb_seed.py]] - code - harvester\src\orchestrator\igdb_seed.py
-- [[igdb_seed.py_1]] - code - il-platinatore-ai\harvester\src\orchestrator\igdb_seed.py
-- [[main()_9]] - code - harvester\src\orchestrator\igdb_seed.py
+- [[.constructor()_8]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
+- [[.constructor()_7]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
+- [[.execute()]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
+- [[.getState()]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
+- [[.recordFailure()]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
+- [[.recordSuccess()]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
+- [[.reset()]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
+- [[.trip()]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
+- [[CircuitBreaker]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
+- [[CircuitOpenError_1]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
+- [[llm.circuitBreaker.ts]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
 
 ## Live Query (requires Dataview plugin)
 

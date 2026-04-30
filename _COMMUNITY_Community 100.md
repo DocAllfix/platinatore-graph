@@ -10,10 +10,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[AlertDialogFooter()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\alert-dialog.jsx
-- [[AlertDialogHeader()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\alert-dialog.jsx
-- [[alert-dialog.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\alert-dialog.jsx
-- [[alert-dialog.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\alert-dialog.jsx
+- [[FormField()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\form.jsx
+- [[form.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\form.jsx
+- [[form.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\form.jsx
+- [[useFormField()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\form.jsx
 
 ## Live Query (requires Dataview plugin)
 

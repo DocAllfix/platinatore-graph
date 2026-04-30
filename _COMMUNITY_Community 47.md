@@ -1,26 +1,25 @@
 ---
 type: community
-cohesion: 0.25
-members: 11
+cohesion: 0.31
+members: 10
 ---
 
 # Community 47
 
-**Cohesion:** 0.25 - loosely connected
-**Members:** 11 nodes
+**Cohesion:** 0.31 - loosely connected
+**Members:** 10 nodes
 
 ## Members
-- [[.constructor()_8]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
-- [[.constructor()_7]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
-- [[.execute()]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
-- [[.getState()]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
-- [[.recordFailure()]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
-- [[.recordSuccess()]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
-- [[.reset()]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
-- [[.trip()]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
-- [[CircuitBreaker]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
-- [[CircuitOpenError_1]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
-- [[llm.circuitBreaker.ts]] - code - il-platinatore-ai\backend\src\services\llm.circuitBreaker.ts
+- [[appendConvState()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts
+- [[approveDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts
+- [[createDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts
+- [[draft.service.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.test.ts
+- [[draft.service.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts
+- [[getConvHistory()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts
+- [[getDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts
+- [[makeDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.test.ts
+- [[rejectDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts
+- [[reviseDraft()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\draft.service.ts
 
 ## Live Query (requires Dataview plugin)
 

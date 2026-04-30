@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\frontend\src\hooks\useGamification.js"
 type: "code"
-community: "Community 67"
+community: "Community 66"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_67
+  - community/Community_66
 ---
 
 # useGamification.js
@@ -18,4 +18,4 @@ tags:
 - [[save()]] - `contains` [EXTRACTED]
 - [[useGamification()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_67
+#graphify/code #graphify/EXTRACTED #community/Community_66

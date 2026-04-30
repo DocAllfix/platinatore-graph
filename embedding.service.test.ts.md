@@ -1,12 +1,12 @@
 ---
 source_file: "backend\src\services\embedding.service.test.ts"
 type: "code"
-community: "Community 81"
+community: "Community 90"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_81
+  - community/Community_90
 ---
 
 # embedding.service.test.ts
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[embedding.service.ts]] - `imports_from` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_81
+#graphify/code #graphify/EXTRACTED #community/Community_90

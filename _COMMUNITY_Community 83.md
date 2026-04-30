@@ -10,11 +10,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[applyRankingBoost()]] - code - il-platinatore-ai\backend\src\services\rag.fusion.ts
-- [[assembleContext()]] - code - il-platinatore-ai\backend\src\services\rag.fusion.ts
-- [[classifyMatch()]] - code - il-platinatore-ai\backend\src\services\rag.fusion.ts
-- [[rag.fusion.ts]] - code - il-platinatore-ai\backend\src\services\rag.fusion.ts
-- [[reciprocalRankFusion()]] - code - il-platinatore-ai\backend\src\services\rag.fusion.ts
+- [[getThresholds()]] - code - il-platinatore-ai\backend\src\services\rag.service.ts
+- [[mergeResults()]] - code - il-platinatore-ai\backend\src\services\rag.service.ts
+- [[rag.service.ts]] - code - il-platinatore-ai\backend\src\services\rag.service.ts
+- [[runFtsSearch()]] - code - il-platinatore-ai\backend\src\services\rag.service.ts
+- [[runVectorSearch()]] - code - il-platinatore-ai\backend\src\services\rag.service.ts
 
 ## Live Query (requires Dataview plugin)
 

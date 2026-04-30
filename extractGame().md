@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\backend\src\services\query.normalizer.ts"
 type: "code"
-community: "Community 69"
+community: "Community 68"
 location: "L82"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_69
+  - community/Community_68
 ---
 
 # extractGame()
@@ -15,4 +15,4 @@ tags:
 - [[normalizeQuery()]] - `calls` [EXTRACTED]
 - [[query.normalizer.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_69
+#graphify/code #graphify/EXTRACTED #community/Community_68

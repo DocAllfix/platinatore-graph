@@ -1,25 +1,24 @@
 ---
 type: community
-cohesion: 0.40
-members: 10
+cohesion: 0.39
+members: 9
 ---
 
 # Community 52
 
-**Cohesion:** 0.40 - moderately connected
-**Members:** 10 nodes
+**Cohesion:** 0.39 - loosely connected
+**Members:** 9 nodes
 
 ## Members
-- [[assembleContext()_1]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[buildQueries()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[cacheKey()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[callSerpApi()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[emptyResult()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[enforceDomainRateLimit()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[fetchHtml()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[hostOf()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[scrapeForGuide()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
-- [[scraping.service.ts]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[buildCacheKey()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\scraper.client.ts
+- [[callTavily()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\scraper.client.ts
+- [[checkDailyLimit()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\scraper.client.ts
+- [[extractDomain()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\scraper.client.ts
+- [[fetchScrapedContext()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\scraper.client.ts
+- [[incrementDailyCount()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\scraper.client.ts
+- [[isTrusted()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\scraper.client.ts
+- [[reliabilityScore()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\scraper.client.ts
+- [[scraper.client.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\scraper.client.ts
 
 ## Live Query (requires Dataview plugin)
 

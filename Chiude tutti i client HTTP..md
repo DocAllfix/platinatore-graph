@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\pipeline.py"
 type: "rationale"
-community: "Harvester Pipeline"
+community: "Test: Base Collector"
 location: "L977"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Harvester_Pipeline
+  - community/Test:_Base_Collector
 ---
 
 # Chiude tutti i client HTTP.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.cleanup()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Harvester_Pipeline
+#graphify/rationale #graphify/EXTRACTED #community/Test:_Base_Collector

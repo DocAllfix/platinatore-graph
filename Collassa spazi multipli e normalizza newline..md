@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\powerpyx.py"
 type: "rationale"
-community: "Community 41"
+community: "RAG Architecture Concepts"
 location: "L108"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_41
+  - community/RAG_Architecture_Concepts
 ---
 
 # Collassa spazi multipli e normalizza newline.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_normalize_whitespace()_3]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_41
+#graphify/rationale #graphify/EXTRACTED #community/RAG_Architecture_Concepts

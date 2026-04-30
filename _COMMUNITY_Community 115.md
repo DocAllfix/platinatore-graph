@@ -10,10 +10,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[bundleFromResults()]] - code - il-platinatore-ai\backend\src\services\orchestrator.retrieval.ts
-- [[enrichWithScraping()]] - code - il-platinatore-ai\backend\src\services\orchestrator.retrieval.ts
-- [[orchestrator.retrieval.ts]] - code - il-platinatore-ai\backend\src\services\orchestrator.retrieval.ts
-- [[retrieveContext()]] - code - il-platinatore-ai\backend\src\services\orchestrator.retrieval.ts
+- [[CommandDialog()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\command.jsx
+- [[CommandShortcut()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\command.jsx
+- [[command.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\command.jsx
+- [[command.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\command.jsx
 
 ## Live Query (requires Dataview plugin)
 

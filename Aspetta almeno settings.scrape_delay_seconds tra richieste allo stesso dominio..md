@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\base.py"
 type: "rationale"
-community: "Base Collector ABC"
+community: "Test: PSN Fetcher"
 location: "L142"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Base_Collector_ABC
+  - community/Test:_PSN_Fetcher
 ---
 
 # Aspetta almeno settings.scrape_delay_seconds tra richieste allo stesso dominio.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[._respect_delay()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Base_Collector_ABC
+#graphify/rationale #graphify/EXTRACTED #community/Test:_PSN_Fetcher

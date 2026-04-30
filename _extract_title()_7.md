@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\truetrophies.py"
 type: "code"
-community: "Fextralife Collector"
+community: "Community 37"
 location: "L114"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Fextralife_Collector
+  - community/Community_37
 ---
 
 # _extract_title()
@@ -16,4 +16,4 @@ tags:
 - [[truetrophies.py]] - `contains` [EXTRACTED]
 - [[truetrophies.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_37

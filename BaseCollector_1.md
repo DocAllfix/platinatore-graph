@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: "code"
-community: "Fextralife Collector"
+community: "RAG Architecture Concepts"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Fextralife_Collector
+  - community/RAG_Architecture_Concepts
 ---
 
 # BaseCollector
@@ -26,4 +26,4 @@ tags:
 - [[YouTubeCollector]] - `inherits` [EXTRACTED]
 - [[_StubCollector]] - `inherits` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector
+#graphify/code #graphify/EXTRACTED #community/RAG_Architecture_Concepts

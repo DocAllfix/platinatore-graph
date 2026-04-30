@@ -1,49 +1,53 @@
 ---
 type: community
-cohesion: 0.10
-members: 34
+cohesion: 0.08
+members: 38
 ---
 
 # Fextralife Collector
 
-**Cohesion:** 0.10 - loosely connected
-**Members:** 34 nodes
+**Cohesion:** 0.08 - loosely connected
+**Members:** 38 nodes
 
 ## Members
-- [[.extract()_2]] - code - harvester\src\collectors\fextralife.py
-- [[.extract()_4]] - code - harvester\src\collectors\ign.py
-- [[.extract()_11]] - code - harvester\src\collectors\truetrophies.py
-- [[.guide_url()_2]] - code - harvester\src\collectors\truetrophies.py
-- [[BaseCollector_1]] - code
-- [[Collector per guide trofei su truetrophies.com.]] - rationale - harvester\src\collectors\truetrophies.py
-- [[Collector per wiki IGN (boss, walkthrough, collectible).]] - rationale - harvester\src\collectors\ign.py
-- [[Collector per wiki.fextralife.com (boss, build, lore).]] - rationale - harvester\src\collectors\fextralife.py
-- [[Costruisce l'URL della pagina trofei per un gioco._1]] - rationale - harvester\src\collectors\truetrophies.py
-- [[Estrae game_name e topic da URL ign.comwikis{game}{topic}.]] - rationale - harvester\src\collectors\ign.py
-- [[Estrae game_name e topic dallo slug Fextralife.      Pattern wiki.fextralife.co]] - rationale - harvester\src\collectors\fextralife.py
-- [[Estrae titolo e contenuto pulito dall'HTML di TrueTrophies.          Ritorna Non]] - rationale - harvester\src\collectors\truetrophies.py
-- [[FextralifeCollector]] - code - harvester\src\collectors\fextralife.py
-- [[FextralifeCollector — guide wiki SoulslikeMetroidvania.  Fextralife usa renderi]] - rationale - harvester\src\collectors\fextralife.py
-- [[IGNCollector]] - code - harvester\src\collectors\ign.py
-- [[IGNCollector — guide wiki professionali su ign.com.  Pattern URL ign.comwikis]] - rationale - harvester\src\collectors\ign.py
-- [[Slug per TrueTrophies NFKD + lowercase + trattini come separatori.      Esempi]] - rationale - harvester\src\collectors\truetrophies.py
-- [[TrueTrophiesCollector]] - code - harvester\src\collectors\truetrophies.py
-- [[TrueTrophiesCollector — collector per truetrophies.com.  TrueTrophies è una comm]] - rationale - harvester\src\collectors\truetrophies.py
-- [[_extract_title()_1]] - code - harvester\src\collectors\fextralife.py
-- [[_extract_title()_2]] - code - harvester\src\collectors\ign.py
-- [[_extract_title()_7]] - code - harvester\src\collectors\truetrophies.py
-- [[_normalize_whitespace()_1]] - code - harvester\src\collectors\fextralife.py
-- [[_normalize_whitespace()_2]] - code - harvester\src\collectors\ign.py
-- [[_normalize_whitespace()_7]] - code - harvester\src\collectors\truetrophies.py
-- [[_parse_url_slug()]] - code - harvester\src\collectors\fextralife.py
-- [[_parse_url_slug()_1]] - code - harvester\src\collectors\ign.py
-- [[_slugify_truetrophies()]] - code - harvester\src\collectors\truetrophies.py
-- [[fextralife.py]] - code - harvester\src\collectors\fextralife.py
-- [[fextralife.py_1]] - code - il-platinatore-ai\harvester\src\collectors\fextralife.py
-- [[ign.py]] - code - harvester\src\collectors\ign.py
-- [[ign.py_1]] - code - il-platinatore-ai\harvester\src\collectors\ign.py
-- [[truetrophies.py]] - code - harvester\src\collectors\truetrophies.py
-- [[truetrophies.py_1]] - code - il-platinatore-ai\harvester\src\collectors\truetrophies.py
+- [[Checkpoint (resume on .checkpoint.json)]] - code - il-platinatore-ai/backend/src/scripts/bulk-seed.ts
+- [[DB canonically English (harvester rule)]] - document - il-platinatore-ai/backend/src/services/orchestrator.shared.ts
+- [[DB_CANONICAL_LANGUAGE constant (en)]] - code - il-platinatore-ai/backend/src/services/orchestrator.shared.ts
+- [[Fail-open pattern (degrade graceful)]] - code - il-platinatore-ai/backend/src/services/orchestrator.service.ts
+- [[GuideSynthesizer class]] - code - il-platinatore-ai/harvester/src/transformer/synthesizer.py
+- [[Idempotency via ON CONFLICT DO NOTHING]] - code - il-platinatore-ai/backend/src/scripts/bulk-seed.ts
+- [[Phase 23 — HITL Self-Learning RAG]] - code - il-platinatore-ai/backend/src/services/draft.service.ts
+- [[Section DB canonically English]] - document - il-platinatore-ai/ARCHITECTURE.md
+- [[Section Fail-open pattern (degrade graceful)]] - document - il-platinatore-ai/ARCHITECTURE.md
+- [[Section Idempotency via ON CONFLICT DO NOTHING]] - document - il-platinatore-ai/ARCHITECTURE.md
+- [[Upserter class]] - code - il-platinatore-ai/harvester/src/injector/upserter.py
+- [[appendConvStategetConvHistory (Redis TTL)]] - code - il-platinatore-ai/backend/src/services/draft.service.ts
+- [[approveDraft]] - code - il-platinatore-ai/backend/src/services/draft.service.ts
+- [[buildCacheKeyParams]] - code - il-platinatore-ai/backend/src/services/orchestrator.shared.ts
+- [[buildGuideSlug (slug + UUID8 suffix)]] - code - il-platinatore-ai/backend/src/services/ingestion.service.ts
+- [[buildSlug()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[bulk-seed.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.test.ts
+- [[bulk-seed.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[clearCheckpoint()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[createDraft (HITL + Redis convo)]] - code - il-platinatore-ai/backend/src/services/draft.service.ts
+- [[enqueuePendingGuides (cursor pagination)]] - code - il-platinatore-ai/backend/src/scripts/re-embed-pending.ts
+- [[guideRecordSchema (Zod JSONL row)]] - code - il-platinatore-ai/backend/src/scripts/bulk-seed.ts
+- [[handleGuideRequest (8-step pipeline)]] - code - il-platinatore-ai/backend/src/services/orchestrator.service.ts
+- [[ingestApprovedDraft (publish pipeline)]] - code - il-platinatore-ai/backend/src/services/ingestion.service.ts
+- [[insertGuideOrSkip (ON CONFLICT slug)]] - code - il-platinatore-ai/backend/src/scripts/bulk-seed.ts
+- [[insertGuideOrSkip()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[logAndTrack]] - code - il-platinatore-ai/backend/src/services/orchestrator.shared.ts
+- [[main()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[notifyNewDraft (fail-open webhook)]] - code - il-platinatore-ai/backend/src/services/notification.service.ts
+- [[parseArgs()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[readCheckpoint()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[reviseDraft (LLM iter, MAX=5)]] - code - il-platinatore-ai/backend/src/services/draft.service.ts
+- [[seedBatch (batch insert + fail-open)]] - code - il-platinatore-ai/backend/src/scripts/bulk-seed.ts
+- [[seedBatch()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[slugify()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
+- [[tryCacheHit (SSE precheck)]] - code - il-platinatore-ai/backend/src/services/orchestrator.service.ts
+- [[validateDraft (5-layer validation)]] - code - il-platinatore-ai/backend/src/services/ingestion.service.ts
+- [[writeCheckpoint()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.ts
 
 ## Live Query (requires Dataview plugin)
 
@@ -53,17 +57,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Community 36]]
-- 1 edge to [[_COMMUNITY_Fandom Collector]]
-- 1 edge to [[_COMMUNITY_Guide Search Collector]]
-- 1 edge to [[_COMMUNITY_Community 41]]
-- 1 edge to [[_COMMUNITY_Community 35]]
-- 1 edge to [[_COMMUNITY_Community 37]]
-- 1 edge to [[_COMMUNITY_Reddit Collector]]
-- 1 edge to [[_COMMUNITY_Community 33]]
-- 1 edge to [[_COMMUNITY_Community 42]]
-- 1 edge to [[_COMMUNITY_YouTube Collector]]
-- 1 edge to [[_COMMUNITY_Test Base Collector]]
+- 2 edges to [[_COMMUNITY_IGDB Discovery]]
 
 ## Top bridge nodes
-- [[BaseCollector_1]] - degree 14, connects to 11 communities
+- [[DB_CANONICAL_LANGUAGE constant (en)]] - degree 2, connects to 1 community
+- [[buildCacheKeyParams]] - degree 2, connects to 1 community

@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/src/services/scraper.client.ts"
 type: "code"
-community: "RAG Architecture Concepts"
+community: "IGDB Discovery"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/RAG_Architecture_Concepts
+  - community/IGDB_Discovery
 ---
 
 # callTavily
@@ -15,4 +15,4 @@ tags:
 - [[isTrusted domain check]] - `calls` [EXTRACTED]
 - [[reliabilityScore]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/RAG_Architecture_Concepts
+#graphify/code #graphify/EXTRACTED #community/IGDB_Discovery

@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\harvester\src\collectors\trueachievements.py"
 type: "code"
-community: "Community 42"
+community: "Community 41"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_42
+  - community/Community_41
 ---
 
 # trueachievements.py
@@ -18,4 +18,4 @@ tags:
 - [[_normalize_whitespace()_6]] - `contains` [EXTRACTED]
 - [[_parse_game_name_from_url()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_42
+#graphify/code #graphify/EXTRACTED #community/Community_41

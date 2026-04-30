@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\frontend\src\components\ui\breadcrumb.jsx"
 type: "code"
-community: "Community 101"
+community: "Community 98"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_101
+  - community/Community_98
 ---
 
 # breadcrumb.jsx
@@ -15,4 +15,4 @@ tags:
 - [[BreadcrumbEllipsis()]] - `contains` [EXTRACTED]
 - [[BreadcrumbSeparator()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_101
+#graphify/code #graphify/EXTRACTED #community/Community_98

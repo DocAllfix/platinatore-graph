@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/frontend/src/App.jsx"
 type: "code"
-community: "RAG Architecture Concepts"
+community: "IGDB Discovery"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/RAG_Architecture_Concepts
+  - community/IGDB_Discovery
 ---
 
 # Frontend App.jsx router
@@ -15,4 +15,4 @@ tags:
 - [[Login page]] - `shares_data_with` [EXTRACTED]
 - [[Register page]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/RAG_Architecture_Concepts
+#graphify/code #graphify/EXTRACTED #community/IGDB_Discovery

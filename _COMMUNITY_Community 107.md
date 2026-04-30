@@ -10,10 +10,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[AuthProvider()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useAuth.js
-- [[useAuth()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useAuth.js
-- [[useAuth.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useAuth.js
-- [[useAuth.js_1]] - code - il-platinatore-ai\frontend\src\hooks\useAuth.js
+- [[Script espande il catalogo giochi via IGDB, poi fetch trophy PSN.]] - rationale - harvester\scripts\run_igdb_discovery.py
+- [[main()_3]] - code - harvester\scripts\run_igdb_discovery.py
+- [[run_igdb_discovery.py]] - code - harvester\scripts\run_igdb_discovery.py
+- [[run_igdb_discovery.py_1]] - code - il-platinatore-ai\harvester\scripts\run_igdb_discovery.py
 
 ## Live Query (requires Dataview plugin)
 

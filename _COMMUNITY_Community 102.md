@@ -10,10 +10,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[CommandDialog()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\command.jsx
-- [[CommandShortcut()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\command.jsx
-- [[command.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\command.jsx
-- [[command.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\command.jsx
+- [[SheetFooter()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\sheet.jsx
+- [[SheetHeader()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\sheet.jsx
+- [[sheet.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\sheet.jsx
+- [[sheet.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\sheet.jsx
 
 ## Live Query (requires Dataview plugin)
 

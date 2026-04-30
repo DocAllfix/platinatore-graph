@@ -10,13 +10,13 @@ members: 7
 **Members:** 7 nodes
 
 ## Members
-- [[bundleEmpty()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.service.test.ts
-- [[bundleRag()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.service.test.ts
-- [[handleGuideRequest()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.service.ts
-- [[orchestrator.service.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.service.test.ts
-- [[orchestrator.service.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.service.ts
-- [[stubNorm()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.service.test.ts
-- [[tryCacheHit()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.service.ts
+- [[buildCacheKeyParams()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.ts
+- [[buildPromptContext()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.ts
+- [[logAndTrack()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.ts
+- [[makeBundle()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.test.ts
+- [[makeNorm()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.test.ts
+- [[orchestrator.shared.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.test.ts
+- [[orchestrator.shared.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\orchestrator.shared.ts
 
 ## Live Query (requires Dataview plugin)
 

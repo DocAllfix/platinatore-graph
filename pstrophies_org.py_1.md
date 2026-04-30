@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\harvester\src\collectors\pstrophies_org.py"
 type: "code"
-community: "Community 37"
+community: "Community 36"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_37
+  - community/Community_36
 ---
 
 # pstrophies_org.py
@@ -18,4 +18,4 @@ tags:
 - [[_normalize_whitespace()_5]] - `contains` [EXTRACTED]
 - [[_slugify_psorg()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_37
+#graphify/code #graphify/EXTRACTED #community/Community_36

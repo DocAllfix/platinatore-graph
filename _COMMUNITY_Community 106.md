@@ -10,10 +10,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[GamificationContext.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\context\GamificationContext.jsx
-- [[GamificationContext.jsx_1]] - code - il-platinatore-ai\frontend\src\context\GamificationContext.jsx
-- [[GamificationProvider()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\context\GamificationContext.jsx
-- [[useGamificationContext()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\context\GamificationContext.jsx
+- [[Genera expanded_seed.json dai giochi PS5PS4 più rilevanti nel DB.  Criteri prio]] - rationale - harvester\scripts\generate_expanded_seed.py
+- [[generate_expanded_seed.py]] - code - harvester\scripts\generate_expanded_seed.py
+- [[generate_expanded_seed.py_1]] - code - il-platinatore-ai\harvester\scripts\generate_expanded_seed.py
+- [[main()_2]] - code - harvester\scripts\generate_expanded_seed.py
 
 ## Live Query (requires Dataview plugin)
 

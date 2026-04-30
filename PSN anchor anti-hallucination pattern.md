@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/src/services/prompt.builder.ts"
 type: "document"
-community: "RAG Architecture Concepts"
+community: "IGDB Discovery"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/RAG_Architecture_Concepts
+  - community/IGDB_Discovery
 ---
 
 # PSN anchor anti-hallucination pattern
@@ -15,4 +15,4 @@ tags:
 - [[formatPsnAnchor]] - `implements` [EXTRACTED]
 - [[formatPsnOfficial]] - `implements` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/RAG_Architecture_Concepts
+#graphify/document #graphify/EXTRACTED #community/IGDB_Discovery

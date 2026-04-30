@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\prettify.js"
 type: "code"
-community: "Community 43"
+community: "Community 42"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_43
+  - community/Community_42
 ---
 
 # prettify.js
@@ -23,4 +23,4 @@ tags:
 - [[o()]] - `contains` [EXTRACTED]
 - [[y()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_43
+#graphify/code #graphify/EXTRACTED #community/Community_42

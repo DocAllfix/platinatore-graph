@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\harvester\src\collectors\guide_search.py"
 type: "code"
-community: "Guide Search Collector"
+community: "LLM Synthesizer"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Guide_Search_Collector
+  - community/LLM_Synthesizer
 ---
 
 # guide_search.py
@@ -20,4 +20,4 @@ tags:
 - [[_slugify()_1]] - `contains` [EXTRACTED]
 - [[build_fallback_urls()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Guide_Search_Collector
+#graphify/code #graphify/EXTRACTED #community/LLM_Synthesizer

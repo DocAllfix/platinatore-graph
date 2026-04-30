@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\frontend\src\components\ProtectedRoute.jsx"
 type: "code"
-community: "Community 98"
+community: "Community 114"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_98
+  - community/Community_114
 ---
 
 # ProtectedRoute.jsx
@@ -15,4 +15,4 @@ tags:
 - [[DefaultFallback()]] - `contains` [EXTRACTED]
 - [[ProtectedRoute()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_98
+#graphify/code #graphify/EXTRACTED #community/Community_114

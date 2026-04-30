@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\igdb.py"
 type: "rationale"
-community: "IGDB Discovery"
+community: "Harvester Pipeline"
 location: "L168"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/IGDB_Discovery
+  - community/Harvester_Pipeline
 ---
 
 # Recupera giochi usciti negli ultimi N giorni per piattaforma.          Usa l'end
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.fetch_new_releases()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/IGDB_Discovery
+#graphify/rationale #graphify/EXTRACTED #community/Harvester_Pipeline

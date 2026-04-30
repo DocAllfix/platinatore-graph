@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\pipeline.py"
 type: "rationale"
-community: "Harvester Pipeline"
+community: "Test: Base Collector"
 location: "L736"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Harvester_Pipeline
+  - community/Test:_Base_Collector
 ---
 
 # Inietta un contenuto già raccolto (bypass collect step).          Include dedup
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[._inject_synthetic()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Harvester_Pipeline
+#graphify/rationale #graphify/EXTRACTED #community/Test:_Base_Collector

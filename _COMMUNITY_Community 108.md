@@ -1,19 +1,19 @@
 ---
 type: community
-cohesion: 0.83
+cohesion: 0.67
 members: 4
 ---
 
 # Community 108
 
-**Cohesion:** 0.83 - tightly connected
+**Cohesion:** 0.67 - moderately connected
 **Members:** 4 nodes
 
 ## Members
-- [[extractGenericGameName()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\mockGuide.js
-- [[generateMockGuide()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\mockGuide.js
-- [[mockGuide.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\mockGuide.js
-- [[mockGuide.js_1]] - code - il-platinatore-ai\frontend\src\lib\mockGuide.js
+- [[Script discovery massiva giochi PS5+PS4 via IGDB fetch_games paginato.  Strateg]] - rationale - harvester\scripts\run_igdb_full_discovery.py
+- [[main()_4]] - code - harvester\scripts\run_igdb_full_discovery.py
+- [[run_igdb_full_discovery.py]] - code - harvester\scripts\run_igdb_full_discovery.py
+- [[run_igdb_full_discovery.py_1]] - code - il-platinatore-ai\harvester\scripts\run_igdb_full_discovery.py
 
 ## Live Query (requires Dataview plugin)
 

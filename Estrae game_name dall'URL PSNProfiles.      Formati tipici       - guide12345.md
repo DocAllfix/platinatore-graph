@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\psnprofiles.py"
 type: "rationale"
-community: "Community 35"
+community: "RAG Architecture Concepts"
 location: "L150"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_35
+  - community/RAG_Architecture_Concepts
 ---
 
 # Estrae game_name dall'URL PSNProfiles.      Formati tipici:       - /guide/12345
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_parse_url_slug()_3]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_35
+#graphify/rationale #graphify/EXTRACTED #community/RAG_Architecture_Concepts

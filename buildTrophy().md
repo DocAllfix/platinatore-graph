@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\prompt.builder.ts"
 type: "code"
-community: "Community 44"
+community: "Community 43"
 location: "L112"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_44
+  - community/Community_43
 ---
 
 # buildTrophy()
@@ -17,4 +17,4 @@ tags:
 - [[formatPsnOfficial()]] - `calls` [EXTRACTED]
 - [[prompt.builder.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_44
+#graphify/code #graphify/EXTRACTED #community/Community_43

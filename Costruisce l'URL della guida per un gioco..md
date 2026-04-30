@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\pstrophies_org.py"
 type: "rationale"
-community: "Community 37"
+community: "Community 36"
 location: "L54"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_37
+  - community/Community_36
 ---
 
 # Costruisce l'URL della guida per un gioco.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.guide_url()_1]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_37
+#graphify/rationale #graphify/EXTRACTED #community/Community_36

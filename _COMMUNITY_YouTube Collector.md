@@ -38,7 +38,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Fextralife Collector]]
+- 1 edge to [[_COMMUNITY_RAG Architecture Concepts]]
 
 ## Top bridge nodes
 - [[YouTubeCollector]] - degree 10, connects to 1 community

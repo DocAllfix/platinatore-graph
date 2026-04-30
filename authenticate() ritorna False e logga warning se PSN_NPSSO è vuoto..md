@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_psn_fetcher.py"
 type: "rationale"
-community: "Test: PSN Fetcher"
+community: "Guide Search Collector"
 location: "L34"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Test:_PSN_Fetcher
+  - community/Guide_Search_Collector
 ---
 
 # authenticate() ritorna False e logga warning se PSN_NPSSO è vuoto.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.test_returns_false_when_npsso_empty()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Test:_PSN_Fetcher
+#graphify/rationale #graphify/EXTRACTED #community/Guide_Search_Collector

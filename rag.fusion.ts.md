@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\backend\src\services\rag.fusion.ts"
 type: "code"
-community: "Community 83"
+community: "Community 81"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_83
+  - community/Community_81
 ---
 
 # rag.fusion.ts
@@ -17,4 +17,4 @@ tags:
 - [[classifyMatch()]] - `contains` [EXTRACTED]
 - [[reciprocalRankFusion()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_83
+#graphify/code #graphify/EXTRACTED #community/Community_81

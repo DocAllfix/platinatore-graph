@@ -1,19 +1,19 @@
 ---
 type: community
-cohesion: 0.67
+cohesion: 0.50
 members: 4
 ---
 
 # Community 116
 
-**Cohesion:** 0.67 - moderately connected
+**Cohesion:** 0.50 - moderately connected
 **Members:** 4 nodes
 
 ## Members
-- [[FormField()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\form.jsx
-- [[form.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\form.jsx
-- [[form.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\form.jsx
-- [[useFormField()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\form.jsx
+- [[ARCHITECTURE.md — Concept→Implementation Map]] - document - il-platinatore-ai/ARCHITECTURE.md
+- [[Section Phase 18 — Auth]] - document - il-platinatore-ai/ARCHITECTURE.md
+- [[Section Phase 23 — HITL Self-Learning RAG]] - document - il-platinatore-ai/ARCHITECTURE.md
+- [[Section RAG hybrid pipeline (HNSW + RRF)]] - document - il-platinatore-ai/ARCHITECTURE.md
 
 ## Live Query (requires Dataview plugin)
 

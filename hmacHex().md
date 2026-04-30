@@ -1,12 +1,12 @@
 ---
 source_file: "backend\src\services\auth.csrf.ts"
 type: "code"
-community: "Community 80"
+community: "Community 79"
 location: "L19"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_80
+  - community/Community_79
 ---
 
 # hmacHex()
@@ -17,4 +17,4 @@ tags:
 - [[makeCsrfToken()]] - `calls` [EXTRACTED]
 - [[verifyCsrfToken()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_80
+#graphify/code #graphify/EXTRACTED #community/Community_79

@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\seed_loader.py"
 type: "code"
-community: "Community 55"
+community: "Community 54"
 location: "L26"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_55
+  - community/Community_54
 ---
 
 # SeedLoader
@@ -18,4 +18,4 @@ tags:
 - [[seed_loader.py]] - `contains` [EXTRACTED]
 - [[seed_loader.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_55
+#graphify/code #graphify/EXTRACTED #community/Community_54

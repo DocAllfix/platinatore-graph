@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/frontend/src/pages/Chat.jsx"
 type: "document"
-community: "RAG Architecture Concepts"
+community: "IGDB Discovery"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/RAG_Architecture_Concepts
+  - community/IGDB_Discovery
 ---
 
 # SSE streaming chat UX (chunked bubble)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Chat.handleSend (api.guideStream)]] - `implements` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/RAG_Architecture_Concepts
+#graphify/document #graphify/EXTRACTED #community/IGDB_Discovery

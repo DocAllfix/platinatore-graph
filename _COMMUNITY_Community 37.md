@@ -10,19 +10,19 @@ members: 13
 **Members:** 13 nodes
 
 ## Members
-- [[.extract()_7]] - code - harvester\src\collectors\pstrophies_org.py
-- [[.guide_url()_1]] - code - harvester\src\collectors\pstrophies_org.py
-- [[Collector per guide trofei su playstationtrophies.org.]] - rationale - harvester\src\collectors\pstrophies_org.py
-- [[Costruisce l'URL della guida per un gioco.]] - rationale - harvester\src\collectors\pstrophies_org.py
-- [[Estrae titolo e contenuto pulito dall'HTML di PlaystationTrophies.org.]] - rationale - harvester\src\collectors\pstrophies_org.py
-- [[PSTrophiesOrgCollector]] - code - harvester\src\collectors\pstrophies_org.py
-- [[PSTrophiesOrgCollector — collector per playstationtrophies.org.  PlaystationTrop]] - rationale - harvester\src\collectors\pstrophies_org.py
-- [[Slug per playstationtrophies.org lowercase + trattini, no caratteri speciali.]] - rationale - harvester\src\collectors\pstrophies_org.py
-- [[_extract_title()_5]] - code - harvester\src\collectors\pstrophies_org.py
-- [[_normalize_whitespace()_5]] - code - harvester\src\collectors\pstrophies_org.py
-- [[_slugify_psorg()]] - code - harvester\src\collectors\pstrophies_org.py
-- [[pstrophies_org.py]] - code - harvester\src\collectors\pstrophies_org.py
-- [[pstrophies_org.py_1]] - code - il-platinatore-ai\harvester\src\collectors\pstrophies_org.py
+- [[.extract()_11]] - code - harvester\src\collectors\truetrophies.py
+- [[.guide_url()_2]] - code - harvester\src\collectors\truetrophies.py
+- [[Collector per guide trofei su truetrophies.com.]] - rationale - harvester\src\collectors\truetrophies.py
+- [[Costruisce l'URL della pagina trofei per un gioco._1]] - rationale - harvester\src\collectors\truetrophies.py
+- [[Estrae titolo e contenuto pulito dall'HTML di TrueTrophies.          Ritorna Non]] - rationale - harvester\src\collectors\truetrophies.py
+- [[Slug per TrueTrophies NFKD + lowercase + trattini come separatori.      Esempi]] - rationale - harvester\src\collectors\truetrophies.py
+- [[TrueTrophiesCollector]] - code - harvester\src\collectors\truetrophies.py
+- [[TrueTrophiesCollector — collector per truetrophies.com.  TrueTrophies è una comm]] - rationale - harvester\src\collectors\truetrophies.py
+- [[_extract_title()_7]] - code - harvester\src\collectors\truetrophies.py
+- [[_normalize_whitespace()_7]] - code - harvester\src\collectors\truetrophies.py
+- [[_slugify_truetrophies()]] - code - harvester\src\collectors\truetrophies.py
+- [[truetrophies.py]] - code - harvester\src\collectors\truetrophies.py
+- [[truetrophies.py_1]] - code - il-platinatore-ai\harvester\src\collectors\truetrophies.py
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,7 +32,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Fextralife Collector]]
+- 1 edge to [[_COMMUNITY_RAG Architecture Concepts]]
 
 ## Top bridge nodes
-- [[PSTrophiesOrgCollector]] - degree 6, connects to 1 community
+- [[TrueTrophiesCollector]] - degree 6, connects to 1 community

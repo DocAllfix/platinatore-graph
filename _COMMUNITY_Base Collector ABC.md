@@ -1,42 +1,43 @@
 ---
 type: community
-cohesion: 0.11
-members: 27
+cohesion: 0.10
+members: 28
 ---
 
 # Base Collector ABC
 
-**Cohesion:** 0.11 - loosely connected
-**Members:** 27 nodes
+**Cohesion:** 0.10 - loosely connected
+**Members:** 28 nodes
 
 ## Members
-- [[.__init__()_1]] - code - harvester\src\collectors\base.py
-- [[.__init__()]] - code - harvester\src\collectors\base.py
-- [[._is_allowed()]] - code - harvester\src\collectors\base.py
-- [[._load_robots()]] - code - harvester\src\collectors\base.py
-- [[._respect_delay()]] - code - harvester\src\collectors\base.py
-- [[.acquire()]] - code - harvester\src\collectors\base.py
-- [[.close()]] - code - harvester\src\collectors\base.py
-- [[.collect()]] - code - harvester\src\collectors\base.py
-- [[.fetch()]] - code - harvester\src\collectors\base.py
-- [[ABC]] - code
-- [[Aspetta almeno settings.scrape_delay_seconds tra richieste allo stesso dominio.]] - rationale - harvester\src\collectors\base.py
-- [[Attende fino a quando un token è disponibile per host.]] - rationale - harvester\src\collectors\base.py
-- [[BaseCollector]] - code - harvester\src\collectors\base.py
-- [[BaseCollector — classe astratta per tutti i collector dell'Infinite Ingestion En]] - rationale - harvester\src\collectors\base.py
-- [[Calcola SHA-256 di text e ritorna l'hash esadecimale.]] - rationale - harvester\src\collectors\base.py
-- [[Chiude il client httpx.]] - rationale - harvester\src\collectors\base.py
-- [[Classe astratta da cui ereditano tutti i collector.      Sottoclassi DEVONO defi]] - rationale - harvester\src\collectors\base.py
-- [[PerHostTokenBucket]] - code - harvester\src\collectors\base.py
-- [[Pipeline completa fetch → extract.  Ritorna i dati strutturati o None.]] - rationale - harvester\src\collectors\base.py
-- [[Rate limiter per-host con algoritmo token bucket.      rate = 0.33 → max 1 richi]] - rationale - harvester\src\collectors\base.py
-- [[Scarica e parsa robots.txt del dominio.  Fail-open se non raggiungibile.]] - rationale - harvester\src\collectors\base.py
-- [[Scarica una pagina rispettando rate limit globale e per-host.          Ritorna i]] - rationale - harvester\src\collectors\base.py
-- [[Verifica se url è permesso da robots.txt.  Fail-open se non caricato.]] - rationale - harvester\src\collectors\base.py
-- [[base.py]] - code - harvester\src\collectors\base.py
-- [[base.py_1]] - code - il-platinatore-ai\harvester\src\collectors\base.py
-- [[compute_hash()]] - code - harvester\src\collectors\base.py
-- [[extract()]] - code - harvester\src\collectors\base.py
+- [[Auth Routes]] - code - il-platinatore-ai/backend/src/routes/auth.routes.ts
+- [[Draft FSM (draft-revision-pending-approved-published)]] - code - il-platinatore-ai/backend/src/models/guideDrafts.model.ts
+- [[Draft Routes]] - code - il-platinatore-ai/backend/src/routes/draft.routes.ts
+- [[Env Config Zod Schema]] - code - il-platinatore-ai/backend/src/config/env.ts
+- [[Express App Bootstrap (index.ts)]] - code - il-platinatore-ai/backend/src/index.ts
+- [[GameStats Routes]] - code - il-platinatore-ai/backend/src/routes/gameStats.routes.ts
+- [[Guide Routes (RAG)]] - code - il-platinatore-ai/backend/src/routes/guide.routes.ts
+- [[GuideDrafts Model]] - code - il-platinatore-ai/backend/src/models/guideDrafts.model.ts
+- [[GuideDrafts Model Tests]] - code - il-platinatore-ai/backend/src/models/guideDrafts.model.test.ts
+- [[IDOR Guard via WHERE user_id]] - code - il-platinatore-ai/backend/src/models/userGameStats.model.ts
+- [[JWT + CSRF + Refresh Token Pair]] - code - il-platinatore-ai/backend/src/routes/auth.routes.ts
+- [[PgBouncer Connection (port 6432)]] - code - il-platinatore-ai/backend/src/config/env.ts
+- [[RateLimiter Tests]] - code - il-platinatore-ai/backend/src/middleware/rateLimiter.test.ts
+- [[Ratings Model]] - code - il-platinatore-ai/backend/src/models/ratings.model.ts
+- [[Ratings Model Tests]] - code - il-platinatore-ai/backend/src/models/ratings.model.test.ts
+- [[Redis Lua Sliding Window Rate Limit]] - code - il-platinatore-ai/backend/src/middleware/rateLimiter.test.ts
+- [[SSE Dual Response (cache HIT JSON  MISS SSE)]] - code - il-platinatore-ai/backend/src/routes/guide.routes.ts
+- [[Section Admin endpoints HITL (Fase 24)]] - document - il-platinatore-ai/ARCHITECTURE.md
+- [[Section Draft FSM (state machine)]] - document - il-platinatore-ai/ARCHITECTURE.md
+- [[Section IDOR Guard via WHERE user_id]] - document - il-platinatore-ai/ARCHITECTURE.md
+- [[Section SSE streaming chat UX]] - document - il-platinatore-ai/ARCHITECTURE.md
+- [[UserGameStats Model]] - code - il-platinatore-ai/backend/src/models/userGameStats.model.ts
+- [[UserGameStats Model Tests]] - code - il-platinatore-ai/backend/src/models/userGameStats.model.test.ts
+- [[Users Model]] - code - il-platinatore-ai/backend/src/models/users.model.ts
+- [[Users Model Tests]] - code - il-platinatore-ai/backend/src/models/users.model.test.ts
+- [[Vitest Integration Test Config]] - code - il-platinatore-ai/backend/vitest.integration.config.ts
+- [[Vitest Unit Test Config]] - code - il-platinatore-ai/backend/vitest.config.ts
+- [[Zod Strict Schema Validation]] - code - il-platinatore-ai/backend/src/config/env.ts
 
 ## Live Query (requires Dataview plugin)
 

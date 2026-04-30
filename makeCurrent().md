@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\coverage\block-navigation.js"
 type: "code"
-community: "Community 77"
+community: "Community 76"
 location: "L31"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_77
+  - community/Community_76
 ---
 
 # makeCurrent()
@@ -17,4 +17,4 @@ tags:
 - [[goToPrevious()]] - `calls` [EXTRACTED]
 - [[toggleClass()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_77
+#graphify/code #graphify/EXTRACTED #community/Community_76

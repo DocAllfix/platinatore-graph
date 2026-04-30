@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/src/index.ts"
 type: "code"
-community: "Backend Auth/Security Concepts"
+community: "Base Collector ABC"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Backend_Auth/Security_Concepts
+  - community/Base_Collector_ABC
 ---
 
 # Express App Bootstrap (index.ts)
@@ -14,4 +14,4 @@ tags:
 - [[Auth Routes]] - `conceptually_related_to` [INFERRED]
 - [[Env Config Zod Schema]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Backend_Auth/Security_Concepts
+#graphify/code #graphify/EXTRACTED #community/Base_Collector_ABC

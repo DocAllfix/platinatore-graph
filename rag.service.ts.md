@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\backend\src\services\rag.service.ts"
 type: "code"
-community: "Community 85"
+community: "Community 83"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_85
+  - community/Community_83
 ---
 
 # rag.service.ts
@@ -17,4 +17,4 @@ tags:
 - [[runFtsSearch()]] - `contains` [EXTRACTED]
 - [[runVectorSearch()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_85
+#graphify/code #graphify/EXTRACTED #community/Community_83

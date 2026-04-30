@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/src/services/prompt.builder.ts"
 type: "document"
-community: "RAG Architecture Concepts"
+community: "IGDB Discovery"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/RAG_Architecture_Concepts
+  - community/IGDB_Discovery
 ---
 
 # Prompt injection sanitization defense
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[sanitizeUserQuery (anti-injection)]] - `implements` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/RAG_Architecture_Concepts
+#graphify/document #graphify/EXTRACTED #community/IGDB_Discovery

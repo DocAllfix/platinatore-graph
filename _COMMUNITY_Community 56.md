@@ -1,24 +1,23 @@
 ---
 type: community
-cohesion: 0.31
-members: 9
+cohesion: 0.39
+members: 8
 ---
 
 # Community 56
 
-**Cohesion:** 0.31 - loosely connected
-**Members:** 9 nodes
+**Cohesion:** 0.39 - loosely connected
+**Members:** 8 nodes
 
 ## Members
-- [[Multer memoryStorage + magic-bytes pipeline]] - code - il-platinatore-ai/backend/src/routes/uploads.routes.ts
-- [[Phase 21.x — Avatar uploads + game stats]] - code - il-platinatore-ai/backend/src/routes/index.ts
-- [[assertPathSafe (path traversal defense)]] - code - il-platinatore-ai/backend/src/services/avatar.service.ts
-- [[avatarLimiter (1024h per user)]] - code - il-platinatore-ai/backend/src/routes/uploads.routes.ts
-- [[detectImageType (PNGJPEGWEBP magic bytes)]] - code - il-platinatore-ai/backend/src/services/avatar.service.ts
-- [[guideRatingsRouter (GET apiguide-ratings)]] - code - il-platinatore-ai/backend/src/routes/guideRatings.routes.ts
-- [[rootRouter (Express mount table)]] - code - il-platinatore-ai/backend/src/routes/index.ts
-- [[uploadAvatar service (8-step pipeline)]] - code - il-platinatore-ai/backend/src/services/avatar.service.ts
-- [[uploadsRouter (POST apiuploadsavatar)]] - code - il-platinatore-ai/backend/src/routes/uploads.routes.ts
+- [[assertPathSafe()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
+- [[avatar.service.test.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.test.ts
+- [[avatar.service.ts]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
+- [[detectImageType()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
+- [[ensureAvatarDir()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
+- [[makeUser()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.test.ts
+- [[safeUnlink()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
+- [[uploadAvatar()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\services\avatar.service.ts
 
 ## Live Query (requires Dataview plugin)
 

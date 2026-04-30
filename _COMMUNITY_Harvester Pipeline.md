@@ -1,51 +1,53 @@
 ---
 type: community
 cohesion: 0.08
-members: 36
+members: 38
 ---
 
 # Harvester Pipeline
 
 **Cohesion:** 0.08 - loosely connected
-**Members:** 36 nodes
+**Members:** 38 nodes
 
 ## Members
-- [[.__init__()_12]] - code - harvester\src\orchestrator\pipeline.py
-- [[._get_collector_for_url()]] - code - harvester\src\orchestrator\pipeline.py
-- [[._get_last_processed_slug()]] - code - harvester\src\orchestrator\pipeline.py
-- [[._inject_synthetic()]] - code - harvester\src\orchestrator\pipeline.py
-- [[._reset_progress()]] - code - harvester\src\orchestrator\pipeline.py
-- [[._save_progress()]] - code - harvester\src\orchestrator\pipeline.py
-- [[.cleanup()]] - code - harvester\src\orchestrator\pipeline.py
-- [[.process_boss_guides()]] - code - harvester\src\orchestrator\pipeline.py
-- [[.process_fandom_content()]] - code - harvester\src\orchestrator\pipeline.py
-- [[.process_single_guide()]] - code - harvester\src\orchestrator\pipeline.py
-- [[.process_steam_community_guides()]] - code - harvester\src\orchestrator\pipeline.py
-- [[.process_with_reddit()]] - code - harvester\src\orchestrator\pipeline.py
-- [[.process_youtube_guides()]] - code - harvester\src\orchestrator\pipeline.py
-- [[.run_seed_batch()]] - code - harvester\src\orchestrator\pipeline.py
-- [[Arricchisce guide con community tips da Reddit.          Per ogni query (default]] - rationale - harvester\src\orchestrator\pipeline.py
-- [[Chiude tutti i client HTTP.]] - rationale - harvester\src\orchestrator\pipeline.py
-- [[Converte 'Elden Ring' → 'elden-ring' (URL slug conservativo).]] - rationale - harvester\src\orchestrator\pipeline.py
-- [[Discovery + collect di Steam Community Guides per un gioco.          Richiede `g]] - rationale - harvester\src\orchestrator\pipeline.py
-- [[Discovery + inject di guide video YouTube per un gioco.          Per ogni query]] - rationale - harvester\src\orchestrator\pipeline.py
-- [[Genera guide boss per un gioco usando Fextralife + IGN.          Se boss_names è]] - rationale - harvester\src\orchestrator\pipeline.py
-- [[HarvestPipeline]] - code - harvester\src\orchestrator\pipeline.py
-- [[HarvestPipeline — orchestratore che connette collector → transformer → injector.]] - rationale - harvester\src\orchestrator\pipeline.py
-- [[Heartbeat file per Docker healthcheck (W-ARCH-2).]] - rationale - harvester\src\orchestrator\pipeline.py
-- [[Inietta un contenuto già raccolto (bypass collect step).          Include dedup]] - rationale - harvester\src\orchestrator\pipeline.py
-- [[Legge l'ultimo slug processato dal DB.]] - rationale - harvester\src\orchestrator\pipeline.py
-- [[Orchestra la pipeline completa collect → transform → inject.]] - rationale - harvester\src\orchestrator\pipeline.py
-- [[Processa tutti i giochi del seed file con advisory lock singleton.          Rito]] - rationale - harvester\src\orchestrator\pipeline.py
-- [[Processa una singola guida end-to-end. Ritorna True se iniettata.]] - rationale - harvester\src\orchestrator\pipeline.py
-- [[Raccoglie contenuti wiki da Fandom per un gioco.          Se `wiki_subdomain` è]] - rationale - harvester\src\orchestrator\pipeline.py
-- [[Resetta il progresso dopo un batch completato con successo.]] - rationale - harvester\src\orchestrator\pipeline.py
-- [[Salva il progresso corrente nel DB.]] - rationale - harvester\src\orchestrator\pipeline.py
-- [[Seleziona il collector corretto in base al dominio dell'URL.          Usa match]] - rationale - harvester\src\orchestrator\pipeline.py
-- [[_slugify()_3]] - code - harvester\src\orchestrator\pipeline.py
-- [[_touch_heartbeat()]] - code - harvester\src\orchestrator\pipeline.py
-- [[pipeline.py]] - code - harvester\src\orchestrator\pipeline.py
-- [[pipeline.py_1]] - code - il-platinatore-ai\harvester\src\orchestrator\pipeline.py
+- [[.__init__()_5]] - code - harvester\src\discovery\igdb.py
+- [[._get_token()]] - code - harvester\src\discovery\igdb.py
+- [[._ingest_game()]] - code - harvester\src\discovery\igdb.py
+- [[._insert_aliases()]] - code - harvester\src\discovery\igdb.py
+- [[._query()]] - code - harvester\src\discovery\igdb.py
+- [[.check_released_upcoming()]] - code - harvester\src\discovery\igdb.py
+- [[.close()_1]] - code - harvester\src\discovery\igdb.py
+- [[.discover_all_games()]] - code - harvester\src\discovery\igdb.py
+- [[.discover_popular_and_new()]] - code - harvester\src\discovery\igdb.py
+- [[.discover_upcoming()]] - code - harvester\src\discovery\igdb.py
+- [[.fetch_game_details()]] - code - harvester\src\discovery\igdb.py
+- [[.fetch_games()]] - code - harvester\src\discovery\igdb.py
+- [[.fetch_new_releases()]] - code - harvester\src\discovery\igdb.py
+- [[.fetch_popular()]] - code - harvester\src\discovery\igdb.py
+- [[.fetch_upcoming()]] - code - harvester\src\discovery\igdb.py
+- [[.resolve_steam_appids()]] - code - harvester\src\discovery\igdb.py
+- [[Chiude il client httpx._1]] - rationale - harvester\src\discovery\igdb.py
+- [[Client IGDB per discovery automatica giochi e popolamento catalogo DB.]] - rationale - harvester\src\discovery\igdb.py
+- [[Controlla se giochi in upcoming_games sono stati rilasciati.          Per ogni u]] - rationale - harvester\src\discovery\igdb.py
+- [[Esegue una query POST su un endpoint IGDB e ritorna la risposta JSON.]] - rationale - harvester\src\discovery\igdb.py
+- [[IGDBDiscovery]] - code - harvester\src\discovery\igdb.py
+- [[IGDBDiscovery — popola il catalogo giochi via IGDB API v4.  Autenticazione Twit]] - rationale - harvester\src\discovery\igdb.py
+- [[Inserisce alias per il gioco titolo completo + slug IGDB.]] - rationale - harvester\src\discovery\igdb.py
+- [[Inserisce un gioco da dati IGDB se non già presente.          Salva igdb_id sia]] - rationale - harvester\src\discovery\igdb.py
+- [[Recupera giochi IGDB per le piattaforme indicate.          IGDB usa POST con bod]] - rationale - harvester\src\discovery\igdb.py
+- [[Recupera giochi upcoming con alto hypefollowing.          status=2 = alpha, 3]] - rationale - harvester\src\discovery\igdb.py
+- [[Recupera giochi usciti negli ultimi N giorni per piattaforma.          Usa l'end]] - rationale - harvester\src\discovery\igdb.py
+- [[Recupera i dettagli dei giochi per una lista di IGDB IDs.]] - rationale - harvester\src\discovery\igdb.py
+- [[Recupera i giochi più giocati via popularity_primitives.          popularity_typ]] - rationale - harvester\src\discovery\igdb.py
+- [[Risolve steam_appid per giochi con igdb_id ma senza steam_appid.          Usa l']] - rationale - harvester\src\discovery\igdb.py
+- [[Ritorna il token Twitch OAuth, richiedendolorinnovandolo se scaduto.]] - rationale - harvester\src\discovery\igdb.py
+- [[Scarica tutti i giochi IGDB per le piattaforme e li inserisce nel DB.          P]] - rationale - harvester\src\discovery\igdb.py
+- [[Scopre giochi popolari e nuove uscite, li inserisce in games.          Ritorna s]] - rationale - harvester\src\discovery\igdb.py
+- [[Scopre giochi upcoming e li salva in upcoming_games.          Non li mette in ga]] - rationale - harvester\src\discovery\igdb.py
+- [[_accept_game()]] - code - harvester\src\discovery\igdb.py
+- [[_map_platform_ids()]] - code - harvester\src\discovery\igdb.py
+- [[igdb.py]] - code - harvester\src\discovery\igdb.py
+- [[igdb.py_1]] - code - il-platinatore-ai\harvester\src\discovery\igdb.py
 
 ## Live Query (requires Dataview plugin)
 

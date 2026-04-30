@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\orchestrator\igdb_seed.py"
 type: "rationale"
-community: "Community 46"
+community: "Community 45"
 location: "L203"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_46
+  - community/Community_45
 ---
 
 # Fetcha achievement Steam per giochi con steam_appid senza achievement.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_run_steam_achievements()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_46
+#graphify/rationale #graphify/EXTRACTED #community/Community_45

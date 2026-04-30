@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/tests/setup.ts"
 type: "code"
-community: "RAG Architecture Concepts"
+community: "IGDB Discovery"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/RAG_Architecture_Concepts
+  - community/IGDB_Discovery
 ---
 
 # Vitest setup ioredis-mock
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[fetchScrapedContext (Tavily)]] - `shares_data_with` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/RAG_Architecture_Concepts
+#graphify/code #graphify/INFERRED #community/IGDB_Discovery

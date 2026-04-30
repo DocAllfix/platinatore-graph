@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\transformer\quality.py"
 type: "code"
-community: "Community 90"
+community: "Community 88"
 location: "L31"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_90
+  - community/Community_88
 ---
 
 # calculate_quality_score()
@@ -16,4 +16,4 @@ tags:
 - [[quality.py]] - `contains` [EXTRACTED]
 - [[quality.py_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_90
+#graphify/code #graphify/EXTRACTED #community/Community_88

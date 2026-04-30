@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/src/routes/index.ts"
 type: "code"
-community: "Community 56"
+community: "Community 55"
 tags:
   - graphify/code
-  - graphify/EXTRACTED
-  - community/Community_56
+  - graphify/INFERRED
+  - community/Community_55
 ---
 
 # Phase 21.x — Avatar uploads + game stats
@@ -14,4 +14,4 @@ tags:
 - [[guideRatingsRouter (GET apiguide-ratings)]] - `conceptually_related_to` [INFERRED]
 - [[uploadsRouter (POST apiuploadsavatar)]] - `implements` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_56
+#graphify/code #graphify/INFERRED #community/Community_55

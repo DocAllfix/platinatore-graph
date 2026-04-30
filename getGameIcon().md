@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx"
 type: "code"
-community: "Community 65"
+community: "Community 64"
 location: "L20"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_65
+  - community/Community_64
 ---
 
 # getGameIcon()
@@ -16,4 +16,4 @@ tags:
 - [[GuideRenderer.jsx]] - `contains` [EXTRACTED]
 - [[GuideRenderer.jsx_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_65
+#graphify/code #graphify/EXTRACTED #community/Community_64

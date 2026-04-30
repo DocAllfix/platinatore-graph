@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\test_psn_fetcher.py"
 type: "rationale"
-community: "Test: PSN Fetcher"
+community: "Guide Search Collector"
 location: "L70"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Test:_PSN_Fetcher
+  - community/Guide_Search_Collector
 ---
 
 # fetch_game_trophies() parsa la risposta PSN e mergia le 10 lingue.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.test_parses_response_correctly()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Test:_PSN_Fetcher
+#graphify/rationale #graphify/EXTRACTED #community/Guide_Search_Collector

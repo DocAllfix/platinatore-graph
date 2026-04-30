@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\hooks\useGamification.js"
 type: "code"
-community: "Community 67"
+community: "Community 66"
 location: "L29"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_67
+  - community/Community_66
 ---
 
 # getWeekKey()
@@ -15,4 +15,4 @@ tags:
 - [[useGamification.js]] - `contains` [EXTRACTED]
 - [[useGamification.js_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_67
+#graphify/code #graphify/EXTRACTED #community/Community_66

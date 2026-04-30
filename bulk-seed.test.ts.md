@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\backend\src\scripts\bulk-seed.test.ts"
 type: "code"
-community: "Bulk Seed CLI"
+community: "Fextralife Collector"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Bulk_Seed_CLI
+  - community/Fextralife_Collector
 ---
 
 # bulk-seed.test.ts
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[bulk-seed.ts]] - `imports_from` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Bulk_Seed_CLI
+#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector

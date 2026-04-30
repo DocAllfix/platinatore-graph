@@ -1,29 +1,28 @@
 ---
 type: community
 cohesion: 0.24
-members: 14
+members: 13
 ---
 
 # Community 35
 
 **Cohesion:** 0.24 - loosely connected
-**Members:** 14 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[.extract()_6]] - code - harvester\src\collectors\psnprofiles.py
-- [[Collassa spazi multipli e normalizza newline._1]] - rationale - harvester\src\collectors\psnprofiles.py
-- [[Collector per guide trofei su psnprofiles.com.]] - rationale - harvester\src\collectors\psnprofiles.py
-- [[Converte tabelle table class=zebra in testo strutturato pipe-delimited.]] - rationale - harvester\src\collectors\psnprofiles.py
-- [[Estrae game_name dall'URL PSNProfiles.      Formati tipici       - guide12345]] - rationale - harvester\src\collectors\psnprofiles.py
-- [[Estrae titolo, tabelle trofei e testo dalla guida PSNProfiles.          Ritorna]] - rationale - harvester\src\collectors\psnprofiles.py
-- [[PSNProfilesCollector]] - code - harvester\src\collectors\psnprofiles.py
-- [[PSNProfilesCollector — collector per psnprofiles.com.  Guide trophy nella sezion]] - rationale - harvester\src\collectors\psnprofiles.py
-- [[_convert_tables_to_text()]] - code - harvester\src\collectors\psnprofiles.py
-- [[_extract_title()_4]] - code - harvester\src\collectors\psnprofiles.py
-- [[_normalize_whitespace()_4]] - code - harvester\src\collectors\psnprofiles.py
-- [[_parse_url_slug()_3]] - code - harvester\src\collectors\psnprofiles.py
-- [[psnprofiles.py]] - code - harvester\src\collectors\psnprofiles.py
-- [[psnprofiles.py_1]] - code - il-platinatore-ai\harvester\src\collectors\psnprofiles.py
+- [[.extract()]] - code - harvester\src\collectors\exophase.py
+- [[.guide_url()]] - code - harvester\src\collectors\exophase.py
+- [[Collector per trofeiachievement su exophase.com.]] - rationale - harvester\src\collectors\exophase.py
+- [[Costruisce l'URL della pagina trofei per un gioco.]] - rationale - harvester\src\collectors\exophase.py
+- [[Estrae trofei e descrizioni dall'HTML di Exophase.          Ritorna None se la p]] - rationale - harvester\src\collectors\exophase.py
+- [[ExophaseCollector]] - code - harvester\src\collectors\exophase.py
+- [[ExophaseCollector — collector per exophase.com.  Exophase è un aggregatore di ac]] - rationale - harvester\src\collectors\exophase.py
+- [[Slug per Exophase lowercase + trattini, apostrofi rimossi.]] - rationale - harvester\src\collectors\exophase.py
+- [[_extract_title()]] - code - harvester\src\collectors\exophase.py
+- [[_normalize_whitespace()]] - code - harvester\src\collectors\exophase.py
+- [[_slugify_exophase()]] - code - harvester\src\collectors\exophase.py
+- [[exophase.py]] - code - harvester\src\collectors\exophase.py
+- [[exophase.py_1]] - code - il-platinatore-ai\harvester\src\collectors\exophase.py
 
 ## Live Query (requires Dataview plugin)
 
@@ -33,7 +32,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Fextralife Collector]]
+- 1 edge to [[_COMMUNITY_RAG Architecture Concepts]]
 
 ## Top bridge nodes
-- [[PSNProfilesCollector]] - degree 5, connects to 1 community
+- [[ExophaseCollector]] - degree 6, connects to 1 community

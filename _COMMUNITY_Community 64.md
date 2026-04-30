@@ -1,22 +1,22 @@
 ---
 type: community
-cohesion: 0.67
+cohesion: 0.52
 members: 7
 ---
 
 # Community 64
 
-**Cohesion:** 0.67 - moderately connected
+**Cohesion:** 0.52 - moderately connected
 **Members:** 7 nodes
 
 ## Members
-- [[createGuideRating()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
-- [[listGuideRatings()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
-- [[patchMe()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
-- [[stubs.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
-- [[stubs.js_1]] - code - il-platinatore-ai\frontend\src\api\stubs.js
-- [[uploadAvatar()_1]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
-- [[warn()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\stubs.js
+- [[AskAIPopover()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
+- [[GuideRenderer()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
+- [[GuideRenderer.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
+- [[GuideRenderer.jsx_1]] - code - il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
+- [[GuideText()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
+- [[RichInlineText()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
+- [[getGameIcon()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\chat\GuideRenderer.jsx
 
 ## Live Query (requires Dataview plugin)
 

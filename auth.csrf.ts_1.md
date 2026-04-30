@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\backend\src\services\auth.csrf.ts"
 type: "code"
-community: "Community 80"
+community: "Community 79"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_80
+  - community/Community_79
 ---
 
 # auth.csrf.ts
@@ -16,4 +16,4 @@ tags:
 - [[makeCsrfToken()]] - `contains` [EXTRACTED]
 - [[verifyCsrfToken()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_80
+#graphify/code #graphify/EXTRACTED #community/Community_79

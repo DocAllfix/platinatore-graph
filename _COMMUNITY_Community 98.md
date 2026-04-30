@@ -10,10 +10,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[DefaultFallback()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ProtectedRoute.jsx
-- [[ProtectedRoute()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ProtectedRoute.jsx
-- [[ProtectedRoute.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ProtectedRoute.jsx
-- [[ProtectedRoute.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ProtectedRoute.jsx
+- [[BreadcrumbEllipsis()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\breadcrumb.jsx
+- [[BreadcrumbSeparator()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\breadcrumb.jsx
+- [[breadcrumb.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\breadcrumb.jsx
+- [[breadcrumb.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\breadcrumb.jsx
 
 ## Live Query (requires Dataview plugin)
 

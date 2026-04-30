@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\harvester\src\collectors\truetrophies.py"
 type: "code"
-community: "Fextralife Collector"
+community: "Community 37"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Fextralife_Collector
+  - community/Community_37
 ---
 
 # truetrophies.py
@@ -18,4 +18,4 @@ tags:
 - [[_normalize_whitespace()_7]] - `contains` [EXTRACTED]
 - [[_slugify_truetrophies()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector
+#graphify/code #graphify/EXTRACTED #community/Community_37

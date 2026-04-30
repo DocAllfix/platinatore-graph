@@ -1,20 +1,20 @@
 ---
 type: community
-cohesion: 0.40
+cohesion: 0.60
 members: 5
 ---
 
 # Community 86
 
-**Cohesion:** 0.40 - moderately connected
+**Cohesion:** 0.60 - moderately connected
 **Members:** 5 nodes
 
 ## Members
-- [[rating.service.test.ts]] - code - backend\src\services\rating.service.test.ts
-- [[rating.service.test.ts_2]] - code - il-platinatore-ai\backend\src\services\rating.service.test.ts
-- [[rating.service.ts]] - code - backend\src\services\rating.service.ts
-- [[rating.service.ts_1]] - code - il-platinatore-ai\backend\src\services\rating.service.ts
-- [[stubGuide()]] - code - backend\src\services\rating.service.test.ts
+- [[Drawer()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\drawer.jsx
+- [[DrawerFooter()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\drawer.jsx
+- [[DrawerHeader()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\drawer.jsx
+- [[drawer.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\drawer.jsx
+- [[drawer.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\drawer.jsx
 
 ## Live Query (requires Dataview plugin)
 

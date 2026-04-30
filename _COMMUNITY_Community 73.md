@@ -1,21 +1,21 @@
 ---
 type: community
-cohesion: 0.40
+cohesion: 0.53
 members: 6
 ---
 
 # Community 73
 
-**Cohesion:** 0.40 - moderately connected
+**Cohesion:** 0.53 - moderately connected
 **Members:** 6 nodes
 
 ## Members
-- [[Chiude la connessione Redis. Da chiamare allo shutdown.]] - rationale - harvester\src\config\redis_client.py
-- [[Verifica la connessione Redis con PING.]] - rationale - harvester\src\config\redis_client.py
-- [[close_redis()]] - code - harvester\src\config\redis_client.py
-- [[redis_client.py]] - code - harvester\src\config\redis_client.py
-- [[redis_client.py_1]] - code - il-platinatore-ai\harvester\src\config\redis_client.py
-- [[test_redis_connection()]] - code - harvester\src\config\redis_client.py
+- [[Chunker — split di una guida in chunk da max_tokens con overlap.  Stima token =]] - rationale - harvester\src\injector\chunker.py
+- [[Split markdown guide in chunk con prefisso titolo e overlap tra chunk consecutiv]] - rationale - harvester\src\injector\chunker.py
+- [[_estimate_tokens()]] - code - harvester\src\injector\chunker.py
+- [[chunk_content()]] - code - harvester\src\injector\chunker.py
+- [[chunker.py]] - code - harvester\src\injector\chunker.py
+- [[chunker.py_1]] - code - il-platinatore-ai\harvester\src\injector\chunker.py
 
 ## Live Query (requires Dataview plugin)
 

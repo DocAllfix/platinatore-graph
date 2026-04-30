@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\discovery\igdb.py"
 type: "rationale"
-community: "IGDB Discovery"
+community: "Harvester Pipeline"
 location: "L147"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/IGDB_Discovery
+  - community/Harvester_Pipeline
 ---
 
 # Recupera i dettagli dei giochi per una lista di IGDB IDs.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[.fetch_game_details()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/IGDB_Discovery
+#graphify/rationale #graphify/EXTRACTED #community/Harvester_Pipeline

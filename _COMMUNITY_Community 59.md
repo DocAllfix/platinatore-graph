@@ -1,23 +1,22 @@
 ---
 type: community
-cohesion: 0.43
-members: 8
+cohesion: 0.57
+members: 7
 ---
 
 # Community 59
 
-**Cohesion:** 0.43 - moderately connected
-**Members:** 8 nodes
+**Cohesion:** 0.57 - moderately connected
+**Members:** 7 nodes
 
 ## Members
-- [[MenubarGroup()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
-- [[MenubarMenu()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
-- [[MenubarPortal()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
-- [[MenubarRadioGroup()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
-- [[MenubarShortcut()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
-- [[MenubarSub()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
-- [[menubar.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
-- [[menubar.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\menubar.jsx
+- [[auth.service.ts]] - code - backend\src\services\auth.service.ts
+- [[auth.service.ts_1]] - code - il-platinatore-ai\backend\src\services\auth.service.ts
+- [[buildTokenPair()]] - code - backend\src\services\auth.service.ts
+- [[revokeFamily()]] - code - backend\src\services\auth.service.ts
+- [[sha256()]] - code - backend\src\services\auth.service.ts
+- [[toPublicUser()]] - code - backend\src\services\auth.service.ts
+- [[writeRefreshPair()]] - code - backend\src\services\auth.service.ts
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/src/models/users.model.ts"
 type: "code"
-community: "Backend Auth/Security Concepts"
+community: "Base Collector ABC"
 tags:
   - graphify/code
-  - graphify/EXTRACTED
-  - community/Backend_Auth/Security_Concepts
+  - graphify/INFERRED
+  - community/Base_Collector_ABC
 ---
 
 # Users Model
@@ -16,4 +16,4 @@ tags:
 - [[UserGameStats Model]] - `shares_data_with` [INFERRED]
 - [[Users Model Tests]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Backend_Auth/Security_Concepts
+#graphify/code #graphify/INFERRED #community/Base_Collector_ABC

@@ -1,23 +1,23 @@
 ---
 type: community
-cohesion: 0.46
+cohesion: 0.43
 members: 8
 ---
 
 # Community 58
 
-**Cohesion:** 0.46 - moderately connected
+**Cohesion:** 0.43 - moderately connected
 **Members:** 8 nodes
 
 ## Members
-- [[clearAuthTokens()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
-- [[client.js]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
-- [[client.js_1]] - code - il-platinatore-ai\frontend\src\api\client.js
-- [[doRefresh()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
-- [[hasAccessToken()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
-- [[parseOrThrow()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
-- [[request()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
-- [[setAuthTokens()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\api\client.js
+- [[MenubarGroup()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
+- [[MenubarMenu()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
+- [[MenubarPortal()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
+- [[MenubarRadioGroup()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
+- [[MenubarShortcut()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
+- [[MenubarSub()]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
+- [[menubar.jsx]] - code - c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\components\ui\menubar.jsx
+- [[menubar.jsx_1]] - code - il-platinatore-ai\frontend\src\components\ui\menubar.jsx
 
 ## Live Query (requires Dataview plugin)
 

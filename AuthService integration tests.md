@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/tests/integration/auth.service.test.ts"
 type: "code"
-community: "Community 93"
+community: "Community 92"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_93
+  - community/Community_92
 ---
 
 # AuthService integration tests
@@ -14,4 +14,4 @@ tags:
 - [[Integration setup() create test DB]] - `shares_data_with` [EXTRACTED]
 - [[Refresh token rotation + reuse detection]] - `implements` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_93
+#graphify/code #graphify/EXTRACTED #community/Community_92

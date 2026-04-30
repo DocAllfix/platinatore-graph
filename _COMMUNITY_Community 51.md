@@ -1,25 +1,25 @@
 ---
 type: community
-cohesion: 0.36
+cohesion: 0.40
 members: 10
 ---
 
 # Community 51
 
-**Cohesion:** 0.36 - loosely connected
+**Cohesion:** 0.40 - moderately connected
 **Members:** 10 nodes
 
 ## Members
-- [[Test per PowerPyxCollector — extract, URL slug parsing, pulizia HTML.]] - rationale - harvester\tests\test_powerpyx_collector.py
-- [[TestExtract]] - code - harvester\tests\test_powerpyx_collector.py
-- [[collector()_1]] - code - harvester\tests\test_powerpyx_collector.py
-- [[test_content_hash_deterministic()]] - code - harvester\tests\test_powerpyx_collector.py
-- [[test_empty_content_returns_none()_1]] - code - harvester\tests\test_powerpyx_collector.py
-- [[test_game_name_from_url()_1]] - code - harvester\tests\test_powerpyx_collector.py
-- [[test_powerpyx_collector.py]] - code - harvester\tests\test_powerpyx_collector.py
-- [[test_powerpyx_collector.py_1]] - code - il-platinatore-ai\harvester\tests\test_powerpyx_collector.py
-- [[test_script_style_nav_removed()]] - code - harvester\tests\test_powerpyx_collector.py
-- [[test_valid_html_returns_full_dict()_1]] - code - harvester\tests\test_powerpyx_collector.py
+- [[assembleContext()_1]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[buildQueries()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[cacheKey()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[callSerpApi()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[emptyResult()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[enforceDomainRateLimit()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[fetchHtml()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[hostOf()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[scrapeForGuide()]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
+- [[scraping.service.ts]] - code - il-platinatore-ai\scraper\src\scraping.service.ts
 
 ## Live Query (requires Dataview plugin)
 

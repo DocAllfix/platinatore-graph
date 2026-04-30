@@ -1,12 +1,12 @@
 ---
 source_file: "c:\Users\user\PlatinatoreAI\il-platinatore-ai\frontend\src\lib\mockGuide.js"
 type: "code"
-community: "Community 108"
+community: "Community 105"
 location: "L159"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_108
+  - community/Community_105
 ---
 
 # extractGenericGameName()
@@ -16,4 +16,4 @@ tags:
 - [[mockGuide.js]] - `contains` [EXTRACTED]
 - [[mockGuide.js_1]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_108
+#graphify/code #graphify/EXTRACTED #community/Community_105

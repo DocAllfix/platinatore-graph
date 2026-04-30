@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/src/services/orchestrator.service.ts"
 type: "code"
-community: "Bulk Seed CLI"
+community: "Fextralife Collector"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Bulk_Seed_CLI
+  - community/Fextralife_Collector
 ---
 
 # handleGuideRequest (8-step pipeline)
@@ -16,4 +16,4 @@ tags:
 - [[createDraft (HITL + Redis convo)]] - `calls` [EXTRACTED]
 - [[tryCacheHit (SSE precheck)]] - `shares_data_with` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Bulk_Seed_CLI
+#graphify/code #graphify/EXTRACTED #community/Fextralife_Collector

@@ -1,12 +1,12 @@
 ---
 source_file: "il-platinatore-ai\frontend\src\api\client.js"
 type: "code"
-community: "Community 58"
+community: "Community 57"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Community_58
+  - community/Community_57
 ---
 
 # client.js
@@ -19,4 +19,4 @@ tags:
 - [[request()]] - `contains` [EXTRACTED]
 - [[setAuthTokens()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Community_58
+#graphify/code #graphify/EXTRACTED #community/Community_57

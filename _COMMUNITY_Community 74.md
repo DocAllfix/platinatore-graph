@@ -10,12 +10,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Chunker — split di una guida in chunk da max_tokens con overlap.  Stima token =]] - rationale - harvester\src\injector\chunker.py
-- [[Split markdown guide in chunk con prefisso titolo e overlap tra chunk consecutiv]] - rationale - harvester\src\injector\chunker.py
-- [[_estimate_tokens()]] - code - harvester\src\injector\chunker.py
-- [[chunk_content()]] - code - harvester\src\injector\chunker.py
-- [[chunker.py]] - code - harvester\src\injector\chunker.py
-- [[chunker.py_1]] - code - il-platinatore-ai\harvester\src\injector\chunker.py
+- [[Entry point asincrono. Ritorna 0 su successo, 1 su errore fatale._2]] - rationale - harvester\src\orchestrator\psn_seed.py
+- [[_run()_4]] - code - harvester\src\orchestrator\psn_seed.py
+- [[main()_11]] - code - harvester\src\orchestrator\psn_seed.py
+- [[psn_seed — pipeline completa trofei PSN comm_id discovery + fetch multilingua.]] - rationale - harvester\src\orchestrator\psn_seed.py
+- [[psn_seed.py]] - code - harvester\src\orchestrator\psn_seed.py
+- [[psn_seed.py_1]] - code - il-platinatore-ai\harvester\src\orchestrator\psn_seed.py
 
 ## Live Query (requires Dataview plugin)
 

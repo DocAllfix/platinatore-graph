@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\base.py"
 type: "rationale"
-community: "Base Collector ABC"
+community: "Test: PSN Fetcher"
 location: "L1"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Base_Collector_ABC
+  - community/Test:_PSN_Fetcher
 ---
 
 # BaseCollector — classe astratta per tutti i collector dell'Infinite Ingestion En
@@ -15,4 +15,4 @@ tags:
 - [[base.py]] - `rationale_for` [EXTRACTED]
 - [[base.py_1]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Base_Collector_ABC
+#graphify/rationale #graphify/EXTRACTED #community/Test:_PSN_Fetcher

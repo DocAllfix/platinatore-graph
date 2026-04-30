@@ -1,11 +1,11 @@
 ---
 source_file: "il-platinatore-ai/backend/src/routes/draft.routes.ts"
 type: "code"
-community: "Backend Auth/Security Concepts"
+community: "Base Collector ABC"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Backend_Auth/Security_Concepts
+  - community/Base_Collector_ABC
 ---
 
 # Draft Routes
@@ -14,6 +14,8 @@ tags:
 - [[Draft FSM (draft-revision-pending-approved-published)]] - `references` [EXTRACTED]
 - [[GameStats Routes]] - `semantically_similar_to` [INFERRED]
 - [[GuideDrafts Model]] - `calls` [EXTRACTED]
+- [[Section Admin endpoints HITL (Fase 24)]] - `implements` [EXTRACTED]
+- [[Section Draft FSM (state machine)]] - `implements` [EXTRACTED]
 - [[Zod Strict Schema Validation]] - `implements` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Backend_Auth/Security_Concepts
+#graphify/code #graphify/EXTRACTED #community/Base_Collector_ABC

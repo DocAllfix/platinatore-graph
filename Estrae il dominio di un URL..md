@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\src\collectors\guide_search.py"
 type: "rationale"
-community: "Guide Search Collector"
+community: "LLM Synthesizer"
 location: "L108"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Guide_Search_Collector
+  - community/LLM_Synthesizer
 ---
 
 # Estrae il dominio di un URL.
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[_domain_of()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Guide_Search_Collector
+#graphify/rationale #graphify/EXTRACTED #community/LLM_Synthesizer

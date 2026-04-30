@@ -1,12 +1,12 @@
 ---
 source_file: "harvester\tests\conftest.py"
 type: "rationale"
-community: "Community 113"
+community: "Community 110"
 location: "L23"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Community_113
+  - community/Community_110
 ---
 
 # Settings con valori di test, senza connessioni reali a DB o Redis.     Utile per
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[mock_settings()]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Community_113
+#graphify/rationale #graphify/EXTRACTED #community/Community_110
